@@ -665,7 +665,7 @@ def parse_and_score(p: dict):
 
 if __name__ == "__main__":
     ap = argparse.ArgumentParser()
-    ap.add_argument("--agent", required=True, choices=["single", "multi", "single_personality", "single_rag", "single_claude-sonnet-4.6", "single_gemini-2.5-pro", "single_personality_claude-sonnet-4.6", "single_personality_gemini-2.5-pro", "multi_claude-sonnet-4.6", "multi_gemini-2.5-pro"],
+    ap.add_argument("--agent", required=True, choices=["single", "multi", "single_personality", "single_rag", "single_rag_claude-sonnet-4.6", "single_rag_gemini-2.5-pro", "single_claude-sonnet-4.6", "single_gemini-2.5-pro", "single_personality_claude-sonnet-4.6", "single_personality_gemini-2.5-pro", "multi_claude-sonnet-4.6", "multi_gemini-2.5-pro"],
                     help="which step5_replay.py run to classify (replay/<agent>/).")
     ap.add_argument("--submit", action="store_true")
     ap.add_argument("--check", action="store_true")
