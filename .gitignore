@@ -14,8 +14,6 @@ __pycache__/
 .cache/
 
 # cheap, instantly-regenerated build output -- never worth committing, would just drift
-kodis_report_*.html
-kodis_report_*.tex
 # report/alignment_reports.py + report/meister_report.py output (HTML, .tex, figures/)
 reports/
 # stats/step6_paired.py

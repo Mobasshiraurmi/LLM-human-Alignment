@@ -8,37 +8,38 @@
 
     python3 run_pipeline.py --full --combo single claude-sonnet-4.6 replay   # just one combo
     python3 run_pipeline.py --full --smoke --combo single gpt-5.4 freerun    # a handful of dyads, cheap
-    python3 run_pipeline.py --full --combo single_rag gpt-5.4 replay         # RAG architecture (not
-                                                                              # in the default 18 -- see below)
+    python3 run_pipeline.py --full --combo single_rag gpt-5.4 replay         # RAG architecture
 
-Default mode rebuilds the four kodis-style comparison reports (kodis_reports.py --
-model-wise, type-wise × {single, multi}, architecture-wise; see that file's docstring and
-kodis_stats.py for the statistics) plus the 18 secondary per-run HTML reports
-(report_replay.py / report_freerun.py, one per architecture × model × design combination) --
-everything a reviewer needs to see, built entirely from the results.csv files already in
-this repo. It then builds the paper's reports into reports/ (report/alignment_reports.py:
-Kwon-style mean gaps and Gao-style distribution divergence, by model / type /
-architecture, rows from report/results_catalog.json; report/meister_report.py: replay vs
-free run) and their figures as vector PDF + SVG in reports/figures/ (PDF export needs
-Google Chrome; without it only the SVGs are written).
+Default mode builds the paper's reports into reports/, from the results.csv files listed in
+report/results_catalog.json (24 rows: single, single_personality, single_rag, multi ×
+GPT-5.4 / Claude Sonnet 4.6 / Gemini 2.5 Pro × replay / free run):
+
+  report/alignment_reports.py   Kwon-style mean gaps (kwon_by_*) and Gao-style distribution
+                                divergence (gao_by_*), each by model / type / architecture
+  report/meister_report.py      replay vs free run (Meister et al. 2025, Eq. 1)
+
+with every figure as vector PDF + SVG in reports/figures/ (PDF export needs Google Chrome;
+without it only the SVGs are written).
 
 --full instead rebuilds a combo's data from scratch: step5_replay.py/step2_generate.py --run,
 then classify_replay.py/classify_freerun.py (Batch API first, falling back to --sync if the
 batch stalls -- the pattern this project settled on after repeatedly hitting that in
-practice), then the same report step as above. Every underlying script is resumable on its
-own (keyed by what's already written to its output files), so a --full run interrupted
-partway through -- including this script getting killed -- can just be re-run.
+practice). Every underlying script is resumable on its own (keyed by what's already written
+to its output files), so a --full run interrupted partway through -- including this script
+getting killed -- can just be re-run.
 
 --full writes into full_run/replay/<key>/ and full_run/freerun/<key>/ by default -- NOT into
 data/replay|freerun/, which stays the shipped, already-reviewed results. This way a code
 reviewer can run --full for real and compare their own fresh run against the checked-in one,
 without any risk of silently overwriting it. Pass --out-dir to pick a different base (e.g.
---out-dir data, if you really do want to regenerate the shipped results in place).
+--out-dir data, if you really do want to regenerate the shipped results in place); the
+reports are rebuilt at the end only when the run wrote into data/, which is what the catalog
+points to. To report a run elsewhere, register its results.csv with
+report/alignment_reports.py add ... and rebuild.
 
-single_rag (generation/single_agent.py, RAG retrieval via stats/rag_align.py) has working
-generation code for all three models, but no committed data yet -- it's deliberately left
-out of the default 18-combo architecture list, reachable only via --combo single_rag
-<model> <design> --full.
+single_rag (generation/single_agent.py, RAG retrieval via stats/rag_align.py) is not in the
+default --full matrix of 18 combos; its committed results are reported like the others, and
+it can be regenerated with --combo single_rag <model> <design> --full.
 
 Needs OPENAI_API_KEY always (generation on gpt-5.4, and classification for every model),
 plus ANTHROPIC_API_KEY for claude-sonnet-4.6 or GEMINI_API_KEY for gemini-2.5-pro combos.
@@ -82,27 +83,14 @@ def run(cmd: list[str]) -> int:
     return subprocess.run(cmd).returncode
 
 
-def report_step(architecture: str, model: str, design: str, out_dir: str = "data") -> None:
-    key = output_key(architecture, model)
-    script = "report/report_replay.py" if design == "replay" else "report/report_freerun.py"
-    rc = run([sys.executable, script, "--agent", key, "--out-dir", f"{out_dir}/{design}"])
-    if rc != 0:
-        # Warn and keep going rather than sys.exit -- build_reports() loops over 18
-        # combos, and one bad report (e.g. from manually-edited data) shouldn't block
-        # the other 17.
-        print(f"  ! {script} --agent {key} failed (rc={rc}) -- continuing")
-
-
 def build_reports() -> None:
-    print("== kodis-style comparison reports (primary) ==")
-    run([sys.executable, "report/kodis_reports.py"])
-    print("\n== paper reports: Kwon (mean gaps) + Gao (distributions) by model / type / architecture ==")
-    run([sys.executable, "report/alignment_reports.py", "build"])
-    print("\n== paper report: replay vs free run (Meister et al. 2025, Eq. 1) ==")
-    run([sys.executable, "report/meister_report.py"])
-    print("\n== per-run reports (secondary), 18 combos ==")
-    for architecture, model, design in combos():
-        report_step(architecture, model, design)
+    """The paper's reports, from report/results_catalog.json (paths into data/)."""
+    print("== Kwon (mean gaps) + Gao (distributions), by model / type / architecture ==")
+    rc = run([sys.executable, "report/alignment_reports.py", "build"])
+    print("\n== replay vs free run (Meister et al. 2025, Eq. 1) ==")
+    rc |= run([sys.executable, "report/meister_report.py"])
+    if rc != 0:
+        sys.exit("report build failed -- see the output above")
 
 
 def classify_step(architecture: str, model: str, design: str, out_dir: str) -> None:
@@ -155,7 +143,6 @@ def full_combo(architecture: str, model: str, design: str, out_dir: str, smoke: 
     print(f"\n=== {key} ({design}){' [smoke]' if smoke else ''} -> {out_dir}/{design}/{key} ===")
     generate_step(architecture, model, design, out_dir, smoke=smoke)
     classify_step(architecture, model, design, out_dir)
-    report_step(architecture, model, design, out_dir)
 
 
 def main() -> None:
@@ -180,15 +167,17 @@ def main() -> None:
         if architecture not in COMBO_ONLY_ARCHITECTURES or model not in MODELS or design not in DESIGNS:
             sys.exit(f"--combo must be one of architecture={COMBO_ONLY_ARCHITECTURES}, "
                      f"model={MODELS}, design={DESIGNS}")
-        if a.full:
-            full_combo(architecture, model, design, a.out_dir, smoke=a.smoke)
-        else:
-            report_step(architecture, model, design)
-        return
-
-    if a.full:
+        if not a.full:
+            sys.exit("--combo selects what --full regenerates; the reports always cover the whole catalog "
+                     "-- run without --combo to rebuild them")
+        full_combo(architecture, model, design, a.out_dir, smoke=a.smoke)
+    elif a.full:
         for architecture, model, design in combos():
             full_combo(architecture, model, design, a.out_dir, smoke=a.smoke)
+
+    if a.full and os.path.normpath(a.out_dir) != "data":
+        print(f"\nfresh results are in {a.out_dir}/ -- the reports read data/ (report/results_catalog.json); "
+              "register a fresh results.csv with `python3 report/alignment_reports.py add ...` to report it")
         return
     build_reports()
 

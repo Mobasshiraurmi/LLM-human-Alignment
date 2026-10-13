@@ -28,19 +28,14 @@ python3 run_pipeline.py
 This rebuilds every report from the results already in the repo — no API key, no cost, done in
 about a minute. It produces:
 
-- **`report/kodis_report_{models,types_single,types_multi,architectures}.html`** (+ `.tex`) — the
-  primary comparison tables: model-wise (GPT-5.4 vs Claude vs Gemini, per architecture),
-  type-wise (replay vs free-running, for the single-agent baseline and separately for
-  multi-agent), and architecture-wise (single vs multi vs single+personality, on GPT-5.4). Built
-  by `kodis_reports.py` using `kodis_stats.py`'s divergence-gap engine — a corrected version of
-  the KODIS paper's own evaluation procedure (see `kodis_stats.py`'s docstring: the published
-  procedure's significance test has a measured 43–50% false-positive rate on this data; the
-  permutation-of-dyads test used here brings that to 3.5–6.5%).
-- **`reports/`** — the paper's reports, rebuilt from `report/results_catalog.json` (24 rows: the 18
-  combos plus `single_rag` for the three models):
+- **`reports/`** — the paper's reports, built by `report/alignment_reports.py` and
+  `report/meister_report.py` from the results listed in `report/results_catalog.json` (24 rows:
+  single, single_personality, single_rag and multi × GPT-5.4 / Claude Sonnet 4.6 / Gemini 2.5 Pro ×
+  replay / free run):
   - `kwon_by_{model,type,architecture}.html` (+ `.tex`) — Kwon-style **mean gaps** (agent mean − human
     mean) in one combined table per comparison: ΔDistributive and the Pre/Post-BATNA
-    Neutral / Integrative / Distributive shares (`report/alignment_reports.py` on `stats/kodis_stats.py`).
+    Neutral / Integrative / Distributive shares (`report/alignment_reports.py` on `stats/kodis_stats.py`,
+    a corrected version of the KODIS paper's own evaluation procedure: see its docstring).
   - `gao_by_{model,type,architecture}.html` (+ `.tex`) — Gao-style **distribution-level** divergence:
     Jensen–Shannon divergence between the agent's and the humans' distributions of each per-dyad value,
     dyad-permutation tests (`stats/gao_style_table.py`); the by-architecture page adds the Fig. 4 panels.
@@ -49,10 +44,6 @@ about a minute. It produces:
   - `figures/` — every figure as vector PDF + SVG at its printed ACL size (one column 219 pt / two
     columns 455 pt; `report/paper_figures.py`), with LaTeX `figure` snippets in the `.tex` files.
     PDF export uses Google Chrome headless; without Chrome only the SVGs are written.
-- **`data/replay/<key>/report.html`** / **`data/freerun/<key>/report.html`** — one secondary, per-run HTML
-  report per combo (18 total): a single-row `kodis_stats.py` divergence table (same statistics
-  as the 4 comparison reports above, just one architecture at a time) plus the full conversation
-  log (human turn beside model turn, for replay).
 
 ## Regenerating from scratch
 
@@ -67,8 +58,8 @@ python3 run_pipeline.py --full --combo single claude-sonnet-4.6 replay   # just 
 
 `--full` chains, per combo: `step5_replay.py`/`step2_generate.py --run` (generate) →
 `classify_replay.py`/`classify_freerun.py --submit/--check/--parse` (classify via the Batch
-API, falling back to `--sync` real-time classification if the batch stalls) → the report step
-above. Every underlying script tracks what it's already written and skips past it, so an
+API, falling back to `--sync` real-time classification if the batch stalls). The reports are
+rebuilt at the end when the run wrote into `data/` (what the catalog points to). Every underlying script tracks what it's already written and skips past it, so an
 interrupted `--full` run — including this script getting killed — is safe to just re-run.
 
 Output lands in **`full_run/<design>/<key>/`, not `data/`** — a fresh `--full` run is kept
@@ -90,7 +81,7 @@ data/
   human_data.csv                  the real human negotiation transcripts
   scores.csv                      per-player BATNA values (who got the outside-option change)
   personality_adjective.json      Big-Five trait -> adjective list, used by personality.py
-  replay/<key>/, freerun/<key>/   generated data + results + reports, one dir per combo
+  replay/<key>/, freerun/<key>/   generated data + results, one dir per combo
                                   (single_rag*/: results.csv only -- its generation traces hold the
                                   retrieved human turns, so they are not redistributed)
 
@@ -118,10 +109,6 @@ report/
   meister_report.py       replay vs free run, Meister et al. 2025 Eq. 1, forest plot (reports/)
   paper_figures.py        ACL figure export: printed-size SVG -> vector PDF, captions, LaTeX snippets
   results_catalog.json    which results.csv is which (architecture, design, model) for the two above
-  kodis_reports.py        registry-driven report builder on top of stats/kodis_stats.py
-  report_registry.json    the 4 reports' row definitions (which results.csv goes where)
-  report_replay.py        per-run HTML report, replay (uses kodis_stats.py for its table)
-  report_freerun.py       per-run HTML report, free-running (same)
 ```
 
 All scripts are run from the repo root (`python3 generation/step2_generate.py ...`, etc.) --

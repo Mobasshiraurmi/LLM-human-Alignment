@@ -35,8 +35,8 @@ As in strategic_behavior.py, a dyad's behavior distribution is its pooled messag
 (Neutral / Integrative / Distributive) and JSD is scipy.spatial.distance.jensenshannon(p, q) ** 2
 (natural log).
 
-Metrics (TABLE1/TABLE2: kodis_reports.py's tables; BEHAVIOR: the combined ΔDG + phase-share
-table of report/alignment_reports.py):
+Metrics (BEHAVIOR -- the combined ΔDG + phase-share table -- is what report/alignment_reports.py
+reports; TABLE1/TABLE2 and distribution_level() are kept for the other metrics below):
   Table 1  BG-All‡  BG-Pre‡  BG-Post‡   behavior-mix JSD gap, overall / Pre- / Post-BATNA
            PPG‡                         6-D phase profile (pre mix + post mix), L2
            LenG‡                        length [words/msg / 50, msgs/dyad / 12], L2
@@ -91,8 +91,8 @@ def load_model(path):
 def human_baseline_47(human_csv):
     """The one human baseline every table uses: the 47 real dyads with an identifiable
     BATNA recipient, via step5_replay.load_batna_targets() -- the same function and the
-    same 47 dyads every other report in this repo (report_replay.py, report_freerun.py,
-    step6_paired.py) is built on."""
+    same 47 dyads every other analysis in this repo (report/alignment_reports.py,
+    report/meister_report.py, step6_paired.py) is built on."""
     import contextlib
     import io
     import step5_replay as sr
