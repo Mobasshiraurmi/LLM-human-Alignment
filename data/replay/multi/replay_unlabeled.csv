@@ -1,0 +1,1121 @@
+GameId,ProlificId,Role,Round,Phase,Text,Behavior,turn_idx,message_index,burst_size
+01K1VR85FY4QMXCJ6VNV0KFJYY,Employee,Employee,1,Pre-BATNA,hi there! nice to meet you.,,1,1,1
+01K1VR85FY4QMXCJ6VNV0KFJYY,HR,HR,2,Pre-BATNA,hi,,2,1,2
+01K1VR85FY4QMXCJ6VNV0KFJYY,HR,HR,2,Pre-BATNA,"I can do $80k salary, 15% bonus, 15k stock, and 10 vacation days.",,2,2,2
+01K1VR85FY4QMXCJ6VNV0KFJYY,Employee,Employee,2,Pre-BATNA,110k helps.,,3,1,2
+01K1VR85FY4QMXCJ6VNV0KFJYY,Employee,Employee,2,Pre-BATNA,is there more flexibility on bonus or on stock?,,3,2,2
+01K1VR85FY4QMXCJ6VNV0KFJYY,HR,HR,3,Pre-BATNA,"15k stock options, 10 vacation days.",,4,1,1
+01K1VR85FY4QMXCJ6VNV0KFJYY,Employee,Employee,3,Pre-BATNA,compensation is the priority for me.,,5,1,2
+01K1VR85FY4QMXCJ6VNV0KFJYY,Employee,Employee,3,Pre-BATNA,is there more flexibility on salary or on equity?,,5,2,2
+01K1VR85FY4QMXCJ6VNV0KFJYY,HR,HR,4,Post-BATNA,i hear you on matching the backup.,,6,1,4
+01K1VR85FY4QMXCJ6VNV0KFJYY,HR,HR,4,Post-BATNA,we can move stock to 15k.,,6,2,4
+01K1VR85FY4QMXCJ6VNV0KFJYY,HR,HR,4,Post-BATNA,"vacation is the harder constraint, so we'd stay at 10 days.",,6,3,4
+01K1VR85FY4QMXCJ6VNV0KFJYY,HR,HR,4,Post-BATNA,"does 110k, 5% bonus, 15k stock, and 10 vacation days close enough of the gap?",,6,4,4
+01K1VR85FY4QMXCJ6VNV0KFJYY,Employee,Employee,4,Post-BATNA,got it.,,7,1,2
+01K1VR85FY4QMXCJ6VNV0KFJYY,Employee,Employee,4,Post-BATNA,"between salary and stock, which has more flexibility for you?",,7,2,2
+01K1VR85FY4QMXCJ6VNV0KFJYY,HR,HR,5,Post-BATNA,i can do 120k salary and 15k stock options.,,8,1,2
+01K1VR85FY4QMXCJ6VNV0KFJYY,HR,HR,5,Post-BATNA,bonus and vacation would need to be the remaining discussion.,,8,2,2
+01K1VR85FY4QMXCJ6VNV0KFJYY,Employee,Employee,5,Post-BATNA,it's still too low overall.,,9,1,2
+01K1VR85FY4QMXCJ6VNV0KFJYY,Employee,Employee,5,Post-BATNA,"if vacation has to stay at 10 days, do you have any more room on salary or stock?",,9,2,2
+01K1VR85FY4QMXCJ6VNV0KFJYY,HR,HR,5,Post-BATNA,i can move to 15k stock and 15 vacation days.,,10,1,2
+01K1VR85FY4QMXCJ6VNV0KFJYY,HR,HR,5,Post-BATNA,salary stays at 110k for now.,,10,2,2
+01K1VR85FY4QMXCJ6VNV0KFJYY,Employee,Employee,5,Post-BATNA,120k salary.,,11,1,2
+01K1VR85FY4QMXCJ6VNV0KFJYY,Employee,Employee,5,Post-BATNA,15 vacation days?,,11,2,2
+01K1VR85FY4QMXCJ6VNV0KFJYY,HR,HR,5,Post-BATNA,we're aligned on that package.,,12,1,1
+01K1VR894F39G0F88S3P8QSSST,Employee,Employee,0,Pre-BATNA,"hi! i'm doing well, thanks — how about you?",,1,1,1
+01K1VR894F39G0F88S3P8QSSST,HR,HR,1,Pre-BATNA,hi there! nice to meet you,,2,1,1
+01K1VR894F39G0F88S3P8QSSST,Employee,Employee,1,Pre-BATNA,hi,,3,1,3
+01K1VR894F39G0F88S3P8QSSST,Employee,Employee,1,Pre-BATNA,"yes — I'm looking for a package of $120k salary, 20% bonus, 20k stock options, and 30 vacation days.",,3,2,3
+01K1VR894F39G0F88S3P8QSSST,Employee,Employee,1,Pre-BATNA,i can be flexible across components if needed.,,3,3,3
+01K1VR894F39G0F88S3P8QSSST,HR,HR,2,Pre-BATNA,hi,,4,1,3
+01K1VR894F39G0F88S3P8QSSST,HR,HR,2,Pre-BATNA,"for someone with your background, we'd start at $80k salary, no bonus, 20k stock options, and 10 vacation days.",,4,2,3
+01K1VR894F39G0F88S3P8QSSST,HR,HR,2,Pre-BATNA,that's the standard package to start from.,,4,3,3
+01K1VR894F39G0F88S3P8QSSST,Employee,Employee,2,Pre-BATNA,"Given my specialization, I'm looking at the full package.",,5,1,3
+01K1VR894F39G0F88S3P8QSSST,Employee,Employee,2,Pre-BATNA,"$120k salary, 20% bonus, 5k stock options, and 30 vacation days.",,5,2,3
+01K1VR894F39G0F88S3P8QSSST,Employee,Employee,2,Pre-BATNA,"If salary is the sticking point, we can go issue by issue.",,5,3,3
+01K1VR894F39G0F88S3P8QSSST,HR,HR,2,Pre-BATNA,ok — salary at 120k is settled.,,6,1,2
+01K1VR894F39G0F88S3P8QSSST,HR,HR,2,Pre-BATNA,"we can do 0 bonus and 10,000 stock options.",,6,2,2
+01K1VR894F39G0F88S3P8QSSST,Employee,Employee,2,Pre-BATNA,then let's focus on bonus and vacation.,,7,1,2
+01K1VR894F39G0F88S3P8QSSST,Employee,Employee,2,Pre-BATNA,i'd want a 20% bonus and 25 vacation days.,,7,2,2
+01K1VR894F39G0F88S3P8QSSST,HR,HR,3,Pre-BATNA,120k is aligned.,,8,1,3
+01K1VR894F39G0F88S3P8QSSST,HR,HR,3,Pre-BATNA,I can do a 5% bonus and 10k stock options.,,8,2,3
+01K1VR894F39G0F88S3P8QSSST,HR,HR,3,Pre-BATNA,what's your view on vacation days?,,8,3,3
+01K1VR894F39G0F88S3P8QSSST,Employee,Employee,3,Pre-BATNA,matching the stock options works.,,9,1,2
+01K1VR894F39G0F88S3P8QSSST,Employee,Employee,3,Pre-BATNA,"on bonus and vacation, I'd need 15% and 25 days.",,9,2,2
+01K1VR894F39G0F88S3P8QSSST,HR,HR,3,Pre-BATNA,"understood. with the other offer in play, what matters more to you here: higher salary or more vacation days?",,10,1,1
+01K1VR894F39G0F88S3P8QSSST,Employee,Employee,4,Post-BATNA,I'd rather keep other offers confidential.,,11,1,3
+01K1VR894F39G0F88S3P8QSSST,Employee,Employee,4,Post-BATNA,Where do you have the most flexibility between base salary and vacation days?,,11,2,3
+01K1VR894F39G0F88S3P8QSSST,Employee,Employee,4,Post-BATNA,"Bonus matters too, but salary and vacation are the main levers for me.",,11,3,3
+01K1VR894F39G0F88S3P8QSSST,HR,HR,4,Post-BATNA,got it.,,12,1,3
+01K1VR894F39G0F88S3P8QSSST,HR,HR,4,Post-BATNA,"90k salary is set, and stock seems close.",,12,2,3
+01K1VR894F39G0F88S3P8QSSST,HR,HR,4,Post-BATNA,"between bonus and vacation days, which matters more to you?",,12,3,3
+01K1VR894F39G0F88S3P8QSSST,Employee,Employee,5,Post-BATNA,"90k works, and 15k stock is close.",,13,1,2
+01K1VR894F39G0F88S3P8QSSST,Employee,Employee,5,Post-BATNA,Could you do 20% bonus and 30 vacation days?,,13,2,2
+01K1VR894F39G0F88S3P8QSSST,HR,HR,5,Post-BATNA,I can move stock options to 20k and keep vacation at 25 days.,,14,1,2
+01K1VR894F39G0F88S3P8QSSST,HR,HR,5,Post-BATNA,"If bonus is the gap, tell me what gets this done.",,14,2,2
+01K1VR894F39G0F88S3P8QSSST,Employee,Employee,5,Post-BATNA,we're aligned on the 90k salary.,,15,1,3
+01K1VR894F39G0F88S3P8QSSST,Employee,Employee,5,Post-BATNA,you've moved well on bonus and options.,,15,2,3
+01K1VR894F39G0F88S3P8QSSST,Employee,Employee,5,Post-BATNA,"to balance that salary, I need 20% bonus and 30 vacation days.",,15,3,3
+01K1VR894F39G0F88S3P8QSSST,HR,HR,5,Post-BATNA,got it.,,16,1,2
+01K1VR894F39G0F88S3P8QSSST,HR,HR,5,Post-BATNA,what bonus and vacation package would make this clearly better for you?,,16,2,2
+01K1VR894F39G0F88S3P8QSSST,Employee,Employee,6,Post-BATNA,i hear that.,,17,1,3
+01K1VR894F39G0F88S3P8QSSST,Employee,Employee,6,Post-BATNA,salary at 90k works for me.,,17,2,3
+01K1VR894F39G0F88S3P8QSSST,Employee,Employee,6,Post-BATNA,"to make the overall package work, I'd need 20% bonus, 20k stock options, and 30 vacation days.",,17,3,3
+01K1VR894F39G0F88S3P8QSSST,HR,HR,6,Post-BATNA,what are your minimums on bonus and vacation days?,,18,1,1
+01K1VR894F39G0F88S3P8QSSST,Employee,Employee,6,Post-BATNA,exactly. that's why i'd need 20% bonus and 30 days vacation to make 90k workable.,,19,1,1
+01K1VR8B38DH7H3YX68A4G770X,Employee,Employee,0,Pre-BATNA,"hi phil, nice to meet you!",,1,1,1
+01K1VR8B38DH7H3YX68A4G770X,HR,HR,1,Pre-BATNA,"hi walt, nice to meet you",,2,1,1
+01K1VR8B38DH7H3YX68A4G770X,Employee,Employee,1,Pre-BATNA,"hi phil, nice to meet you",,3,1,2
+01K1VR8B38DH7H3YX68A4G770X,Employee,Employee,1,Pre-BATNA,"i'm doing well, thanks — how are you?",,3,2,2
+01K1VR8B38DH7H3YX68A4G770X,HR,HR,2,Pre-BATNA,"hey walt, nice to meet you",,4,1,2
+01K1VR8B38DH7H3YX68A4G770X,HR,HR,2,Pre-BATNA,how's your day going?,,4,2,2
+01K1VR8B38DH7H3YX68A4G770X,Employee,Employee,2,Pre-BATNA,got it.,,5,1,2
+01K1VR8B38DH7H3YX68A4G770X,Employee,Employee,2,Pre-BATNA,"to reflect my value, I'd be looking for $120k salary, 20% bonus, 20k stock options, and 30 vacation days.",,5,2,2
+01K1VR8B38DH7H3YX68A4G770X,HR,HR,3,Pre-BATNA,would you trade some salary for more equity?,,6,1,2
+01K1VR8B38DH7H3YX68A4G770X,HR,HR,3,Pre-BATNA,what salary and stock mix would work for you?,,6,2,2
+01K1VR8B38DH7H3YX68A4G770X,Employee,Employee,3,Pre-BATNA,15 days works.,,7,1,2
+01K1VR8B38DH7H3YX68A4G770X,Employee,Employee,3,Pre-BATNA,I'd need 100k salary and 10k stock.,,7,2,2
+01K1VR8B38DH7H3YX68A4G770X,HR,HR,5,Post-BATNA,I can do $90k salary and a 10% bonus.,,8,1,2
+01K1VR8B38DH7H3YX68A4G770X,HR,HR,5,Post-BATNA,serious move to narrow the gap.,,8,2,2
+01K1VR8B38DH7H3YX68A4G770X,Employee,Employee,5,Post-BATNA,is 90k your ceiling on salary?,,9,1,2
+01K1VR8B38DH7H3YX68A4G770X,Employee,Employee,5,Post-BATNA,any room above 10% on the bonus?,,9,2,2
+01K1VR8B38DH7H3YX68A4G770X,HR,HR,5,Post-BATNA,90k salary and 15 vacation days.,,10,1,3
+01K1VR8B38DH7H3YX68A4G770X,HR,HR,5,Post-BATNA,bonus and stock are aligned at 10% and 5k.,,10,2,3
+01K1VR8B38DH7H3YX68A4G770X,HR,HR,5,Post-BATNA,that's the practical landing zone from my side.,,10,3,3
+01K1VR8B38DH7H3YX68A4G770X,Employee,Employee,5,Post-BATNA,110k works on salary.,,11,1,2
+01K1VR8B38DH7H3YX68A4G770X,Employee,Employee,5,Post-BATNA,any flexibility on vacation days?,,11,2,2
+01K1VR8B38DH7H3YX68A4G770X,HR,HR,6,Post-BATNA,90k salary and 20 vacation days.,,12,1,1
+01K1VR8B38DH7H3YX68A4G770X,Employee,Employee,6,Post-BATNA,ok,,13,1,2
+01K1VR8B38DH7H3YX68A4G770X,Employee,Employee,6,Post-BATNA,15 days works,,13,2,2
+01K1VR8B38DH7H3YX68A4G770X,HR,HR,6,Post-BATNA,"110k salary, 10% bonus, 5,000 stock options, 15 vacation days.",,14,1,2
+01K1VR8B38DH7H3YX68A4G770X,HR,HR,6,Post-BATNA,done.,,14,2,2
+01K1VR8B38DH7H3YX68A4G770X,Employee,Employee,6,Post-BATNA,100-10-5-20.,,15,1,1
+01K1VR8B38DH7H3YX68A4G770X,HR,HR,6,Post-BATNA,"100k salary, 10% bonus, 5k stock options, 15 vacation days.",,16,1,2
+01K1VR8B38DH7H3YX68A4G770X,HR,HR,6,Post-BATNA,deal,,16,2,2
+01K2FHS5J9G6QNRT48JWDW4TF9,Employee,Employee,1,Pre-BATNA,hi,,1,1,3
+01K2FHS5J9G6QNRT48JWDW4TF9,Employee,Employee,1,Pre-BATNA,"a fair starting point for me would be 120k salary, 20% bonus, 20k in stock options, and 30 vacation days.",,1,2,3
+01K2FHS5J9G6QNRT48JWDW4TF9,Employee,Employee,1,Pre-BATNA,which of those matters most on your side?,,1,3,3
+01K2FHS5J9G6QNRT48JWDW4TF9,HR,HR,2,Pre-BATNA,$100k salary and 20k stock options.,,2,1,2
+01K2FHS5J9G6QNRT48JWDW4TF9,HR,HR,2,Pre-BATNA,we heard the bonus and vacation ask too. we can discuss those next.,,2,2,2
+01K2FHS5J9G6QNRT48JWDW4TF9,Employee,Employee,2,Pre-BATNA,I hear you.,,3,1,2
+01K2FHS5J9G6QNRT48JWDW4TF9,Employee,Employee,2,Pre-BATNA,"If cash and vacation are tight, we can bridge with 20k stock options.",,3,2,2
+01K2FHS5J9G6QNRT48JWDW4TF9,HR,HR,4,Post-BATNA,is there any flexibility between the $110k salary and 15% bonus?,,4,1,1
+01K2FHS5J9G6QNRT48JWDW4TF9,Employee,Employee,4,Post-BATNA,100k salary works.,,5,1,2
+01K2FHS5J9G6QNRT48JWDW4TF9,Employee,Employee,4,Post-BATNA,I'd want 20k in stock options.,,5,2,2
+01K2FHS5J9G6QNRT48JWDW4TF9,HR,HR,5,Post-BATNA,can't do 110k salary.,,6,1,2
+01K2FHS5J9G6QNRT48JWDW4TF9,HR,HR,5,Post-BATNA,I can do a 15% bonus and 20k in stock options.,,6,2,2
+01K2FHS5J9G6QNRT48JWDW4TF9,Employee,Employee,6,Post-BATNA,"i can do 110k salary, 15% bonus, and 10k stock options.",,7,1,2
+01K2FHS5J9G6QNRT48JWDW4TF9,Employee,Employee,6,Post-BATNA,"that's my best final package, and i'm ready to close.",,7,2,2
+01K2SSFDJGZQBK4ZMDPDDSZ92E,Employee,Employee,2,Pre-BATNA,hi there! nice to meet you.,,1,1,1
+01K2SSFDJGZQBK4ZMDPDDSZ92E,HR,HR,3,Pre-BATNA,ok — what’s your revised offer on salary and bonus?,,2,1,2
+01K2SSFDJGZQBK4ZMDPDDSZ92E,HR,HR,3,Pre-BATNA,"if you’d rather, tell me whether those are your main priorities.",,2,2,2
+01K2SSFT1VMVXW9TSJ0W60Y9H3,HR,HR,1,Pre-BATNA,hi there! nice to connect.,,1,1,1
+01K2SSFT1VMVXW9TSJ0W60Y9H3,Employee,Employee,1,Pre-BATNA,hi,,2,1,2
+01K2SSFT1VMVXW9TSJ0W60Y9H3,Employee,Employee,1,Pre-BATNA,I'd be targeting $120k on salary.,,2,2,2
+01K2SSFT1VMVXW9TSJ0W60Y9H3,HR,HR,1,Pre-BATNA,that's above our current salary range.,,3,1,2
+01K2SSFT1VMVXW9TSJ0W60Y9H3,HR,HR,1,Pre-BATNA,"do you have flexibility on base if bonus, equity, or vacation move?",,3,2,2
+01K2SSFT1VMVXW9TSJ0W60Y9H3,Employee,Employee,1,Pre-BATNA,120k works for salary.,,4,1,2
+01K2SSFT1VMVXW9TSJ0W60Y9H3,Employee,Employee,1,Pre-BATNA,Could we do a 20% bonus and 20k stock options?,,4,2,2
+01K2SSFT1VMVXW9TSJ0W60Y9H3,HR,HR,1,Pre-BATNA,130000 on base isn't workable.,,5,1,2
+01K2SSFT1VMVXW9TSJ0W60Y9H3,HR,HR,1,Pre-BATNA,would bonus or equity matter more to you?,,5,2,2
+01K2SSFT1VMVXW9TSJ0W60Y9H3,Employee,Employee,1,Pre-BATNA,holiday bonuses don't really solve the base salary piece.,,6,1,2
+01K2SSFT1VMVXW9TSJ0W60Y9H3,Employee,Employee,1,Pre-BATNA,"i could do $110k salary, 20% bonus, 20k stock options, and 30 vacation days.",,6,2,2
+01K2SSFT1VMVXW9TSJ0W60Y9H3,HR,HR,1,Pre-BATNA,100k salary works.,,7,1,3
+01K2SSFT1VMVXW9TSJ0W60Y9H3,HR,HR,1,Pre-BATNA,The package would be 20k in stock options and 10 vacation days.,,7,2,3
+01K2SSFT1VMVXW9TSJ0W60Y9H3,HR,HR,1,Pre-BATNA,does that work for you?,,7,3,3
+01K2SSFT1VMVXW9TSJ0W60Y9H3,Employee,Employee,1,Pre-BATNA,"100,000 works.",,8,1,2
+01K2SSFT1VMVXW9TSJ0W60Y9H3,Employee,Employee,1,Pre-BATNA,"I'd like a 20% bonus and 15,000 stock options.",,8,2,2
+01K2SSFT1VMVXW9TSJ0W60Y9H3,HR,HR,1,Pre-BATNA,5% bonus.,,9,1,1
+01K31M0ZFYWKQV3ZBG0VXHQHQ7,Employee,Employee,1,Pre-BATNA,"hi Jack, nice to meet you",,1,1,1
+01K31M0ZFYWKQV3ZBG0VXHQHQ7,HR,HR,1,Pre-BATNA,hi KD,,2,1,3
+01K31M0ZFYWKQV3ZBG0VXHQHQ7,HR,HR,1,Pre-BATNA,agreed,,2,2,3
+01K31M0ZFYWKQV3ZBG0VXHQHQ7,HR,HR,1,Pre-BATNA,which matters more to you on comp: salary or bonus?,,2,3,3
+01K31M0ZFYWKQV3ZBG0VXHQHQ7,Employee,Employee,1,Pre-BATNA,not necessarily.,,3,1,2
+01K31M0ZFYWKQV3ZBG0VXHQHQ7,Employee,Employee,1,Pre-BATNA,where do you have more flexibility: salary or bonus?,,3,2,2
+01K31M0ZFYWKQV3ZBG0VXHQHQ7,HR,HR,1,Pre-BATNA,agreed.,,4,1,3
+01K31M0ZFYWKQV3ZBG0VXHQHQ7,HR,HR,1,Pre-BATNA,which matters more to you: salary or bonus?,,4,2,3
+01K31M0ZFYWKQV3ZBG0VXHQHQ7,HR,HR,1,Pre-BATNA,do you prefer fixed cash or variable comp?,,4,3,3
+01K31M0ZFYWKQV3ZBG0VXHQHQ7,Employee,Employee,1,Pre-BATNA,maybe. where do you have more flexibility: salary or bonus?,,5,1,2
+01K31M0ZFYWKQV3ZBG0VXHQHQ7,Employee,Employee,1,Pre-BATNA,and which of those matters more on your side?,,5,2,2
+01K31M0ZFYWKQV3ZBG0VXHQHQ7,HR,HR,1,Pre-BATNA,agreed.,,6,1,3
+01K31M0ZFYWKQV3ZBG0VXHQHQ7,HR,HR,1,Pre-BATNA,which comp pieces matter most to you?,,6,2,3
+01K31M0ZFYWKQV3ZBG0VXHQHQ7,HR,HR,1,Pre-BATNA,"salary and bonus, or other terms too?",,6,3,3
+01K31M0ZFYWKQV3ZBG0VXHQHQ7,Employee,Employee,2,Pre-BATNA,"my proposed package is $120k salary, 20% bonus, 20k stock options, and 30 vacation days.",,7,1,2
+01K31M0ZFYWKQV3ZBG0VXHQHQ7,Employee,Employee,2,Pre-BATNA,happy to hear your reaction by issue.,,7,2,2
+01K31M0ZFYWKQV3ZBG0VXHQHQ7,HR,HR,2,Pre-BATNA,sure.,,8,1,3
+01K31M0ZFYWKQV3ZBG0VXHQHQ7,HR,HR,2,Pre-BATNA,what salary range are you targeting?,,8,2,3
+01K31M0ZFYWKQV3ZBG0VXHQHQ7,HR,HR,2,Pre-BATNA,and what bonus % would you want?,,8,3,3
+01K31M0ZFYWKQV3ZBG0VXHQHQ7,Employee,Employee,2,Pre-BATNA,not necessarily the exact middle.,,9,1,2
+01K31M0ZFYWKQV3ZBG0VXHQHQ7,Employee,Employee,2,Pre-BATNA,"to make it concrete: 120k salary, 20% bonus, 20k stock options, 30 vacation days.",,9,2,2
+01K31M0ZFYWKQV3ZBG0VXHQHQ7,HR,HR,2,Pre-BATNA,let's put a concrete package on the table.,,10,1,3
+01K31M0ZFYWKQV3ZBG0VXHQHQ7,HR,HR,2,Pre-BATNA,"$80k salary, $0 bonus, 20k stock options, 10 vacation days.",,10,2,3
+01K31M0ZFYWKQV3ZBG0VXHQHQ7,HR,HR,2,Pre-BATNA,"if you'd want movement, which piece matters most?",,10,3,3
+01K31M0ZFYWKQV3ZBG0VXHQHQ7,Employee,Employee,3,Pre-BATNA,"for a balanced package, I'm looking at 120k salary, 20% bonus, 20k stock options, and 30 vacation days.",,11,1,1
+01K31M0ZFYWKQV3ZBG0VXHQHQ7,HR,HR,3,Pre-BATNA,"i'm at 14 with 80k salary, 0 bonus, 20k stock options, and 10 vacation days.",,12,1,3
+01K31M0ZFYWKQV3ZBG0VXHQHQ7,HR,HR,3,Pre-BATNA,that's my starting package.,,12,2,3
+01K31M0ZFYWKQV3ZBG0VXHQHQ7,HR,HR,3,Pre-BATNA,"if you want to move it, which issue matters most to you?",,12,3,3
+01K31M0ZFYWKQV3ZBG0VXHQHQ7,Employee,Employee,3,Pre-BATNA,which has more room on your side: salary or bonus?,,13,1,1
+01K31M0ZFYWKQV3ZBG0VXHQHQ7,HR,HR,3,Pre-BATNA,"here's a concrete package: $80k salary, no bonus, 20k stock options, and 10 vacation days.",,14,1,2
+01K31M0ZFYWKQV3ZBG0VXHQHQ7,HR,HR,3,Pre-BATNA,which term matters most to you?,,14,2,2
+01K31M0ZFYWKQV3ZBG0VXHQHQ7,Employee,Employee,3,Pre-BATNA,got it.,,15,1,3
+01K31M0ZFYWKQV3ZBG0VXHQHQ7,Employee,Employee,3,Pre-BATNA,which issues matter most on your side?,,15,2,3
+01K31M0ZFYWKQV3ZBG0VXHQHQ7,Employee,Employee,3,Pre-BATNA,is salary or bonus the best place to improve value for you?,,15,3,3
+01K31M0ZFYWKQV3ZBG0VXHQHQ7,HR,HR,4,Post-BATNA,"here's a concrete starting package: $80k salary, no bonus, 20k stock options, and 10 vacation days.",,16,1,2
+01K31M0ZFYWKQV3ZBG0VXHQHQ7,HR,HR,4,Post-BATNA,"if you want movement, which issue matters most?",,16,2,2
+01K31M0ZFYWKQV3ZBG0VXHQHQ7,Employee,Employee,4,Post-BATNA,"let's get specific, then.",,17,1,2
+01K31M0ZFYWKQV3ZBG0VXHQHQ7,Employee,Employee,4,Post-BATNA,"would you do $110k salary, 20% bonus, $20k stock, and 30 vacation days?",,17,2,2
+01K31M0ZFYWKQV3ZBG0VXHQHQ7,HR,HR,4,Post-BATNA,"yes — if we keep vacation at 10 days, I can do 90k salary, 5% bonus, and 20k stock options.",,18,1,2
+01K31M0ZFYWKQV3ZBG0VXHQHQ7,HR,HR,4,Post-BATNA,that's the clearest path to a deal.,,18,2,2
+01K31M0ZFYWKQV3ZBG0VXHQHQ7,Employee,Employee,4,Post-BATNA,"if salary is fixed, is there room on stock options?",,19,1,2
+01K31M0ZFYWKQV3ZBG0VXHQHQ7,Employee,Employee,4,Post-BATNA,or is bonus the more realistic issue to move on?,,19,2,2
+01K31M0ZFYWKQV3ZBG0VXHQHQ7,HR,HR,4,Post-BATNA,"the workable package is 90k salary, 5% bonus, 20k stock options, and 10 vacation days.",,20,1,2
+01K31M0ZFYWKQV3ZBG0VXHQHQ7,HR,HR,4,Post-BATNA,that's the path that works on my side.,,20,2,2
+01K31M0ZFYWKQV3ZBG0VXHQHQ7,Employee,Employee,4,Post-BATNA,which one or two issues would need to move most?,,21,1,2
+01K31M0ZFYWKQV3ZBG0VXHQHQ7,Employee,Employee,4,Post-BATNA,and where do you have any flexibility on salary or bonus?,,21,2,2
+01K31M0ZFYWKQV3ZBG0VXHQHQ7,HR,HR,5,Post-BATNA,"from our side, a workable middle is 90k salary, 5% bonus, 20k stock, and 10 vacation days.",,22,1,2
+01K31M0ZFYWKQV3ZBG0VXHQHQ7,HR,HR,5,Post-BATNA,"yes/no, or what would you change?",,22,2,2
+01K31M0ZFYWKQV3ZBG0VXHQHQ7,Employee,Employee,5,Post-BATNA,then here's a serious last try.,,23,1,3
+01K31M0ZFYWKQV3ZBG0VXHQHQ7,Employee,Employee,5,Post-BATNA,"110k salary, 15% bonus, 10k stock, 15 days.",,23,2,3
+01K31M0ZFYWKQV3ZBG0VXHQHQ7,Employee,Employee,5,Post-BATNA,"if that still doesn't work, give me your specific counter.",,23,3,3
+01K31M0ZFYWKQV3ZBG0VXHQHQ7,HR,HR,5,Post-BATNA,ok.,,24,1,2
+01K31M0ZFYWKQV3ZBG0VXHQHQ7,HR,HR,5,Post-BATNA,"90k salary, 5% bonus, 20k stock options, 10 vacation days.",,24,2,2
+01K31M0ZFYWKQV3ZBG0VXHQHQ7,Employee,Employee,6,Post-BATNA,"110k salary, 15% bonus, 15k stock, 15 days.",,25,1,2
+01K31M0ZFYWKQV3ZBG0VXHQHQ7,Employee,Employee,6,Post-BATNA,that's my final package.,,25,2,2
+01K31M0ZFYWKQV3ZBG0VXHQHQ7,HR,HR,6,Post-BATNA,"100k salary, 20k stock options, 10 vacation days.",,26,1,4
+01K31M0ZFYWKQV3ZBG0VXHQHQ7,HR,HR,6,Post-BATNA,No bonus.,,26,2,4
+01K31M0ZFYWKQV3ZBG0VXHQHQ7,HR,HR,6,Post-BATNA,that's the best I can do.,,26,3,4
+01K31M0ZFYWKQV3ZBG0VXHQHQ7,HR,HR,6,Post-BATNA,"if that works, we can close it now.",,26,4,4
+01K31M18G9VBEZJXRBTKDXSPZ6,Employee,Employee,0,Pre-BATNA,good afternoon! nice to connect.,,1,1,1
+01K31M18G9VBEZJXRBTKDXSPZ6,HR,HR,1,Pre-BATNA,good afternoon!,,2,1,2
+01K31M18G9VBEZJXRBTKDXSPZ6,HR,HR,1,Pre-BATNA,nice to connect.,,2,2,2
+01K31M18G9VBEZJXRBTKDXSPZ6,Employee,Employee,1,Pre-BATNA,compensation is the main thing for me.,,3,1,3
+01K31M18G9VBEZJXRBTKDXSPZ6,Employee,Employee,1,Pre-BATNA,especially salary and bonus.,,3,2,3
+01K31M18G9VBEZJXRBTKDXSPZ6,Employee,Employee,1,Pre-BATNA,what flexibility do you have there?,,3,3,3
+01K31M18G9VBEZJXRBTKDXSPZ6,HR,HR,2,Pre-BATNA,"we can do $90,000 salary, 5% bonus, $15,000 in stock options, and 10 vacation days.",,4,1,2
+01K31M18G9VBEZJXRBTKDXSPZ6,HR,HR,2,Pre-BATNA,"if you'd like, we can discuss tradeoffs from there.",,4,2,2
+01K31M18G9VBEZJXRBTKDXSPZ6,Employee,Employee,2,Pre-BATNA,ok on the stock and vacation.,,5,1,2
+01K31M18G9VBEZJXRBTKDXSPZ6,Employee,Employee,2,Pre-BATNA,"i'd need $120,000 salary with the 15% bonus.",,5,2,2
+01K31M18G9VBEZJXRBTKDXSPZ6,HR,HR,2,Pre-BATNA,"between salary and bonus, which matters more to you?",,6,1,2
+01K31M18G9VBEZJXRBTKDXSPZ6,HR,HR,2,Pre-BATNA,any flexibility on one if we move on the other?,,6,2,2
+01K31M18G9VBEZJXRBTKDXSPZ6,Employee,Employee,2,Pre-BATNA,stock and vacation work for me.,,7,1,2
+01K31M18G9VBEZJXRBTKDXSPZ6,Employee,Employee,2,Pre-BATNA,"if we can do $120k salary with a 15% bonus, I'm good.",,7,2,2
+01K31M18G9VBEZJXRBTKDXSPZ6,HR,HR,3,Pre-BATNA,"110k salary and 15% bonus, then?",,8,1,1
+01K31M18G9VBEZJXRBTKDXSPZ6,Employee,Employee,3,Pre-BATNA,15% bonus works for me.,,9,1,2
+01K31M18G9VBEZJXRBTKDXSPZ6,Employee,Employee,3,Pre-BATNA,If salary moves to $120k.,,9,2,2
+01K31M18G9VBEZJXRBTKDXSPZ6,HR,HR,3,Pre-BATNA,maybe. would you trade some salary for 20% bonus?,,10,1,2
+01K31M18G9VBEZJXRBTKDXSPZ6,HR,HR,3,Pre-BATNA,or is the bonus the main sticking point for you?,,10,2,2
+01K31M18G9VBEZJXRBTKDXSPZ6,Employee,Employee,4,Post-BATNA,"great, then salary is the last piece.",,11,1,2
+01K31M18G9VBEZJXRBTKDXSPZ6,Employee,Employee,4,Post-BATNA,"can we land at $110,000?",,11,2,2
+01K31M18G9VBEZJXRBTKDXSPZ6,HR,HR,4,Post-BATNA,great.,,12,1,2
+01K31M18G9VBEZJXRBTKDXSPZ6,HR,HR,4,Post-BATNA,"salary is still 110,000.",,12,2,2
+01K31M18G9VBEZJXRBTKDXSPZ6,Employee,Employee,4,Post-BATNA,ok,,13,1,2
+01K31M18G9VBEZJXRBTKDXSPZ6,Employee,Employee,4,Post-BATNA,$110k salary and we're done.,,13,2,2
+01K31M18G9VBEZJXRBTKDXSPZ6,HR,HR,4,Post-BATNA,great.,,14,1,2
+01K31M18G9VBEZJXRBTKDXSPZ6,HR,HR,4,Post-BATNA,can we close salary at 110k?,,14,2,2
+01K31M18G9VBEZJXRBTKDXSPZ6,Employee,Employee,4,Post-BATNA,20k stock is fine. can we discuss salary?,,15,1,1
+01K31M18G9VBEZJXRBTKDXSPZ6,HR,HR,5,Post-BATNA,makes sense.,,16,1,2
+01K31M18G9VBEZJXRBTKDXSPZ6,HR,HR,5,Post-BATNA,can you close at 110k salary?,,16,2,2
+01K31M18G9VBEZJXRBTKDXSPZ6,Employee,Employee,5,Post-BATNA,what room do you have on base salary above $110k?,,17,1,1
+01K31M1BXMGQ1RDGFG0NP99B9S,HR,HR,0,Pre-BATNA,hi there!,,1,1,1
+01K31M1BXMGQ1RDGFG0NP99B9S,Employee,Employee,1,Pre-BATNA,hey jen!,,2,1,2
+01K31M1BXMGQ1RDGFG0NP99B9S,Employee,Employee,1,Pre-BATNA,good to connect with you.,,2,2,2
+01K31M1BXMGQ1RDGFG0NP99B9S,HR,HR,1,Pre-BATNA,got it.,,3,1,2
+01K31M1BXMGQ1RDGFG0NP99B9S,HR,HR,1,Pre-BATNA,"we can do $80k salary, no bonus, $15k in stock options, and 10 vacation days.",,3,2,2
+01K31M1BXMGQ1RDGFG0NP99B9S,Employee,Employee,1,Pre-BATNA,is vacation open too?,,4,1,2
+01K31M1BXMGQ1RDGFG0NP99B9S,Employee,Employee,1,Pre-BATNA,"where do you have the most room, especially on salary?",,4,2,2
+01K31M1BXMGQ1RDGFG0NP99B9S,HR,HR,1,Pre-BATNA,"$90k salary, 10% bonus, $15k in stock options, and 10 vacation days.",,5,1,1
+01K31M1BXMGQ1RDGFG0NP99B9S,Employee,Employee,2,Pre-BATNA,15 vacation days works.,,6,1,2
+01K31M1BXMGQ1RDGFG0NP99B9S,Employee,Employee,2,Pre-BATNA,"On salary, I'm at $110k and 15,000 stock options.",,6,2,2
+01K31M1BXMGQ1RDGFG0NP99B9S,HR,HR,2,Pre-BATNA,15 days agreed.,,7,1,2
+01K31M1BXMGQ1RDGFG0NP99B9S,HR,HR,2,Pre-BATNA,"we can do 15,000 in stock options.",,7,2,2
+01K31M1BXMGQ1RDGFG0NP99B9S,Employee,Employee,2,Pre-BATNA,got it.,,8,1,2
+01K31M1BXMGQ1RDGFG0NP99B9S,Employee,Employee,2,Pre-BATNA,"where do you have more room: salary, bonus, or stock?",,8,2,2
+01K31M1BXMGQ1RDGFG0NP99B9S,HR,HR,2,Pre-BATNA,100k salary.,,9,1,1
+01K31M1H0GGKQ5GP3YZYK1BE0X,Employee,Employee,0,Pre-BATNA,hey! nice to meet you.,,1,1,1
+01K31M1H0GGKQ5GP3YZYK1BE0X,HR,HR,1,Pre-BATNA,hey! nice to meet you,,2,1,1
+01K31M1H0GGKQ5GP3YZYK1BE0X,Employee,Employee,1,Pre-BATNA,"yes, I got it.",,3,1,3
+01K31M1H0GGKQ5GP3YZYK1BE0X,Employee,Employee,1,Pre-BATNA,can you walk me through the salary and bonus?,,3,2,3
+01K31M1H0GGKQ5GP3YZYK1BE0X,Employee,Employee,1,Pre-BATNA,where do you have flexibility there?,,3,3,3
+01K31M1H0GGKQ5GP3YZYK1BE0X,HR,HR,2,Pre-BATNA,got it.,,4,1,3
+01K31M1H0GGKQ5GP3YZYK1BE0X,HR,HR,2,Pre-BATNA,"our current package is $90k salary, 5% bonus, 10k stock options, and 10 vacation days.",,4,2,3
+01K31M1H0GGKQ5GP3YZYK1BE0X,HR,HR,2,Pre-BATNA,which of those levers matters most to you?,,4,3,3
+01K31M1H0GGKQ5GP3YZYK1BE0X,Employee,Employee,3,Pre-BATNA,where do you have flexibility on salary and stock options?,,5,1,1
+01K31M1H0GGKQ5GP3YZYK1BE0X,HR,HR,3,Pre-BATNA,i can move on the cash terms.,,6,1,2
+01K31M1H0GGKQ5GP3YZYK1BE0X,HR,HR,3,Pre-BATNA,$90k salary and a 5% bonus.,,6,2,2
+01K31M1H0GGKQ5GP3YZYK1BE0X,Employee,Employee,3,Pre-BATNA,15k stock options.,,7,1,2
+01K31M1H0GGKQ5GP3YZYK1BE0X,Employee,Employee,3,Pre-BATNA,where can you land on salary and bonus?,,7,2,2
+01K31M1H0GGKQ5GP3YZYK1BE0X,HR,HR,4,Post-BATNA,15 vacation days works.,,8,1,2
+01K31M1H0GGKQ5GP3YZYK1BE0X,HR,HR,4,Post-BATNA,I can do $90k salary and a 5% bonus.,,8,2,2
+01K31M1H0GGKQ5GP3YZYK1BE0X,Employee,Employee,4,Post-BATNA,what salary and bonus are you offering?,,9,1,1
+01K31M1H0GGKQ5GP3YZYK1BE0X,HR,HR,5,Post-BATNA,I hear you.,,10,1,4
+01K31M1H0GGKQ5GP3YZYK1BE0X,HR,HR,5,Post-BATNA,"I can do 90k salary, 5% bonus, 15k stock, and 10 vacation days.",,10,2,4
+01K31M1H0GGKQ5GP3YZYK1BE0X,HR,HR,5,Post-BATNA,that's a meaningful step from my side.,,10,3,4
+01K31M1H0GGKQ5GP3YZYK1BE0X,HR,HR,5,Post-BATNA,which gap matters most to you?,,10,4,4
+01K31M1H0GGKQ5GP3YZYK1BE0X,Employee,Employee,5,Post-BATNA,can you spell out the salary and bonus numbers?,,11,1,1
+01K31M1H0GGKQ5GP3YZYK1BE0X,HR,HR,5,Post-BATNA,sounds like we're aligned on everything else.,,12,1,3
+01K31M1H0GGKQ5GP3YZYK1BE0X,HR,HR,5,Post-BATNA,i can do 100k salary.,,12,2,3
+01K31M1H0GGKQ5GP3YZYK1BE0X,HR,HR,5,Post-BATNA,that's my best move on salary.,,12,3,3
+01K31M1H0GGKQ5GP3YZYK1BE0X,Employee,Employee,5,Post-BATNA,got it.,,13,1,2
+01K31M1H0GGKQ5GP3YZYK1BE0X,Employee,Employee,5,Post-BATNA,bonus and stock options?,,13,2,2
+01K31M1H0GGKQ5GP3YZYK1BE0X,HR,HR,5,Post-BATNA,110k salary is settled.,,14,1,3
+01K31M1H0GGKQ5GP3YZYK1BE0X,HR,HR,5,Post-BATNA,let's make the stock official at 15k.,,14,2,3
+01K31M1H0GGKQ5GP3YZYK1BE0X,HR,HR,5,Post-BATNA,what can you do on bonus and vacation?,,14,3,3
+01K31M1H0GGKQ5GP3YZYK1BE0X,Employee,Employee,6,Post-BATNA,20k stock works.,,15,1,2
+01K31M1H0GGKQ5GP3YZYK1BE0X,Employee,Employee,6,Post-BATNA,Then we’re aligned overall?,,15,2,2
+01K31M1H0GGKQ5GP3YZYK1BE0X,HR,HR,6,Post-BATNA,great.,,16,1,3
+01K31M1H0GGKQ5GP3YZYK1BE0X,HR,HR,6,Post-BATNA,to confirm: 10% bonus and 10 vacation days.,,16,2,3
+01K31M1H0GGKQ5GP3YZYK1BE0X,HR,HR,6,Post-BATNA,with 20k stock options.,,16,3,3
+01K31M1H0GGKQ5GP3YZYK1BE0X,Employee,Employee,6,Post-BATNA,"yes, aligned on bonus and vacation too.",,17,1,1
+01K31M1S7YXH4PGQKJ9ZK2MHB6,Employee,Employee,1,Pre-BATNA,hi! nice to meet you.,,1,1,1
+01K31M1S7YXH4PGQKJ9ZK2MHB6,HR,HR,2,Pre-BATNA,no — base salary is $90k.,,2,1,2
+01K31M1S7YXH4PGQKJ9ZK2MHB6,HR,HR,2,Pre-BATNA,"full package: $90k salary, 5% bonus, $20k in stock options, and 10 vacation days.",,2,2,2
+01K31M1S7YXH4PGQKJ9ZK2MHB6,Employee,Employee,2,Pre-BATNA,got it.,,3,1,2
+01K31M1S7YXH4PGQKJ9ZK2MHB6,Employee,Employee,2,Pre-BATNA,"i'd be looking for $100,000 salary, a 5% bonus, $20,000 in stock options, and 30 vacation days.",,3,2,2
+01K31M1S7YXH4PGQKJ9ZK2MHB6,HR,HR,2,Pre-BATNA,"haha, fair.",,4,1,2
+01K31M1S7YXH4PGQKJ9ZK2MHB6,HR,HR,2,Pre-BATNA,"here's the full package: $80,000 salary, 5% bonus, 20,000 stock options, and 10 vacation days.",,4,2,2
+01K31M1S7YXH4PGQKJ9ZK2MHB6,Employee,Employee,3,Pre-BATNA,"ha, yeah not quite.",,5,1,2
+01K31M1S7YXH4PGQKJ9ZK2MHB6,Employee,Employee,3,Pre-BATNA,"I'd be looking for $100k salary, 5% bonus, 20k stock options, and 30 vacation days.",,5,2,2
+01K31M1S7YXH4PGQKJ9ZK2MHB6,HR,HR,4,Post-BATNA,understood — sounds like you're weighing options seriously.,,6,1,3
+01K31M1S7YXH4PGQKJ9ZK2MHB6,HR,HR,4,Post-BATNA,"the offer is $80k salary, 5% bonus, 20k stock options, and 10 vacation days.",,6,2,3
+01K31M1S7YXH4PGQKJ9ZK2MHB6,HR,HR,4,Post-BATNA,"if you need movement, which term matters most?",,6,3,3
+01K31M1S7YXH4PGQKJ9ZK2MHB6,Employee,Employee,4,Post-BATNA,I can do $110k salary with a 5% bonus.,,7,1,2
+01K31M1S7YXH4PGQKJ9ZK2MHB6,Employee,Employee,4,Post-BATNA,"If you need the salary lower, I’d need meaningful movement on bonus.",,7,2,2
+01K31M1S7YXH4PGQKJ9ZK2MHB6,HR,HR,5,Post-BATNA,got it.,,8,1,3
+01K31M1S7YXH4PGQKJ9ZK2MHB6,HR,HR,5,Post-BATNA,is salary or bonus the deciding factor for you?,,8,2,3
+01K31M1S7YXH4PGQKJ9ZK2MHB6,HR,HR,5,Post-BATNA,how much movement would you need on those two to choose us?,,8,3,3
+01K31M1S7YXH4PGQKJ9ZK2MHB6,Employee,Employee,5,Post-BATNA,I have limited flexibility on base given the other interest.,,9,1,2
+01K31M1S7YXH4PGQKJ9ZK2MHB6,Employee,Employee,5,Post-BATNA,I can do $110k salary and keep the bonus at 5%.,,9,2,2
+01K31M1S7YXH4PGQKJ9ZK2MHB6,HR,HR,5,Post-BATNA,5% annual bonus.,,10,1,2
+01K31M1S7YXH4PGQKJ9ZK2MHB6,HR,HR,5,Post-BATNA,$80k salary.,,10,2,2
+01K31M1S7YXH4PGQKJ9ZK2MHB6,Employee,Employee,6,Post-BATNA,"if bonus stays at 5%, I'd need 110k salary, 20k stock, and 30 days.",,11,1,2
+01K31M1S7YXH4PGQKJ9ZK2MHB6,Employee,Employee,6,Post-BATNA,that would close it for me.,,11,2,2
+01K31M1S7YXH4PGQKJ9ZK2MHB6,HR,HR,6,Post-BATNA,"we can do 90k salary, 15% annual bonus, and 20k in stock options.",,12,1,3
+01K31M1S7YXH4PGQKJ9ZK2MHB6,HR,HR,6,Post-BATNA,10 vacation days.,,12,2,3
+01K31M1S7YXH4PGQKJ9ZK2MHB6,HR,HR,6,Post-BATNA,that's our strongest package.,,12,3,3
+01K31M1S7YXH4PGQKJ9ZK2MHB6,Employee,Employee,6,Post-BATNA,"15% bonus and 20,000 options works for me.",,13,1,2
+01K31M1S7YXH4PGQKJ9ZK2MHB6,Employee,Employee,6,Post-BATNA,I can do that at 110k salary and 30 vacation days.,,13,2,2
+01K31M1S7YXH4PGQKJ9ZK2MHB6,HR,HR,6,Post-BATNA,"110k salary and 20,000 stock options.",,14,1,3
+01K31M1S7YXH4PGQKJ9ZK2MHB6,HR,HR,6,Post-BATNA,15% bonus stays as discussed.,,14,2,3
+01K31M1S7YXH4PGQKJ9ZK2MHB6,HR,HR,6,Post-BATNA,that's the final package.,,14,3,3
+01K31M1S7YXH4PGQKJ9ZK2MHB6,Employee,Employee,6,Post-BATNA,"i can do 110k salary, 15% bonus, 20k stock options, and 25 vacation days.",,15,1,2
+01K31M1S7YXH4PGQKJ9ZK2MHB6,Employee,Employee,6,Post-BATNA,that would get this wrapped up for me.,,15,2,2
+01K31M1S7YXH4PGQKJ9ZK2MHB6,HR,HR,6,Post-BATNA,"110k salary, 15% bonus, 20,000 stock options, and 15 vacation days.",,16,1,2
+01K31M1S7YXH4PGQKJ9ZK2MHB6,HR,HR,6,Post-BATNA,deal.,,16,2,2
+01K31M1S7YXH4PGQKJ9ZK2MHB6,Employee,Employee,6,Post-BATNA,"yes, that's right.",,17,1,1
+01K31M1XNN05KS18KJZGM9ANBF,Employee,Employee,0,Pre-BATNA,"hi! i'm doing well, thanks — hope you are too.",,1,1,1
+01K31M1XNN05KS18KJZGM9ANBF,HR,HR,1,Pre-BATNA,"hi sally, nice to connect",,2,1,2
+01K31M1XNN05KS18KJZGM9ANBF,HR,HR,1,Pre-BATNA,hope you're doing well today,,2,2,2
+01K31M1XNN05KS18KJZGM9ANBF,Employee,Employee,1,Pre-BATNA,great to hear.,,3,1,2
+01K31M1XNN05KS18KJZGM9ANBF,Employee,Employee,1,Pre-BATNA,"i’m targeting $120k salary, a 20% bonus, 20k stock options, and 30 vacation days.",,3,2,2
+01K31M1XNN05KS18KJZGM9ANBF,HR,HR,1,Pre-BATNA,hi,,4,1,3
+01K31M1XNN05KS18KJZGM9ANBF,HR,HR,1,Pre-BATNA,I've put together an initial offer.,,4,2,3
+01K31M1XNN05KS18KJZGM9ANBF,HR,HR,1,Pre-BATNA,"$80k salary, 0% bonus, 20k stock options, 10 vacation days.",,4,3,3
+01K31M1XNN05KS18KJZGM9ANBF,Employee,Employee,2,Pre-BATNA,absolutely.,,5,1,3
+01K31M1XNN05KS18KJZGM9ANBF,Employee,Employee,2,Pre-BATNA,"to start, I'd be looking for $120k salary, 20% bonus, 20k stock options, and 30 vacation days.",,5,2,3
+01K31M1XNN05KS18KJZGM9ANBF,Employee,Employee,2,Pre-BATNA,what are your priorities on the package?,,5,3,3
+01K31M1XNN05KS18KJZGM9ANBF,HR,HR,3,Pre-BATNA,"before I put numbers together, what matters most to you?",,6,1,2
+01K31M1XNN05KS18KJZGM9ANBF,HR,HR,3,Pre-BATNA,salary versus bonus — do you prefer more fixed cash or more variable upside?,,6,2,2
+01K31M1XNN05KS18KJZGM9ANBF,Employee,Employee,3,Pre-BATNA,got it.,,7,1,2
+01K31M1XNN05KS18KJZGM9ANBF,Employee,Employee,3,Pre-BATNA,"$100k salary works if we can do 20% bonus, 20k in stock options, and 30 vacation days.",,7,2,2
+01K31M1XNN05KS18KJZGM9ANBF,HR,HR,3,Pre-BATNA,ok.,,8,1,2
+01K31M1XNN05KS18KJZGM9ANBF,HR,HR,3,Pre-BATNA,I can move to a 5% bonus and 20k stock options.,,8,2,2
+01K31M1XNN05KS18KJZGM9ANBF,Employee,Employee,4,Post-BATNA,ok.,,9,1,2
+01K31M1XNN05KS18KJZGM9ANBF,Employee,Employee,4,Post-BATNA,"100k salary, 20% bonus, 20k stock options, 30 vacation days.",,9,2,2
+01K31M1XNN05KS18KJZGM9ANBF,HR,HR,4,Post-BATNA,5% bonus.,,10,1,3
+01K31M1XNN05KS18KJZGM9ANBF,HR,HR,4,Post-BATNA,and 20k in stock options.,,10,2,3
+01K31M1XNN05KS18KJZGM9ANBF,HR,HR,4,Post-BATNA,what's your reaction on vacation days?,,10,3,3
+01K31M1XNN05KS18KJZGM9ANBF,Employee,Employee,5,Post-BATNA,appreciate the move to 120k.,,11,1,2
+01K31M1XNN05KS18KJZGM9ANBF,Employee,Employee,5,Post-BATNA,"if we keep 20 vacation days, I can do 15% bonus.",,11,2,2
+01K31M1XNN05KS18KJZGM9ANBF,HR,HR,5,Post-BATNA,20 days is the limit. Can you close?,,12,1,1
+01K31M1XNN05KS18KJZGM9ANBF,Employee,Employee,5,Post-BATNA,"ok — if vacation stays at 20 days, can you do 15% bonus?",,13,1,2
+01K31M1XNN05KS18KJZGM9ANBF,Employee,Employee,5,Post-BATNA,and confirm the stock is included as discussed.,,13,2,2
+01K31M1XNN05KS18KJZGM9ANBF,HR,HR,6,Post-BATNA,20 vacation days is the limit.,,14,1,1
+01K31M1XNN05KS18KJZGM9ANBF,Employee,Employee,6,Post-BATNA,"120k salary, 10% bonus, 10k stock, and 30 vacation days.",,15,1,2
+01K31M1XNN05KS18KJZGM9ANBF,Employee,Employee,6,Post-BATNA,fair middle ground to close now.,,15,2,2
+01K31M1XNN05KS18KJZGM9ANBF,HR,HR,6,Post-BATNA,"great, we're aligned.",,16,1,1
+01K31M27TGMHDT1QK9R7WKAC6N,Employee,Employee,0,Pre-BATNA,hi there! nice to meet you.,,1,1,1
+01K31M27TGMHDT1QK9R7WKAC6N,HR,HR,1,Pre-BATNA,hi there!,,2,1,2
+01K31M27TGMHDT1QK9R7WKAC6N,HR,HR,1,Pre-BATNA,"doing well, thanks — hope you're having a good day.",,2,2,2
+01K31M27TGMHDT1QK9R7WKAC6N,Employee,Employee,1,Pre-BATNA,hey!,,3,1,2
+01K31M27TGMHDT1QK9R7WKAC6N,Employee,Employee,1,Pre-BATNA,"i'm good, thanks — how are you doing?",,3,2,2
+01K31M27TGMHDT1QK9R7WKAC6N,HR,HR,2,Pre-BATNA,glad to hear it.,,4,1,3
+01K31M27TGMHDT1QK9R7WKAC6N,HR,HR,2,Pre-BATNA,"we can offer $80k salary, no bonus, 20k stock options, and 10 vacation days.",,4,2,3
+01K31M27TGMHDT1QK9R7WKAC6N,HR,HR,2,Pre-BATNA,that's our starting package.,,4,3,3
+01K31M27TGMHDT1QK9R7WKAC6N,Employee,Employee,3,Pre-BATNA,glad to hear it,,5,1,2
+01K31M27TGMHDT1QK9R7WKAC6N,Employee,Employee,3,Pre-BATNA,"i'm looking for $120k salary, 20% bonus, $20k in stock options, and 30 vacation days.",,5,2,2
+01K31M2C0HQZS781J19DCHVC8B,Employee,Employee,0,Pre-BATNA,"hi! i'm doing well, thanks — how are you?",,1,1,1
+01K31M2C0HQZS781J19DCHVC8B,HR,HR,0,Pre-BATNA,"hi brady, doing well thanks! nice to connect.",,2,1,1
+01K31M2C0HQZS781J19DCHVC8B,Employee,Employee,1,Pre-BATNA,"hey, i'm doing well thanks! how are you?",,3,1,1
+01K31M2C0HQZS781J19DCHVC8B,HR,HR,1,Pre-BATNA,"$80k salary, $20k in stock options, and 10 vacation days.",,4,1,3
+01K31M2C0HQZS781J19DCHVC8B,HR,HR,1,Pre-BATNA,no bonus in this package.,,4,2,3
+01K31M2C0HQZS781J19DCHVC8B,HR,HR,1,Pre-BATNA,"if you want to optimize it, which matters most to you?",,4,3,3
+01K31M2C0HQZS781J19DCHVC8B,Employee,Employee,1,Pre-BATNA,110k salary works for me.,,5,1,3
+01K31M2C0HQZS781J19DCHVC8B,Employee,Employee,1,Pre-BATNA,"I'd want 20% bonus, 20k stock options, and 30 vacation days.",,5,2,3
+01K31M2C0HQZS781J19DCHVC8B,Employee,Employee,1,Pre-BATNA,"fair mix overall; if needed, we can trade across components.",,5,3,3
+01K31M2C0HQZS781J19DCHVC8B,HR,HR,2,Pre-BATNA,great.,,6,1,2
+01K31M2C0HQZS781J19DCHVC8B,HR,HR,2,Pre-BATNA,"for the rest of the package: 0% bonus and 20,000 stock options.",,6,2,2
+01K31M2C0HQZS781J19DCHVC8B,Employee,Employee,2,Pre-BATNA,salary and bonus look solid.,,7,1,2
+01K31M2C0HQZS781J19DCHVC8B,Employee,Employee,2,Pre-BATNA,"could we do 30 vacation days and 5,000 stock options?",,7,2,2
+01K31M2C0HQZS781J19DCHVC8B,HR,HR,2,Pre-BATNA,salary and bonus are aligned.,,8,1,3
+01K31M2C0HQZS781J19DCHVC8B,HR,HR,2,Pre-BATNA,"i can do 10,000 stock options.",,8,2,3
+01K31M2C0HQZS781J19DCHVC8B,HR,HR,2,Pre-BATNA,vacation stays at 15 days.,,8,3,3
+01K31M2C0HQZS781J19DCHVC8B,Employee,Employee,3,Pre-BATNA,"15,000 stock works.",,9,1,2
+01K31M2C0HQZS781J19DCHVC8B,Employee,Employee,3,Pre-BATNA,can we pair that with 20 vacation days?,,9,2,2
+01K31M2C0HQZS781J19DCHVC8B,HR,HR,4,Post-BATNA,got it.,,10,1,3
+01K31M2C0HQZS781J19DCHVC8B,HR,HR,4,Post-BATNA,is vacation the bigger priority for you than stock options?,,10,2,3
+01K31M2C0HQZS781J19DCHVC8B,HR,HR,4,Post-BATNA,"if we improved one, which matters more: more days or more stock?",,10,3,3
+01K31M2C0HQZS781J19DCHVC8B,Employee,Employee,4,Post-BATNA,i hear you on the budget.,,11,1,2
+01K31M2C0HQZS781J19DCHVC8B,Employee,Employee,4,Post-BATNA,"if salary and bonus are set, could we close at 15,000 stock options and 25 vacation days?",,11,2,2
+01K31M2C0HQZS781J19DCHVC8B,HR,HR,5,Post-BATNA,bonus is already at 15%.,,12,1,3
+01K31M2C0HQZS781J19DCHVC8B,HR,HR,5,Post-BATNA,"on the remaining open pieces, I can do 20,000 stock options and 20 vacation days.",,12,2,3
+01K31M2C0HQZS781J19DCHVC8B,HR,HR,5,Post-BATNA,does that close the gap?,,12,3,3
+01K31M2C0HQZS781J19DCHVC8B,Employee,Employee,5,Post-BATNA,"great, we're aligned on those terms.",,13,1,1
+01K31M2C0HQZS781J19DCHVC8B,HR,HR,6,Post-BATNA,vacation is harder for us to move on.,,14,1,2
+01K31M2C0HQZS781J19DCHVC8B,HR,HR,6,Post-BATNA,"i can do 20,000 stock options and keep vacation at 20 days.",,14,2,2
+01K31M2C0HQZS781J19DCHVC8B,Employee,Employee,6,Post-BATNA,"if we're closing today, I'd do 110k salary, 15% bonus, 20k stock, and 15 days.",,15,1,2
+01K31M2C0HQZS781J19DCHVC8B,Employee,Employee,6,Post-BATNA,that keeps vacation at your max and bonus aligned.,,15,2,2
+01K31M2C0HQZS781J19DCHVC8B,HR,HR,6,Post-BATNA,salary and bonus are set.,,16,1,2
+01K31M2C0HQZS781J19DCHVC8B,HR,HR,6,Post-BATNA,stock or vacation?,,16,2,2
+01K31M2E9P2V5194H5TGFSMF74,Employee,Employee,0,Pre-BATNA,"hi! doing well, thanks — hope you are too.",,1,1,1
+01K31M2E9P2V5194H5TGFSMF74,HR,HR,1,Pre-BATNA,hi there! how’s your day going?,,2,1,1
+01K31M2E9P2V5194H5TGFSMF74,Employee,Employee,2,Pre-BATNA,hi,,3,1,2
+01K31M2E9P2V5194H5TGFSMF74,Employee,Employee,2,Pre-BATNA,"I'm looking for $120k salary, 20% bonus, 20k stock options, and 30 vacation days.",,3,2,2
+01K31M2E9P2V5194H5TGFSMF74,HR,HR,2,Pre-BATNA,yes — we can lean more on equity and time off.,,4,1,3
+01K31M2E9P2V5194H5TGFSMF74,HR,HR,2,Pre-BATNA,"the package is $80k salary, no bonus, 20k stock options, and 10 vacation days.",,4,2,3
+01K31M2E9P2V5194H5TGFSMF74,HR,HR,2,Pre-BATNA,"if you want changes, which matters more to you: stock or vacation days?",,4,3,3
+01K31M2E9P2V5194H5TGFSMF74,Employee,Employee,3,Pre-BATNA,I'd like 20k stock options and 30 vacation days.,,5,1,2
+01K31M2E9P2V5194H5TGFSMF74,Employee,Employee,3,Pre-BATNA,how close can you get?,,5,2,2
+01K31M2E9P2V5194H5TGFSMF74,HR,HR,3,Pre-BATNA,"i can offer 80k salary, 5% bonus, 20k stock options, and 10 vacation days.",,6,1,2
+01K31M2E9P2V5194H5TGFSMF74,HR,HR,3,Pre-BATNA,"if you want movement, which matters most: bonus, stock, or vacation?",,6,2,2
+01K31M2E9P2V5194H5TGFSMF74,Employee,Employee,4,Post-BATNA,got it,,7,1,2
+01K31M2E9P2V5194H5TGFSMF74,Employee,Employee,4,Post-BATNA,"as a starting point: $120k salary, 20% bonus, 20k stock options, 30 vacation days.",,7,2,2
+01K31M2E9P2V5194H5TGFSMF74,HR,HR,4,Post-BATNA,"80k salary, 5% bonus, 20k stock options, 10 vacation days.",,8,1,2
+01K31M2E9P2V5194H5TGFSMF74,HR,HR,4,Post-BATNA,it balances cash comp with some upside.,,8,2,2
+01K31M2E9P2V5194H5TGFSMF74,Employee,Employee,4,Post-BATNA,"then here's a balanced package: $110k salary, 20% bonus, 20k stock options, 30 vacation days.",,9,1,2
+01K31M2E9P2V5194H5TGFSMF74,Employee,Employee,4,Post-BATNA,which of those is hardest on your side?,,9,2,2
+01K31M2E9P2V5194H5TGFSMF74,HR,HR,4,Post-BATNA,I can move salary to $90k.,,10,1,2
+01K31M2E9P2V5194H5TGFSMF74,HR,HR,4,Post-BATNA,does that address the main concern on salary?,,10,2,2
+01K31M2E9P2V5194H5TGFSMF74,Employee,Employee,5,Post-BATNA,I'd like to put a concrete package on the table.,,11,1,3
+01K31M2E9P2V5194H5TGFSMF74,Employee,Employee,5,Post-BATNA,"$110k salary, 20% bonus, 20k stock options, 30 vacation days.",,11,2,3
+01K31M2E9P2V5194H5TGFSMF74,Employee,Employee,5,Post-BATNA,"If needed, we can go issue by issue.",,11,3,3
+01K31M2E9P2V5194H5TGFSMF74,HR,HR,5,Post-BATNA,"here's a balanced package: $80k salary, 5% bonus, 20k stock options, 10 vacation days.",,12,1,1
+01K31M2E9P2V5194H5TGFSMF74,Employee,Employee,6,Post-BATNA,"120k salary, 20% bonus, 20k stock options, and 30 vacation days.",,13,1,2
+01K31M2E9P2V5194H5TGFSMF74,Employee,Employee,6,Post-BATNA,that's the package I'd need to close this out.,,13,2,2
+01K31M2E9P2V5194H5TGFSMF74,HR,HR,6,Post-BATNA,I can move to $90k salary and 20k in stock options.,,14,1,3
+01K31M2E9P2V5194H5TGFSMF74,HR,HR,6,Post-BATNA,"Bonus stays at 0, and vacation stays at 10 days.",,14,2,3
+01K31M2E9P2V5194H5TGFSMF74,HR,HR,6,Post-BATNA,That’s the package.,,14,3,3
+01K31M2E9P2V5194H5TGFSMF74,Employee,Employee,6,Post-BATNA,"then I'd be looking for 120k salary, 20% bonus, 20k stock options, and 30 vacation days.",,15,1,2
+01K31M2E9P2V5194H5TGFSMF74,Employee,Employee,6,Post-BATNA,"if that works, we can close on that.",,15,2,2
+01K31M2E9P2V5194H5TGFSMF74,HR,HR,6,Post-BATNA,"$90k salary, 0% bonus, 20k stock options, 10 vacation days.",,16,1,3
+01K31M2E9P2V5194H5TGFSMF74,HR,HR,6,Post-BATNA,that's our best final package.,,16,2,3
+01K31M2E9P2V5194H5TGFSMF74,HR,HR,6,Post-BATNA,can you confirm?,,16,3,3
+01K31M2GPRM94RZVXF5EWJD0Z7,Employee,Employee,0,Pre-BATNA,"hi, great to be here!",,1,1,1
+01K31M2GPRM94RZVXF5EWJD0Z7,HR,HR,0,Pre-BATNA,"hi, great to have you here",,2,1,1
+01K31M2GPRM94RZVXF5EWJD0Z7,Employee,Employee,1,Pre-BATNA,hi,,3,1,3
+01K31M2GPRM94RZVXF5EWJD0Z7,Employee,Employee,1,Pre-BATNA,"I'm looking for $120k salary, a 20% bonus, 20k stock options, and 30 vacation days.",,3,2,3
+01K31M2GPRM94RZVXF5EWJD0Z7,Employee,Employee,1,Pre-BATNA,how does that mix sound?,,3,3,3
+01K31M2GPRM94RZVXF5EWJD0Z7,HR,HR,1,Pre-BATNA,hi,,4,1,3
+01K31M2GPRM94RZVXF5EWJD0Z7,HR,HR,1,Pre-BATNA,"we can do $90k salary, 5% bonus, $15k stock, and 10 vacation days.",,4,2,3
+01K31M2GPRM94RZVXF5EWJD0Z7,HR,HR,1,Pre-BATNA,which of those matters most to you?,,4,3,3
+01K31M2GPRM94RZVXF5EWJD0Z7,Employee,Employee,1,Pre-BATNA,where is the biggest constraint — salary or bonus?,,5,1,2
+01K31M2GPRM94RZVXF5EWJD0Z7,Employee,Employee,1,Pre-BATNA,what range can you support on those?,,5,2,2
+01K31M2GPRM94RZVXF5EWJD0Z7,HR,HR,2,Pre-BATNA,"90k salary, 5% bonus, 15k stock, and 10 vacation days.",,6,1,3
+01K31M2GPRM94RZVXF5EWJD0Z7,HR,HR,2,Pre-BATNA,that's a serious counter within our budget.,,6,2,3
+01K31M2GPRM94RZVXF5EWJD0Z7,HR,HR,2,Pre-BATNA,which piece matters most to you?,,6,3,3
+01K31M2GPRM94RZVXF5EWJD0Z7,Employee,Employee,3,Pre-BATNA,i can be flexible on structure.,,7,1,3
+01K31M2GPRM94RZVXF5EWJD0Z7,Employee,Employee,3,Pre-BATNA,"100k salary, 5% bonus, 15k in stock, 20 vacation days.",,7,2,3
+01K31M2GPRM94RZVXF5EWJD0Z7,Employee,Employee,3,Pre-BATNA,which part is toughest on your budget?,,7,3,3
+01K31M2MHTN0FEAGHEFQ8T2GZM,HR,HR,1,Pre-BATNA,"hi, nice to meet you",,1,1,1
+01K31M2MHTN0FEAGHEFQ8T2GZM,Employee,Employee,1,Pre-BATNA,hi,,2,1,2
+01K31M2MHTN0FEAGHEFQ8T2GZM,Employee,Employee,1,Pre-BATNA,"$120k salary, 20% bonus, 20k stock options, 30 vacation days.",,2,2,2
+01K31M2MHTN0FEAGHEFQ8T2GZM,HR,HR,1,Pre-BATNA,great.,,3,1,3
+01K31M2MHTN0FEAGHEFQ8T2GZM,HR,HR,1,Pre-BATNA,"we can start at $80k salary, 20k stock options, and 10 vacation days.",,3,2,3
+01K31M2MHTN0FEAGHEFQ8T2GZM,HR,HR,1,Pre-BATNA,what are your priorities?,,3,3,3
+01K31M2MHTN0FEAGHEFQ8T2GZM,Employee,Employee,1,Pre-BATNA,"salary matters, but total compensation matters too.",,4,1,2
+01K31M2MHTN0FEAGHEFQ8T2GZM,Employee,Employee,1,Pre-BATNA,how much flexibility do you have between base salary and variable or equity components?,,4,2,2
+01K31M2MHTN0FEAGHEFQ8T2GZM,HR,HR,2,Pre-BATNA,"we can do $100,000 salary and 20,000 stock options.",,5,1,2
+01K31M2MHTN0FEAGHEFQ8T2GZM,HR,HR,2,Pre-BATNA,bonus and vacation next?,,5,2,2
+01K31M2MHTN0FEAGHEFQ8T2GZM,Employee,Employee,2,Pre-BATNA,"salary matters most, but i'm flexible on total comp.",,6,1,2
+01K31M2MHTN0FEAGHEFQ8T2GZM,Employee,Employee,2,Pre-BATNA,10% bonus and 20k stock would be the best path.,,6,2,2
+01K31M2MHTN0FEAGHEFQ8T2GZM,HR,HR,3,Pre-BATNA,ok.,,7,1,2
+01K31M2MHTN0FEAGHEFQ8T2GZM,HR,HR,3,Pre-BATNA,I can do $100k salary and 20k stock options.,,7,2,2
+01K31M2MHTN0FEAGHEFQ8T2GZM,Employee,Employee,3,Pre-BATNA,salary matters most.,,8,1,2
+01K31M2MHTN0FEAGHEFQ8T2GZM,Employee,Employee,3,Pre-BATNA,what flexibility do you have on salary versus bonus or stock?,,8,2,2
+01K31M2MHTN0FEAGHEFQ8T2GZM,HR,HR,4,Post-BATNA,"100k salary, no bonus, 20k stock options, and 10 vacation days.",,9,1,2
+01K31M2MHTN0FEAGHEFQ8T2GZM,HR,HR,4,Post-BATNA,"if you'd want one term improved, which matters most?",,9,2,2
+01K31M2MHTN0FEAGHEFQ8T2GZM,Employee,Employee,5,Post-BATNA,salary and vacation work. need improvement on bonus/stock.,,10,1,1
+01K31M2MHTN0FEAGHEFQ8T2GZM,HR,HR,6,Post-BATNA,ok,,11,1,2
+01K31M2MHTN0FEAGHEFQ8T2GZM,HR,HR,6,Post-BATNA,"stock options would be 10000, with no bonus.",,11,2,2
+01K31M32X9YN2K1TNVVW2JATDN,Employee,Employee,0,Pre-BATNA,hi! nice to meet you.,,1,1,1
+01K31M32X9YN2K1TNVVW2JATDN,HR,HR,1,Pre-BATNA,hi! nice to connect.,,2,1,1
+01K31M32X9YN2K1TNVVW2JATDN,Employee,Employee,2,Pre-BATNA,hey!,,3,1,2
+01K31M32X9YN2K1TNVVW2JATDN,Employee,Employee,2,Pre-BATNA,"i'm doing well, thanks — how about you?",,3,2,2
+01K31M32X9YN2K1TNVVW2JATDN,HR,HR,2,Pre-BATNA,hi,,4,1,3
+01K31M32X9YN2K1TNVVW2JATDN,HR,HR,2,Pre-BATNA,"I've got an initial package: $80k salary, no bonus, 20k stock options, and 10 vacation days.",,4,2,3
+01K31M32X9YN2K1TNVVW2JATDN,HR,HR,2,Pre-BATNA,what are your priorities?,,4,3,3
+01K31M32X9YN2K1TNVVW2JATDN,Employee,Employee,2,Pre-BATNA,"hey, how's it going?",,5,1,1
+01K31M32X9YN2K1TNVVW2JATDN,HR,HR,3,Pre-BATNA,hi,,6,1,3
+01K31M32X9YN2K1TNVVW2JATDN,HR,HR,3,Pre-BATNA,"$80k salary, no bonus, 20k stock options, 10 vacation days.",,6,2,3
+01K31M32X9YN2K1TNVVW2JATDN,HR,HR,3,Pre-BATNA,what matters most to you?,,6,3,3
+01K31M36WPX1Q6MEDC0M49ANJH,HR,HR,2,Pre-BATNA,hi!,,1,1,2
+01K31M36WPX1Q6MEDC0M49ANJH,HR,HR,2,Pre-BATNA,good to connect with you.,,1,2,2
+01K31M36WPX1Q6MEDC0M49ANJH,Employee,Employee,2,Pre-BATNA,hi,,2,1,2
+01K31M36WPX1Q6MEDC0M49ANJH,Employee,Employee,2,Pre-BATNA,"my target package is $120k salary, 20% bonus, 20k stock options, and 30 vacation days.",,2,2,2
+01K31M36WPX1Q6MEDC0M49ANJH,HR,HR,3,Pre-BATNA,i hear you on salary being the priority.,,3,1,2
+01K31M36WPX1Q6MEDC0M49ANJH,HR,HR,3,Pre-BATNA,"I can do $90,000 salary, 5% bonus, $10,000 stock, and 10 vacation days.",,3,2,2
+01K31M36WPX1Q6MEDC0M49ANJH,Employee,Employee,4,Post-BATNA,"yes, that's for all four terms.",,4,1,1
+01K31M36WPX1Q6MEDC0M49ANJH,HR,HR,5,Post-BATNA,salary and stock aren't fully settled yet.,,5,1,3
+01K31M36WPX1Q6MEDC0M49ANJH,HR,HR,5,Post-BATNA,"from our side, the balanced package is $80k salary, 10% bonus, $10k stock options, and 10 vacation days.",,5,2,3
+01K31M36WPX1Q6MEDC0M49ANJH,HR,HR,5,Post-BATNA,what's your reaction to that overall mix?,,5,3,3
+01K31M36WPX1Q6MEDC0M49ANJH,Employee,Employee,5,Post-BATNA,"110k salary, 15% bonus, 15k stock, and 20 vacation days.",,6,1,2
+01K31M36WPX1Q6MEDC0M49ANJH,Employee,Employee,5,Post-BATNA,ready to finalize on that basis next round.,,6,2,2
+01K31M36WPX1Q6MEDC0M49ANJH,HR,HR,5,Post-BATNA,"we're close, but nothing's settled yet.",,7,1,2
+01K31M36WPX1Q6MEDC0M49ANJH,HR,HR,5,Post-BATNA,"for round 5: $90k salary, 5% bonus, $10k stock options, 10 vacation days.",,7,2,2
+01K31M36WPX1Q6MEDC0M49ANJH,Employee,Employee,6,Post-BATNA,"$110k salary, 15% bonus, $10k stock, and 20 vacation days.",,8,1,2
+01K31M36WPX1Q6MEDC0M49ANJH,Employee,Employee,6,Post-BATNA,final agreed terms?,,8,2,2
+01K31M3F0XFJB2B30KHFFK3CCB,Employee,Employee,1,Pre-BATNA,hi,,1,1,2
+01K31M3F0XFJB2B30KHFFK3CCB,Employee,Employee,1,Pre-BATNA,"given the budget constraints, I'd be looking for $120k salary, a 20% bonus, 20k stock options, and 30 vacation days.",,1,2,2
+01K31M3F0XFJB2B30KHFFK3CCB,HR,HR,2,Pre-BATNA,i hear you.,,2,1,3
+01K31M3F0XFJB2B30KHFFK3CCB,HR,HR,2,Pre-BATNA,"given our budget, I can start at $80k salary, no bonus, 20k stock options, and 10 vacation days.",,2,2,3
+01K31M3F0XFJB2B30KHFFK3CCB,HR,HR,2,Pre-BATNA,the equity piece is a meaningful part of the package.,,2,3,3
+01K31M3F0XFJB2B30KHFFK3CCB,Employee,Employee,3,Pre-BATNA,$120k salary and a 15% bonus.,,3,1,1
+01K31M3F0XFJB2B30KHFFK3CCB,HR,HR,4,Post-BATNA,"ok. stock options at $18,000?",,4,1,1
+01K31M3N2RMXEWWBSF76ZSP7Y5,Employee,Employee,1,Pre-BATNA,hi! nice to meet you,,1,1,1
+01K31M3N2RMXEWWBSF76ZSP7Y5,HR,HR,1,Pre-BATNA,absolutely.,,2,1,2
+01K31M3N2RMXEWWBSF76ZSP7Y5,HR,HR,1,Pre-BATNA,what salary range are you targeting?,,2,2,2
+01K31M3N2RMXEWWBSF76ZSP7Y5,Employee,Employee,1,Pre-BATNA,that's low for me.,,3,1,3
+01K31M3N2RMXEWWBSF76ZSP7Y5,Employee,Employee,1,Pre-BATNA,I'd be looking for 100k salary.,,3,2,3
+01K31M3N2RMXEWWBSF76ZSP7Y5,Employee,Employee,1,Pre-BATNA,happy to discuss the rest of the package too.,,3,3,3
+01K31M3N2RMXEWWBSF76ZSP7Y5,HR,HR,1,Pre-BATNA,"we can do $80,000 salary, 5% bonus, $20,000 in stock options, and 10 vacation days.",,4,1,2
+01K31M3N2RMXEWWBSF76ZSP7Y5,HR,HR,1,Pre-BATNA,"strong on stock, but we're holding the line on salary and vacation.",,4,2,2
+01K31M3N2RMXEWWBSF76ZSP7Y5,Employee,Employee,1,Pre-BATNA,understood on the budget.,,5,1,2
+01K31M3N2RMXEWWBSF76ZSP7Y5,Employee,Employee,1,Pre-BATNA,"between salary and bonus, which has more room?",,5,2,2
+01K31M3N2RMXEWWBSF76ZSP7Y5,HR,HR,3,Pre-BATNA,I see the movement on your side.,,6,1,4
+01K31M3N2RMXEWWBSF76ZSP7Y5,HR,HR,3,Pre-BATNA,"We can do $10,000 in stock options.",,6,2,4
+01K31M3N2RMXEWWBSF76ZSP7Y5,HR,HR,3,Pre-BATNA,"Salary and vacation stay at $90,000 and 10 days for now.",,6,3,4
+01K31M3N2RMXEWWBSF76ZSP7Y5,HR,HR,3,Pre-BATNA,"If stock is settled, we can talk through the remaining open issue next.",,6,4,4
+01K31M3N2RMXEWWBSF76ZSP7Y5,Employee,Employee,3,Pre-BATNA,I can do 100k salary and 15 vacation days.,,7,1,1
+01K31M3N2RMXEWWBSF76ZSP7Y5,HR,HR,3,Pre-BATNA,"$90,000 salary is settled.",,8,1,2
+01K31M3N2RMXEWWBSF76ZSP7Y5,HR,HR,3,Pre-BATNA,"We can do 5% bonus and $10,000 in stock options.",,8,2,2
+01K31M3N2RMXEWWBSF76ZSP7Y5,Employee,Employee,4,Post-BATNA,i hear you on the stock increase.,,9,1,2
+01K31M3N2RMXEWWBSF76ZSP7Y5,Employee,Employee,4,Post-BATNA,"if we keep the stock at $20,000, can we close at 10% bonus and 15 vacation days?",,9,2,2
+01K31M3N2RMXEWWBSF76ZSP7Y5,HR,HR,4,Post-BATNA,salary and bonus are aligned.,,10,1,3
+01K31M3N2RMXEWWBSF76ZSP7Y5,HR,HR,4,Post-BATNA,i can do 10000 in stock options.,,10,2,3
+01K31M3N2RMXEWWBSF76ZSP7Y5,HR,HR,4,Post-BATNA,vacation stays at 10 days for now.,,10,3,3
+01K31M3N2RMXEWWBSF76ZSP7Y5,Employee,Employee,5,Post-BATNA,i can work with the $100k salary.,,11,1,2
+01K31M3N2RMXEWWBSF76ZSP7Y5,Employee,Employee,5,Post-BATNA,"then let's close the rest at 20,000 stock options and 20 vacation days.",,11,2,2
+01K31M3N2RMXEWWBSF76ZSP7Y5,HR,HR,5,Post-BATNA,ok,,12,1,2
+01K31M3N2RMXEWWBSF76ZSP7Y5,HR,HR,5,Post-BATNA,"to confirm: $100,000 salary, 5% bonus, $10,000 in stock options, and 10 vacation days.",,12,2,2
+01K36WGYXZEXZP00QARY69S9C1,Employee,Employee,0,Pre-BATNA,"hi, nice to connect.",,1,1,1
+01K36WGYXZEXZP00QARY69S9C1,HR,HR,1,Pre-BATNA,hi there!,,2,1,1
+01K36WGYXZEXZP00QARY69S9C1,Employee,Employee,1,Pre-BATNA,"120k salary, 20% bonus, 20k in stock options, and 30 vacation days.",,3,1,2
+01K36WGYXZEXZP00QARY69S9C1,Employee,Employee,1,Pre-BATNA,where do you have the most flexibility?,,3,2,2
+01K36WGYXZEXZP00QARY69S9C1,HR,HR,1,Pre-BATNA,noted.,,4,1,3
+01K36WGYXZEXZP00QARY69S9C1,HR,HR,1,Pre-BATNA,"we can do $100,000 salary and 0% bonus.",,4,2,3
+01K36WGYXZEXZP00QARY69S9C1,HR,HR,1,Pre-BATNA,we can talk vacation next.,,4,3,3
+01K36WGYXZEXZP00QARY69S9C1,Employee,Employee,2,Pre-BATNA,"100k salary, 15% bonus, 15k stock options, 30 vacation days.",,5,1,2
+01K36WGYXZEXZP00QARY69S9C1,Employee,Employee,2,Pre-BATNA,that's my proposal.,,5,2,2
+01K36WGYXZEXZP00QARY69S9C1,HR,HR,2,Pre-BATNA,i hear you.,,6,1,2
+01K36WGYXZEXZP00QARY69S9C1,HR,HR,2,Pre-BATNA,"between salary and vacation days, which matters more to you?",,6,2,2
+01K36WGYXZEXZP00QARY69S9C1,Employee,Employee,2,Pre-BATNA,80k wasn't my intended final ask.,,7,1,2
+01K36WGYXZEXZP00QARY69S9C1,Employee,Employee,2,Pre-BATNA,"I can do 90k salary, 15% bonus, 15k stock, and 30 vacation days.",,7,2,2
+01K36WGYXZEXZP00QARY69S9C1,HR,HR,2,Pre-BATNA,80k is settled.,,8,1,3
+01K36WGYXZEXZP00QARY69S9C1,HR,HR,2,Pre-BATNA,I can do a 5% bonus and 10 vacation days.,,8,2,3
+01K36WGYXZEXZP00QARY69S9C1,HR,HR,2,Pre-BATNA,we can talk through stock next.,,8,3,3
+01K36WGYXZEXZP00QARY69S9C1,Employee,Employee,3,Pre-BATNA,salary can stay at 80k.,,9,1,2
+01K36WGYXZEXZP00QARY69S9C1,Employee,Employee,3,Pre-BATNA,where can you move on bonus?,,9,2,2
+01K36WGYXZEXZP00QARY69S9C1,HR,HR,3,Pre-BATNA,"80k salary, no bonus, 15k stock options, 10 vacation days.",,10,1,2
+01K36WGYXZEXZP00QARY69S9C1,HR,HR,3,Pre-BATNA,that's the package.,,10,2,2
+01K36WGYXZEXZP00QARY69S9C1,Employee,Employee,3,Pre-BATNA,salary's fine. confirm bonus and stock?,,11,1,1
+01K36WHB6FSKXAHW1CA5CXXCFC,HR,HR,0,Pre-BATNA,"hi, nice to meet you",,1,1,1
+01K36WHB6FSKXAHW1CA5CXXCFC,Employee,Employee,1,Pre-BATNA,hi,,2,1,2
+01K36WHB6FSKXAHW1CA5CXXCFC,Employee,Employee,1,Pre-BATNA,"i’m looking for $120k salary, 20% bonus, 20k stock options, and 30 vacation days.",,2,2,2
+01K36WHB6FSKXAHW1CA5CXXCFC,HR,HR,1,Pre-BATNA,hi,,3,1,3
+01K36WHB6FSKXAHW1CA5CXXCFC,HR,HR,1,Pre-BATNA,what matters most in the package for you?,,3,2,3
+01K36WHB6FSKXAHW1CA5CXXCFC,HR,HR,1,Pre-BATNA,want to start with salary and bonus?,,3,3,3
+01K36WHB6FSKXAHW1CA5CXXCFC,Employee,Employee,1,Pre-BATNA,"120k salary, 20% bonus, 20k in stock options, and 30 vacation days.",,4,1,1
+01K36WHB6FSKXAHW1CA5CXXCFC,HR,HR,1,Pre-BATNA,"90k salary, 5% bonus, 20k stock options, 10 vacation days.",,5,1,1
+01K36WHB6FSKXAHW1CA5CXXCFC,Employee,Employee,1,Pre-BATNA,got it.,,6,1,2
+01K36WHB6FSKXAHW1CA5CXXCFC,Employee,Employee,1,Pre-BATNA,"i'd need 20,000 shares on the stock piece.",,6,2,2
+01K36WHB6FSKXAHW1CA5CXXCFC,HR,HR,2,Pre-BATNA,"is 5,000 shares the main priority for you?",,7,1,2
+01K36WHB6FSKXAHW1CA5CXXCFC,HR,HR,2,Pre-BATNA,"or would you trade on salary, bonus, or vacation to get there?",,7,2,2
+01K36WHB6FSKXAHW1CA5CXXCFC,Employee,Employee,2,Pre-BATNA,I see the range.,,8,1,2
+01K36WHB6FSKXAHW1CA5CXXCFC,Employee,Employee,2,Pre-BATNA,"Could you do $110k salary and 15,000 stock options?",,8,2,2
+01K36WHB6FSKXAHW1CA5CXXCFC,HR,HR,3,Pre-BATNA,"10% bonus and 20,000 stock options.",,9,1,2
+01K36WHB6FSKXAHW1CA5CXXCFC,HR,HR,3,Pre-BATNA,does that close the gap?,,9,2,2
+01K36WHB6FSKXAHW1CA5CXXCFC,Employee,Employee,3,Pre-BATNA,10000 stock options works for me.,,10,1,1
+01K36WHB6FSKXAHW1CA5CXXCFC,HR,HR,3,Pre-BATNA,$100k base works.,,11,1,2
+01K36WHB6FSKXAHW1CA5CXXCFC,HR,HR,3,Pre-BATNA,"bonus stays at 3.5%, with the 10,000 shares.",,11,2,2
+01K36WHB6FSKXAHW1CA5CXXCFC,Employee,Employee,4,Post-BATNA,"$100k base and 10,000 shares is close.",,12,1,3
+01K36WHB6FSKXAHW1CA5CXXCFC,Employee,Employee,4,Post-BATNA,any flexibility on bonus?,,12,2,3
+01K36WHB6FSKXAHW1CA5CXXCFC,Employee,Employee,4,Post-BATNA,"if bonus has to stay at 0%, could you increase the stock grant instead?",,12,3,3
+01K36WHB6FSKXAHW1CA5CXXCFC,HR,HR,6,Post-BATNA,"best and final: $100k salary, 0% bonus, 10k stock options, 15 vacation days.",,13,1,2
+01K36WHB6FSKXAHW1CA5CXXCFC,HR,HR,6,Post-BATNA,that's as far as I can go.,,13,2,2
+01K36WHB6FSKXAHW1CA5CXXCFC,Employee,Employee,6,Post-BATNA,"I can do $110000 salary, 15% bonus, 20000 stock options, and 15 days.",,14,1,2
+01K36WHB6FSKXAHW1CA5CXXCFC,Employee,Employee,6,Post-BATNA,That's a workable middle ground.,,14,2,2
+01K36WHFFBH7T0NWF3D5KW2NR8,Employee,Employee,0,Pre-BATNA,hi! nice to meet you.,,1,1,1
+01K36WHFFBH7T0NWF3D5KW2NR8,HR,HR,2,Pre-BATNA,hi there! nice to meet you.,,2,1,1
+01K36WHFFBH7T0NWF3D5KW2NR8,Employee,Employee,2,Pre-BATNA,got it.,,3,1,3
+01K36WHFFBH7T0NWF3D5KW2NR8,Employee,Employee,2,Pre-BATNA,how much flexibility do you have between base salary and stock options?,,3,2,3
+01K36WHFFBH7T0NWF3D5KW2NR8,Employee,Employee,2,Pre-BATNA,"if cash is tight, is there room to shift more into equity?",,3,3,3
+01K36WHFFBH7T0NWF3D5KW2NR8,HR,HR,4,Post-BATNA,"we can start at 90k salary, 5% bonus, and 10k stock options.",,4,1,3
+01K36WHFFBH7T0NWF3D5KW2NR8,HR,HR,4,Post-BATNA,vacation would be 10 days.,,4,2,3
+01K36WHFFBH7T0NWF3D5KW2NR8,HR,HR,4,Post-BATNA,"if there's a piece you want to prioritize, let me know.",,4,3,3
+01K36WHFFBH7T0NWF3D5KW2NR8,Employee,Employee,5,Post-BATNA,which is tougher internally: the 5% bonus or the 15 days?,,5,1,2
+01K36WHFFBH7T0NWF3D5KW2NR8,Employee,Employee,5,Post-BATNA,"if I gave a little on one of those, would that help move salary closer to 110k?",,5,2,2
+01K36WHFFBH7T0NWF3D5KW2NR8,HR,HR,6,Post-BATNA,"we can do 90k salary, 10% bonus, 15,000 stock options, and 10 vacation days.",,6,1,2
+01K36WHFFBH7T0NWF3D5KW2NR8,HR,HR,6,Post-BATNA,that's the package.,,6,2,2
+01K36WHQF8N3NX9VM95ASNBDJ3,HR,HR,1,Pre-BATNA,"hi, thanks for joining.",,1,1,1
+01K36WHQF8N3NX9VM95ASNBDJ3,Employee,Employee,1,Pre-BATNA,"compensation is the main thing for me, especially salary and bonus.",,2,1,2
+01K36WHQF8N3NX9VM95ASNBDJ3,Employee,Employee,1,Pre-BATNA,what salary range and target bonus do you have budgeted for the role?,,2,2,2
+01K36WHQF8N3NX9VM95ASNBDJ3,HR,HR,1,Pre-BATNA,got it,,3,1,2
+01K36WHQF8N3NX9VM95ASNBDJ3,HR,HR,1,Pre-BATNA,what are you targeting for salary and vacation days?,,3,2,2
+01K36WHQF8N3NX9VM95ASNBDJ3,Employee,Employee,1,Pre-BATNA,appreciate the flexibility on salary and vacation.,,4,1,2
+01K36WHQF8N3NX9VM95ASNBDJ3,Employee,Employee,1,Pre-BATNA,"i'd be looking for $120k salary, 15% bonus, 20k stock options, and 30 vacation days.",,4,2,2
+01K36WHQF8N3NX9VM95ASNBDJ3,HR,HR,1,Pre-BATNA,"I'm thinking $90k salary, no bonus, $20k in stock options, and 10 vacation days.",,5,1,2
+01K36WHQF8N3NX9VM95ASNBDJ3,HR,HR,1,Pre-BATNA,salary and vacation are where I'm putting the weight; bonus flexibility is limited.,,5,2,2
+01K36WHQF8N3NX9VM95ASNBDJ3,Employee,Employee,1,Pre-BATNA,"I'd need 120k salary, 20% bonus, 5,000 stock options, and 25 vacation days.",,6,1,1
+01K36WHQF8N3NX9VM95ASNBDJ3,HR,HR,1,Pre-BATNA,i can do $90k salary.,,7,1,3
+01K36WHQF8N3NX9VM95ASNBDJ3,HR,HR,1,Pre-BATNA,bonus stays at 5% and vacation stays at 20 days.,,7,2,3
+01K36WHQF8N3NX9VM95ASNBDJ3,HR,HR,1,Pre-BATNA,"i can increase stock options to 10,000.",,7,3,3
+01K36WHQF8N3NX9VM95ASNBDJ3,Employee,Employee,1,Pre-BATNA,let's keep vacation at 22 days for now.,,8,1,2
+01K36WHQF8N3NX9VM95ASNBDJ3,Employee,Employee,1,Pre-BATNA,"i can do 90k salary and 5,000 stock options.",,8,2,2
+01K36WHQF8N3NX9VM95ASNBDJ3,HR,HR,1,Pre-BATNA,bonus would stay at 5%.,,9,1,3
+01K36WHQF8N3NX9VM95ASNBDJ3,HR,HR,1,Pre-BATNA,"I can do 20,000 stock options.",,9,2,3
+01K36WHQF8N3NX9VM95ASNBDJ3,HR,HR,1,Pre-BATNA,we can talk salary next.,,9,3,3
+01K36WHQF8N3NX9VM95ASNBDJ3,Employee,Employee,1,Pre-BATNA,I get the budget point.,,10,1,2
+01K36WHQF8N3NX9VM95ASNBDJ3,Employee,Employee,1,Pre-BATNA,"10,000 stock options is the right balance with 90k salary and 10% bonus.",,10,2,2
+01K36WHQF8N3NX9VM95ASNBDJ3,HR,HR,1,Pre-BATNA,80k salary and 5% bonus.,,11,1,1
+01K36WHQF8N3NX9VM95ASNBDJ3,Employee,Employee,1,Pre-BATNA,not quite.,,12,1,2
+01K36WHQF8N3NX9VM95ASNBDJ3,Employee,Employee,1,Pre-BATNA,"i can do 90k salary, 10% bonus, 10k stock options, and 30 vacation days.",,12,2,2
+01K6C1PV916EFB8E3WC81SKE1Z,Employee,Employee,0,Pre-BATNA,"hi, nice to meet you.",,1,1,1
+01K6C1PV916EFB8E3WC81SKE1Z,HR,HR,1,Pre-BATNA,hi there!,,2,1,2
+01K6C1PV916EFB8E3WC81SKE1Z,HR,HR,1,Pre-BATNA,thanks for making time to chat.,,2,2,2
+01K6C1PV916EFB8E3WC81SKE1Z,Employee,Employee,2,Pre-BATNA,absolutely.,,3,1,3
+01K6C1PV916EFB8E3WC81SKE1Z,Employee,Employee,2,Pre-BATNA,"as a starting point, I'm looking for $120k salary, a 20% bonus, 20k stock options, and 30 vacation days.",,3,2,3
+01K6C1PV916EFB8E3WC81SKE1Z,Employee,Employee,2,Pre-BATNA,what's your reaction?,,3,3,3
+01K6C1PV916EFB8E3WC81SKE1Z,HR,HR,2,Pre-BATNA,"yes, I see the tradeoff you're making.",,4,1,2
+01K6C1PV916EFB8E3WC81SKE1Z,HR,HR,2,Pre-BATNA,I can move to $90k salary and 10k stock options.,,4,2,2
+01K6C1PV916EFB8E3WC81SKE1Z,Employee,Employee,3,Pre-BATNA,15 days works.,,5,1,2
+01K6C1PV916EFB8E3WC81SKE1Z,Employee,Employee,3,Pre-BATNA,I'd like to move the equity to 15k stock options.,,5,2,2
+01K6C1PV916EFB8E3WC81SKE1Z,HR,HR,3,Pre-BATNA,100k is higher than we can support.,,6,1,4
+01K6C1PV916EFB8E3WC81SKE1Z,HR,HR,3,Pre-BATNA,We can do 90k salary.,,6,2,4
+01K6C1PV916EFB8E3WC81SKE1Z,HR,HR,3,Pre-BATNA,We can keep the 15 vacation days.,,6,3,4
+01K6C1PV916EFB8E3WC81SKE1Z,HR,HR,3,Pre-BATNA,we can discuss stock and bonus next.,,6,4,4
+01K6C1PV916EFB8E3WC81SKE1Z,Employee,Employee,4,Post-BATNA,understood.,,7,1,2
+01K6C1PV916EFB8E3WC81SKE1Z,Employee,Employee,4,Post-BATNA,is there any flexibility on stock options or vacation days?,,7,2,2
+01K6C1PV916EFB8E3WC81SKE1Z,HR,HR,4,Post-BATNA,"90k salary, 10% bonus, 10k stock, 15 days vacation.",,8,1,2
+01K6C1PV916EFB8E3WC81SKE1Z,HR,HR,4,Post-BATNA,that's our near-final package.,,8,2,2
+01K6C1PV916EFB8E3WC81SKE1Z,Employee,Employee,4,Post-BATNA,100k salary works.,,9,1,3
+01K6C1PV916EFB8E3WC81SKE1Z,Employee,Employee,4,Post-BATNA,I understand vacation days are fixed.,,9,2,3
+01K6C1PV916EFB8E3WC81SKE1Z,Employee,Employee,4,Post-BATNA,"Could you do 20,000 stock options and 30 vacation days?",,9,3,3
+01K6C1PV916EFB8E3WC81SKE1Z,HR,HR,4,Post-BATNA,salary is settled at 100k.,,10,1,2
+01K6C1PV916EFB8E3WC81SKE1Z,HR,HR,4,Post-BATNA,i can do 15 vacation days and 10k stock options.,,10,2,2
+01K6C1Q76ETVE6GMYAK09ZBR3J,Employee,Employee,2,Pre-BATNA,"hi! i'm doing well, thanks — hope you are too.",,1,1,1
+01K6C1Q76ETVE6GMYAK09ZBR3J,HR,HR,2,Pre-BATNA,I can move the salary to $100k.,,2,1,2
+01K6C1Q76ETVE6GMYAK09ZBR3J,HR,HR,2,Pre-BATNA,We can discuss the remaining pieces next.,,2,2,2
+01K6C1Q76ETVE6GMYAK09ZBR3J,Employee,Employee,2,Pre-BATNA,110k works.,,3,1,3
+01K6C1Q76ETVE6GMYAK09ZBR3J,Employee,Employee,2,Pre-BATNA,could you do a 10% bonus and $15k in stock options?,,3,2,3
+01K6C1Q76ETVE6GMYAK09ZBR3J,Employee,Employee,2,Pre-BATNA,then we can finalize vacation days.,,3,3,3
+01K6C1Q76ETVE6GMYAK09ZBR3J,HR,HR,2,Pre-BATNA,10% on bonus is a stretch.,,4,1,2
+01K6C1Q76ETVE6GMYAK09ZBR3J,HR,HR,2,Pre-BATNA,would you trade that for fewer vacation days or different equity?,,4,2,2
+01K6C1Q76ETVE6GMYAK09ZBR3J,Employee,Employee,2,Pre-BATNA,10% works.,,5,1,2
+01K6C1Q76ETVE6GMYAK09ZBR3J,Employee,Employee,2,Pre-BATNA,Could we keep 25 vacation days and add 20k in stock options?,,5,2,2
+01K6C1Q76ETVE6GMYAK09ZBR3J,HR,HR,2,Pre-BATNA,"if we move on bonus, would you trade on vacation days?",,6,1,2
+01K6C1Q76ETVE6GMYAK09ZBR3J,HR,HR,2,Pre-BATNA,is bonus more important to you than time off?,,6,2,2
+01K6C1QD4PXGQMPNFABB7CAE4W,Employee,Employee,0,Pre-BATNA,hi! nice to meet you.,,1,1,1
+01K6C1QD4PXGQMPNFABB7CAE4W,HR,HR,1,Pre-BATNA,hi there! nice to connect.,,2,1,1
+01K6C1QD4PXGQMPNFABB7CAE4W,Employee,Employee,2,Pre-BATNA,"hi — I'm targeting $120k salary, 20% bonus, 20k stock options, and 30 vacation days.",,3,1,2
+01K6C1QD4PXGQMPNFABB7CAE4W,Employee,Employee,2,Pre-BATNA,"if there's flexibility on any of those, let me know where.",,3,2,2
+01K6C1QD4PXGQMPNFABB7CAE4W,HR,HR,2,Pre-BATNA,"I can do $90k salary, 5% bonus, $15k stock, and 10 vacation days.",,4,1,2
+01K6C1QD4PXGQMPNFABB7CAE4W,HR,HR,2,Pre-BATNA,"If you need movement, which term matters most?",,4,2,2
+01K6C1QD4PXGQMPNFABB7CAE4W,Employee,Employee,3,Pre-BATNA,20k in stock works for me.,,5,1,2
+01K6C1QD4PXGQMPNFABB7CAE4W,Employee,Employee,3,Pre-BATNA,"if salary stays at 100k, bonus at 5%, and 20 vacation days, we're basically there.",,5,2,2
+01K6C1QD4PXGQMPNFABB7CAE4W,HR,HR,3,Pre-BATNA,understood.,,6,1,2
+01K6C1QD4PXGQMPNFABB7CAE4W,HR,HR,3,Pre-BATNA,any flexibility between the 5% bonus and 20 vacation days?,,6,2,2
+01K6C1QD4PXGQMPNFABB7CAE4W,Employee,Employee,4,Post-BATNA,"yes — if it's $20k in stock, I'm good with that.",,7,1,2
+01K6C1QD4PXGQMPNFABB7CAE4W,Employee,Employee,4,Post-BATNA,with the 5% bonus and 20 vacation days.,,7,2,2
+01K6C1QD4PXGQMPNFABB7CAE4W,HR,HR,4,Post-BATNA,salary at 100k and options at 20k work.,,8,1,2
+01K6C1QD4PXGQMPNFABB7CAE4W,HR,HR,4,Post-BATNA,"I can do the 5% bonus, but vacation stays at 10 days.",,8,2,2
+01K6C1QD4PXGQMPNFABB7CAE4W,Employee,Employee,4,Post-BATNA,"great, we're aligned on bonus and vacation days.",,9,1,1
+01K6C1QHV76NJF1W1MQ5NJJ6N2,Employee,Employee,2,Pre-BATNA,hi there! nice to connect.,,1,1,1
+01K6C1QHV76NJF1W1MQ5NJJ6N2,HR,HR,6,Post-BATNA,got it.,,2,1,3
+01K6C1QHV76NJF1W1MQ5NJJ6N2,HR,HR,6,Post-BATNA,"we can do $80k salary, $0 bonus, 20k stock options, and 15 vacation days.",,2,2,3
+01K6C1QHV76NJF1W1MQ5NJJ6N2,HR,HR,6,Post-BATNA,that's the package.,,2,3,3
+01K6C1QHV76NJF1W1MQ5NJJ6N2,Employee,Employee,6,Post-BATNA,120k salary and 25 vacation days.,,3,1,1
+01K6C1QHV76NJF1W1MQ5NJJ6N2,HR,HR,6,Post-BATNA,"100k salary, 15% bonus, 20k stock options, 15 vacation days.",,4,1,2
+01K6C1QHV76NJF1W1MQ5NJJ6N2,HR,HR,6,Post-BATNA,best and final company package.,,4,2,2
+01K6C1QHV76NJF1W1MQ5NJJ6N2,Employee,Employee,6,Post-BATNA,"$120k salary, 15% bonus, 20k stock, 15 days.",,5,1,2
+01K6C1QHV76NJF1W1MQ5NJJ6N2,Employee,Employee,6,Post-BATNA,stock is already aligned. this closes it for me.,,5,2,2
+01K6C1QNBR1W3G4CEPW882NRZ9,Employee,Employee,0,Pre-BATNA,"hi, nice to meet you",,1,1,1
+01K6C1QNBR1W3G4CEPW882NRZ9,HR,HR,1,Pre-BATNA,hi there!,,2,1,1
+01K6C1QNBR1W3G4CEPW882NRZ9,Employee,Employee,1,Pre-BATNA,hi there,,3,1,2
+01K6C1QNBR1W3G4CEPW882NRZ9,Employee,Employee,1,Pre-BATNA,"doing well, hope you are too",,3,2,2
+01K6C1QNBR1W3G4CEPW882NRZ9,HR,HR,1,Pre-BATNA,hi there!,,4,1,2
+01K6C1QNBR1W3G4CEPW882NRZ9,HR,HR,1,Pre-BATNA,"doing well, thanks — hope you're having a good day",,4,2,2
+01K6C1QNBR1W3G4CEPW882NRZ9,Employee,Employee,3,Pre-BATNA,"hey, nice to connect",,5,1,2
+01K6C1QNBR1W3G4CEPW882NRZ9,Employee,Employee,3,Pre-BATNA,hope you're doing well,,5,2,2
+01K6C1QNBR1W3G4CEPW882NRZ9,HR,HR,3,Pre-BATNA,understood on the doctor appointments.,,6,1,3
+01K6C1QNBR1W3G4CEPW882NRZ9,HR,HR,3,Pre-BATNA,how many vacation days are you looking for?,,6,2,3
+01K6C1QNBR1W3G4CEPW882NRZ9,HR,HR,3,Pre-BATNA,is there any flexibility there?,,6,3,3
+01K6C1QNBR1W3G4CEPW882NRZ9,Employee,Employee,4,Post-BATNA,30 days vacation.,,7,1,2
+01K6C1QNBR1W3G4CEPW882NRZ9,Employee,Employee,4,Post-BATNA,I've already shared the full package—what's your reaction to the rest?,,7,2,2
+01K6C1QNBR1W3G4CEPW882NRZ9,HR,HR,4,Post-BATNA,i hear you. i can do a 5% bonus.,,8,1,2
+01K6C1QNBR1W3G4CEPW882NRZ9,HR,HR,4,Post-BATNA,want to talk through vacation days next?,,8,2,2
+01K6C1QNBR1W3G4CEPW882NRZ9,Employee,Employee,4,Post-BATNA,"for those priorities, I'm looking for a 10% bonus and 30 vacation days.",,9,1,3
+01K6C1QNBR1W3G4CEPW882NRZ9,Employee,Employee,4,Post-BATNA,the extra days would help with the upcoming doctor appointments.,,9,2,3
+01K6C1QNBR1W3G4CEPW882NRZ9,Employee,Employee,4,Post-BATNA,does that work on your side?,,9,3,3
+01K6C1QNBR1W3G4CEPW882NRZ9,HR,HR,4,Post-BATNA,I hear you.,,10,1,3
+01K6C1QNBR1W3G4CEPW882NRZ9,HR,HR,4,Post-BATNA,We can do $90k salary and 20k stock options.,,10,2,3
+01K6C1QNBR1W3G4CEPW882NRZ9,HR,HR,4,Post-BATNA,Bonus is 0% and vacation is 10 days for now.,,10,3,3
+01K6C1QNBR1W3G4CEPW882NRZ9,Employee,Employee,4,Post-BATNA,"if salary's tight, is there more flexibility on stock options?",,11,1,1
+01K6C1QNBR1W3G4CEPW882NRZ9,HR,HR,5,Post-BATNA,i get the stability point.,,12,1,2
+01K6C1QNBR1W3G4CEPW882NRZ9,HR,HR,5,Post-BATNA,I can do $90k salary with 20k stock options.,,12,2,2
+01K6C1QNBR1W3G4CEPW882NRZ9,Employee,Employee,5,Post-BATNA,I understand the budget concern.,,13,1,3
+01K6C1QNBR1W3G4CEPW882NRZ9,Employee,Employee,5,Post-BATNA,I'd be looking for $120k salary and a 10% bonus.,,13,2,3
+01K6C1QNBR1W3G4CEPW882NRZ9,Employee,Employee,5,Post-BATNA,"If needed, we can talk through non-salary items too.",,13,3,3
+01K6C1QNBR1W3G4CEPW882NRZ9,HR,HR,5,Post-BATNA,I do value what you bring.,,14,1,3
+01K6C1QNBR1W3G4CEPW882NRZ9,HR,HR,5,Post-BATNA,I can do $90k salary and 20k stock options.,,14,2,3
+01K6C1QNBR1W3G4CEPW882NRZ9,HR,HR,5,Post-BATNA,"If you're open to it, we can discuss the remaining pieces.",,14,3,3
+01K6C1QNBR1W3G4CEPW882NRZ9,Employee,Employee,5,Post-BATNA,i can do $120k salary with 20k stock options.,,15,1,1
+01K6C1QNBR1W3G4CEPW882NRZ9,HR,HR,5,Post-BATNA,understood.,,16,1,2
+01K6C1QNBR1W3G4CEPW882NRZ9,HR,HR,5,Post-BATNA,i can do $90k salary.,,16,2,2
+01K6C1QNBR1W3G4CEPW882NRZ9,Employee,Employee,5,Post-BATNA,"ok, I see the 10k move.",,17,1,3
+01K6C1QNBR1W3G4CEPW882NRZ9,Employee,Employee,5,Post-BATNA,is there any room to go higher on base salary?,,17,2,3
+01K6C1QNBR1W3G4CEPW882NRZ9,Employee,Employee,5,Post-BATNA,"if not, can you improve the bonus?",,17,3,3
+01K6C1QNBR1W3G4CEPW882NRZ9,HR,HR,6,Post-BATNA,understood. stock doesn't solve the right-now budget issue.,,18,1,3
+01K6C1QNBR1W3G4CEPW882NRZ9,HR,HR,6,Post-BATNA,i can do 80k salary and a 5% bonus.,,18,2,3
+01K6C1QNBR1W3G4CEPW882NRZ9,HR,HR,6,Post-BATNA,that's the best cash-oriented improvement i can make now.,,18,3,3
+01K6C1QNBR1W3G4CEPW882NRZ9,Employee,Employee,6,Post-BATNA,got it.,,19,1,3
+01K6C1QNBR1W3G4CEPW882NRZ9,Employee,Employee,6,Post-BATNA,100k salary is fine.,,19,2,3
+01K6C1QNBR1W3G4CEPW882NRZ9,Employee,Employee,6,Post-BATNA,could you do a 20% bonus and 25 vacation days?,,19,3,3
+01K6C1QNBR1W3G4CEPW882NRZ9,HR,HR,6,Post-BATNA,"110k salary, 0 bonus, 20k in stock options, 10 vacation days.",,20,1,2
+01K6C1QNBR1W3G4CEPW882NRZ9,HR,HR,6,Post-BATNA,balanced on our side given the higher cash salary.,,20,2,2
+01K6C1QNBR1W3G4CEPW882NRZ9,Employee,Employee,6,Post-BATNA,"100k salary, 20% bonus, 20k in stock options, and 30 vacation days.",,21,1,2
+01K6C1QNBR1W3G4CEPW882NRZ9,Employee,Employee,6,Post-BATNA,balanced for both of us.,,21,2,2
+01K6C1QNBR1W3G4CEPW882NRZ9,HR,HR,6,Post-BATNA,"100k salary, 20k stock options, and 15 vacation days.",,22,1,3
+01K6C1QNBR1W3G4CEPW882NRZ9,HR,HR,6,Post-BATNA,no bonus.,,22,2,3
+01K6C1QNBR1W3G4CEPW882NRZ9,HR,HR,6,Post-BATNA,that's our best package.,,22,3,3
+01K6C1QR1566FY80FN4RE0AFK3,HR,HR,0,Pre-BATNA,"hi there, nice to connect",,1,1,1
+01K6C1QR1566FY80FN4RE0AFK3,Employee,Employee,1,Pre-BATNA,"hi jonah, nice to connect",,2,1,1
+01K6C1QR1566FY80FN4RE0AFK3,HR,HR,1,Pre-BATNA,yes,,3,1,3
+01K6C1QR1566FY80FN4RE0AFK3,HR,HR,1,Pre-BATNA,what matters most in the package for you?,,3,2,3
+01K6C1QR1566FY80FN4RE0AFK3,HR,HR,1,Pre-BATNA,"want to start with salary and bonus, or another piece?",,3,3,3
+01K6C1QR1566FY80FN4RE0AFK3,Employee,Employee,1,Pre-BATNA,"My ideal package would be $120k salary, 20% bonus, 20k stock options, and 30 vacation days.",,4,1,2
+01K6C1QR1566FY80FN4RE0AFK3,Employee,Employee,1,Pre-BATNA,"If needed, we can talk through priorities.",,4,2,2
+01K6C1QR1566FY80FN4RE0AFK3,HR,HR,2,Pre-BATNA,got it.,,5,1,3
+01K6C1QR1566FY80FN4RE0AFK3,HR,HR,2,Pre-BATNA,"to start, we can offer $80k salary, 5% bonus, 5k stock options, and 10 vacation days.",,5,2,3
+01K6C1QR1566FY80FN4RE0AFK3,HR,HR,2,Pre-BATNA,"if you want movement, which pieces matter most?",,5,3,3
+01K6C1QR1566FY80FN4RE0AFK3,Employee,Employee,2,Pre-BATNA,understood.,,6,1,3
+01K6C1QR1566FY80FN4RE0AFK3,Employee,Employee,2,Pre-BATNA,which parts are most constrained?,,6,2,3
+01K6C1QR1566FY80FN4RE0AFK3,Employee,Employee,2,Pre-BATNA,"if cash is tight, is there more room on equity or time off?",,6,3,3
+01K6C1QTVK8FGF5TRPJ5W8XYP4,Employee,Employee,0,Pre-BATNA,"hi, yes, ready when you are!",,1,1,1
+01K6C1QTVK8FGF5TRPJ5W8XYP4,HR,HR,1,Pre-BATNA,"$80k salary, 0% bonus, 20k stock options, 10 vacation days.",,2,1,2
+01K6C1QTVK8FGF5TRPJ5W8XYP4,HR,HR,1,Pre-BATNA,"what's your reaction, or what matters most to you?",,2,2,2
+01K6C1QTVK8FGF5TRPJ5W8XYP4,Employee,Employee,1,Pre-BATNA,i hear the budget constraint.,,3,1,3
+01K6C1QTVK8FGF5TRPJ5W8XYP4,Employee,Employee,1,Pre-BATNA,"i'd be looking for $120,000 salary, 20% bonus, 5,000 stock options, and 30 vacation days.",,3,2,3
+01K6C1QTVK8FGF5TRPJ5W8XYP4,Employee,Employee,1,Pre-BATNA,where do you have the most flexibility?,,3,3,3
+01K6C1QTVK8FGF5TRPJ5W8XYP4,HR,HR,3,Pre-BATNA,ok.,,4,1,3
+01K6C1QTVK8FGF5TRPJ5W8XYP4,HR,HR,3,Pre-BATNA,"are salary and the 5,000 stock options acceptable as framed?",,4,2,3
+01K6C1QTVK8FGF5TRPJ5W8XYP4,HR,HR,3,Pre-BATNA,"if you want to adjust one first, which matters more?",,4,3,3
+01K6C1QTVK8FGF5TRPJ5W8XYP4,Employee,Employee,3,Pre-BATNA,got it.,,5,1,4
+01K6C1QTVK8FGF5TRPJ5W8XYP4,Employee,Employee,3,Pre-BATNA,i hear you on the tight budget.,,5,2,4
+01K6C1QTVK8FGF5TRPJ5W8XYP4,Employee,Employee,3,Pre-BATNA,"my counter is $120k salary, 20% bonus, 10k stock options, and 30 vacation days.",,5,3,4
+01K6C1QTVK8FGF5TRPJ5W8XYP4,Employee,Employee,3,Pre-BATNA,where do you have the most flexibility?,,5,4,4
+01K6C1QTVK8FGF5TRPJ5W8XYP4,HR,HR,6,Post-BATNA,"$80k salary, 10% bonus, 20k stock options, 15 vacation days.",,6,1,1
+01K6C1QXF6R1SBSRTMK2BXD4SX,Employee,Employee,0,Pre-BATNA,"hi brandon, nice to meet you",,1,1,1
+01K6C1QXF6R1SBSRTMK2BXD4SX,HR,HR,1,Pre-BATNA,"hi brandon, nice to meet you",,2,1,1
+01K6C1QXF6R1SBSRTMK2BXD4SX,Employee,Employee,1,Pre-BATNA,hi Brandon,,3,1,2
+01K6C1QXF6R1SBSRTMK2BXD4SX,Employee,Employee,1,Pre-BATNA,this is [your name],,3,2,2
+01K6C1QXF6R1SBSRTMK2BXD4SX,HR,HR,1,Pre-BATNA,"hi Brandon, nice to meet you.",,4,1,1
+01K6C1QXF6R1SBSRTMK2BXD4SX,Employee,Employee,1,Pre-BATNA,ok,,5,1,2
+01K6C1QXF6R1SBSRTMK2BXD4SX,Employee,Employee,1,Pre-BATNA,send them over when you're ready,,5,2,2
+01K6C1QXF6R1SBSRTMK2BXD4SX,HR,HR,2,Pre-BATNA,hi M,,6,1,2
+01K6C1QXF6R1SBSRTMK2BXD4SX,HR,HR,2,Pre-BATNA,"$80k salary, 0% bonus, $20k in stock options, and 10 vacation days.",,6,2,2
+01K6C1QXF6R1SBSRTMK2BXD4SX,Employee,Employee,2,Pre-BATNA,got it,,7,1,3
+01K6C1QXF6R1SBSRTMK2BXD4SX,Employee,Employee,2,Pre-BATNA,"I'm looking for $120k salary, a 20% bonus, 20k in stock options, and 30 vacation days.",,7,2,3
+01K6C1QXF6R1SBSRTMK2BXD4SX,Employee,Employee,2,Pre-BATNA,where do you have flexibility?,,7,3,3
+01K6C1QXF6R1SBSRTMK2BXD4SX,HR,HR,4,Post-BATNA,"$80k salary, no bonus, 20k stock options, 10 vacation days.",,8,1,1
+01K6C1QXF6R1SBSRTMK2BXD4SX,Employee,Employee,4,Post-BATNA,salary is the bigger priority for me.,,9,1,3
+01K6C1QXF6R1SBSRTMK2BXD4SX,Employee,Employee,4,Post-BATNA,vacation still matters too.,,9,2,3
+01K6C1QXF6R1SBSRTMK2BXD4SX,Employee,Employee,4,Post-BATNA,what flexibility do you have on salary and vacation days?,,9,3,3
+01K6C1QXF6R1SBSRTMK2BXD4SX,HR,HR,6,Post-BATNA,got it.,,10,1,3
+01K6C1QXF6R1SBSRTMK2BXD4SX,HR,HR,6,Post-BATNA,"final package: $90k salary, $0 bonus, 20k stock options, 10 vacation days.",,10,2,3
+01K6C1QXF6R1SBSRTMK2BXD4SX,HR,HR,6,Post-BATNA,that balances salary with a competitive overall package.,,10,3,3
+01K6C1QXF6R1SBSRTMK2BXD4SX,Employee,Employee,6,Post-BATNA,"i can do $100,000 salary if we make it 20% bonus, 20k stock, and 30 days vacation.",,11,1,1
+01K6C1QXF6R1SBSRTMK2BXD4SX,HR,HR,6,Post-BATNA,I can't do 15%.,,12,1,4
+01K6C1QXF6R1SBSRTMK2BXD4SX,HR,HR,6,Post-BATNA,I can move the bonus to 10% and keep stock options at 20k.,,12,2,4
+01K6C1QXF6R1SBSRTMK2BXD4SX,HR,HR,6,Post-BATNA,Salary stays at 100k.,,12,3,4
+01K6C1QXF6R1SBSRTMK2BXD4SX,HR,HR,6,Post-BATNA,"If that works, we can close it out.",,12,4,4
+01K6C1QXF6R1SBSRTMK2BXD4SX,Employee,Employee,6,Post-BATNA,ok.,,13,1,2
+01K6C1QXF6R1SBSRTMK2BXD4SX,Employee,Employee,6,Post-BATNA,then I'd need 20k stock options and 30 vacation days.,,13,2,2
+01K6C1R0MW1RJDNXXQ28YJRPB1,HR,HR,0,Pre-BATNA,hi there! nice to meet you.,,1,1,1
+01K6C1R0MW1RJDNXXQ28YJRPB1,Employee,Employee,2,Pre-BATNA,"hey! i'm doing well, thanks — hope you are too.",,2,1,1
+01K6C1R3M1HW69VX7DBWW3GM9K,HR,HR,1,Pre-BATNA,hi! nice to meet you,,1,1,1
+01K6C1R3M1HW69VX7DBWW3GM9K,Employee,Employee,1,Pre-BATNA,hi,,2,1,3
+01K6C1R3M1HW69VX7DBWW3GM9K,Employee,Employee,1,Pre-BATNA,"I'm looking for $120k salary, a 20% bonus, 20k in stock options, and 30 vacation days.",,2,2,3
+01K6C1R3M1HW69VX7DBWW3GM9K,Employee,Employee,1,Pre-BATNA,"if you can't do all of that, where do you have flexibility?",,2,3,3
+01K6C1R3M1HW69VX7DBWW3GM9K,HR,HR,1,Pre-BATNA,"yes — $80k salary, no bonus, $20k in stock options, and 10 vacation days.",,3,1,1
+01K6C1R3M1HW69VX7DBWW3GM9K,Employee,Employee,4,Post-BATNA,hi,,4,1,3
+01K6C1R3M1HW69VX7DBWW3GM9K,Employee,Employee,4,Post-BATNA,"my counter would be 120k salary, 20% bonus, 20k stock options, and 30 vacation days.",,4,2,3
+01K6C1R3M1HW69VX7DBWW3GM9K,Employee,Employee,4,Post-BATNA,which of those has the most flexibility?,,4,3,3
+01K6KNNVAP4PGMACXBX3XZ8BH5,HR,HR,0,Pre-BATNA,"hi, nice to meet you",,1,1,1
+01K6KNNVAP4PGMACXBX3XZ8BH5,Employee,Employee,1,Pre-BATNA,"hey, nice to connect",,2,1,1
+01K6KNNVAP4PGMACXBX3XZ8BH5,HR,HR,1,Pre-BATNA,hi,,3,1,3
+01K6KNNVAP4PGMACXBX3XZ8BH5,HR,HR,1,Pre-BATNA,"$80k salary, no bonus, 20k stock options, 10 vacation days.",,3,2,3
+01K6KNNVAP4PGMACXBX3XZ8BH5,HR,HR,1,Pre-BATNA,which parts matter most to you?,,3,3,3
+01K6KNNVAP4PGMACXBX3XZ8BH5,Employee,Employee,1,Pre-BATNA,"120k salary, 20% bonus, 20k stock options, 30 vacation days.",,4,1,1
+01K6KNNVAP4PGMACXBX3XZ8BH5,HR,HR,1,Pre-BATNA,"100k salary, no bonus, 10k stock, 10 vacation days.",,5,1,1
+01K6KNNVAP4PGMACXBX3XZ8BH5,Employee,Employee,2,Pre-BATNA,what flexibility do you have on bonus and stock?,,6,1,2
+01K6KNNVAP4PGMACXBX3XZ8BH5,Employee,Employee,2,Pre-BATNA,"if salary is 100,000, can we move on those parts of the package?",,6,2,2
+01K6KNNVAP4PGMACXBX3XZ8BH5,HR,HR,2,Pre-BATNA,20 vacation days should be fine.,,7,1,2
+01K6KNNVAP4PGMACXBX3XZ8BH5,HR,HR,2,Pre-BATNA,"between base salary and bonus, which matters more to you?",,7,2,2
+01K6KNNVAP4PGMACXBX3XZ8BH5,Employee,Employee,2,Pre-BATNA,how much more stock for $105k salary?,,8,1,2
+01K6KNNVAP4PGMACXBX3XZ8BH5,Employee,Employee,2,Pre-BATNA,"if salary stays closer to 110k, what stock could you do?",,8,2,2
+01K6KNNVAP4PGMACXBX3XZ8BH5,HR,HR,2,Pre-BATNA,100k salary and 20k stock works.,,9,1,2
+01K6KNNVAP4PGMACXBX3XZ8BH5,HR,HR,2,Pre-BATNA,what are you looking for on bonus?,,9,2,2
+01K6KNNVAP4PGMACXBX3XZ8BH5,Employee,Employee,3,Pre-BATNA,great.,,10,1,2
+01K6KNNVAP4PGMACXBX3XZ8BH5,Employee,Employee,3,Pre-BATNA,then let's close bonus at 15% and vacation at 20 days.,,10,2,2
+01K6KNNVAP4PGMACXBX3XZ8BH5,HR,HR,3,Pre-BATNA,you did move on salary.,,11,1,4
+01K6KNNVAP4PGMACXBX3XZ8BH5,HR,HR,3,Pre-BATNA,i can do a 15% bonus.,,11,2,4
+01K6KNNVAP4PGMACXBX3XZ8BH5,HR,HR,3,Pre-BATNA,that’s a meaningful step given the 20k stock.,,11,3,4
+01K6KNNVAP4PGMACXBX3XZ8BH5,HR,HR,3,Pre-BATNA,"if that works, we can confirm the remaining terms.",,11,4,4
+01K6KNNVAP4PGMACXBX3XZ8BH5,Employee,Employee,3,Pre-BATNA,15% bonus?,,12,1,1
+01K6KNNVAP4PGMACXBX3XZ8BH5,HR,HR,3,Pre-BATNA,I can do 15 vacation days.,,13,1,2
+01K6KNNVAP4PGMACXBX3XZ8BH5,HR,HR,3,Pre-BATNA,Bonus stays at 20%.,,13,2,2
+01K6KNNVAP4PGMACXBX3XZ8BH5,Employee,Employee,4,Post-BATNA,ok.,,14,1,3
+01K6KNNVAP4PGMACXBX3XZ8BH5,Employee,Employee,4,Post-BATNA,"if 20 vacation is the cap and 20% bonus is off the table, where do you have room?",,14,2,3
+01K6KNNVAP4PGMACXBX3XZ8BH5,Employee,Employee,4,Post-BATNA,"could bonus move up at all, or could salary come up while keeping the 20000 stock?",,14,3,3
+01K6KNNVAP4PGMACXBX3XZ8BH5,HR,HR,4,Post-BATNA,Let's talk about vacation days next.,,15,1,1
+01K6KNNVAP4PGMACXBX3XZ8BH5,Employee,Employee,4,Post-BATNA,25 vacation days works.,,16,1,2
+01K6KNNVAP4PGMACXBX3XZ8BH5,Employee,Employee,4,Post-BATNA,what's your best bonus?,,16,2,2
+01K6KNNVAP4PGMACXBX3XZ8BH5,HR,HR,4,Post-BATNA,10 works. let's focus on salary.,,17,1,1
+01K6KNNVAP4PGMACXBX3XZ8BH5,Employee,Employee,5,Post-BATNA,got it.,,18,1,2
+01K6KNNVAP4PGMACXBX3XZ8BH5,Employee,Employee,5,Post-BATNA,where do you have more room between salary and stock options?,,18,2,2
+01K6KNNVAP4PGMACXBX3XZ8BH5,HR,HR,5,Post-BATNA,I can't move on vacation or stock.,,19,1,2
+01K6KNNVAP4PGMACXBX3XZ8BH5,HR,HR,5,Post-BATNA,I can raise salary to 90k.,,19,2,2
+01K6KNNVAP4PGMACXBX3XZ8BH5,Employee,Employee,5,Post-BATNA,10% bonus works. can you move on salary?,,20,1,1
+01K6KNNVAP4PGMACXBX3XZ8BH5,HR,HR,5,Post-BATNA,ok,,21,1,3
+01K6KNNVAP4PGMACXBX3XZ8BH5,HR,HR,5,Post-BATNA,I can move salary to $90k and keep stock options at 20k.,,21,2,3
+01K6KNNVAP4PGMACXBX3XZ8BH5,HR,HR,5,Post-BATNA,does that get us over the line?,,21,3,3
+01K6KNNVAP4PGMACXBX3XZ8BH5,Employee,Employee,6,Post-BATNA,10% works. can we do 25 days?,,22,1,1
+01K6KNNVAP4PGMACXBX3XZ8BH5,HR,HR,6,Post-BATNA,I can't reopen salary.,,23,1,3
+01K6KNNVAP4PGMACXBX3XZ8BH5,HR,HR,6,Post-BATNA,I can do a 15% bonus.,,23,2,3
+01K6KNNVAP4PGMACXBX3XZ8BH5,HR,HR,6,Post-BATNA,Vacation stays at 20 days.,,23,3,3
+01K6KNNVAP4PGMACXBX3XZ8BH5,Employee,Employee,6,Post-BATNA,Let's talk about bonus next.,,24,1,1
+01K6KNNVAP4PGMACXBX3XZ8BH5,HR,HR,6,Post-BATNA,15% bonus.,,25,1,2
+01K6KNNVAP4PGMACXBX3XZ8BH5,HR,HR,6,Post-BATNA,that's as far as i can go on the remaining pieces.,,25,2,2
+01K6KNNZ5EQ6SKCX8Z6Q832KN6,Employee,Employee,1,Pre-BATNA,"hi, nice to meet you",,1,1,1
+01K6KNNZ5EQ6SKCX8Z6Q832KN6,HR,HR,1,Pre-BATNA,hi,,2,1,3
+01K6KNNZ5EQ6SKCX8Z6Q832KN6,HR,HR,1,Pre-BATNA,"90k salary, 0% bonus, 20k in stock options, 10 vacation days.",,2,2,3
+01K6KNNZ5EQ6SKCX8Z6Q832KN6,HR,HR,1,Pre-BATNA,what matters most to you if you want to change something?,,2,3,3
+01K6KNNZ5EQ6SKCX8Z6Q832KN6,Employee,Employee,1,Pre-BATNA,sure.,,3,1,3
+01K6KNNZ5EQ6SKCX8Z6Q832KN6,Employee,Employee,1,Pre-BATNA,"i'm looking for $120k salary, 20% bonus, 20k in stock options, and 30 vacation days.",,3,2,3
+01K6KNNZ5EQ6SKCX8Z6Q832KN6,Employee,Employee,1,Pre-BATNA,what stands out to you?,,3,3,3
+01K6KNNZ5EQ6SKCX8Z6Q832KN6,HR,HR,1,Pre-BATNA,thanks for laying that out.,,4,1,2
+01K6KNNZ5EQ6SKCX8Z6Q832KN6,HR,HR,1,Pre-BATNA,"we can do 90k salary, 5% bonus, 15k stock options, and 10 vacation days.",,4,2,2
+01K6KNNZ5EQ6SKCX8Z6Q832KN6,Employee,Employee,1,Pre-BATNA,got it.,,5,1,3
+01K6KNNZ5EQ6SKCX8Z6Q832KN6,Employee,Employee,1,Pre-BATNA,what can you do on vacation days?,,5,2,3
+01K6KNNZ5EQ6SKCX8Z6Q832KN6,Employee,Employee,1,Pre-BATNA,"any more flexibility there, or on one of the other terms?",,5,3,3
+01K6KNNZ5EQ6SKCX8Z6Q832KN6,HR,HR,1,Pre-BATNA,10 vacation days.,,6,1,1
+01K6KNNZ5EQ6SKCX8Z6Q832KN6,Employee,Employee,1,Pre-BATNA,"100k salary, 10% bonus, 15k stock options, 25 vacation days.",,7,1,2
+01K6KNNZ5EQ6SKCX8Z6Q832KN6,Employee,Employee,1,Pre-BATNA,that's a balanced package from my side.,,7,2,2
+01K6KNNZ5EQ6SKCX8Z6Q832KN6,HR,HR,1,Pre-BATNA,"90k salary, 10% bonus, 5k stock options, and 10 vacation days.",,8,1,1
+01K6KNNZ5EQ6SKCX8Z6Q832KN6,Employee,Employee,2,Pre-BATNA,no worries.,,9,1,2
+01K6KNNZ5EQ6SKCX8Z6Q832KN6,Employee,Employee,2,Pre-BATNA,"how about 100k salary, 15% bonus, 15k stock options, and 25 vacation days?",,9,2,2
+01K6KNNZ5EQ6SKCX8Z6Q832KN6,HR,HR,2,Pre-BATNA,ok — meeting you partway on equity.,,10,1,3
+01K6KNNZ5EQ6SKCX8Z6Q832KN6,HR,HR,2,Pre-BATNA,15k stock options and 15 vacation days.,,10,2,3
+01K6KNNZ5EQ6SKCX8Z6Q832KN6,HR,HR,2,Pre-BATNA,how does that land on your side?,,10,3,3
+01K6KNNZ5EQ6SKCX8Z6Q832KN6,Employee,Employee,2,Pre-BATNA,"i can do 110k salary, 10% bonus, 15k stock, and 20 vacation days.",,11,1,2
+01K6KNNZ5EQ6SKCX8Z6Q832KN6,Employee,Employee,2,Pre-BATNA,that's my halfway move.,,11,2,2
+01K6KNNZ5EQ6SKCX8Z6Q832KN6,HR,HR,3,Pre-BATNA,ok — bonus or vacation matters more?,,12,1,1
+01K6KNNZ5EQ6SKCX8Z6Q832KN6,Employee,Employee,4,Post-BATNA,20 days helps.,,13,1,2
+01K6KNNZ5EQ6SKCX8Z6Q832KN6,Employee,Employee,4,Post-BATNA,"could you do 110k salary, 15% bonus, and 15k stock?",,13,2,2
+01K6KNNZ5EQ6SKCX8Z6Q832KN6,HR,HR,4,Post-BATNA,i hear you on the bonus.,,14,1,2
+01K6KNNZ5EQ6SKCX8Z6Q832KN6,HR,HR,4,Post-BATNA,i can do 15% bonus and keep vacation at 20 days.,,14,2,2
+01K6KNNZ5EQ6SKCX8Z6Q832KN6,Employee,Employee,5,Post-BATNA,15% bonus and 20 vacation days.,,15,1,1
+01K6KNNZ5EQ6SKCX8Z6Q832KN6,HR,HR,5,Post-BATNA,is salary or bonus the bigger issue for you?,,16,1,2
+01K6KNNZ5EQ6SKCX8Z6Q832KN6,HR,HR,5,Post-BATNA,how much flexibility do you have on each?,,16,2,2
+01K6KNNZ5EQ6SKCX8Z6Q832KN6,Employee,Employee,5,Post-BATNA,aligned,,17,1,2
+01K6KNNZ5EQ6SKCX8Z6Q832KN6,Employee,Employee,5,Post-BATNA,ready to finalize,,17,2,2
+01K6KNNZ5EQ6SKCX8Z6Q832KN6,HR,HR,5,Post-BATNA,not too much,,18,1,2
+01K6KNNZ5EQ6SKCX8Z6Q832KN6,HR,HR,5,Post-BATNA,we're aligned,,18,2,2
+01K6KNNZ5EQ6SKCX8Z6Q832KN6,Employee,Employee,6,Post-BATNA,understood — 110k salary and 15% bonus.,,19,1,1
+01K6KNNZ5EQ6SKCX8Z6Q832KN6,HR,HR,6,Post-BATNA,no — 110k salary and 15% bonus.,,20,1,1
+01K6KNNZ5EQ6SKCX8Z6Q832KN6,Employee,Employee,6,Post-BATNA,then I'll pass.,,21,1,3
+01K6KNNZ5EQ6SKCX8Z6Q832KN6,Employee,Employee,6,Post-BATNA,the 10k stock is aligned.,,21,2,3
+01K6KNNZ5EQ6SKCX8Z6Q832KN6,Employee,Employee,6,Post-BATNA,"if you can revisit the compensation later, let me know.",,21,3,3
+01K6KNNZ5EQ6SKCX8Z6Q832KN6,HR,HR,6,Post-BATNA,ok.,,22,1,3
+01K6KNNZ5EQ6SKCX8Z6Q832KN6,HR,HR,6,Post-BATNA,20 vacation days.,,22,2,3
+01K6KNNZ5EQ6SKCX8Z6Q832KN6,HR,HR,6,Post-BATNA,that's my final accommodation.,,22,3,3
+01K6KNNZ5EQ6SKCX8Z6Q832KN6,Employee,Employee,6,Post-BATNA,can you do 20 vacation days?,,23,1,2
+01K6KNNZ5EQ6SKCX8Z6Q832KN6,Employee,Employee,6,Post-BATNA,"if so, we can close.",,23,2,2
+01K6KNNZ5EQ6SKCX8Z6Q832KN6,HR,HR,6,Post-BATNA,15 vacation days works.,,24,1,4
+01K6KNNZ5EQ6SKCX8Z6Q832KN6,HR,HR,6,Post-BATNA,bonus at 15%.,,24,2,4
+01K6KNNZ5EQ6SKCX8Z6Q832KN6,HR,HR,6,Post-BATNA,salary stays at 100k.,,24,3,4
+01K6KNNZ5EQ6SKCX8Z6Q832KN6,HR,HR,6,Post-BATNA,fair final package?,,24,4,4
+01K6KNNZ5EQ6SKCX8Z6Q832KN6,Employee,Employee,6,Post-BATNA,salary and bonus are still open.,,25,1,1
+01K6KNP2MHF7NX9DTGMBPW4DBQ,Employee,Employee,0,Pre-BATNA,"hi there, i'm doing well thanks!",,1,1,2
+01K6KNP2MHF7NX9DTGMBPW4DBQ,Employee,Employee,0,Pre-BATNA,hope you're having a good day too.,,1,2,2
+01K6KNP2MHF7NX9DTGMBPW4DBQ,HR,HR,1,Pre-BATNA,"hi there! doing well, how about you?",,2,1,1
+01K6KNP2MHF7NX9DTGMBPW4DBQ,Employee,Employee,2,Pre-BATNA,hi,,3,1,3
+01K6KNP2MHF7NX9DTGMBPW4DBQ,Employee,Employee,2,Pre-BATNA,"120k salary, 20% bonus, 20k in stock options, and 30 vacation days.",,3,2,3
+01K6KNP2MHF7NX9DTGMBPW4DBQ,Employee,Employee,2,Pre-BATNA,which parts have the most flexibility?,,3,3,3
+01K6KNP2MHF7NX9DTGMBPW4DBQ,HR,HR,2,Pre-BATNA,understood.,,4,1,3
+01K6KNP2MHF7NX9DTGMBPW4DBQ,HR,HR,2,Pre-BATNA,which matters more to you: salary or bonus?,,4,2,3
+01K6KNP2MHF7NX9DTGMBPW4DBQ,HR,HR,2,Pre-BATNA,what range did you have in mind?,,4,3,3
+01K6KNP2MHF7NX9DTGMBPW4DBQ,Employee,Employee,3,Pre-BATNA,"i'm targeting 120k salary, 20% bonus, 20k stock, and 30 vacation days.",,5,1,2
+01K6KNP2MHF7NX9DTGMBPW4DBQ,Employee,Employee,3,Pre-BATNA,where do you have flexibility?,,5,2,2
+01K6KNP2MHF7NX9DTGMBPW4DBQ,HR,HR,3,Pre-BATNA,understood.,,6,1,3
+01K6KNP2MHF7NX9DTGMBPW4DBQ,HR,HR,3,Pre-BATNA,"between salary and bonus, which matters more to you?",,6,2,3
+01K6KNP2MHF7NX9DTGMBPW4DBQ,HR,HR,3,Pre-BATNA,and what range do you need there if stock has more flexibility?,,6,3,3
+01K6KNP2MHF7NX9DTGMBPW4DBQ,Employee,Employee,4,Post-BATNA,"I'd consider $120k salary, 20% bonus, 15k stock options, and 30 vacation days.",,7,1,3
+01K6KNP2MHF7NX9DTGMBPW4DBQ,Employee,Employee,4,Post-BATNA,Salary and bonus are the tightest pieces for me.,,7,2,3
+01K6KNP2MHF7NX9DTGMBPW4DBQ,Employee,Employee,4,Post-BATNA,The stock options already reflect where I can be flexible.,,7,3,3
+01K6KNP2MHF7NX9DTGMBPW4DBQ,HR,HR,4,Post-BATNA,got it — 90k salary doesn't work for you.,,8,1,3
+01K6KNP2MHF7NX9DTGMBPW4DBQ,HR,HR,4,Post-BATNA,what salary would you need?,,8,2,3
+01K6KNP2MHF7NX9DTGMBPW4DBQ,HR,HR,4,Post-BATNA,and would you trade on vacation days or stock to help bridge it?,,8,3,3
+01K6KNP2MHF7NX9DTGMBPW4DBQ,Employee,Employee,5,Post-BATNA,where do you have more flexibility: stock options or vacation days?,,9,1,2
+01K6KNP2MHF7NX9DTGMBPW4DBQ,Employee,Employee,5,Post-BATNA,salary's the hardest point for me.,,9,2,2
+01K6KNP2MHF7NX9DTGMBPW4DBQ,HR,HR,5,Post-BATNA,"110k salary, 0 bonus, 0 stock options, 10 vacation days.",,10,1,3
+01K6KNP2MHF7NX9DTGMBPW4DBQ,HR,HR,5,Post-BATNA,that's our best balanced offer.,,10,2,3
+01K6KNP2MHF7NX9DTGMBPW4DBQ,HR,HR,5,Post-BATNA,can you confirm?,,10,3,3
+01K6KNP2MHF7NX9DTGMBPW4DBQ,Employee,Employee,6,Post-BATNA,"then here's a package that could get this done today: 110k salary, 15% bonus, 15k stock, 30 days vacation.",,11,1,1
+01K6KNP2MHF7NX9DTGMBPW4DBQ,HR,HR,6,Post-BATNA,110k salary and 20k stock options work.,,12,1,3
+01K6KNP2MHF7NX9DTGMBPW4DBQ,HR,HR,6,Post-BATNA,"Bonus needs to be 0, and vacation needs to be 10 days.",,12,2,3
+01K6KNP2MHF7NX9DTGMBPW4DBQ,HR,HR,6,Post-BATNA,that's our best and final package.,,12,3,3
+01K6KNP2MHF7NX9DTGMBPW4DBQ,Employee,Employee,6,Post-BATNA,"yes — final package is $110,000 salary, 5% bonus, 20,000 stock options, and 25 vacation days.",,13,1,1
+01K6KNP2MHF7NX9DTGMBPW4DBQ,HR,HR,6,Post-BATNA,"yes — final written confirmation: $110,000 salary, 0 bonus, 20,000 stock options, and 10 vacation days.",,14,1,1
+01K6KNP6VJ7ZYCVASQ9A0YJF6T,Employee,Employee,0,Pre-BATNA,"hi, nice to meet you",,1,1,1
+01K6KNP6VJ7ZYCVASQ9A0YJF6T,HR,HR,1,Pre-BATNA,hi there! nice to meet you,,2,1,1
+01K6KNP6VJ7ZYCVASQ9A0YJF6T,Employee,Employee,1,Pre-BATNA,"hi — I'm targeting $120k salary, 20% bonus, 20k stock options, and 30 vacation days.",,3,1,1
+01K6KNP6VJ7ZYCVASQ9A0YJF6T,HR,HR,1,Pre-BATNA,15 days works.,,4,1,2
+01K6KNP6VJ7ZYCVASQ9A0YJF6T,HR,HR,1,Pre-BATNA,I can do 10k in stock options.,,4,2,2
+01K6KNP6VJ7ZYCVASQ9A0YJF6T,Employee,Employee,2,Pre-BATNA,which of salary or stock has more flexibility on your side?,,5,1,2
+01K6KNP6VJ7ZYCVASQ9A0YJF6T,Employee,Employee,2,Pre-BATNA,"i can trade across salary, bonus, and equity without reopening vacation.",,5,2,2
+01K6KNP6VJ7ZYCVASQ9A0YJF6T,HR,HR,2,Pre-BATNA,understood — salary seems pretty important here.,,6,1,2
+01K6KNP6VJ7ZYCVASQ9A0YJF6T,HR,HR,2,Pre-BATNA,do you have more flexibility on bonus or on equity?,,6,2,2
+01K6KNP6VJ7ZYCVASQ9A0YJF6T,Employee,Employee,2,Pre-BATNA,110k salary.,,7,1,2
+01K6KNP6VJ7ZYCVASQ9A0YJF6T,Employee,Employee,2,Pre-BATNA,we can discuss bonus and stock next.,,7,2,2
+01K6KNP6VJ7ZYCVASQ9A0YJF6T,HR,HR,2,Pre-BATNA,ok.,,8,1,2
+01K6KNP6VJ7ZYCVASQ9A0YJF6T,HR,HR,2,Pre-BATNA,"we can do 10,000 stock options.",,8,2,2
+01K6KNP6VJ7ZYCVASQ9A0YJF6T,Employee,Employee,2,Pre-BATNA,10% bonus works.,,9,1,2
+01K6KNP6VJ7ZYCVASQ9A0YJF6T,Employee,Employee,2,Pre-BATNA,I'd need 10k in stock options.,,9,2,2
+01K6KNP6VJ7ZYCVASQ9A0YJF6T,HR,HR,3,Pre-BATNA,15% bonus and 10k stock options.,,10,1,1
+01K6KNP6VJ7ZYCVASQ9A0YJF6T,Employee,Employee,4,Post-BATNA,I'd prioritize the bonus over stock options.,,11,1,2
+01K6KNP6VJ7ZYCVASQ9A0YJF6T,Employee,Employee,4,Post-BATNA,"If salary and vacation stay fixed, what bonus/stock mix can you do?",,11,2,2
+01K6KNP6VJ7ZYCVASQ9A0YJF6T,HR,HR,4,Post-BATNA,we're aligned on 110k base and 15 vacation.,,12,1,2
+01K6KNP6VJ7ZYCVASQ9A0YJF6T,HR,HR,4,Post-BATNA,"is 15% bonus a hard requirement, or would 10% bonus plus some stock work?",,12,2,2
+01K6KNP6VJ7ZYCVASQ9A0YJF6T,Employee,Employee,4,Post-BATNA,15% bonus works.,,13,1,2
+01K6KNP6VJ7ZYCVASQ9A0YJF6T,Employee,Employee,4,Post-BATNA,"if stock options are back on the table, would you rather flex on salary or vacation days?",,13,2,2
+01K6KNP6VJ7ZYCVASQ9A0YJF6T,HR,HR,5,Post-BATNA,"if it's 20 vacation days with a 10% bonus, do you also need 110k salary?",,14,1,2
+01K6KNP6VJ7ZYCVASQ9A0YJF6T,HR,HR,5,Post-BATNA,or would you trade on salary to close?,,14,2,2
+01K6KNP6VJ7ZYCVASQ9A0YJF6T,Employee,Employee,5,Post-BATNA,"right, let's leave salary at 110k.",,15,1,3
+01K6KNP6VJ7ZYCVASQ9A0YJF6T,Employee,Employee,5,Post-BATNA,10% bonus and 15k stock options is the clean compromise.,,15,2,3
+01K6KNP6VJ7ZYCVASQ9A0YJF6T,Employee,Employee,5,Post-BATNA,vacation can stay at 15 days.,,15,3,3
+01K6KNP9NEZ8WABPRK50JZE3CM,Employee,Employee,0,Pre-BATNA,for me it's mainly total compensation and growth.,,1,1,3
+01K6KNP9NEZ8WABPRK50JZE3CM,Employee,Employee,0,Pre-BATNA,"salary and bonus matter most, along with clear room to progress.",,1,2,3
+01K6KNP9NEZ8WABPRK50JZE3CM,Employee,Employee,0,Pre-BATNA,which parts of the package have the most flexibility?,,1,3,3
+01K6KNP9NEZ8WABPRK50JZE3CM,HR,HR,1,Pre-BATNA,got it,,2,1,2
+01K6KNP9NEZ8WABPRK50JZE3CM,HR,HR,1,Pre-BATNA,"between salary and vacation days, which matters more to you?",,2,2,2
+01K6KNP9NEZ8WABPRK50JZE3CM,Employee,Employee,1,Pre-BATNA,"yes, I handle pressure well.",,3,1,2
+01K6KNP9NEZ8WABPRK50JZE3CM,Employee,Employee,1,Pre-BATNA,what's the salary range and bonus structure for this role?,,3,2,2
+01K6KNP9NEZ8WABPRK50JZE3CM,HR,HR,1,Pre-BATNA,got it.,,4,1,3
+01K6KNP9NEZ8WABPRK50JZE3CM,HR,HR,1,Pre-BATNA,"as we shift to comp, what matters more to you: salary or vacation days?",,4,2,3
+01K6KNP9NEZ8WABPRK50JZE3CM,HR,HR,1,Pre-BATNA,"and more broadly, what are your priorities across the package?",,4,3,3
+01K6KNP9NEZ8WABPRK50JZE3CM,Employee,Employee,3,Pre-BATNA,I'm targeting a salary of $120k.,,5,1,1
+01K6KNPC9W1A1XV65XM90F4895,HR,HR,1,Pre-BATNA,hi! nice to meet you.,,1,1,1
+01K6KNPC9W1A1XV65XM90F4895,Employee,Employee,4,Post-BATNA,"120k salary, 20% bonus, 20k in stock options, and 30 vacation days.",,2,1,2
+01K6KNPC9W1A1XV65XM90F4895,Employee,Employee,4,Post-BATNA,where do you have flexibility?,,2,2,2
+01K6KNPC9W1A1XV65XM90F4895,HR,HR,4,Post-BATNA,"we can do $90k salary, $20k stock, and 15 vacation days.",,3,1,2
+01K6KNPC9W1A1XV65XM90F4895,HR,HR,4,Post-BATNA,"that's balancing toward salary, since time off stays capped there.",,3,2,2
+01K6KNPC9W1A1XV65XM90F4895,Employee,Employee,6,Post-BATNA,"120k salary, 10% bonus, 5k stock options, and 15 days.",,4,1,2
+01K6KNPC9W1A1XV65XM90F4895,Employee,Employee,6,Post-BATNA,that closes it for me.,,4,2,2
+01K6KNPEYKS2Z2XC6FBRTGY96W,HR,HR,0,Pre-BATNA,"hi, nice to meet you",,1,1,1
+01K6KNPEYKS2Z2XC6FBRTGY96W,Employee,Employee,1,Pre-BATNA,hi there! nice to meet you.,,2,1,1
+01K6KNPEYKS2Z2XC6FBRTGY96W,HR,HR,1,Pre-BATNA,hi,,3,1,2
+01K6KNPEYKS2Z2XC6FBRTGY96W,HR,HR,1,Pre-BATNA,"we're starting at $80k salary, no bonus, 20k stock options, and 10 vacation days.",,3,2,2
+01K6KNPEYKS2Z2XC6FBRTGY96W,Employee,Employee,1,Pre-BATNA,hi,,4,1,2
+01K6KNPEYKS2Z2XC6FBRTGY96W,Employee,Employee,1,Pre-BATNA,"I'm targeting $120k salary, 20% bonus, 20k stock options, and 30 vacation days.",,4,2,2
+01K6KNPEYKS2Z2XC6FBRTGY96W,HR,HR,2,Pre-BATNA,thanks for laying that out.,,5,1,3
+01K6KNPEYKS2Z2XC6FBRTGY96W,HR,HR,2,Pre-BATNA,"to start, I can offer $90k salary, 5% bonus, $10k in stock, and 10 vacation days.",,5,2,3
+01K6KNPEYKS2Z2XC6FBRTGY96W,HR,HR,2,Pre-BATNA,"if you want movement, which pieces matter most?",,5,3,3
+01K6KNPEYKS2Z2XC6FBRTGY96W,Employee,Employee,2,Pre-BATNA,let's keep salary at 110k and move stock to 15k.,,6,1,2
+01K6KNPEYKS2Z2XC6FBRTGY96W,Employee,Employee,2,Pre-BATNA,is there more flexibility on salary or bonus?,,6,2,2
+01K6KNPEYKS2Z2XC6FBRTGY96W,HR,HR,3,Pre-BATNA,20k stock works.,,7,1,2
+01K6KNPEYKS2Z2XC6FBRTGY96W,HR,HR,3,Pre-BATNA,Salary at 90k.,,7,2,2
+01K6KNPEYKS2Z2XC6FBRTGY96W,Employee,Employee,3,Pre-BATNA,"vacation is settled at 20 days, and bonus looks aligned at 10%.",,8,1,2
+01K6KNPEYKS2Z2XC6FBRTGY96W,Employee,Employee,3,Pre-BATNA,"to close this out, i'm at 100k salary and 20k stock.",,8,2,2
+01K6KNPEYKS2Z2XC6FBRTGY96W,HR,HR,3,Pre-BATNA,20k stock works.,,9,1,2
+01K6KNPEYKS2Z2XC6FBRTGY96W,HR,HR,3,Pre-BATNA,Salary would be 90k.,,9,2,2
+01K6KNPEYKS2Z2XC6FBRTGY96W,Employee,Employee,3,Pre-BATNA,Let's talk about vacation days next.,,10,1,1
+01K6KNPHJ8H4MQYCDDZ3EZN0P3,Employee,Employee,0,Pre-BATNA,hi there! nice to meet you.,,1,1,1
+01K6KNPHJ8H4MQYCDDZ3EZN0P3,HR,HR,1,Pre-BATNA,hi there!,,2,1,2
+01K6KNPHJ8H4MQYCDDZ3EZN0P3,HR,HR,1,Pre-BATNA,nice to meet you,,2,2,2
+01K6KNPHJ8H4MQYCDDZ3EZN0P3,Employee,Employee,1,Pre-BATNA,"hello! i'm doing well, thanks. nice to meet you.",,3,1,1
+01K6KNPHJ8H4MQYCDDZ3EZN0P3,HR,HR,2,Pre-BATNA,hi there!,,4,1,2
+01K6KNPHJ8H4MQYCDDZ3EZN0P3,HR,HR,2,Pre-BATNA,hope you're doing well today.,,4,2,2
+01K6KNPHJ8H4MQYCDDZ3EZN0P3,Employee,Employee,2,Pre-BATNA,"salary, bonus, stock, and vacation are the main areas.",,5,1,3
+01K6KNPHJ8H4MQYCDDZ3EZN0P3,Employee,Employee,2,Pre-BATNA,"i'd be looking for $120k salary, a 20% bonus, 20k in stock options, and 30 vacation days.",,5,2,3
+01K6KNPHJ8H4MQYCDDZ3EZN0P3,Employee,Employee,2,Pre-BATNA,where do you have flexibility?,,5,3,3
+01K6KNPHJ8H4MQYCDDZ3EZN0P3,HR,HR,2,Pre-BATNA,we can do 10 vacation days.,,6,1,2
+01K6KNPHJ8H4MQYCDDZ3EZN0P3,HR,HR,2,Pre-BATNA,"the package would be $80k salary, 0% bonus, and 20k stock options.",,6,2,2
+01K6KNPHJ8H4MQYCDDZ3EZN0P3,Employee,Employee,2,Pre-BATNA,could we do $120k salary and 20k stock options?,,7,1,1
+01K6KNPHJ8H4MQYCDDZ3EZN0P3,HR,HR,5,Post-BATNA,hi!,,8,1,3
+01K6KNPHJ8H4MQYCDDZ3EZN0P3,HR,HR,5,Post-BATNA,"we can do $80k salary, $20k in stock options, and 10 vacation days.",,8,2,3
+01K6KNPHJ8H4MQYCDDZ3EZN0P3,HR,HR,5,Post-BATNA,no bonus.,,8,3,3
+01K6KNPHJ8H4MQYCDDZ3EZN0P3,Employee,Employee,5,Post-BATNA,the bonus and stock look strong.,,9,1,2
+01K6KNPHJ8H4MQYCDDZ3EZN0P3,Employee,Employee,5,Post-BATNA,"if you can do $110k salary, that gets us much closer.",,9,2,2
+01K6KNPHJ8H4MQYCDDZ3EZN0P3,HR,HR,5,Post-BATNA,"ok, we're set on compensation then?",,10,1,1
+01K6KNPHJ8H4MQYCDDZ3EZN0P3,Employee,Employee,6,Post-BATNA,"great. if we can make the salary $110k, we're set.",,11,1,1
+01K6KNPPQ65D9XSXC23GV022SG,HR,HR,1,Pre-BATNA,got it.,,1,1,2
+01K6KNPPQ65D9XSXC23GV022SG,HR,HR,1,Pre-BATNA,can you restate the salary and bonus you’re asking for?,,1,2,2
+01K6KNPPQ65D9XSXC23GV022SG,Employee,Employee,2,Pre-BATNA,got it.,,2,1,3
+01K6KNPPQ65D9XSXC23GV022SG,Employee,Employee,2,Pre-BATNA,what range is workable on salary?,,2,2,3
+01K6KNPPQ65D9XSXC23GV022SG,Employee,Employee,2,Pre-BATNA,and is there more room in base pay or bonus?,,2,3,3
+01K6KNPPQ65D9XSXC23GV022SG,HR,HR,2,Pre-BATNA,"yeah, let's do it here in chat.",,3,1,3
+01K6KNPPQ65D9XSXC23GV022SG,HR,HR,2,Pre-BATNA,"initial package: $80k salary, no bonus, 20k stock options, 10 vacation days.",,3,2,3
+01K6KNPPQ65D9XSXC23GV022SG,HR,HR,2,Pre-BATNA,"if you want to trade on any of those, tell me your priorities.",,3,3,3
+01K6KNPPQ65D9XSXC23GV022SG,Employee,Employee,2,Pre-BATNA,what are your best numbers on salary and bonus?,,4,1,2
+01K6KNPPQ65D9XSXC23GV022SG,Employee,Employee,2,Pre-BATNA,"if there's more room on one, tell me which.",,4,2,2
+01K6KNPPQ65D9XSXC23GV022SG,HR,HR,2,Pre-BATNA,ok,,5,1,3
+01K6KNPPQ65D9XSXC23GV022SG,HR,HR,2,Pre-BATNA,"to start, I can do $80k salary, no bonus, 20k stock options, and 10 vacation days.",,5,2,3
+01K6KNPPQ65D9XSXC23GV022SG,HR,HR,2,Pre-BATNA,there may be some flexibility in how we structure it.,,5,3,3
+01K6KNPPQ65D9XSXC23GV022SG,Employee,Employee,2,Pre-BATNA,understood.,,6,1,3
+01K6KNPPQ65D9XSXC23GV022SG,Employee,Employee,2,Pre-BATNA,"i'm at $120k salary, 20% bonus, $20k stock, and 30 vacation days.",,6,2,3
+01K6KNPPQ65D9XSXC23GV022SG,Employee,Employee,2,Pre-BATNA,"if you can't do all of that, which piece is hardest?",,6,3,3
+01K6KNPPQ65D9XSXC23GV022SG,HR,HR,2,Pre-BATNA,ok,,7,1,3
+01K6KNPPQ65D9XSXC23GV022SG,HR,HR,2,Pre-BATNA,$100k salary and 20k stock options.,,7,2,3
+01K6KNPPQ65D9XSXC23GV022SG,HR,HR,2,Pre-BATNA,what do you want to do on bonus and vacation?,,7,3,3
+01K6KNPPQ65D9XSXC23GV022SG,Employee,Employee,3,Pre-BATNA,got it on salary.,,8,1,2
+01K6KNPPQ65D9XSXC23GV022SG,Employee,Employee,3,Pre-BATNA,i'd need a 20% bonus and 10k stock options.,,8,2,2
+01K6KNPPQ65D9XSXC23GV022SG,HR,HR,3,Pre-BATNA,100k salary and 20k stock options.,,9,1,2
+01K6KNPPQ65D9XSXC23GV022SG,HR,HR,3,Pre-BATNA,what are you looking for on bonus and vacation?,,9,2,2
+01K6KNPPQ65D9XSXC23GV022SG,Employee,Employee,3,Pre-BATNA,"for bonus, 10%.",,10,1,3
+01K6KNPPQ65D9XSXC23GV022SG,Employee,Employee,3,Pre-BATNA,"for stock, 20,000 options.",,10,2,3
+01K6KNPPQ65D9XSXC23GV022SG,Employee,Employee,3,Pre-BATNA,we can talk vacation next.,,10,3,3
+01K6KNPPQ65D9XSXC23GV022SG,HR,HR,3,Pre-BATNA,got it.,,11,1,3
+01K6KNPPQ65D9XSXC23GV022SG,HR,HR,3,Pre-BATNA,"i can do 20,000 stock options and 10 vacation days.",,11,2,3
+01K6KNPPQ65D9XSXC23GV022SG,HR,HR,3,Pre-BATNA,what would you want on bonus?,,11,3,3
+01K6KNPPQ65D9XSXC23GV022SG,Employee,Employee,3,Pre-BATNA,"i’d need 100k salary, 10% bonus, 20k stock, and 30 days.",,12,1,1
+01K6KNPPQ65D9XSXC23GV022SG,HR,HR,3,Pre-BATNA,"i can do $100k salary, 10% bonus, 20k stock options, and 15 vacation days.",,13,1,2
+01K6KNPPQ65D9XSXC23GV022SG,HR,HR,3,Pre-BATNA,that's the best balanced package i can offer.,,13,2,2
+01K6KNPPQ65D9XSXC23GV022SG,Employee,Employee,3,Pre-BATNA,"between bonus and vacation days, where do you have more flexibility?",,14,1,1
+01K6KNPPQ65D9XSXC23GV022SG,HR,HR,4,Post-BATNA,"90,000 salary and 15 vacation days work.",,15,1,3
+01K6KNPPQ65D9XSXC23GV022SG,HR,HR,4,Post-BATNA,"On the remaining pieces, I can do a 5% bonus and 20,000 stock options.",,15,2,3
+01K6KNPPQ65D9XSXC23GV022SG,HR,HR,4,Post-BATNA,"if that works, we can wrap this up.",,15,3,3
+01K6KNPPQ65D9XSXC23GV022SG,Employee,Employee,4,Post-BATNA,got it.,,16,1,3
+01K6KNPPQ65D9XSXC23GV022SG,Employee,Employee,4,Post-BATNA,90k works on salary.,,16,2,3
+01K6KNPPQ65D9XSXC23GV022SG,Employee,Employee,4,Post-BATNA,which has more room: bonus or vacation days?,,16,3,3
+01K6KNPPQ65D9XSXC23GV022SG,HR,HR,4,Post-BATNA,90k is settled.,,17,1,3
+01K6KNPPQ65D9XSXC23GV022SG,HR,HR,4,Post-BATNA,I can move the bonus to 5%.,,17,2,3
+01K6KNPPQ65D9XSXC23GV022SG,HR,HR,4,Post-BATNA,is bonus or more time off more important to close this?,,17,3,3
+01K6KNPS9NMVPT4M9PW49AM3H9,Employee,Employee,0,Pre-BATNA,"hi! i'm doing well, thanks — how are you?",,1,1,1
+01K6KNPS9NMVPT4M9PW49AM3H9,HR,HR,1,Pre-BATNA,hi!,,2,1,2
+01K6KNPS9NMVPT4M9PW49AM3H9,HR,HR,1,Pre-BATNA,hope you're doing well today,,2,2,2
+01K6KNPS9NMVPT4M9PW49AM3H9,Employee,Employee,1,Pre-BATNA,hi there!,,3,1,2
+01K6KNPS9NMVPT4M9PW49AM3H9,Employee,Employee,1,Pre-BATNA,"doing well, hope your day’s going smoothly.",,3,2,2
+01K6KNPS9NMVPT4M9PW49AM3H9,HR,HR,1,Pre-BATNA,"we can do 90k salary, no bonus, 20k stock, and 10 vacation days.",,4,1,2
+01K6KNPS9NMVPT4M9PW49AM3H9,HR,HR,1,Pre-BATNA,"if you'd like, we can talk through tradeoffs from there.",,4,2,2
+01K6KNPS9NMVPT4M9PW49AM3H9,Employee,Employee,2,Pre-BATNA,"is bonus off the table, or just not included yet?",,5,1,2
+01K6KNPS9NMVPT4M9PW49AM3H9,Employee,Employee,2,Pre-BATNA,where do you have more flexibility: salary or bonus?,,5,2,2
+01K6KNPS9NMVPT4M9PW49AM3H9,HR,HR,2,Pre-BATNA,"i can move to 100k salary, 0 bonus, 10k stock options, and 15 vacation days.",,6,1,2
+01K6KNPS9NMVPT4M9PW49AM3H9,HR,HR,2,Pre-BATNA,which term matters most?,,6,2,2
+01K6KNPS9NMVPT4M9PW49AM3H9,Employee,Employee,3,Pre-BATNA,got it.,,7,1,2
+01K6KNPS9NMVPT4M9PW49AM3H9,Employee,Employee,3,Pre-BATNA,"if salary is capped at 95,000, is there any flexibility on bonus or vacation days?",,7,2,2
+01K6KNPS9NMVPT4M9PW49AM3H9,HR,HR,3,Pre-BATNA,i can do 100k salary and 20 vacation days.,,8,1,1
+01K6KNPS9NMVPT4M9PW49AM3H9,Employee,Employee,4,Post-BATNA,i see you're holding on stock and vacation.,,9,1,2
+01K6KNPS9NMVPT4M9PW49AM3H9,Employee,Employee,4,Post-BATNA,"could you do $100,000 salary and a 20% bonus?",,9,2,2
+01K6KNPS9NMVPT4M9PW49AM3H9,HR,HR,4,Post-BATNA,i see the flexibility there.,,10,1,3
+01K6KNPS9NMVPT4M9PW49AM3H9,HR,HR,4,Post-BATNA,"we can move vacation to 20 days, but bonus stays at 0%.",,10,2,3
+01K6KNPS9NMVPT4M9PW49AM3H9,HR,HR,4,Post-BATNA,does that close the gap for you?,,10,3,3
+01K6KNPS9NMVPT4M9PW49AM3H9,Employee,Employee,4,Post-BATNA,"100,000 salary works.",,11,1,3
+01K6KNPS9NMVPT4M9PW49AM3H9,Employee,Employee,4,Post-BATNA,"If you can do a 15% bonus and 25 vacation days, I can finalize.",,11,2,3
+01K6KNPS9NMVPT4M9PW49AM3H9,Employee,Employee,4,Post-BATNA,"20,000 in stock options is fine.",,11,3,3
+01K6KNPS9NMVPT4M9PW49AM3H9,HR,HR,5,Post-BATNA,we can move to 20 vacation days.,,12,1,2
+01K6KNPS9NMVPT4M9PW49AM3H9,HR,HR,5,Post-BATNA,that's near our limit.,,12,2,2
+01K6KNPS9NMVPT4M9PW49AM3H9,Employee,Employee,5,Post-BATNA,i hear you.,,13,1,3
+01K6KNPS9NMVPT4M9PW49AM3H9,Employee,Employee,5,Post-BATNA,"let's leave the 20,000 stock as is.",,13,2,3
+01K6KNPS9NMVPT4M9PW49AM3H9,Employee,Employee,5,Post-BATNA,can we close at a 15% bonus and 25 vacation days?,,13,3,3
+01K6KNPS9NMVPT4M9PW49AM3H9,HR,HR,5,Post-BATNA,bonus stays at 0. we can do 20 vacation days.,,14,1,4
+01K6KNPS9NMVPT4M9PW49AM3H9,HR,HR,5,Post-BATNA,salary and stock are already aligned.,,14,2,4
+01K6KNPS9NMVPT4M9PW49AM3H9,HR,HR,5,Post-BATNA,that's a meaningful stretch for us.,,14,3,4
+01K6KNPS9NMVPT4M9PW49AM3H9,HR,HR,5,Post-BATNA,"if that works, we can close this out.",,14,4,4
+01K6KNPS9NMVPT4M9PW49AM3H9,Employee,Employee,6,Post-BATNA,i'll have to pass.,,15,1,1
+01K6KNPS9NMVPT4M9PW49AM3H9,HR,HR,6,Post-BATNA,25 vacation days.,,16,1,3
+01K6KNPS9NMVPT4M9PW49AM3H9,HR,HR,6,Post-BATNA,that's our final package.,,16,2,3
+01K6KNPS9NMVPT4M9PW49AM3H9,HR,HR,6,Post-BATNA,confirm and you're set for Monday.,,16,3,3
+01K6KNPS9NMVPT4M9PW49AM3H9,Employee,Employee,6,Post-BATNA,25 days and I'm ready to sign.,,17,1,1
+01K6KNPXWD6KSSJKE90QRQNT95,Employee,Employee,0,Pre-BATNA,hi there!,,1,1,1
+01K6KNPXWD6KSSJKE90QRQNT95,HR,HR,0,Pre-BATNA,"hi there, good to meet you",,2,1,1
+01K6KNPXWD6KSSJKE90QRQNT95,Employee,Employee,1,Pre-BATNA,"120k salary, 20% bonus, 20k in stock options, and 30 vacation days.",,3,1,2
+01K6KNPXWD6KSSJKE90QRQNT95,Employee,Employee,1,Pre-BATNA,"if you have specifics in mind, send them over.",,3,2,2
+01K6KNPXWD6KSSJKE90QRQNT95,HR,HR,2,Pre-BATNA,"$80k salary, $20k in stock options, and 10 vacation days.",,4,1,1
+01K6KNPXWD6KSSJKE90QRQNT95,Employee,Employee,2,Pre-BATNA,"120k salary, 20% bonus, 20k in stock options, 30 vacation days.",,5,1,2
+01K6KNPXWD6KSSJKE90QRQNT95,Employee,Employee,2,Pre-BATNA,"If you need movement, which area matters most?",,5,2,2
+01K6KNPXWD6KSSJKE90QRQNT95,HR,HR,3,Pre-BATNA,i saw that.,,6,1,3
+01K6KNPXWD6KSSJKE90QRQNT95,HR,HR,3,Pre-BATNA,"our starting package is $80k salary, 0% bonus, 20k stock options, and 10 vacation days.",,6,2,3
+01K6KNPXWD6KSSJKE90QRQNT95,HR,HR,3,Pre-BATNA,"if you want movement, which issue matters most?",,6,3,3
+01K6KNPXWD6KSSJKE90QRQNT95,Employee,Employee,3,Pre-BATNA,maybe. where do you actually have room to move?,,7,1,2
+01K6KNPXWD6KSSJKE90QRQNT95,Employee,Employee,3,Pre-BATNA,"is bonus really capped, or can you do more on stock instead?",,7,2,2
+01K6KNPXWD6KSSJKE90QRQNT95,HR,HR,3,Pre-BATNA,"90k salary, 0 bonus, 20k stock, 10 days vacation.",,8,1,2
+01K6KNPXWD6KSSJKE90QRQNT95,HR,HR,3,Pre-BATNA,"balanced response to your movement. if you want to tweak one thing, which matters most?",,8,2,2
+01K6KNPXWD6KSSJKE90QRQNT95,Employee,Employee,3,Pre-BATNA,what salary range are you targeting?,,9,1,1
+01K6KNPXWD6KSSJKE90QRQNT95,HR,HR,3,Pre-BATNA,90k salary.,,10,1,2
+01K6KNPXWD6KSSJKE90QRQNT95,HR,HR,3,Pre-BATNA,"If salary is the main gap, we should trade on bonus, stock, or vacation too.",,10,2,2
+01K6KNPXWD6KSSJKE90QRQNT95,Employee,Employee,3,Pre-BATNA,what midpoint do you have in mind on salary?,,11,1,1
+01K6KNPXWD6KSSJKE90QRQNT95,HR,HR,4,Post-BATNA,ok,,12,1,2
+01K6KNPXWD6KSSJKE90QRQNT95,HR,HR,4,Post-BATNA,"between bonus and stock options, which matters more to you?",,12,2,2
+01K6KNPXWD6KSSJKE90QRQNT95,Employee,Employee,4,Post-BATNA,where do you have flexibility between salary and bonus?,,13,1,2
+01K6KNPXWD6KSSJKE90QRQNT95,Employee,Employee,4,Post-BATNA,"if salary is tighter, I can shape around bonus.",,13,2,2
+01K6KNPXWD6KSSJKE90QRQNT95,HR,HR,4,Post-BATNA,understood.,,14,1,2
+01K6KNPXWD6KSSJKE90QRQNT95,HR,HR,4,Post-BATNA,"if salary comes down, would you rather make it up in bonus or in equity/vacation?",,14,2,2
+01K6KNPXWD6KSSJKE90QRQNT95,Employee,Employee,4,Post-BATNA,"i can do $110k salary, 20% bonus, 20k stock, and 30 vacation days.",,15,1,2
+01K6KNPXWD6KSSJKE90QRQNT95,Employee,Employee,4,Post-BATNA,that feels like a balanced package.,,15,2,2
+01K6KNPXWD6KSSJKE90QRQNT95,HR,HR,4,Post-BATNA,"we can do 80k salary, 20k stock options, and 25 vacation days.",,16,1,2
+01K6KNPXWD6KSSJKE90QRQNT95,HR,HR,4,Post-BATNA,no bonus.,,16,2,2
+01K6KNPXWD6KSSJKE90QRQNT95,Employee,Employee,5,Post-BATNA,"let's skip the coin—100 salary, 15 bonus.",,17,1,1
+01K6KNPXWD6KSSJKE90QRQNT95,HR,HR,5,Post-BATNA,"here's a practical near-final package: 80k salary, 0 bonus, 20k stock options, 25 vacation days.",,18,1,2
+01K6KNPXWD6KSSJKE90QRQNT95,HR,HR,5,Post-BATNA,yes or no?,,18,2,2
+01K6KNPXWD6KSSJKE90QRQNT95,Employee,Employee,5,Post-BATNA,focused on the package. salary and bonus?,,19,1,1
+01K6KNPXWD6KSSJKE90QRQNT95,HR,HR,6,Post-BATNA,"80k salary, 0 bonus, 20k stock options, 25 vacation days.",,20,1,2
+01K6KNPXWD6KSSJKE90QRQNT95,HR,HR,6,Post-BATNA,best and final.,,20,2,2
+01K6KNPXWD6KSSJKE90QRQNT95,Employee,Employee,6,Post-BATNA,i'd rather keep it to the actual terms.,,21,1,3
+01K6KNPXWD6KSSJKE90QRQNT95,Employee,Employee,6,Post-BATNA,"120k salary, 15% bonus, 15k stock, 25 vacation.",,21,2,3
+01K6KNPXWD6KSSJKE90QRQNT95,Employee,Employee,6,Post-BATNA,that's a fair close.,,21,3,3
+01K6KNPXWD6KSSJKE90QRQNT95,HR,HR,6,Post-BATNA,understood.,,22,1,3
+01K6KNPXWD6KSSJKE90QRQNT95,HR,HR,6,Post-BATNA,"final package: $80k salary, $0 bonus, 20k stock options, 25 vacation days.",,22,2,3
+01K6KNPXWD6KSSJKE90QRQNT95,HR,HR,6,Post-BATNA,good-faith offer given your backup option.,,22,3,3
+01K6KNPXWD6KSSJKE90QRQNT95,Employee,Employee,6,Post-BATNA,no gambling.,,23,1,3
+01K6KNPXWD6KSSJKE90QRQNT95,Employee,Employee,6,Post-BATNA,"my final package is $110k salary, 20% bonus, 20k stock options, and 25 vacation days.",,23,2,3
+01K6KNPXWD6KSSJKE90QRQNT95,Employee,Employee,6,Post-BATNA,"yes on that, or counter a specific component.",,23,3,3
+01K6KNPXWD6KSSJKE90QRQNT95,HR,HR,6,Post-BATNA,"80k salary, 0% bonus, 20k stock options, 25 vacation days.",,24,1,2
+01K6KNPXWD6KSSJKE90QRQNT95,HR,HR,6,Post-BATNA,that's the package.,,24,2,2
+01K6KNPXWD6KSSJKE90QRQNT95,Employee,Employee,6,Post-BATNA,i'm not going to gamble this.,,25,1,3
+01K6KNPXWD6KSSJKE90QRQNT95,Employee,Employee,6,Post-BATNA,"best and final: 120k salary, 20% bonus, 20k stock, 25 days.",,25,2,3
+01K6KNPXWD6KSSJKE90QRQNT95,Employee,Employee,6,Post-BATNA,yes or no?,,25,3,3
+01K6KNQ07HMPBQ1TNRN8DFAPBM,Employee,Employee,0,Pre-BATNA,"hi there, nice to connect.",,1,1,1
+01K6KNQ07HMPBQ1TNRN8DFAPBM,HR,HR,1,Pre-BATNA,"hi, nice to meet you",,2,1,1
+01K6KNQ07HMPBQ1TNRN8DFAPBM,Employee,Employee,1,Pre-BATNA,hi,,3,1,2
+01K6KNQ07HMPBQ1TNRN8DFAPBM,Employee,Employee,1,Pre-BATNA,"for this role, I'd be looking for $120k salary, 20% bonus, 20k in stock options, and 30 vacation days.",,3,2,2
+01K6KNQ07HMPBQ1TNRN8DFAPBM,HR,HR,1,Pre-BATNA,hi,,4,1,3
+01K6KNQ07HMPBQ1TNRN8DFAPBM,HR,HR,1,Pre-BATNA,we can do $120k salary and 20k stock options.,,4,2,3
+01K6KNQ07HMPBQ1TNRN8DFAPBM,HR,HR,1,Pre-BATNA,bonus and vacation?,,4,3,3
+01K6KNQ07HMPBQ1TNRN8DFAPBM,Employee,Employee,1,Pre-BATNA,"yes, $120k base salary.",,5,1,1
+01K6KNQ07HMPBQ1TNRN8DFAPBM,HR,HR,1,Pre-BATNA,"between bonus and vacation, which matters more to you?",,6,1,2
+01K6KNQ07HMPBQ1TNRN8DFAPBM,HR,HR,1,Pre-BATNA,or is there a tradeoff you'd want between the two?,,6,2,2
+01K6KNQ07HMPBQ1TNRN8DFAPBM,Employee,Employee,1,Pre-BATNA,salary at $120k.,,7,1,3
+01K6KNQ07HMPBQ1TNRN8DFAPBM,Employee,Employee,1,Pre-BATNA,20% bonus and 30 vacation days are next priorities.,,7,2,3
+01K6KNQ07HMPBQ1TNRN8DFAPBM,Employee,Employee,1,Pre-BATNA,and 20k in stock options.,,7,3,3
+01K6KNQ07HMPBQ1TNRN8DFAPBM,HR,HR,1,Pre-BATNA,got it.,,8,1,3
+01K6KNQ07HMPBQ1TNRN8DFAPBM,HR,HR,1,Pre-BATNA,what are you targeting on vacation days and bonus?,,8,2,3
+01K6KNQ07HMPBQ1TNRN8DFAPBM,HR,HR,1,Pre-BATNA,"if there's flexibility there, it may help on salary.",,8,3,3
+01K6KNQ07HMPBQ1TNRN8DFAPBM,Employee,Employee,2,Pre-BATNA,that's too low for me as a package.,,9,1,2
+01K6KNQ07HMPBQ1TNRN8DFAPBM,Employee,Employee,2,Pre-BATNA,"I'd be looking for $120k salary, 25 vacation days, 5% bonus, and 20k in stock options.",,9,2,2
+01K6KNQ07HMPBQ1TNRN8DFAPBM,HR,HR,4,Post-BATNA,"here's the package: $110k salary, 5% bonus, $20k in stock options, and 10 vacation days.",,10,1,2
+01K6KNQ07HMPBQ1TNRN8DFAPBM,HR,HR,4,Post-BATNA,"if you want movement, tell me whether salary or vacation matters more.",,10,2,2
+01K6KNQ07HMPBQ1TNRN8DFAPBM,Employee,Employee,5,Post-BATNA,ok — how much room is there on salary and vacation?,,11,1,2
+01K6KNQ07HMPBQ1TNRN8DFAPBM,Employee,Employee,5,Post-BATNA,"if bonus stays at 5%, can you do more than 100,000 and 4 weeks?",,11,2,2
+01K6KNQ07HMPBQ1TNRN8DFAPBM,HR,HR,5,Post-BATNA,i can do $110k salary.,,12,1,3
+01K6KNQ07HMPBQ1TNRN8DFAPBM,HR,HR,5,Post-BATNA,vacation is the tougher constraint.,,12,2,3
+01K6KNQ07HMPBQ1TNRN8DFAPBM,HR,HR,5,Post-BATNA,"want to react on vacation, or trade there against bonus or stock?",,12,3,3

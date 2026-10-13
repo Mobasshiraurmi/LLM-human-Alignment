@@ -1,0 +1,37 @@
+\begin{table*}[t]
+\centering
+\begin{tabular}{lcccccc}
+\toprule
+\multirow{3}{*}{Agent} & \multicolumn{6}{c}{Metrics} \\
+\cmidrule(lr){2-7}
+ & \multicolumn{3}{c}{Behavior Mix} & \multicolumn{2}{c}{Phase Dynamics} & \multicolumn{1}{c}{Message Length} \\
+\cmidrule(lr){2-4} \cmidrule(lr){5-6} \cmidrule(lr){7-7}
+ & BG-All$^\ddagger$ & BG-Pre$^\ddagger$ & BG-Post$^\ddagger$ & PPG$^\ddagger$ & $\Delta$DG$^\dagger$ & LenG$^\ddagger$ \\
+\midrule
+multi-agent (two_agents.py planner+realizer), generating LLM Gemini 2.5 Pro & -0.012$\downarrow$ (-14\%) & -0.019$\downarrow$$^{*}$ (-22\%) & -0.017$\downarrow$ (-10\%) & -0.020$\downarrow$ (-3\%) & +0.154$^{**}$ (+137\%) & -0.046$\downarrow$ (-5\%) \\
+\midrule
+Human & Avg. Within-Human & Avg. Within-Human & Avg. Within-Human & Avg. Within-Human & Avg. Human & Avg. Within-Human \\
+(Baseline, 47 dyads) & JSD: 0.086 & JSD: 0.088 & JSD: 0.167 & L2: 0.629 & $\Delta$Dist: 0.113 & L2: 0.841 \\
+\bottomrule
+\end{tabular}
+\caption{Table 1: Divergence metric results for multi-agent (two_agents.py planner+realizer), generating LLM Gemini 2.5 Pro compared to human negotiators.}
+\end{table*}
+
+\begin{table*}[t]
+\centering
+\begin{tabular}{lcccccc}
+\toprule
+\multirow{3}{*}{Agent} & \multicolumn{6}{c}{Metrics} \\
+\cmidrule(lr){2-7}
+ & \multicolumn{3}{c}{Pre-BATNA share} & \multicolumn{3}{c}{Post-BATNA share} \\
+\cmidrule(lr){2-4} \cmidrule(lr){5-7}
+ & Neutral$^\dagger$ & Integrative$^\dagger$ & Distributive$^\dagger$ & Neutral$^\dagger$ & Integrative$^\dagger$ & Distributive$^\dagger$ \\
+\midrule
+multi-agent (two_agents.py planner+realizer), generating LLM Gemini 2.5 Pro & -0.030 (-9\%) & -0.050 (-9\%) & +0.080$^{***}$ (+80\%) & -0.026 (-15\%) & -0.208$^{***}$ (-34\%) & +0.234$^{***}$ (+109\%) \\
+\midrule
+Human & Avg. Human & Avg. Human & Avg. Human & Avg. Human & Avg. Human & Avg. Human \\
+(Baseline, 47 dyads) & Neutral share: 0.342 & Integrative share: 0.557 & Distributive share: 0.100 & Neutral share: 0.178 & Integrative share: 0.608 & Distributive share: 0.214 \\
+\bottomrule
+\end{tabular}
+\caption{Table 2: Behavior-share gaps by phase for multi-agent (two_agents.py planner+realizer), generating LLM Gemini 2.5 Pro compared to human negotiators.}
+\end{table*}

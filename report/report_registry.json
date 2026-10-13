@@ -1,0 +1,50 @@
+{
+  "models": {
+    "title": "Model-wise comparison: GPT-5.4 vs Claude Sonnet 4.6 vs Gemini 2.5 Pro (replay)",
+    "who": "each architecture under each generating LLM (replay)",
+    "rows": [
+      {"label": "Single (GPT-5.4)", "design": "replay", "results": "data/replay/single/results.csv", "note": ""},
+      {"label": "Single (Claude Sonnet 4.6)", "design": "replay", "results": "data/replay/single_claude-sonnet-4.6/results.csv", "note": ""},
+      {"label": "Single (Gemini 2.5 Pro)", "design": "replay", "results": "data/replay/single_gemini-2.5-pro/results.csv", "note": ""},
+      {"label": "Multi (GPT-5.4)", "design": "replay", "results": "data/replay/multi/results.csv", "note": ""},
+      {"label": "Multi (Claude Sonnet 4.6)", "design": "replay", "results": "data/replay/multi_claude-sonnet-4.6/results.csv", "note": ""},
+      {"label": "Multi (Gemini 2.5 Pro)", "design": "replay", "results": "data/replay/multi_gemini-2.5-pro/results.csv", "note": ""},
+      {"label": "Single+Personality (GPT-5.4)", "design": "replay", "results": "data/replay/single_personality/results.csv", "note": ""},
+      {"label": "Single+Personality (Claude Sonnet 4.6)", "design": "replay", "results": "data/replay/single_personality_claude-sonnet-4.6/results.csv", "note": ""},
+      {"label": "Single+Personality (Gemini 2.5 Pro)", "design": "replay", "results": "data/replay/single_personality_gemini-2.5-pro/results.csv", "note": ""}
+    ]
+  },
+  "types_single": {
+    "title": "Type-wise comparison: replay vs free-running, single-agent baseline",
+    "who": "the single-agent baseline in the replay and free-running designs, under each model",
+    "rows": [
+      {"label": "Single — replay (GPT-5.4)", "design": "replay", "results": "data/replay/single/results.csv", "note": ""},
+      {"label": "Single — free run (GPT-5.4)", "design": "freerun", "results": "data/freerun/single/results.csv", "note": ""},
+      {"label": "Single — replay (Claude Sonnet 4.6)", "design": "replay", "results": "data/replay/single_claude-sonnet-4.6/results.csv", "note": ""},
+      {"label": "Single — free run (Claude Sonnet 4.6)", "design": "freerun", "results": "data/freerun/single_claude-sonnet-4.6/results.csv", "note": ""},
+      {"label": "Single — replay (Gemini 2.5 Pro)", "design": "replay", "results": "data/replay/single_gemini-2.5-pro/results.csv", "note": ""},
+      {"label": "Single — free run (Gemini 2.5 Pro)", "design": "freerun", "results": "data/freerun/single_gemini-2.5-pro/results.csv", "note": ""}
+    ]
+  },
+  "types_multi": {
+    "title": "Type-wise comparison: replay vs free-running, multi-agent",
+    "who": "the multi-agent architecture in the replay and free-running designs, under each model",
+    "rows": [
+      {"label": "Multi — replay (GPT-5.4)", "design": "replay", "results": "data/replay/multi/results.csv", "note": ""},
+      {"label": "Multi — free run (GPT-5.4)", "design": "freerun", "results": "data/freerun/multi/results.csv", "note": ""},
+      {"label": "Multi — replay (Claude Sonnet 4.6)", "design": "replay", "results": "data/replay/multi_claude-sonnet-4.6/results.csv", "note": ""},
+      {"label": "Multi — free run (Claude Sonnet 4.6)", "design": "freerun", "results": "data/freerun/multi_claude-sonnet-4.6/results.csv", "note": ""},
+      {"label": "Multi — replay (Gemini 2.5 Pro)", "design": "replay", "results": "data/replay/multi_gemini-2.5-pro/results.csv", "note": ""},
+      {"label": "Multi — free run (Gemini 2.5 Pro)", "design": "freerun", "results": "data/freerun/multi_gemini-2.5-pro/results.csv", "note": ""}
+    ]
+  },
+  "architectures": {
+    "title": "Architecture-wise comparison: GPT-5.4 (replay)",
+    "who": "each architecture on GPT-5.4 (replay)",
+    "rows": [
+      {"label": "Single (GPT-5.4)", "design": "replay", "results": "data/replay/single/results.csv", "note": ""},
+      {"label": "Multi (GPT-5.4)", "design": "replay", "results": "data/replay/multi/results.csv", "note": ""},
+      {"label": "Single+Personality (GPT-5.4)", "design": "replay", "results": "data/replay/single_personality/results.csv", "note": ""}
+    ]
+  }
+}

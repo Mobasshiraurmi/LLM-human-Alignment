@@ -1,0 +1,1198 @@
+GameId,ProlificId,Role,Round,Phase,Text,Behavior,strategic_turn_id,message_index,burst_size
+multi_claude-sonnet-4.6_000,multi_claude-sonnet-4.6_000_HR,HR,0,Pre-BATNA,hey! thanks for making time today.,,multi_claude-sonnet-4.6_000_turn_01,1,1
+multi_claude-sonnet-4.6_000,multi_claude-sonnet-4.6_000_Employee,Employee,0,Pre-BATNA,"hey! of course, happy to be here",,multi_claude-sonnet-4.6_000_turn_02,1,1
+multi_claude-sonnet-4.6_000,multi_claude-sonnet-4.6_000_HR,HR,1,Pre-BATNA,"what's most important to you in the comp package — salary, bonus, equity, something else?",,multi_claude-sonnet-4.6_000_turn_03,1,1
+multi_claude-sonnet-4.6_000,multi_claude-sonnet-4.6_000_Employee,Employee,1,Pre-BATNA,base salary and total upside — bonus especially.,,multi_claude-sonnet-4.6_000_turn_04,1,2
+multi_claude-sonnet-4.6_000,multi_claude-sonnet-4.6_000_Employee,Employee,1,Pre-BATNA,what's the flexibility on base look like from your end?,,multi_claude-sonnet-4.6_000_turn_04,2,2
+multi_claude-sonnet-4.6_000,multi_claude-sonnet-4.6_000_HR,HR,2,Pre-BATNA,we can start at $90k base.,,multi_claude-sonnet-4.6_000_turn_05,1,2
+multi_claude-sonnet-4.6_000,multi_claude-sonnet-4.6_000_HR,HR,2,Pre-BATNA,"on bonus, we're at $0 to start — but open to discussing upside separately.",,multi_claude-sonnet-4.6_000_turn_05,2,2
+multi_claude-sonnet-4.6_000,multi_claude-sonnet-4.6_000_Employee,Employee,2,Pre-BATNA,"here's where i'm at on those two: $120k base, 20% bonus.",,multi_claude-sonnet-4.6_000_turn_06,1,1
+multi_claude-sonnet-4.6_000,multi_claude-sonnet-4.6_000_HR,HR,3,Pre-BATNA,$100k on base.,,multi_claude-sonnet-4.6_000_turn_07,1,2
+multi_claude-sonnet-4.6_000,multi_claude-sonnet-4.6_000_HR,HR,3,Pre-BATNA,bonus is still $0 — but equity is where the real upside lives here.,,multi_claude-sonnet-4.6_000_turn_07,2,2
+multi_claude-sonnet-4.6_000,multi_claude-sonnet-4.6_000_Employee,Employee,3,Pre-BATNA,"ok, happy to talk equity.",,multi_claude-sonnet-4.6_000_turn_08,1,2
+multi_claude-sonnet-4.6_000,multi_claude-sonnet-4.6_000_Employee,Employee,3,Pre-BATNA,10% bonus and $20k in stock options — that's movement on both.,,multi_claude-sonnet-4.6_000_turn_08,2,2
+multi_claude-sonnet-4.6_000,multi_claude-sonnet-4.6_000_HR,HR,4,Post-BATNA,$20k stock options — done.,,multi_claude-sonnet-4.6_000_turn_09,1,2
+multi_claude-sonnet-4.6_000,multi_claude-sonnet-4.6_000_HR,HR,4,Post-BATNA,bonus stays at $0 for now.,,multi_claude-sonnet-4.6_000_turn_09,2,2
+multi_claude-sonnet-4.6_000,multi_claude-sonnet-4.6_000_Employee,Employee,4,Post-BATNA,appreciate the stock options — that's settled.,,multi_claude-sonnet-4.6_000_turn_10,1,2
+multi_claude-sonnet-4.6_000,multi_claude-sonnet-4.6_000_Employee,Employee,4,Post-BATNA,"on cash comp though, $120k base and 10% bonus.",,multi_claude-sonnet-4.6_000_turn_10,2,2
+multi_claude-sonnet-4.6_000,multi_claude-sonnet-4.6_000_HR,HR,5,Post-BATNA,"$110k base, 5% bonus.",,multi_claude-sonnet-4.6_000_turn_11,1,2
+multi_claude-sonnet-4.6_000,multi_claude-sonnet-4.6_000_HR,HR,5,Post-BATNA,that's real movement on both — and the equity's already locked in.,,multi_claude-sonnet-4.6_000_turn_11,2,2
+multi_claude-sonnet-4.6_000,multi_claude-sonnet-4.6_000_Employee,Employee,5,Post-BATNA,fair enough on the equity.,,multi_claude-sonnet-4.6_000_turn_12,1,2
+multi_claude-sonnet-4.6_000,multi_claude-sonnet-4.6_000_Employee,Employee,5,Post-BATNA,i can work with $110k — but i need 30 vacation days to close this out.,,multi_claude-sonnet-4.6_000_turn_12,2,2
+multi_claude-sonnet-4.6_000,multi_claude-sonnet-4.6_000_HR,HR,6,Post-BATNA,30 days is too far — we can do 15.,,multi_claude-sonnet-4.6_000_turn_13,1,2
+multi_claude-sonnet-4.6_000,multi_claude-sonnet-4.6_000_HR,HR,6,Post-BATNA,"5% bonus, 15 vacation days. that closes it.",,multi_claude-sonnet-4.6_000_turn_13,2,2
+multi_claude-sonnet-4.6_000,multi_claude-sonnet-4.6_000_Employee,Employee,6,Post-BATNA,the gap on bonus and vacation is too wide.,,multi_claude-sonnet-4.6_000_turn_14,1,2
+multi_claude-sonnet-4.6_000,multi_claude-sonnet-4.6_000_Employee,Employee,6,Post-BATNA,i have to pass — thanks for the time.,,multi_claude-sonnet-4.6_000_turn_14,2,2
+multi_claude-sonnet-4.6_001,multi_claude-sonnet-4.6_001_Employee,Employee,0,Pre-BATNA,hey! hope you're having a good day so far,,multi_claude-sonnet-4.6_001_turn_01,1,1
+multi_claude-sonnet-4.6_001,multi_claude-sonnet-4.6_001_HR,HR,0,Pre-BATNA,"hi there! doing well, thanks for asking 😊",,multi_claude-sonnet-4.6_001_turn_02,1,1
+multi_claude-sonnet-4.6_001,multi_claude-sonnet-4.6_001_Employee,Employee,1,Pre-BATNA,glad to hear it!,,multi_claude-sonnet-4.6_001_turn_03,1,2
+multi_claude-sonnet-4.6_001,multi_claude-sonnet-4.6_001_Employee,Employee,1,Pre-BATNA,"so, what does a typical comp package look like for this role?",,multi_claude-sonnet-4.6_001_turn_03,2,2
+multi_claude-sonnet-4.6_001,multi_claude-sonnet-4.6_001_HR,HR,1,Pre-BATNA,so here's what we typically start with:,,multi_claude-sonnet-4.6_001_turn_04,1,3
+multi_claude-sonnet-4.6_001,multi_claude-sonnet-4.6_001_HR,HR,1,Pre-BATNA,"80k salary, 20k in stock options, and 10 vacation days.",,multi_claude-sonnet-4.6_001_turn_04,2,3
+multi_claude-sonnet-4.6_001,multi_claude-sonnet-4.6_001_HR,HR,1,Pre-BATNA,what matters most to you in a package?,,multi_claude-sonnet-4.6_001_turn_04,3,3
+multi_claude-sonnet-4.6_001,multi_claude-sonnet-4.6_001_Employee,Employee,2,Pre-BATNA,"salary's the headline for me, but the full picture matters too.",,multi_claude-sonnet-4.6_001_turn_05,1,2
+multi_claude-sonnet-4.6_001,multi_claude-sonnet-4.6_001_Employee,Employee,2,Pre-BATNA,"i'm looking at 120k salary, 20% bonus, 20k stock, and 30 vacation days to make this the right fit.",,multi_claude-sonnet-4.6_001_turn_05,2,2
+multi_claude-sonnet-4.6_001,multi_claude-sonnet-4.6_001_HR,HR,2,Pre-BATNA,salary is the headline for us too — we can move to 90k.,,multi_claude-sonnet-4.6_001_turn_06,1,2
+multi_claude-sonnet-4.6_001,multi_claude-sonnet-4.6_001_HR,HR,2,Pre-BATNA,"bonus is at 0 for now. between bonus and vacation days, which one matters more to you?",,multi_claude-sonnet-4.6_001_turn_06,2,2
+multi_claude-sonnet-4.6_001,multi_claude-sonnet-4.6_001_Employee,Employee,3,Pre-BATNA,appreciate the salary move.,,multi_claude-sonnet-4.6_001_turn_07,1,2
+multi_claude-sonnet-4.6_001,multi_claude-sonnet-4.6_001_Employee,Employee,3,Pre-BATNA,before i rank them — what's the realistic ceiling on bonus? that shapes how i think about the rest.,,multi_claude-sonnet-4.6_001_turn_07,2,2
+multi_claude-sonnet-4.6_001,multi_claude-sonnet-4.6_001_HR,HR,3,Pre-BATNA,Let's talk about bonus next.,,multi_claude-sonnet-4.6_001_turn_08,1,1
+multi_claude-sonnet-4.6_001,multi_claude-sonnet-4.6_001_Employee,Employee,4,Post-BATNA,15% bonus.,,multi_claude-sonnet-4.6_001_turn_09,1,2
+multi_claude-sonnet-4.6_001,multi_claude-sonnet-4.6_001_Employee,Employee,4,Post-BATNA,and 30 vacation days.,,multi_claude-sonnet-4.6_001_turn_09,2,2
+multi_claude-sonnet-4.6_001,multi_claude-sonnet-4.6_001_HR,HR,4,Post-BATNA,that's a big ask on both.,,multi_claude-sonnet-4.6_001_turn_10,1,2
+multi_claude-sonnet-4.6_001,multi_claude-sonnet-4.6_001_HR,HR,4,Post-BATNA,bonus — i can move to 5%. vacation days are policy-capped at 10.,,multi_claude-sonnet-4.6_001_turn_10,2,2
+multi_claude-sonnet-4.6_001,multi_claude-sonnet-4.6_001_Employee,Employee,5,Post-BATNA,"What about 10% bonus, 30 vacation days?",,multi_claude-sonnet-4.6_001_turn_11,1,1
+multi_claude-sonnet-4.6_001,multi_claude-sonnet-4.6_001_HR,HR,5,Post-BATNA,10% bonus — done.,,multi_claude-sonnet-4.6_001_turn_12,1,2
+multi_claude-sonnet-4.6_001,multi_claude-sonnet-4.6_001_HR,HR,5,Post-BATNA,"but vacation days are capped at 10, that's policy, not a negotiating position.",,multi_claude-sonnet-4.6_001_turn_12,2,2
+multi_claude-sonnet-4.6_001,multi_claude-sonnet-4.6_001_Employee,Employee,6,Post-BATNA,understood on the policy side.,,multi_claude-sonnet-4.6_001_turn_13,1,3
+multi_claude-sonnet-4.6_001,multi_claude-sonnet-4.6_001_Employee,Employee,6,Post-BATNA,"here's my full package to close: 120k salary, 10% bonus, 20k stock options, 25 vacation days.",,multi_claude-sonnet-4.6_001_turn_13,2,3
+multi_claude-sonnet-4.6_001,multi_claude-sonnet-4.6_001_Employee,Employee,6,Post-BATNA,25 days is a reasonable ask — not 30.,,multi_claude-sonnet-4.6_001_turn_13,3,3
+multi_claude-sonnet-4.6_001,multi_claude-sonnet-4.6_001_HR,HR,6,Post-BATNA,appreciate the move on days.,,multi_claude-sonnet-4.6_001_turn_14,1,3
+multi_claude-sonnet-4.6_001,multi_claude-sonnet-4.6_001_HR,HR,6,Post-BATNA,but 120k and 25 vacation days are both too far from where we can go.,,multi_claude-sonnet-4.6_001_turn_14,2,3
+multi_claude-sonnet-4.6_001,multi_claude-sonnet-4.6_001_HR,HR,6,Post-BATNA,we're going to have to pass.,,multi_claude-sonnet-4.6_001_turn_14,3,3
+multi_claude-sonnet-4.6_002,multi_claude-sonnet-4.6_002_Employee,Employee,0,Pre-BATNA,"hey, hope you're having a good day!",,multi_claude-sonnet-4.6_002_turn_01,1,1
+multi_claude-sonnet-4.6_002,multi_claude-sonnet-4.6_002_HR,HR,0,Pre-BATNA,"hey! doing well, thanks. hope you are too!",,multi_claude-sonnet-4.6_002_turn_02,1,1
+multi_claude-sonnet-4.6_002,multi_claude-sonnet-4.6_002_Employee,Employee,1,Pre-BATNA,"doing well, thanks!",,multi_claude-sonnet-4.6_002_turn_03,1,2
+multi_claude-sonnet-4.6_002,multi_claude-sonnet-4.6_002_Employee,Employee,1,Pre-BATNA,so what kind of salary range are you working with for this role?,,multi_claude-sonnet-4.6_002_turn_03,2,2
+multi_claude-sonnet-4.6_002,multi_claude-sonnet-4.6_002_HR,HR,1,Pre-BATNA,we've budgeted around $80k for the base salary.,,multi_claude-sonnet-4.6_002_turn_04,1,2
+multi_claude-sonnet-4.6_002,multi_claude-sonnet-4.6_002_HR,HR,1,Pre-BATNA,"that said, there's also bonus, equity, and vacation on top — total comp is pretty competitive.",,multi_claude-sonnet-4.6_002_turn_04,2,2
+multi_claude-sonnet-4.6_002,multi_claude-sonnet-4.6_002_Employee,Employee,2,Pre-BATNA,glad to hear total comp is flexible.,,multi_claude-sonnet-4.6_002_turn_05,1,2
+multi_claude-sonnet-4.6_002,multi_claude-sonnet-4.6_002_Employee,Employee,2,Pre-BATNA,i'm thinking $110k base and 20% bonus.,,multi_claude-sonnet-4.6_002_turn_05,2,2
+multi_claude-sonnet-4.6_002,multi_claude-sonnet-4.6_002_HR,HR,2,Pre-BATNA,$110k is well outside the band for this role.,,multi_claude-sonnet-4.6_002_turn_06,1,2
+multi_claude-sonnet-4.6_002,multi_claude-sonnet-4.6_002_HR,HR,2,Pre-BATNA,"we can do $80k base, but i can move to 10% bonus.",,multi_claude-sonnet-4.6_002_turn_06,2,2
+multi_claude-sonnet-4.6_002,multi_claude-sonnet-4.6_002_Employee,Employee,3,Pre-BATNA,10% bonus works for me.,,multi_claude-sonnet-4.6_002_turn_07,1,3
+multi_claude-sonnet-4.6_002,multi_claude-sonnet-4.6_002_Employee,Employee,3,Pre-BATNA,but salary still needs to be at $110k.,,multi_claude-sonnet-4.6_002_turn_07,2,3
+multi_claude-sonnet-4.6_002,multi_claude-sonnet-4.6_002_Employee,Employee,3,Pre-BATNA,and let's talk stock options — i'm looking for $20k in equity.,,multi_claude-sonnet-4.6_002_turn_07,3,3
+multi_claude-sonnet-4.6_002,multi_claude-sonnet-4.6_002_HR,HR,3,Pre-BATNA,"great, glad we're aligned on the bonus.",,multi_claude-sonnet-4.6_002_turn_08,1,3
+multi_claude-sonnet-4.6_002,multi_claude-sonnet-4.6_002_HR,HR,3,Pre-BATNA,$20k in stock options — we can do that.,,multi_claude-sonnet-4.6_002_turn_08,2,3
+multi_claude-sonnet-4.6_002,multi_claude-sonnet-4.6_002_HR,HR,3,Pre-BATNA,but salary stays at $80k for now.,,multi_claude-sonnet-4.6_002_turn_08,3,3
+multi_claude-sonnet-4.6_002,multi_claude-sonnet-4.6_002_Employee,Employee,4,Post-BATNA,appreciated on the stock and bonus.,,multi_claude-sonnet-4.6_002_turn_09,1,2
+multi_claude-sonnet-4.6_002,multi_claude-sonnet-4.6_002_Employee,Employee,4,Post-BATNA,let's close the gap — $110k salary and 30 vacation days.,,multi_claude-sonnet-4.6_002_turn_09,2,2
+multi_claude-sonnet-4.6_002,multi_claude-sonnet-4.6_002_HR,HR,4,Post-BATNA,moving on salary — $90k.,,multi_claude-sonnet-4.6_002_turn_10,1,2
+multi_claude-sonnet-4.6_002,multi_claude-sonnet-4.6_002_HR,HR,4,Post-BATNA,vacation days stay at 10.,,multi_claude-sonnet-4.6_002_turn_10,2,2
+multi_claude-sonnet-4.6_002,multi_claude-sonnet-4.6_002_Employee,Employee,5,Post-BATNA,$90k still leaves a big gap.,,multi_claude-sonnet-4.6_002_turn_11,1,2
+multi_claude-sonnet-4.6_002,multi_claude-sonnet-4.6_002_Employee,Employee,5,Post-BATNA,we need $110k to make this work — and 30 vacation days.,,multi_claude-sonnet-4.6_002_turn_11,2,2
+multi_claude-sonnet-4.6_002,multi_claude-sonnet-4.6_002_HR,HR,5,Post-BATNA,$100k on salary.,,multi_claude-sonnet-4.6_002_turn_12,1,2
+multi_claude-sonnet-4.6_002,multi_claude-sonnet-4.6_002_HR,HR,5,Post-BATNA,"vacation days, i can't move — 10 is our limit.",,multi_claude-sonnet-4.6_002_turn_12,2,2
+multi_claude-sonnet-4.6_002,multi_claude-sonnet-4.6_002_Employee,Employee,6,Post-BATNA,meeting you on bonus — 10% is fine.,,multi_claude-sonnet-4.6_002_turn_13,1,2
+multi_claude-sonnet-4.6_002,multi_claude-sonnet-4.6_002_Employee,Employee,6,Post-BATNA,"salary at $110k, 20k stock, 30 vacation days.",,multi_claude-sonnet-4.6_002_turn_13,2,2
+multi_claude-sonnet-4.6_002,multi_claude-sonnet-4.6_002_HR,HR,6,Post-BATNA,appreciate the flexibility on bonus.,,multi_claude-sonnet-4.6_002_turn_14,1,3
+multi_claude-sonnet-4.6_002,multi_claude-sonnet-4.6_002_HR,HR,6,Post-BATNA,but 30 vacation days is something we just can't get to — 10 is a hard limit.,,multi_claude-sonnet-4.6_002_turn_14,2,3
+multi_claude-sonnet-4.6_002,multi_claude-sonnet-4.6_002_HR,HR,6,Post-BATNA,"given that gap, i don't think we can make this work. sorry we couldn't get there, and best of luck.",,multi_claude-sonnet-4.6_002_turn_14,3,3
+multi_claude-sonnet-4.6_003,multi_claude-sonnet-4.6_003_HR,HR,0,Pre-BATNA,hey! thanks for making time today.,,multi_claude-sonnet-4.6_003_turn_01,1,1
+multi_claude-sonnet-4.6_003,multi_claude-sonnet-4.6_003_Employee,Employee,0,Pre-BATNA,"hey! of course, happy to be here",,multi_claude-sonnet-4.6_003_turn_02,1,1
+multi_claude-sonnet-4.6_003,multi_claude-sonnet-4.6_003_HR,HR,1,Pre-BATNA,"so, what's most important to you — salary, bonus, something else?",,multi_claude-sonnet-4.6_003_turn_03,1,1
+multi_claude-sonnet-4.6_003,multi_claude-sonnet-4.6_003_Employee,Employee,1,Pre-BATNA,salary's the main thing.,,multi_claude-sonnet-4.6_003_turn_04,1,2
+multi_claude-sonnet-4.6_003,multi_claude-sonnet-4.6_003_Employee,Employee,1,Pre-BATNA,but curious — what kind of flexibility do you have on the overall package?,,multi_claude-sonnet-4.6_003_turn_04,2,2
+multi_claude-sonnet-4.6_003,multi_claude-sonnet-4.6_003_HR,HR,2,Pre-BATNA,we've got some room across the board.,,multi_claude-sonnet-4.6_003_turn_05,1,2
+multi_claude-sonnet-4.6_003,multi_claude-sonnet-4.6_003_HR,HR,2,Pre-BATNA,how do you feel about stock options? and do vacation days matter to you?,,multi_claude-sonnet-4.6_003_turn_05,2,2
+multi_claude-sonnet-4.6_003,multi_claude-sonnet-4.6_003_Employee,Employee,2,Pre-BATNA,"yeah, stock options definitely matter.",,multi_claude-sonnet-4.6_003_turn_06,1,2
+multi_claude-sonnet-4.6_003,multi_claude-sonnet-4.6_003_Employee,Employee,2,Pre-BATNA,"salary-wise i'm thinking 120k, and around 20k in stock options.",,multi_claude-sonnet-4.6_003_turn_06,2,2
+multi_claude-sonnet-4.6_003,multi_claude-sonnet-4.6_003_HR,HR,3,Pre-BATNA,20k options works for us.,,multi_claude-sonnet-4.6_003_turn_07,1,2
+multi_claude-sonnet-4.6_003,multi_claude-sonnet-4.6_003_HR,HR,3,Pre-BATNA,salary's a stretch — we're at 80k.,,multi_claude-sonnet-4.6_003_turn_07,2,2
+multi_claude-sonnet-4.6_003,multi_claude-sonnet-4.6_003_Employee,Employee,3,Pre-BATNA,"120k salary, 20% bonus.",,multi_claude-sonnet-4.6_003_turn_08,1,2
+multi_claude-sonnet-4.6_003,multi_claude-sonnet-4.6_003_Employee,Employee,3,Pre-BATNA,that's the full picture.,,multi_claude-sonnet-4.6_003_turn_08,2,2
+multi_claude-sonnet-4.6_003,multi_claude-sonnet-4.6_003_HR,HR,4,Post-BATNA,appreciate you laying that out.,,multi_claude-sonnet-4.6_003_turn_09,1,3
+multi_claude-sonnet-4.6_003,multi_claude-sonnet-4.6_003_HR,HR,4,Post-BATNA,we can move on bonus — 10%.,,multi_claude-sonnet-4.6_003_turn_09,2,3
+multi_claude-sonnet-4.6_003,multi_claude-sonnet-4.6_003_HR,HR,4,Post-BATNA,"salary stays at 80k, that's a real constraint.",,multi_claude-sonnet-4.6_003_turn_09,3,3
+multi_claude-sonnet-4.6_003,multi_claude-sonnet-4.6_003_Employee,Employee,4,Post-BATNA,understood on salary.,,multi_claude-sonnet-4.6_003_turn_10,1,2
+multi_claude-sonnet-4.6_003,multi_claude-sonnet-4.6_003_Employee,Employee,4,Post-BATNA,let's talk vacation days then — i need 30 days.,,multi_claude-sonnet-4.6_003_turn_10,2,2
+multi_claude-sonnet-4.6_003,multi_claude-sonnet-4.6_003_HR,HR,5,Post-BATNA,15 days.,,multi_claude-sonnet-4.6_003_turn_11,1,2
+multi_claude-sonnet-4.6_003,multi_claude-sonnet-4.6_003_HR,HR,5,Post-BATNA,that's a real move from our side.,,multi_claude-sonnet-4.6_003_turn_11,2,2
+multi_claude-sonnet-4.6_003,multi_claude-sonnet-4.6_003_Employee,Employee,5,Post-BATNA,10% bonus works.,,multi_claude-sonnet-4.6_003_turn_12,1,2
+multi_claude-sonnet-4.6_003,multi_claude-sonnet-4.6_003_Employee,Employee,5,Post-BATNA,vacation days — can we meet at 30?,,multi_claude-sonnet-4.6_003_turn_12,2,2
+multi_claude-sonnet-4.6_003,multi_claude-sonnet-4.6_003_HR,HR,6,Post-BATNA,can't move past 15 days.,,multi_claude-sonnet-4.6_003_turn_13,1,2
+multi_claude-sonnet-4.6_003,multi_claude-sonnet-4.6_003_HR,HR,6,Post-BATNA,that's our position.,,multi_claude-sonnet-4.6_003_turn_13,2,2
+multi_claude-sonnet-4.6_003,multi_claude-sonnet-4.6_003_Employee,Employee,6,Post-BATNA,"i appreciate the time, but 80k + 15 days doesn't meet my minimum.",,multi_claude-sonnet-4.6_003_turn_14,1,2
+multi_claude-sonnet-4.6_003,multi_claude-sonnet-4.6_003_Employee,Employee,6,Post-BATNA,i'll have to pass.,,multi_claude-sonnet-4.6_003_turn_14,2,2
+multi_claude-sonnet-4.6_004,multi_claude-sonnet-4.6_004_HR,HR,0,Pre-BATNA,hey! thanks for making time today.,,multi_claude-sonnet-4.6_004_turn_01,1,1
+multi_claude-sonnet-4.6_004,multi_claude-sonnet-4.6_004_Employee,Employee,0,Pre-BATNA,"hey! of course, happy to be here",,multi_claude-sonnet-4.6_004_turn_02,1,1
+multi_claude-sonnet-4.6_004,multi_claude-sonnet-4.6_004_HR,HR,1,Pre-BATNA,"What matters more to you, salary?",,multi_claude-sonnet-4.6_004_turn_03,1,1
+multi_claude-sonnet-4.6_004,multi_claude-sonnet-4.6_004_Employee,Employee,1,Pre-BATNA,all four matter honestly — what does flexibility look like on your end?,,multi_claude-sonnet-4.6_004_turn_04,1,1
+multi_claude-sonnet-4.6_004,multi_claude-sonnet-4.6_004_HR,HR,2,Pre-BATNA,fair enough.,,multi_claude-sonnet-4.6_004_turn_05,1,2
+multi_claude-sonnet-4.6_004,multi_claude-sonnet-4.6_004_HR,HR,2,Pre-BATNA,where do you land on bonus and vacation days — any strong feelings there?,,multi_claude-sonnet-4.6_004_turn_05,2,2
+multi_claude-sonnet-4.6_004,multi_claude-sonnet-4.6_004_Employee,Employee,2,Pre-BATNA,"yeah, targeting around 20% bonus and 30 vacation days.",,multi_claude-sonnet-4.6_004_turn_06,1,1
+multi_claude-sonnet-4.6_004,multi_claude-sonnet-4.6_004_HR,HR,3,Pre-BATNA,noted.,,multi_claude-sonnet-4.6_004_turn_07,1,2
+multi_claude-sonnet-4.6_004,multi_claude-sonnet-4.6_004_HR,HR,3,Pre-BATNA,"on the cash side, we're starting at $80k salary and 10% bonus.",,multi_claude-sonnet-4.6_004_turn_07,2,2
+multi_claude-sonnet-4.6_004,multi_claude-sonnet-4.6_004_Employee,Employee,3,Pre-BATNA,120k salary and 20k stock options — that's where we're starting.,,multi_claude-sonnet-4.6_004_turn_08,1,1
+multi_claude-sonnet-4.6_004,multi_claude-sonnet-4.6_004_HR,HR,4,Post-BATNA,20k stock options works.,,multi_claude-sonnet-4.6_004_turn_09,1,2
+multi_claude-sonnet-4.6_004,multi_claude-sonnet-4.6_004_HR,HR,4,Post-BATNA,vacation days — we're at 10.,,multi_claude-sonnet-4.6_004_turn_09,2,2
+multi_claude-sonnet-4.6_004,multi_claude-sonnet-4.6_004_Employee,Employee,4,Post-BATNA,10's pretty far from 30.,,multi_claude-sonnet-4.6_004_turn_10,1,2
+multi_claude-sonnet-4.6_004,multi_claude-sonnet-4.6_004_Employee,Employee,4,Post-BATNA,i can come down on bonus — 15% — but vacation days need to be 30.,,multi_claude-sonnet-4.6_004_turn_10,2,2
+multi_claude-sonnet-4.6_004,multi_claude-sonnet-4.6_004_HR,HR,5,Post-BATNA,15% bonus — done.,,multi_claude-sonnet-4.6_004_turn_11,1,2
+multi_claude-sonnet-4.6_004,multi_claude-sonnet-4.6_004_HR,HR,5,Post-BATNA,vacation days stay at 10.,,multi_claude-sonnet-4.6_004_turn_11,2,2
+multi_claude-sonnet-4.6_004,multi_claude-sonnet-4.6_004_Employee,Employee,5,Post-BATNA,10 to 30 is a big gap — i'm at 25.,,multi_claude-sonnet-4.6_004_turn_12,1,2
+multi_claude-sonnet-4.6_004,multi_claude-sonnet-4.6_004_Employee,Employee,5,Post-BATNA,salary still needs to land at 120k.,,multi_claude-sonnet-4.6_004_turn_12,2,2
+multi_claude-sonnet-4.6_004,multi_claude-sonnet-4.6_004_HR,HR,6,Post-BATNA,"salary, we can do 90k.",,multi_claude-sonnet-4.6_004_turn_13,1,2
+multi_claude-sonnet-4.6_004,multi_claude-sonnet-4.6_004_HR,HR,6,Post-BATNA,vacation days — still 10.,,multi_claude-sonnet-4.6_004_turn_13,2,2
+multi_claude-sonnet-4.6_004,multi_claude-sonnet-4.6_004_Employee,Employee,6,Post-BATNA,can't make this work at 90k and 10 days.,,multi_claude-sonnet-4.6_004_turn_14,1,2
+multi_claude-sonnet-4.6_004,multi_claude-sonnet-4.6_004_Employee,Employee,6,Post-BATNA,we're too far apart — i'll have to pass.,,multi_claude-sonnet-4.6_004_turn_14,2,2
+multi_claude-sonnet-4.6_005,multi_claude-sonnet-4.6_005_Employee,Employee,0,Pre-BATNA,hey! hope you're having a good day so far,,multi_claude-sonnet-4.6_005_turn_01,1,1
+multi_claude-sonnet-4.6_005,multi_claude-sonnet-4.6_005_HR,HR,0,Pre-BATNA,"hey! doing well, thanks for asking!",,multi_claude-sonnet-4.6_005_turn_02,1,1
+multi_claude-sonnet-4.6_005,multi_claude-sonnet-4.6_005_Employee,Employee,1,Pre-BATNA,great!,,multi_claude-sonnet-4.6_005_turn_03,1,3
+multi_claude-sonnet-4.6_005,multi_claude-sonnet-4.6_005_Employee,Employee,1,Pre-BATNA,"so, here's what i'm looking for to make this the right move:",,multi_claude-sonnet-4.6_005_turn_03,2,3
+multi_claude-sonnet-4.6_005,multi_claude-sonnet-4.6_005_Employee,Employee,1,Pre-BATNA,"120k salary, 20% bonus, 20k in stock options, and 30 vacation days.",,multi_claude-sonnet-4.6_005_turn_03,3,3
+multi_claude-sonnet-4.6_005,multi_claude-sonnet-4.6_005_HR,HR,1,Pre-BATNA,thanks for laying that out clearly.,,multi_claude-sonnet-4.6_005_turn_04,1,3
+multi_claude-sonnet-4.6_005,multi_claude-sonnet-4.6_005_HR,HR,1,Pre-BATNA,"here's where we're at: 80k salary, no bonus, 20k stock options, 10 vacation days.",,multi_claude-sonnet-4.6_005_turn_04,2,3
+multi_claude-sonnet-4.6_005,multi_claude-sonnet-4.6_005_HR,HR,1,Pre-BATNA,that's the package we can offer given our budget and internal equity.,,multi_claude-sonnet-4.6_005_turn_04,3,3
+multi_claude-sonnet-4.6_005,multi_claude-sonnet-4.6_005_Employee,Employee,2,Pre-BATNA,appreciate you sharing that.,,multi_claude-sonnet-4.6_005_turn_05,1,2
+multi_claude-sonnet-4.6_005,multi_claude-sonnet-4.6_005_Employee,Employee,2,Pre-BATNA,i'm at 120k salary and 15% bonus — that's where i need to be on those two.,,multi_claude-sonnet-4.6_005_turn_05,2,2
+multi_claude-sonnet-4.6_005,multi_claude-sonnet-4.6_005_HR,HR,2,Pre-BATNA,120k is well above our range.,,multi_claude-sonnet-4.6_005_turn_06,1,2
+multi_claude-sonnet-4.6_005,multi_claude-sonnet-4.6_005_HR,HR,2,Pre-BATNA,"we can do 90k salary, and on bonus we're at 0% for now.",,multi_claude-sonnet-4.6_005_turn_06,2,2
+multi_claude-sonnet-4.6_005,multi_claude-sonnet-4.6_005_Employee,Employee,3,Pre-BATNA,"is 90k truly the ceiling, or is there flexibility up to 100k?",,multi_claude-sonnet-4.6_005_turn_07,1,2
+multi_claude-sonnet-4.6_005,multi_claude-sonnet-4.6_005_Employee,Employee,3,Pre-BATNA,and what's your thinking on vacation days?,,multi_claude-sonnet-4.6_005_turn_07,2,2
+multi_claude-sonnet-4.6_005,multi_claude-sonnet-4.6_005_HR,HR,3,Pre-BATNA,"100k salary, yes.",,multi_claude-sonnet-4.6_005_turn_08,1,2
+multi_claude-sonnet-4.6_005,multi_claude-sonnet-4.6_005_HR,HR,3,Pre-BATNA,vacation days we're at 10 — open to talking about that as part of the overall picture.,,multi_claude-sonnet-4.6_005_turn_08,2,2
+multi_claude-sonnet-4.6_005,multi_claude-sonnet-4.6_005_Employee,Employee,4,Post-BATNA,10% bonus and 30 vacation days.,,multi_claude-sonnet-4.6_005_turn_09,1,2
+multi_claude-sonnet-4.6_005,multi_claude-sonnet-4.6_005_Employee,Employee,4,Post-BATNA,that's me meeting you partway on salary.,,multi_claude-sonnet-4.6_005_turn_09,2,2
+multi_claude-sonnet-4.6_005,multi_claude-sonnet-4.6_005_HR,HR,4,Post-BATNA,appreciate that on salary.,,multi_claude-sonnet-4.6_005_turn_10,1,3
+multi_claude-sonnet-4.6_005,multi_claude-sonnet-4.6_005_HR,HR,4,Post-BATNA,we can do the 10% bonus.,,multi_claude-sonnet-4.6_005_turn_10,2,3
+multi_claude-sonnet-4.6_005,multi_claude-sonnet-4.6_005_HR,HR,4,Post-BATNA,"vacation days, we're firm at 10.",,multi_claude-sonnet-4.6_005_turn_10,3,3
+multi_claude-sonnet-4.6_005,multi_claude-sonnet-4.6_005_Employee,Employee,5,Post-BATNA,"i hear you, but 10 days is a real sticking point for me.",,multi_claude-sonnet-4.6_005_turn_11,1,3
+multi_claude-sonnet-4.6_005,multi_claude-sonnet-4.6_005_Employee,Employee,5,Post-BATNA,i'll come down to 110k — that's a genuine move.,,multi_claude-sonnet-4.6_005_turn_11,2,3
+multi_claude-sonnet-4.6_005,multi_claude-sonnet-4.6_005_Employee,Employee,5,Post-BATNA,but i need 30 vacation days to make this work.,,multi_claude-sonnet-4.6_005_turn_11,3,3
+multi_claude-sonnet-4.6_005,multi_claude-sonnet-4.6_005_HR,HR,5,Post-BATNA,"that salary move is real, and we're meeting you there — 110k.",,multi_claude-sonnet-4.6_005_turn_12,1,2
+multi_claude-sonnet-4.6_005,multi_claude-sonnet-4.6_005_HR,HR,5,Post-BATNA,"on vacation, we can do 15 days.",,multi_claude-sonnet-4.6_005_turn_12,2,2
+multi_claude-sonnet-4.6_005,multi_claude-sonnet-4.6_005_Employee,Employee,6,Post-BATNA,25 days — splitting the difference.,,multi_claude-sonnet-4.6_005_turn_13,1,1
+multi_claude-sonnet-4.6_005,multi_claude-sonnet-4.6_005_HR,HR,6,Post-BATNA,"appreciate the split, but 25 days still doesn't work for us.",,multi_claude-sonnet-4.6_005_turn_14,1,2
+multi_claude-sonnet-4.6_005,multi_claude-sonnet-4.6_005_HR,HR,6,Post-BATNA,we can't get there — have to pass.,,multi_claude-sonnet-4.6_005_turn_14,2,2
+multi_claude-sonnet-4.6_006,multi_claude-sonnet-4.6_006_Employee,Employee,0,Pre-BATNA,hey! excited to connect with you today.,,multi_claude-sonnet-4.6_006_turn_01,1,1
+multi_claude-sonnet-4.6_006,multi_claude-sonnet-4.6_006_HR,HR,0,Pre-BATNA,hey! great to connect with you too.,,multi_claude-sonnet-4.6_006_turn_02,1,1
+multi_claude-sonnet-4.6_006,multi_claude-sonnet-4.6_006_Employee,Employee,1,Pre-BATNA,here's what i'm looking for:,,multi_claude-sonnet-4.6_006_turn_03,1,3
+multi_claude-sonnet-4.6_006,multi_claude-sonnet-4.6_006_Employee,Employee,1,Pre-BATNA,"120k salary, 20% bonus, 20k stock options, 30 vacation days.",,multi_claude-sonnet-4.6_006_turn_03,2,3
+multi_claude-sonnet-4.6_006,multi_claude-sonnet-4.6_006_Employee,Employee,1,Pre-BATNA,happy to hear your thoughts.,,multi_claude-sonnet-4.6_006_turn_03,3,3
+multi_claude-sonnet-4.6_006,multi_claude-sonnet-4.6_006_HR,HR,1,Pre-BATNA,thanks for laying that out clearly.,,multi_claude-sonnet-4.6_006_turn_04,1,3
+multi_claude-sonnet-4.6_006,multi_claude-sonnet-4.6_006_HR,HR,1,Pre-BATNA,"here's where we're starting: 80k salary, no bonus, 20k stock options, 10 vacation days.",,multi_claude-sonnet-4.6_006_turn_04,2,3
+multi_claude-sonnet-4.6_006,multi_claude-sonnet-4.6_006_HR,HR,1,Pre-BATNA,stock options we can match — happy to work through the rest.,,multi_claude-sonnet-4.6_006_turn_04,3,3
+multi_claude-sonnet-4.6_006,multi_claude-sonnet-4.6_006_Employee,Employee,2,Pre-BATNA,glad the stock options work!,,multi_claude-sonnet-4.6_006_turn_05,1,2
+multi_claude-sonnet-4.6_006,multi_claude-sonnet-4.6_006_Employee,Employee,2,Pre-BATNA,on salary and bonus — which of those has more room to move for you?,,multi_claude-sonnet-4.6_006_turn_05,2,2
+multi_claude-sonnet-4.6_006,multi_claude-sonnet-4.6_006_HR,HR,2,Pre-BATNA,depends on what matters more to you — salary or bonus?,,multi_claude-sonnet-4.6_006_turn_06,1,2
+multi_claude-sonnet-4.6_006,multi_claude-sonnet-4.6_006_HR,HR,2,Pre-BATNA,helps me understand where to focus.,,multi_claude-sonnet-4.6_006_turn_06,2,2
+multi_claude-sonnet-4.6_006,multi_claude-sonnet-4.6_006_Employee,Employee,3,Pre-BATNA,"both matter, honestly.",,multi_claude-sonnet-4.6_006_turn_07,1,2
+multi_claude-sonnet-4.6_006,multi_claude-sonnet-4.6_006_Employee,Employee,3,Pre-BATNA,"i can come down a bit — 110k salary, 30 vacation days to start.",,multi_claude-sonnet-4.6_006_turn_07,2,2
+multi_claude-sonnet-4.6_006,multi_claude-sonnet-4.6_006_HR,HR,3,Pre-BATNA,110k salary works.,,multi_claude-sonnet-4.6_006_turn_08,1,2
+multi_claude-sonnet-4.6_006,multi_claude-sonnet-4.6_006_HR,HR,3,Pre-BATNA,vacation days — we're at 10.,,multi_claude-sonnet-4.6_006_turn_08,2,2
+multi_claude-sonnet-4.6_006,multi_claude-sonnet-4.6_006_Employee,Employee,4,Post-BATNA,let's move both at once — 15% bonus and 30 vacation days.,,multi_claude-sonnet-4.6_006_turn_09,1,2
+multi_claude-sonnet-4.6_006,multi_claude-sonnet-4.6_006_Employee,Employee,4,Post-BATNA,"we came down on salary, so this feels like a fair split.",,multi_claude-sonnet-4.6_006_turn_09,2,2
+multi_claude-sonnet-4.6_006,multi_claude-sonnet-4.6_006_HR,HR,4,Post-BATNA,salary moved both ways — that's not a credit.,,multi_claude-sonnet-4.6_006_turn_10,1,2
+multi_claude-sonnet-4.6_006,multi_claude-sonnet-4.6_006_HR,HR,4,Post-BATNA,"bonus i can do 5%, but vacation days stay at 10.",,multi_claude-sonnet-4.6_006_turn_10,2,2
+multi_claude-sonnet-4.6_006,multi_claude-sonnet-4.6_006_Employee,Employee,5,Post-BATNA,"fair on salary, i'll drop that.",,multi_claude-sonnet-4.6_006_turn_11,1,3
+multi_claude-sonnet-4.6_006,multi_claude-sonnet-4.6_006_Employee,Employee,5,Post-BATNA,"bonus — let's meet in the middle, 10%.",,multi_claude-sonnet-4.6_006_turn_11,2,3
+multi_claude-sonnet-4.6_006,multi_claude-sonnet-4.6_006_Employee,Employee,5,Post-BATNA,vacation days i need 30.,,multi_claude-sonnet-4.6_006_turn_11,3,3
+multi_claude-sonnet-4.6_006,multi_claude-sonnet-4.6_006_HR,HR,5,Post-BATNA,"10% bonus, done.",,multi_claude-sonnet-4.6_006_turn_12,1,2
+multi_claude-sonnet-4.6_006,multi_claude-sonnet-4.6_006_HR,HR,5,Post-BATNA,vacation days stay at 10.,,multi_claude-sonnet-4.6_006_turn_12,2,2
+multi_claude-sonnet-4.6_006,multi_claude-sonnet-4.6_006_Employee,Employee,6,Post-BATNA,meet me halfway — 20 days.,,multi_claude-sonnet-4.6_006_turn_13,1,1
+multi_claude-sonnet-4.6_006,multi_claude-sonnet-4.6_006_HR,HR,6,Post-BATNA,can't do it — we're done here.,,multi_claude-sonnet-4.6_006_turn_14,1,1
+multi_claude-sonnet-4.6_007,multi_claude-sonnet-4.6_007_HR,HR,0,Pre-BATNA,hey! thanks for making time today.,,multi_claude-sonnet-4.6_007_turn_01,1,1
+multi_claude-sonnet-4.6_007,multi_claude-sonnet-4.6_007_Employee,Employee,0,Pre-BATNA,"hey! of course, happy to be here",,multi_claude-sonnet-4.6_007_turn_02,1,1
+multi_claude-sonnet-4.6_007,multi_claude-sonnet-4.6_007_HR,HR,1,Pre-BATNA,"what matters most to you in the overall package — salary, bonus, something else?",,multi_claude-sonnet-4.6_007_turn_03,1,1
+multi_claude-sonnet-4.6_007,multi_claude-sonnet-4.6_007_Employee,Employee,1,Pre-BATNA,both matter honestly — base salary and the upside potential.,,multi_claude-sonnet-4.6_007_turn_04,1,2
+multi_claude-sonnet-4.6_007,multi_claude-sonnet-4.6_007_Employee,Employee,1,Pre-BATNA,"what does the budget range look like, or what's typically flexible in your packages?",,multi_claude-sonnet-4.6_007_turn_04,2,2
+multi_claude-sonnet-4.6_007,multi_claude-sonnet-4.6_007_HR,HR,2,Pre-BATNA,we have some flexibility depending on the full picture.,,multi_claude-sonnet-4.6_007_turn_05,1,2
+multi_claude-sonnet-4.6_007,multi_claude-sonnet-4.6_007_HR,HR,2,Pre-BATNA,how do you think about equity vs. time off — is one more important than the other?,,multi_claude-sonnet-4.6_007_turn_05,2,2
+multi_claude-sonnet-4.6_007,multi_claude-sonnet-4.6_007_Employee,Employee,2,Pre-BATNA,equity's more important to me than vacation days.,,multi_claude-sonnet-4.6_007_turn_06,1,2
+multi_claude-sonnet-4.6_007,multi_claude-sonnet-4.6_007_Employee,Employee,2,Pre-BATNA,what does a typical stock option grant look like for this role?,,multi_claude-sonnet-4.6_007_turn_06,2,2
+multi_claude-sonnet-4.6_007,multi_claude-sonnet-4.6_007_HR,HR,3,Pre-BATNA,"for this role, 20,000 options is on the stronger end.",,multi_claude-sonnet-4.6_007_turn_07,1,2
+multi_claude-sonnet-4.6_007,multi_claude-sonnet-4.6_007_HR,HR,3,Pre-BATNA,we'd pair that with an 80k base.,,multi_claude-sonnet-4.6_007_turn_07,2,2
+multi_claude-sonnet-4.6_007,multi_claude-sonnet-4.6_007_Employee,Employee,3,Pre-BATNA,"20k options is a real number, appreciate that.",,multi_claude-sonnet-4.6_007_turn_08,1,3
+multi_claude-sonnet-4.6_007,multi_claude-sonnet-4.6_007_Employee,Employee,3,Pre-BATNA,but 80k base is quite a bit below where i need to be.,,multi_claude-sonnet-4.6_007_turn_08,2,3
+multi_claude-sonnet-4.6_007,multi_claude-sonnet-4.6_007_Employee,Employee,3,Pre-BATNA,i'm thinking 110k salary and 20% bonus.,,multi_claude-sonnet-4.6_007_turn_08,3,3
+multi_claude-sonnet-4.6_007,multi_claude-sonnet-4.6_007_HR,HR,4,Post-BATNA,90k on salary — that's a real move from 80k.,,multi_claude-sonnet-4.6_007_turn_09,1,2
+multi_claude-sonnet-4.6_007,multi_claude-sonnet-4.6_007_HR,HR,4,Post-BATNA,"bonus i can't do right now, the equity package is doing that work.",,multi_claude-sonnet-4.6_007_turn_09,2,2
+multi_claude-sonnet-4.6_007,multi_claude-sonnet-4.6_007_Employee,Employee,4,Post-BATNA,equity and bonus are different things to me.,,multi_claude-sonnet-4.6_007_turn_10,1,2
+multi_claude-sonnet-4.6_007,multi_claude-sonnet-4.6_007_Employee,Employee,4,Post-BATNA,"110k salary, 20% bonus — that's where i need to land on cash comp.",,multi_claude-sonnet-4.6_007_turn_10,2,2
+multi_claude-sonnet-4.6_007,multi_claude-sonnet-4.6_007_HR,HR,5,Post-BATNA,110k salary — meeting you there.,,multi_claude-sonnet-4.6_007_turn_11,1,2
+multi_claude-sonnet-4.6_007,multi_claude-sonnet-4.6_007_HR,HR,5,Post-BATNA,"bonus i can do 5%, plus the 20k options is a real total package.",,multi_claude-sonnet-4.6_007_turn_11,2,2
+multi_claude-sonnet-4.6_007,multi_claude-sonnet-4.6_007_Employee,Employee,5,Post-BATNA,"What about 15% bonus, 30 vacation days?",,multi_claude-sonnet-4.6_007_turn_12,1,1
+multi_claude-sonnet-4.6_007,multi_claude-sonnet-4.6_007_HR,HR,6,Post-BATNA,15% bonus — done.,,multi_claude-sonnet-4.6_007_turn_13,1,3
+multi_claude-sonnet-4.6_007,multi_claude-sonnet-4.6_007_HR,HR,6,Post-BATNA,"vacation days i can't move to 30, company standard caps us at 15.",,multi_claude-sonnet-4.6_007_turn_13,2,3
+multi_claude-sonnet-4.6_007,multi_claude-sonnet-4.6_007_HR,HR,6,Post-BATNA,"so: 110k, 15% bonus, 20k options, 15 days — that's the full package.",,multi_claude-sonnet-4.6_007_turn_13,3,3
+multi_claude-sonnet-4.6_007,multi_claude-sonnet-4.6_007_Employee,Employee,6,Post-BATNA,deal.,,multi_claude-sonnet-4.6_007_turn_14,1,2
+multi_claude-sonnet-4.6_007,multi_claude-sonnet-4.6_007_Employee,Employee,6,Post-BATNA,looking forward to it.,,multi_claude-sonnet-4.6_007_turn_14,2,2
+multi_claude-sonnet-4.6_008,multi_claude-sonnet-4.6_008_Employee,Employee,0,Pre-BATNA,hey! hope you're doing well today.,,multi_claude-sonnet-4.6_008_turn_01,1,1
+multi_claude-sonnet-4.6_008,multi_claude-sonnet-4.6_008_HR,HR,0,Pre-BATNA,"hey! doing great, thanks for asking!",,multi_claude-sonnet-4.6_008_turn_02,1,1
+multi_claude-sonnet-4.6_008,multi_claude-sonnet-4.6_008_Employee,Employee,1,Pre-BATNA,great!,,multi_claude-sonnet-4.6_008_turn_03,1,3
+multi_claude-sonnet-4.6_008,multi_claude-sonnet-4.6_008_Employee,Employee,1,Pre-BATNA,"so, excited about this role — want to lay everything out upfront.",,multi_claude-sonnet-4.6_008_turn_03,2,3
+multi_claude-sonnet-4.6_008,multi_claude-sonnet-4.6_008_Employee,Employee,1,Pre-BATNA,"looking for 120k salary, 20% bonus, 20k in stock options, and 30 vacation days.",,multi_claude-sonnet-4.6_008_turn_03,3,3
+multi_claude-sonnet-4.6_008,multi_claude-sonnet-4.6_008_HR,HR,1,Pre-BATNA,appreciate the transparency!,,multi_claude-sonnet-4.6_008_turn_04,1,2
+multi_claude-sonnet-4.6_008,multi_claude-sonnet-4.6_008_HR,HR,1,Pre-BATNA,80k salary and 10 vacation days to start — let's work from there.,,multi_claude-sonnet-4.6_008_turn_04,2,2
+multi_claude-sonnet-4.6_008,multi_claude-sonnet-4.6_008_Employee,Employee,2,Pre-BATNA,you didn't mention bonus or stock options — where do you stand on those?,,multi_claude-sonnet-4.6_008_turn_05,1,1
+multi_claude-sonnet-4.6_008,multi_claude-sonnet-4.6_008_HR,HR,2,Pre-BATNA,"no bonus to start — it's performance-based, so you earn it as you go.",,multi_claude-sonnet-4.6_008_turn_06,1,2
+multi_claude-sonnet-4.6_008,multi_claude-sonnet-4.6_008_HR,HR,2,Pre-BATNA,stock options though: happy to do the full 20k.,,multi_claude-sonnet-4.6_008_turn_06,2,2
+multi_claude-sonnet-4.6_008,multi_claude-sonnet-4.6_008_Employee,Employee,3,Pre-BATNA,20k stock — appreciate that.,,multi_claude-sonnet-4.6_008_turn_07,1,3
+multi_claude-sonnet-4.6_008,multi_claude-sonnet-4.6_008_Employee,Employee,3,Pre-BATNA,"on bonus, though — 'performance-based' doesn't have to mean zero guaranteed. 15% floor is reasonable.",,multi_claude-sonnet-4.6_008_turn_07,2,3
+multi_claude-sonnet-4.6_008,multi_claude-sonnet-4.6_008_Employee,Employee,3,Pre-BATNA,and vacation days: 30.,,multi_claude-sonnet-4.6_008_turn_07,3,3
+multi_claude-sonnet-4.6_008,multi_claude-sonnet-4.6_008_HR,HR,3,Pre-BATNA,we hear you — performance-based doesn't mean zero.,,multi_claude-sonnet-4.6_008_turn_08,1,2
+multi_claude-sonnet-4.6_008,multi_claude-sonnet-4.6_008_HR,HR,3,Pre-BATNA,we can do a 5% guaranteed floor on bonus.,,multi_claude-sonnet-4.6_008_turn_08,2,2
+multi_claude-sonnet-4.6_008,multi_claude-sonnet-4.6_008_Employee,Employee,4,Post-BATNA,"5% is a step, appreciate it.",,multi_claude-sonnet-4.6_008_turn_09,1,3
+multi_claude-sonnet-4.6_008,multi_claude-sonnet-4.6_008_Employee,Employee,4,Post-BATNA,but 10% is the real middle ground here.,,multi_claude-sonnet-4.6_008_turn_09,2,3
+multi_claude-sonnet-4.6_008,multi_claude-sonnet-4.6_008_Employee,Employee,4,Post-BATNA,30 vacation days still on the table too.,,multi_claude-sonnet-4.6_008_turn_09,3,3
+multi_claude-sonnet-4.6_008,multi_claude-sonnet-4.6_008_HR,HR,4,Post-BATNA,"bonus — yes, 10% works.",,multi_claude-sonnet-4.6_008_turn_10,1,2
+multi_claude-sonnet-4.6_008,multi_claude-sonnet-4.6_008_HR,HR,4,Post-BATNA,"vacation days, we need to stay at 10 for now.",,multi_claude-sonnet-4.6_008_turn_10,2,2
+multi_claude-sonnet-4.6_008,multi_claude-sonnet-4.6_008_Employee,Employee,5,Post-BATNA,10 days is tough to work with.,,multi_claude-sonnet-4.6_008_turn_11,1,2
+multi_claude-sonnet-4.6_008,multi_claude-sonnet-4.6_008_Employee,Employee,5,Post-BATNA,"salary: 120k, and i'll come down to 25 vacation days.",,multi_claude-sonnet-4.6_008_turn_11,2,2
+multi_claude-sonnet-4.6_008,multi_claude-sonnet-4.6_008_HR,HR,5,Post-BATNA,"moving to 25 days, noted — that's a real move.",,multi_claude-sonnet-4.6_008_turn_12,1,2
+multi_claude-sonnet-4.6_008,multi_claude-sonnet-4.6_008_HR,HR,5,Post-BATNA,"salary: 100k, vacation stays at 10 days.",,multi_claude-sonnet-4.6_008_turn_12,2,2
+multi_claude-sonnet-4.6_008,multi_claude-sonnet-4.6_008_Employee,Employee,6,Post-BATNA,"110k salary, 25 vacation days.",,multi_claude-sonnet-4.6_008_turn_13,1,2
+multi_claude-sonnet-4.6_008,multi_claude-sonnet-4.6_008_Employee,Employee,6,Post-BATNA,that's me meeting you halfway — final offer.,,multi_claude-sonnet-4.6_008_turn_13,2,2
+multi_claude-sonnet-4.6_008,multi_claude-sonnet-4.6_008_HR,HR,6,Post-BATNA,"appreciate the move, genuinely.",,multi_claude-sonnet-4.6_008_turn_14,1,3
+multi_claude-sonnet-4.6_008,multi_claude-sonnet-4.6_008_HR,HR,6,Post-BATNA,but 110k and 25 days doesn't work for us — we can't close that gap.,,multi_claude-sonnet-4.6_008_turn_14,2,3
+multi_claude-sonnet-4.6_008,multi_claude-sonnet-4.6_008_HR,HR,6,Post-BATNA,going to have to walk away on this one.,,multi_claude-sonnet-4.6_008_turn_14,3,3
+multi_claude-sonnet-4.6_009,multi_claude-sonnet-4.6_009_Employee,Employee,0,Pre-BATNA,hey! hope you're doing well today.,,multi_claude-sonnet-4.6_009_turn_01,1,1
+multi_claude-sonnet-4.6_009,multi_claude-sonnet-4.6_009_HR,HR,0,Pre-BATNA,"hey! doing well, thanks — hope you are too!",,multi_claude-sonnet-4.6_009_turn_02,1,1
+multi_claude-sonnet-4.6_009,multi_claude-sonnet-4.6_009_Employee,Employee,1,Pre-BATNA,"doing well, thanks!",,multi_claude-sonnet-4.6_009_turn_03,1,2
+multi_claude-sonnet-4.6_009,multi_claude-sonnet-4.6_009_Employee,Employee,1,Pre-BATNA,"so, where are you starting on salary and bonus?",,multi_claude-sonnet-4.6_009_turn_03,2,2
+multi_claude-sonnet-4.6_009,multi_claude-sonnet-4.6_009_HR,HR,1,Pre-BATNA,"80k salary, zero bonus to start.",,multi_claude-sonnet-4.6_009_turn_04,1,1
+multi_claude-sonnet-4.6_009,multi_claude-sonnet-4.6_009_Employee,Employee,2,Pre-BATNA,that's a tough opening.,,multi_claude-sonnet-4.6_009_turn_05,1,2
+multi_claude-sonnet-4.6_009,multi_claude-sonnet-4.6_009_Employee,Employee,2,Pre-BATNA,i'd need 120k salary and 20% bonus to make this work.,,multi_claude-sonnet-4.6_009_turn_05,2,2
+multi_claude-sonnet-4.6_009,multi_claude-sonnet-4.6_009_HR,HR,2,Pre-BATNA,120k is ambitious.,,multi_claude-sonnet-4.6_009_turn_06,1,3
+multi_claude-sonnet-4.6_009,multi_claude-sonnet-4.6_009_HR,HR,2,Pre-BATNA,"i can move to 90k salary, but bonus stays at 0.",,multi_claude-sonnet-4.6_009_turn_06,2,3
+multi_claude-sonnet-4.6_009,multi_claude-sonnet-4.6_009_HR,HR,2,Pre-BATNA,we do have stock and extra vacation days on the table — worth exploring?,,multi_claude-sonnet-4.6_009_turn_06,3,3
+multi_claude-sonnet-4.6_009,multi_claude-sonnet-4.6_009_Employee,Employee,3,Pre-BATNA,definitely worth exploring.,,multi_claude-sonnet-4.6_009_turn_07,1,2
+multi_claude-sonnet-4.6_009,multi_claude-sonnet-4.6_009_Employee,Employee,3,Pre-BATNA,"20k stock options, 30 vacation days.",,multi_claude-sonnet-4.6_009_turn_07,2,2
+multi_claude-sonnet-4.6_009,multi_claude-sonnet-4.6_009_HR,HR,3,Pre-BATNA,"What about 20k stock, 10 vacation days?",,multi_claude-sonnet-4.6_009_turn_08,1,1
+multi_claude-sonnet-4.6_009,multi_claude-sonnet-4.6_009_Employee,Employee,4,Post-BATNA,"What about 15% bonus, 30 vacation days?",,multi_claude-sonnet-4.6_009_turn_09,1,1
+multi_claude-sonnet-4.6_009,multi_claude-sonnet-4.6_009_HR,HR,4,Post-BATNA,30 days is a stretch for us.,,multi_claude-sonnet-4.6_009_turn_10,1,2
+multi_claude-sonnet-4.6_009,multi_claude-sonnet-4.6_009_HR,HR,4,Post-BATNA,"5% bonus, 10 vacation days — that's where we can go.",,multi_claude-sonnet-4.6_009_turn_10,2,2
+multi_claude-sonnet-4.6_009,multi_claude-sonnet-4.6_009_Employee,Employee,5,Post-BATNA,"What about 10% bonus, 30 vacation days?",,multi_claude-sonnet-4.6_009_turn_11,1,1
+multi_claude-sonnet-4.6_009,multi_claude-sonnet-4.6_009_HR,HR,5,Post-BATNA,10% bonus works.,,multi_claude-sonnet-4.6_009_turn_12,1,2
+multi_claude-sonnet-4.6_009,multi_claude-sonnet-4.6_009_HR,HR,5,Post-BATNA,vacation days are a structural limit — 10 is what we can do.,,multi_claude-sonnet-4.6_009_turn_12,2,2
+multi_claude-sonnet-4.6_009,multi_claude-sonnet-4.6_009_Employee,Employee,6,Post-BATNA,got it on vacation days.,,multi_claude-sonnet-4.6_009_turn_13,1,2
+multi_claude-sonnet-4.6_009,multi_claude-sonnet-4.6_009_Employee,Employee,6,Post-BATNA,"salary at 120k, and can we meet halfway at 25 vacation days?",,multi_claude-sonnet-4.6_009_turn_13,2,2
+multi_claude-sonnet-4.6_009,multi_claude-sonnet-4.6_009_HR,HR,6,Post-BATNA,we're too far apart on salary and vacation days.,,multi_claude-sonnet-4.6_009_turn_14,1,2
+multi_claude-sonnet-4.6_009,multi_claude-sonnet-4.6_009_HR,HR,6,Post-BATNA,we'll have to pass.,,multi_claude-sonnet-4.6_009_turn_14,2,2
+multi_claude-sonnet-4.6_010,multi_claude-sonnet-4.6_010_HR,HR,0,Pre-BATNA,hey! thanks for making time today.,,multi_claude-sonnet-4.6_010_turn_01,1,1
+multi_claude-sonnet-4.6_010,multi_claude-sonnet-4.6_010_Employee,Employee,0,Pre-BATNA,"hey! of course, happy to be here",,multi_claude-sonnet-4.6_010_turn_02,1,1
+multi_claude-sonnet-4.6_010,multi_claude-sonnet-4.6_010_HR,HR,1,Pre-BATNA,"what's most important to you in the offer — salary, bonus, equity, or something else?",,multi_claude-sonnet-4.6_010_turn_03,1,1
+multi_claude-sonnet-4.6_010,multi_claude-sonnet-4.6_010_Employee,Employee,1,Pre-BATNA,"base salary is the top priority for me, with equity and vacation also mattering.",,multi_claude-sonnet-4.6_010_turn_04,1,2
+multi_claude-sonnet-4.6_010,multi_claude-sonnet-4.6_010_Employee,Employee,1,Pre-BATNA,what does your budget flexibility look like on base?,,multi_claude-sonnet-4.6_010_turn_04,2,2
+multi_claude-sonnet-4.6_010,multi_claude-sonnet-4.6_010_HR,HR,2,Pre-BATNA,we can do $80k base.,,multi_claude-sonnet-4.6_010_turn_05,1,2
+multi_claude-sonnet-4.6_010,multi_claude-sonnet-4.6_010_HR,HR,2,Pre-BATNA,"and to sweeten it, $20k in stock options on top of that.",,multi_claude-sonnet-4.6_010_turn_05,2,2
+multi_claude-sonnet-4.6_010,multi_claude-sonnet-4.6_010_Employee,Employee,2,Pre-BATNA,$80k is well below where i need to be.,,multi_claude-sonnet-4.6_010_turn_06,1,2
+multi_claude-sonnet-4.6_010,multi_claude-sonnet-4.6_010_Employee,Employee,2,Pre-BATNA,i'm looking at $110k base and 20% bonus.,,multi_claude-sonnet-4.6_010_turn_06,2,2
+multi_claude-sonnet-4.6_010,multi_claude-sonnet-4.6_010_HR,HR,3,Pre-BATNA,$110k is a big jump from $80k.,,multi_claude-sonnet-4.6_010_turn_07,1,2
+multi_claude-sonnet-4.6_010,multi_claude-sonnet-4.6_010_HR,HR,3,Pre-BATNA,we can move to $90k base.,,multi_claude-sonnet-4.6_010_turn_07,2,2
+multi_claude-sonnet-4.6_010,multi_claude-sonnet-4.6_010_Employee,Employee,3,Pre-BATNA,still well short of $110k.,,multi_claude-sonnet-4.6_010_turn_08,1,1
+multi_claude-sonnet-4.6_010,multi_claude-sonnet-4.6_010_HR,HR,4,Post-BATNA,"fair enough, the gap's real.",,multi_claude-sonnet-4.6_010_turn_09,1,3
+multi_claude-sonnet-4.6_010,multi_claude-sonnet-4.6_010_HR,HR,4,Post-BATNA,but let's look at total comp — $90k base plus 10% bonus gets you closer.,,multi_claude-sonnet-4.6_010_turn_09,2,3
+multi_claude-sonnet-4.6_010,multi_claude-sonnet-4.6_010_HR,HR,4,Post-BATNA,what would it take on bonus to make $90k base work?,,multi_claude-sonnet-4.6_010_turn_09,3,3
+multi_claude-sonnet-4.6_010,multi_claude-sonnet-4.6_010_Employee,Employee,4,Post-BATNA,the base is the sticking point — i need $110k there.,,multi_claude-sonnet-4.6_010_turn_10,1,2
+multi_claude-sonnet-4.6_010,multi_claude-sonnet-4.6_010_Employee,Employee,4,Post-BATNA,but i can come down on bonus: 15% instead of 20%.,,multi_claude-sonnet-4.6_010_turn_10,2,2
+multi_claude-sonnet-4.6_010,multi_claude-sonnet-4.6_010_HR,HR,5,Post-BATNA,appreciate the move on bonus.,,multi_claude-sonnet-4.6_010_turn_11,1,3
+multi_claude-sonnet-4.6_010,multi_claude-sonnet-4.6_010_HR,HR,5,Post-BATNA,we can get to $100k base — splitting the difference.,,multi_claude-sonnet-4.6_010_turn_11,2,3
+multi_claude-sonnet-4.6_010,multi_claude-sonnet-4.6_010_HR,HR,5,Post-BATNA,"bonus stays at 10%, but that's a meaningful base bump.",,multi_claude-sonnet-4.6_010_turn_11,3,3
+multi_claude-sonnet-4.6_010,multi_claude-sonnet-4.6_010_Employee,Employee,5,Post-BATNA,"$100k is a real move, appreciate it.",,multi_claude-sonnet-4.6_010_turn_12,1,3
+multi_claude-sonnet-4.6_010,multi_claude-sonnet-4.6_010_Employee,Employee,5,Post-BATNA,but i need $110k base — that's been consistent throughout.,,multi_claude-sonnet-4.6_010_turn_12,2,3
+multi_claude-sonnet-4.6_010,multi_claude-sonnet-4.6_010_Employee,Employee,5,Post-BATNA,15% bonus still stands.,,multi_claude-sonnet-4.6_010_turn_12,3,3
+multi_claude-sonnet-4.6_010,multi_claude-sonnet-4.6_010_HR,HR,6,Post-BATNA,heard you on both.,,multi_claude-sonnet-4.6_010_turn_13,1,4
+multi_claude-sonnet-4.6_010,multi_claude-sonnet-4.6_010_HR,HR,6,Post-BATNA,"here's our full package: $100k salary, 10% bonus, 20k stock options, 10 vacation days.",,multi_claude-sonnet-4.6_010_turn_13,2,4
+multi_claude-sonnet-4.6_010,multi_claude-sonnet-4.6_010_HR,HR,6,Post-BATNA,that's our best — the stock options carry real upside over time.,,multi_claude-sonnet-4.6_010_turn_13,3,4
+multi_claude-sonnet-4.6_010,multi_claude-sonnet-4.6_010_HR,HR,6,Post-BATNA,we can't move further on base or bonus.,,multi_claude-sonnet-4.6_010_turn_13,4,4
+multi_claude-sonnet-4.6_010,multi_claude-sonnet-4.6_010_Employee,Employee,6,Post-BATNA,"deal, let's do it.",,multi_claude-sonnet-4.6_010_turn_14,1,1
+multi_claude-sonnet-4.6_011,multi_claude-sonnet-4.6_011_HR,HR,0,Pre-BATNA,hey! thanks for making time today.,,multi_claude-sonnet-4.6_011_turn_01,1,1
+multi_claude-sonnet-4.6_011,multi_claude-sonnet-4.6_011_Employee,Employee,0,Pre-BATNA,"hi! of course, happy to chat.",,multi_claude-sonnet-4.6_011_turn_02,1,1
+multi_claude-sonnet-4.6_011,multi_claude-sonnet-4.6_011_HR,HR,1,Pre-BATNA,"so before we get into numbers — what matters most to you in this package? salary, vacation time, bonus, equity?",,multi_claude-sonnet-4.6_011_turn_03,1,1
+multi_claude-sonnet-4.6_011,multi_claude-sonnet-4.6_011_Employee,Employee,1,Pre-BATNA,"honestly, total comp matters more than any single piece.",,multi_claude-sonnet-4.6_011_turn_04,1,2
+multi_claude-sonnet-4.6_011,multi_claude-sonnet-4.6_011_Employee,Employee,1,Pre-BATNA,what ranges are you working with?,,multi_claude-sonnet-4.6_011_turn_04,2,2
+multi_claude-sonnet-4.6_011,multi_claude-sonnet-4.6_011_HR,HR,2,Pre-BATNA,"80k salary, no bonus, 20k in stock options, 10 vacation days.",,multi_claude-sonnet-4.6_011_turn_05,1,2
+multi_claude-sonnet-4.6_011,multi_claude-sonnet-4.6_011_HR,HR,2,Pre-BATNA,equity-forward offer — solid upside as the company grows.,,multi_claude-sonnet-4.6_011_turn_05,2,2
+multi_claude-sonnet-4.6_011,multi_claude-sonnet-4.6_011_Employee,Employee,2,Pre-BATNA,"appreciate the equity angle, stock options work for me.",,multi_claude-sonnet-4.6_011_turn_06,1,2
+multi_claude-sonnet-4.6_011,multi_claude-sonnet-4.6_011_Employee,Employee,2,Pre-BATNA,"but salary, bonus, and vacation need to move — 120k salary, 20% bonus, 30 vacation days.",,multi_claude-sonnet-4.6_011_turn_06,2,2
+multi_claude-sonnet-4.6_011,multi_claude-sonnet-4.6_011_HR,HR,3,Pre-BATNA,glad stock options are settled.,,multi_claude-sonnet-4.6_011_turn_07,1,2
+multi_claude-sonnet-4.6_011,multi_claude-sonnet-4.6_011_HR,HR,3,Pre-BATNA,90k salary — that's a real move from our 80k opening.,,multi_claude-sonnet-4.6_011_turn_07,2,2
+multi_claude-sonnet-4.6_011,multi_claude-sonnet-4.6_011_Employee,Employee,3,Pre-BATNA,Let's talk about salary next.,,multi_claude-sonnet-4.6_011_turn_08,1,1
+multi_claude-sonnet-4.6_011,multi_claude-sonnet-4.6_011_HR,HR,4,Post-BATNA,100k salary.,,multi_claude-sonnet-4.6_011_turn_09,1,2
+multi_claude-sonnet-4.6_011,multi_claude-sonnet-4.6_011_HR,HR,4,Post-BATNA,that's a meaningful step — want to keep things moving on the rest too.,,multi_claude-sonnet-4.6_011_turn_09,2,2
+multi_claude-sonnet-4.6_011,multi_claude-sonnet-4.6_011_Employee,Employee,4,Post-BATNA,"120k salary, 15% bonus.",,multi_claude-sonnet-4.6_011_turn_10,1,1
+multi_claude-sonnet-4.6_011,multi_claude-sonnet-4.6_011_HR,HR,5,Post-BATNA,110k salary.,,multi_claude-sonnet-4.6_011_turn_11,1,2
+multi_claude-sonnet-4.6_011,multi_claude-sonnet-4.6_011_HR,HR,5,Post-BATNA,bonus stays at zero — we're moving significantly on salary to make up for it.,,multi_claude-sonnet-4.6_011_turn_11,2,2
+multi_claude-sonnet-4.6_011,multi_claude-sonnet-4.6_011_Employee,Employee,5,Post-BATNA,that framing doesn't work for me.,,multi_claude-sonnet-4.6_011_turn_12,1,2
+multi_claude-sonnet-4.6_011,multi_claude-sonnet-4.6_011_Employee,Employee,5,Post-BATNA,"15% bonus, 30 vacation days.",,multi_claude-sonnet-4.6_011_turn_12,2,2
+multi_claude-sonnet-4.6_011,multi_claude-sonnet-4.6_011_HR,HR,6,Post-BATNA,we've moved a lot on salary — 80k to 110k.,,multi_claude-sonnet-4.6_011_turn_13,1,3
+multi_claude-sonnet-4.6_011,multi_claude-sonnet-4.6_011_HR,HR,6,Post-BATNA,"5% bonus, 10 vacation days.",,multi_claude-sonnet-4.6_011_turn_13,2,3
+multi_claude-sonnet-4.6_011,multi_claude-sonnet-4.6_011_HR,HR,6,Post-BATNA,that's our best.,,multi_claude-sonnet-4.6_011_turn_13,3,3
+multi_claude-sonnet-4.6_011,multi_claude-sonnet-4.6_011_Employee,Employee,6,Post-BATNA,i'm out.,,multi_claude-sonnet-4.6_011_turn_14,1,1
+multi_claude-sonnet-4.6_012,multi_claude-sonnet-4.6_012_HR,HR,0,Pre-BATNA,hey! thanks for making time today.,,multi_claude-sonnet-4.6_012_turn_01,1,1
+multi_claude-sonnet-4.6_012,multi_claude-sonnet-4.6_012_Employee,Employee,0,Pre-BATNA,"hey! of course, happy to chat",,multi_claude-sonnet-4.6_012_turn_02,1,1
+multi_claude-sonnet-4.6_012,multi_claude-sonnet-4.6_012_HR,HR,1,Pre-BATNA,what matters most to you in this offer?,,multi_claude-sonnet-4.6_012_turn_03,1,1
+multi_claude-sonnet-4.6_012,multi_claude-sonnet-4.6_012_Employee,Employee,1,Pre-BATNA,"honestly, base salary is the biggest thing for me — and total comp overall.",,multi_claude-sonnet-4.6_012_turn_04,1,2
+multi_claude-sonnet-4.6_012,multi_claude-sonnet-4.6_012_Employee,Employee,1,Pre-BATNA,what kind of flexibility do you have on the package?,,multi_claude-sonnet-4.6_012_turn_04,2,2
+multi_claude-sonnet-4.6_012,multi_claude-sonnet-4.6_012_HR,HR,2,Pre-BATNA,"80k base, and we can do 20k in stock options.",,multi_claude-sonnet-4.6_012_turn_05,1,2
+multi_claude-sonnet-4.6_012,multi_claude-sonnet-4.6_012_HR,HR,2,Pre-BATNA,we have room to be creative on equity — that's where we can really add value.,,multi_claude-sonnet-4.6_012_turn_05,2,2
+multi_claude-sonnet-4.6_012,multi_claude-sonnet-4.6_012_Employee,Employee,2,Pre-BATNA,"What about 110k salary, 20% bonus?",,multi_claude-sonnet-4.6_012_turn_06,1,1
+multi_claude-sonnet-4.6_012,multi_claude-sonnet-4.6_012_HR,HR,3,Pre-BATNA,80k salary is firm for now.,,multi_claude-sonnet-4.6_012_turn_07,1,3
+multi_claude-sonnet-4.6_012,multi_claude-sonnet-4.6_012_HR,HR,3,Pre-BATNA,but i can do 10% bonus — that adds real cash to your total comp.,,multi_claude-sonnet-4.6_012_turn_07,2,3
+multi_claude-sonnet-4.6_012,multi_claude-sonnet-4.6_012_HR,HR,3,Pre-BATNA,and the 20k stock options are still on the table.,,multi_claude-sonnet-4.6_012_turn_07,3,3
+multi_claude-sonnet-4.6_012,multi_claude-sonnet-4.6_012_Employee,Employee,3,Pre-BATNA,"What about 110k salary, 30 vacation days?",,multi_claude-sonnet-4.6_012_turn_08,1,1
+multi_claude-sonnet-4.6_012,multi_claude-sonnet-4.6_012_HR,HR,4,Post-BATNA,30 days is a lot.,,multi_claude-sonnet-4.6_012_turn_09,1,2
+multi_claude-sonnet-4.6_012,multi_claude-sonnet-4.6_012_HR,HR,4,Post-BATNA,i can do 15 vacation days.,,multi_claude-sonnet-4.6_012_turn_09,2,2
+multi_claude-sonnet-4.6_012,multi_claude-sonnet-4.6_012_Employee,Employee,4,Post-BATNA,"What about 110k salary, 30 vacation days?",,multi_claude-sonnet-4.6_012_turn_10,1,1
+multi_claude-sonnet-4.6_012,multi_claude-sonnet-4.6_012_HR,HR,5,Post-BATNA,110k salary — done.,,multi_claude-sonnet-4.6_012_turn_11,1,2
+multi_claude-sonnet-4.6_012,multi_claude-sonnet-4.6_012_HR,HR,5,Post-BATNA,"but vacation stays at 15 days, can't go higher.",,multi_claude-sonnet-4.6_012_turn_11,2,2
+multi_claude-sonnet-4.6_012,multi_claude-sonnet-4.6_012_Employee,Employee,5,Post-BATNA,i hear you on 15 days.,,multi_claude-sonnet-4.6_012_turn_12,1,2
+multi_claude-sonnet-4.6_012,multi_claude-sonnet-4.6_012_Employee,Employee,5,Post-BATNA,but i need 30 vacation days and 20% bonus to make this work.,,multi_claude-sonnet-4.6_012_turn_12,2,2
+multi_claude-sonnet-4.6_012,multi_claude-sonnet-4.6_012_HR,HR,6,Post-BATNA,20% bonus — done.,,multi_claude-sonnet-4.6_012_turn_13,1,4
+multi_claude-sonnet-4.6_012,multi_claude-sonnet-4.6_012_HR,HR,6,Post-BATNA,but vacation is firm at 15 days.,,multi_claude-sonnet-4.6_012_turn_13,2,4
+multi_claude-sonnet-4.6_012,multi_claude-sonnet-4.6_012_HR,HR,6,Post-BATNA,"adding 20k stock options to sweeten it: 110k salary, 20% bonus, 20k stock, 15 vacation days.",,multi_claude-sonnet-4.6_012_turn_13,3,4
+multi_claude-sonnet-4.6_012,multi_claude-sonnet-4.6_012_HR,HR,6,Post-BATNA,that's our best.,,multi_claude-sonnet-4.6_012_turn_13,4,4
+multi_claude-sonnet-4.6_012,multi_claude-sonnet-4.6_012_Employee,Employee,6,Post-BATNA,deal,,multi_claude-sonnet-4.6_012_turn_14,1,1
+multi_claude-sonnet-4.6_013,multi_claude-sonnet-4.6_013_Employee,Employee,0,Pre-BATNA,hey! hope you're having a good day so far,,multi_claude-sonnet-4.6_013_turn_01,1,1
+multi_claude-sonnet-4.6_013,multi_claude-sonnet-4.6_013_HR,HR,0,Pre-BATNA,"hey! doing well, thanks for asking!",,multi_claude-sonnet-4.6_013_turn_02,1,1
+multi_claude-sonnet-4.6_013,multi_claude-sonnet-4.6_013_Employee,Employee,1,Pre-BATNA,glad to hear it!,,multi_claude-sonnet-4.6_013_turn_03,1,2
+multi_claude-sonnet-4.6_013,multi_claude-sonnet-4.6_013_Employee,Employee,1,Pre-BATNA,"so, what does your typical package look like for this role — particularly around salary and bonus?",,multi_claude-sonnet-4.6_013_turn_03,2,2
+multi_claude-sonnet-4.6_013,multi_claude-sonnet-4.6_013_HR,HR,1,Pre-BATNA,base salary for this role is $80k.,,multi_claude-sonnet-4.6_013_turn_04,1,2
+multi_claude-sonnet-4.6_013,multi_claude-sonnet-4.6_013_HR,HR,1,Pre-BATNA,bonus is $0 — not part of the standard band.,,multi_claude-sonnet-4.6_013_turn_04,2,2
+multi_claude-sonnet-4.6_013,multi_claude-sonnet-4.6_013_Employee,Employee,2,Pre-BATNA,market rate for this role is closer to $120k.,,multi_claude-sonnet-4.6_013_turn_05,1,2
+multi_claude-sonnet-4.6_013,multi_claude-sonnet-4.6_013_Employee,Employee,2,Pre-BATNA,and 10% bonus is pretty standard for performance alignment — worth discussing.,,multi_claude-sonnet-4.6_013_turn_05,2,2
+multi_claude-sonnet-4.6_013,multi_claude-sonnet-4.6_013_HR,HR,2,Pre-BATNA,market data varies a lot by source — we're not seeing 120k for this band.,,multi_claude-sonnet-4.6_013_turn_06,1,3
+multi_claude-sonnet-4.6_013,multi_claude-sonnet-4.6_013_HR,HR,2,Pre-BATNA,"that said, we can go to 90k on salary.",,multi_claude-sonnet-4.6_013_turn_06,2,3
+multi_claude-sonnet-4.6_013,multi_claude-sonnet-4.6_013_HR,HR,2,Pre-BATNA,"bonus structure isn't something we build into this role, though — stock and other benefits fill that gap.",,multi_claude-sonnet-4.6_013_turn_06,3,3
+multi_claude-sonnet-4.6_013,multi_claude-sonnet-4.6_013_Employee,Employee,3,Pre-BATNA,that makes sense — let's focus there then.,,multi_claude-sonnet-4.6_013_turn_07,1,2
+multi_claude-sonnet-4.6_013,multi_claude-sonnet-4.6_013_Employee,Employee,3,Pre-BATNA,"20,000 stock options and 30 vacation days.",,multi_claude-sonnet-4.6_013_turn_07,2,2
+multi_claude-sonnet-4.6_013,multi_claude-sonnet-4.6_013_HR,HR,3,Pre-BATNA,20k stock works.,,multi_claude-sonnet-4.6_013_turn_08,1,2
+multi_claude-sonnet-4.6_013,multi_claude-sonnet-4.6_013_HR,HR,3,Pre-BATNA,vacation days — our standard starting point is 10.,,multi_claude-sonnet-4.6_013_turn_08,2,2
+multi_claude-sonnet-4.6_013,multi_claude-sonnet-4.6_013_Employee,Employee,4,Post-BATNA,10 is pretty far from 30.,,multi_claude-sonnet-4.6_013_turn_09,1,3
+multi_claude-sonnet-4.6_013,multi_claude-sonnet-4.6_013_Employee,Employee,4,Post-BATNA,"if salary and bonus are limited, vacation days are the main lever left — can we meet at 25?",,multi_claude-sonnet-4.6_013_turn_09,2,3
+multi_claude-sonnet-4.6_013,multi_claude-sonnet-4.6_013_Employee,Employee,4,Post-BATNA,and circling back — 10% bonus still on the table for discussion?,,multi_claude-sonnet-4.6_013_turn_09,3,3
+multi_claude-sonnet-4.6_013,multi_claude-sonnet-4.6_013_HR,HR,4,Post-BATNA,25 is senior-level territory — we can do 15.,,multi_claude-sonnet-4.6_013_turn_10,1,2
+multi_claude-sonnet-4.6_013,multi_claude-sonnet-4.6_013_HR,HR,4,Post-BATNA,"on bonus, we're staying at 0.",,multi_claude-sonnet-4.6_013_turn_10,2,2
+multi_claude-sonnet-4.6_013,multi_claude-sonnet-4.6_013_Employee,Employee,5,Post-BATNA,fair enough on bonus — i'll drop it.,,multi_claude-sonnet-4.6_013_turn_11,1,2
+multi_claude-sonnet-4.6_013,multi_claude-sonnet-4.6_013_Employee,Employee,5,Post-BATNA,can we get to 25 vacation days and 120k salary?,,multi_claude-sonnet-4.6_013_turn_11,2,2
+multi_claude-sonnet-4.6_013,multi_claude-sonnet-4.6_013_HR,HR,5,Post-BATNA,appreciate you dropping the bonus — that's a real concession.,,multi_claude-sonnet-4.6_013_turn_12,1,3
+multi_claude-sonnet-4.6_013,multi_claude-sonnet-4.6_013_HR,HR,5,Post-BATNA,"salary, we can move to 100k.",,multi_claude-sonnet-4.6_013_turn_12,2,3
+multi_claude-sonnet-4.6_013,multi_claude-sonnet-4.6_013_HR,HR,5,Post-BATNA,vacation days stay at 15 though.,,multi_claude-sonnet-4.6_013_turn_12,3,3
+multi_claude-sonnet-4.6_013,multi_claude-sonnet-4.6_013_Employee,Employee,6,Post-BATNA,i'm meeting you fully on bonus — zero.,,multi_claude-sonnet-4.6_013_turn_13,1,2
+multi_claude-sonnet-4.6_013,multi_claude-sonnet-4.6_013_Employee,Employee,6,Post-BATNA,"120k salary, 25 vacation days, 20k stock. let's close it.",,multi_claude-sonnet-4.6_013_turn_13,2,2
+multi_claude-sonnet-4.6_013,multi_claude-sonnet-4.6_013_HR,HR,6,Post-BATNA,I don't think we're going to land on something here.,,multi_claude-sonnet-4.6_013_turn_14,1,1
+multi_claude-sonnet-4.6_014,multi_claude-sonnet-4.6_014_Employee,Employee,0,Pre-BATNA,hey! hope you're having a good day so far,,multi_claude-sonnet-4.6_014_turn_01,1,1
+multi_claude-sonnet-4.6_014,multi_claude-sonnet-4.6_014_HR,HR,0,Pre-BATNA,"hey! doing well, thanks for reaching out",,multi_claude-sonnet-4.6_014_turn_02,1,1
+multi_claude-sonnet-4.6_014,multi_claude-sonnet-4.6_014_Employee,Employee,1,Pre-BATNA,glad to hear it!,,multi_claude-sonnet-4.6_014_turn_03,1,2
+multi_claude-sonnet-4.6_014,multi_claude-sonnet-4.6_014_Employee,Employee,1,Pre-BATNA,"so, where do you usually have the most flexibility — salary or bonus?",,multi_claude-sonnet-4.6_014_turn_03,2,2
+multi_claude-sonnet-4.6_014,multi_claude-sonnet-4.6_014_HR,HR,1,Pre-BATNA,"good question, but before i go there — what matters most to you across the whole package?",,multi_claude-sonnet-4.6_014_turn_04,1,1
+multi_claude-sonnet-4.6_014,multi_claude-sonnet-4.6_014_Employee,Employee,2,Pre-BATNA,fair enough!,,multi_claude-sonnet-4.6_014_turn_05,1,2
+multi_claude-sonnet-4.6_014,multi_claude-sonnet-4.6_014_Employee,Employee,2,Pre-BATNA,how does the company typically think about stock options and vacation days relative to cash comp?,,multi_claude-sonnet-4.6_014_turn_05,2,2
+multi_claude-sonnet-4.6_014,multi_claude-sonnet-4.6_014_HR,HR,2,Pre-BATNA,both are real levers we use — not just filler.,,multi_claude-sonnet-4.6_014_turn_06,1,2
+multi_claude-sonnet-4.6_014,multi_claude-sonnet-4.6_014_HR,HR,2,Pre-BATNA,"but honestly, i've asked twice now — what's your actual top priority?",,multi_claude-sonnet-4.6_014_turn_06,2,2
+multi_claude-sonnet-4.6_014,multi_claude-sonnet-4.6_014_Employee,Employee,3,Pre-BATNA,"fair point, i've been dancing around it.",,multi_claude-sonnet-4.6_014_turn_07,1,3
+multi_claude-sonnet-4.6_014,multi_claude-sonnet-4.6_014_Employee,Employee,3,Pre-BATNA,salary is the top priority — i'm looking at 120k.,,multi_claude-sonnet-4.6_014_turn_07,2,3
+multi_claude-sonnet-4.6_014,multi_claude-sonnet-4.6_014_Employee,Employee,3,Pre-BATNA,and 30 vacation days.,,multi_claude-sonnet-4.6_014_turn_07,3,3
+multi_claude-sonnet-4.6_014,multi_claude-sonnet-4.6_014_HR,HR,3,Pre-BATNA,got it — salary and vacation days.,,multi_claude-sonnet-4.6_014_turn_08,1,3
+multi_claude-sonnet-4.6_014,multi_claude-sonnet-4.6_014_HR,HR,3,Pre-BATNA,we're at 100k salary and 10 vacation days on those two.,,multi_claude-sonnet-4.6_014_turn_08,2,3
+multi_claude-sonnet-4.6_014,multi_claude-sonnet-4.6_014_HR,HR,3,Pre-BATNA,but we have real flexibility on stock and bonus to build the total up.,,multi_claude-sonnet-4.6_014_turn_08,3,3
+multi_claude-sonnet-4.6_014,multi_claude-sonnet-4.6_014_Employee,Employee,4,Post-BATNA,20% bonus and 20k stock options.,,multi_claude-sonnet-4.6_014_turn_09,1,1
+multi_claude-sonnet-4.6_014,multi_claude-sonnet-4.6_014_HR,HR,4,Post-BATNA,meeting you on stock — 20k.,,multi_claude-sonnet-4.6_014_turn_10,1,2
+multi_claude-sonnet-4.6_014,multi_claude-sonnet-4.6_014_HR,HR,4,Post-BATNA,"bonus though, 10% is where we land.",,multi_claude-sonnet-4.6_014_turn_10,2,2
+multi_claude-sonnet-4.6_014,multi_claude-sonnet-4.6_014_Employee,Employee,5,Post-BATNA,fair enough on bonus.,,multi_claude-sonnet-4.6_014_turn_11,1,2
+multi_claude-sonnet-4.6_014,multi_claude-sonnet-4.6_014_Employee,Employee,5,Post-BATNA,120k salary and 30 vacation days — those need to move.,,multi_claude-sonnet-4.6_014_turn_11,2,2
+multi_claude-sonnet-4.6_014,multi_claude-sonnet-4.6_014_HR,HR,5,Post-BATNA,110k on salary — that's a real move from us.,,multi_claude-sonnet-4.6_014_turn_12,1,2
+multi_claude-sonnet-4.6_014,multi_claude-sonnet-4.6_014_HR,HR,5,Post-BATNA,vacation days stay at 10.,,multi_claude-sonnet-4.6_014_turn_12,2,2
+multi_claude-sonnet-4.6_014,multi_claude-sonnet-4.6_014_Employee,Employee,6,Post-BATNA,i'll take 110k.,,multi_claude-sonnet-4.6_014_turn_13,1,2
+multi_claude-sonnet-4.6_014,multi_claude-sonnet-4.6_014_Employee,Employee,6,Post-BATNA,"30 vacation days, 20% bonus, 20k stock — full package to close.",,multi_claude-sonnet-4.6_014_turn_13,2,2
+multi_claude-sonnet-4.6_014,multi_claude-sonnet-4.6_014_HR,HR,6,Post-BATNA,"appreciate the offer, but the gap on bonus and vacation days is too wide.",,multi_claude-sonnet-4.6_014_turn_14,1,2
+multi_claude-sonnet-4.6_014,multi_claude-sonnet-4.6_014_HR,HR,6,Post-BATNA,"we'll have to pass on this one — wish you well, and the door's open if things change.",,multi_claude-sonnet-4.6_014_turn_14,2,2
+multi_claude-sonnet-4.6_015,multi_claude-sonnet-4.6_015_HR,HR,0,Pre-BATNA,hey! thanks for making time today.,,multi_claude-sonnet-4.6_015_turn_01,1,1
+multi_claude-sonnet-4.6_015,multi_claude-sonnet-4.6_015_Employee,Employee,0,Pre-BATNA,"hey! of course, happy to be here",,multi_claude-sonnet-4.6_015_turn_02,1,1
+multi_claude-sonnet-4.6_015,multi_claude-sonnet-4.6_015_HR,HR,1,Pre-BATNA,"so, what matters most to you in a package — salary, equity, time off?",,multi_claude-sonnet-4.6_015_turn_03,1,1
+multi_claude-sonnet-4.6_015,multi_claude-sonnet-4.6_015_Employee,Employee,1,Pre-BATNA,"salary's definitely up there, but honestly the full package is what matters.",,multi_claude-sonnet-4.6_015_turn_04,1,2
+multi_claude-sonnet-4.6_015,multi_claude-sonnet-4.6_015_Employee,Employee,1,Pre-BATNA,what's the budget range looking like on base and bonus?,,multi_claude-sonnet-4.6_015_turn_04,2,2
+multi_claude-sonnet-4.6_015,multi_claude-sonnet-4.6_015_HR,HR,2,Pre-BATNA,base is $80k.,,multi_claude-sonnet-4.6_015_turn_05,1,2
+multi_claude-sonnet-4.6_015,multi_claude-sonnet-4.6_015_HR,HR,2,Pre-BATNA,"bonus is $0, but there's meaningful stock upside we can talk through.",,multi_claude-sonnet-4.6_015_turn_05,2,2
+multi_claude-sonnet-4.6_015,multi_claude-sonnet-4.6_015_Employee,Employee,2,Pre-BATNA,i appreciate the equity angle.,,multi_claude-sonnet-4.6_015_turn_06,1,2
+multi_claude-sonnet-4.6_015,multi_claude-sonnet-4.6_015_Employee,Employee,2,Pre-BATNA,"on base i'm thinking $120k, and $20k in stock options.",,multi_claude-sonnet-4.6_015_turn_06,2,2
+multi_claude-sonnet-4.6_015,multi_claude-sonnet-4.6_015_HR,HR,3,Pre-BATNA,$120k is a stretch we can't make.,,multi_claude-sonnet-4.6_015_turn_07,1,2
+multi_claude-sonnet-4.6_015,multi_claude-sonnet-4.6_015_HR,HR,3,Pre-BATNA,but we can do $90k base and match your $20k in stock options.,,multi_claude-sonnet-4.6_015_turn_07,2,2
+multi_claude-sonnet-4.6_015,multi_claude-sonnet-4.6_015_Employee,Employee,3,Pre-BATNA,"stock options settled then, good.",,multi_claude-sonnet-4.6_015_turn_08,1,2
+multi_claude-sonnet-4.6_015,multi_claude-sonnet-4.6_015_Employee,Employee,3,Pre-BATNA,"on bonus, i'm looking at $10k, and 30 vacation days.",,multi_claude-sonnet-4.6_015_turn_08,2,2
+multi_claude-sonnet-4.6_015,multi_claude-sonnet-4.6_015_HR,HR,4,Post-BATNA,we've moved on salary and matched the full $20k stock ask.,,multi_claude-sonnet-4.6_015_turn_09,1,2
+multi_claude-sonnet-4.6_015,multi_claude-sonnet-4.6_015_HR,HR,4,Post-BATNA,bonus is $0 and vacation days is 10.,,multi_claude-sonnet-4.6_015_turn_09,2,2
+multi_claude-sonnet-4.6_015,multi_claude-sonnet-4.6_015_Employee,Employee,4,Post-BATNA,$0 bonus and 10 days is pretty far from reasonable.,,multi_claude-sonnet-4.6_015_turn_10,1,2
+multi_claude-sonnet-4.6_015,multi_claude-sonnet-4.6_015_Employee,Employee,4,Post-BATNA,10% bonus and 25 vacation days.,,multi_claude-sonnet-4.6_015_turn_10,2,2
+multi_claude-sonnet-4.6_015,multi_claude-sonnet-4.6_015_HR,HR,5,Post-BATNA,we started at zero on bonus — 5% is a real move.,,multi_claude-sonnet-4.6_015_turn_11,1,2
+multi_claude-sonnet-4.6_015,multi_claude-sonnet-4.6_015_HR,HR,5,Post-BATNA,but 10 vacation days is firm. need you to come down from 25.,,multi_claude-sonnet-4.6_015_turn_11,2,2
+multi_claude-sonnet-4.6_015,multi_claude-sonnet-4.6_015_Employee,Employee,5,Post-BATNA,"ok, i can move on vacation days.",,multi_claude-sonnet-4.6_015_turn_12,1,2
+multi_claude-sonnet-4.6_015,multi_claude-sonnet-4.6_015_Employee,Employee,5,Post-BATNA,"20 days, and bonus stays at 10%.",,multi_claude-sonnet-4.6_015_turn_12,2,2
+multi_claude-sonnet-4.6_015,multi_claude-sonnet-4.6_015_HR,HR,6,Post-BATNA,we'll meet you at 10% bonus.,,multi_claude-sonnet-4.6_015_turn_13,1,2
+multi_claude-sonnet-4.6_015,multi_claude-sonnet-4.6_015_HR,HR,6,Post-BATNA,but vacation days has to be 10 — that's the trade.,,multi_claude-sonnet-4.6_015_turn_13,2,2
+multi_claude-sonnet-4.6_015,multi_claude-sonnet-4.6_015_Employee,Employee,6,Post-BATNA,i appreciate the move on bonus.,,multi_claude-sonnet-4.6_015_turn_14,1,2
+multi_claude-sonnet-4.6_015,multi_claude-sonnet-4.6_015_Employee,Employee,6,Post-BATNA,but 10 days and 90k — i can't make that work. i'm out.,,multi_claude-sonnet-4.6_015_turn_14,2,2
+multi_claude-sonnet-4.6_016,multi_claude-sonnet-4.6_016_HR,HR,0,Pre-BATNA,hey! thanks for making time today.,,multi_claude-sonnet-4.6_016_turn_01,1,1
+multi_claude-sonnet-4.6_016,multi_claude-sonnet-4.6_016_Employee,Employee,0,Pre-BATNA,"hey! of course, happy to be here",,multi_claude-sonnet-4.6_016_turn_02,1,1
+multi_claude-sonnet-4.6_016,multi_claude-sonnet-4.6_016_HR,HR,1,Pre-BATNA,"what matters most to you in a new role — salary, bonus, equity, or something else?",,multi_claude-sonnet-4.6_016_turn_03,1,1
+multi_claude-sonnet-4.6_016,multi_claude-sonnet-4.6_016_Employee,Employee,1,Pre-BATNA,base and total upside are both important to me.,,multi_claude-sonnet-4.6_016_turn_04,1,2
+multi_claude-sonnet-4.6_016,multi_claude-sonnet-4.6_016_Employee,Employee,1,Pre-BATNA,what's the typical range for this role?,,multi_claude-sonnet-4.6_016_turn_04,2,2
+multi_claude-sonnet-4.6_016,multi_claude-sonnet-4.6_016_HR,HR,2,Pre-BATNA,we anchor at $80k base.,,multi_claude-sonnet-4.6_016_turn_05,1,2
+multi_claude-sonnet-4.6_016,multi_claude-sonnet-4.6_016_HR,HR,2,Pre-BATNA,and $20k in stock options — that's where the real upside is.,,multi_claude-sonnet-4.6_016_turn_05,2,2
+multi_claude-sonnet-4.6_016,multi_claude-sonnet-4.6_016_Employee,Employee,2,Pre-BATNA,market rate for this role is more like $110k base.,,multi_claude-sonnet-4.6_016_turn_06,1,2
+multi_claude-sonnet-4.6_016,multi_claude-sonnet-4.6_016_Employee,Employee,2,Pre-BATNA,and i'd want 20% bonus on top of that.,,multi_claude-sonnet-4.6_016_turn_06,2,2
+multi_claude-sonnet-4.6_016,multi_claude-sonnet-4.6_016_HR,HR,3,Pre-BATNA,i hear you on the market data.,,multi_claude-sonnet-4.6_016_turn_07,1,3
+multi_claude-sonnet-4.6_016,multi_claude-sonnet-4.6_016_HR,HR,3,Pre-BATNA,i can move on bonus — 10% is where i can go.,,multi_claude-sonnet-4.6_016_turn_07,2,3
+multi_claude-sonnet-4.6_016,multi_claude-sonnet-4.6_016_HR,HR,3,Pre-BATNA,but base stays at $80k for now; the equity is designed to bridge that gap.,,multi_claude-sonnet-4.6_016_turn_07,3,3
+multi_claude-sonnet-4.6_016,multi_claude-sonnet-4.6_016_Employee,Employee,3,Pre-BATNA,i can meet you at 10% bonus.,,multi_claude-sonnet-4.6_016_turn_08,1,2
+multi_claude-sonnet-4.6_016,multi_claude-sonnet-4.6_016_Employee,Employee,3,Pre-BATNA,but i need base to reflect market — $110k is where i need to land.,,multi_claude-sonnet-4.6_016_turn_08,2,2
+multi_claude-sonnet-4.6_016,multi_claude-sonnet-4.6_016_HR,HR,4,Post-BATNA,i hear you on the market point.,,multi_claude-sonnet-4.6_016_turn_09,1,3
+multi_claude-sonnet-4.6_016,multi_claude-sonnet-4.6_016_HR,HR,4,Post-BATNA,i can move to $90k base — that's a real step from where we started.,,multi_claude-sonnet-4.6_016_turn_09,2,3
+multi_claude-sonnet-4.6_016,multi_claude-sonnet-4.6_016_HR,HR,4,Post-BATNA,and i want to anchor stock options at $20k — that's meaningful upside on top of the base.,,multi_claude-sonnet-4.6_016_turn_09,3,3
+multi_claude-sonnet-4.6_016,multi_claude-sonnet-4.6_016_Employee,Employee,4,Post-BATNA,$20k stock works for me.,,multi_claude-sonnet-4.6_016_turn_10,1,2
+multi_claude-sonnet-4.6_016,multi_claude-sonnet-4.6_016_Employee,Employee,4,Post-BATNA,but i still need $110k base — and let's talk vacation days. i'm looking for 30.,,multi_claude-sonnet-4.6_016_turn_10,2,2
+multi_claude-sonnet-4.6_016,multi_claude-sonnet-4.6_016_HR,HR,5,Post-BATNA,$100k base — that's a significant move from my side.,,multi_claude-sonnet-4.6_016_turn_11,1,2
+multi_claude-sonnet-4.6_016,multi_claude-sonnet-4.6_016_HR,HR,5,Post-BATNA,vacation at 15 days. that's real movement from 10.,,multi_claude-sonnet-4.6_016_turn_11,2,2
+multi_claude-sonnet-4.6_016,multi_claude-sonnet-4.6_016_Employee,Employee,5,Post-BATNA,appreciate the movement on both.,,multi_claude-sonnet-4.6_016_turn_12,1,3
+multi_claude-sonnet-4.6_016,multi_claude-sonnet-4.6_016_Employee,Employee,5,Post-BATNA,salary's still $110k — that's firm.,,multi_claude-sonnet-4.6_016_turn_12,2,3
+multi_claude-sonnet-4.6_016,multi_claude-sonnet-4.6_016_Employee,Employee,5,Post-BATNA,"on vacation, i'll come down to 25 days.",,multi_claude-sonnet-4.6_016_turn_12,3,3
+multi_claude-sonnet-4.6_016,multi_claude-sonnet-4.6_016_HR,HR,6,Post-BATNA,meeting you at $110k salary.,,multi_claude-sonnet-4.6_016_turn_13,1,3
+multi_claude-sonnet-4.6_016,multi_claude-sonnet-4.6_016_HR,HR,6,Post-BATNA,vacation stays at 15 days — that's where we are.,,multi_claude-sonnet-4.6_016_turn_13,2,3
+multi_claude-sonnet-4.6_016,multi_claude-sonnet-4.6_016_HR,HR,6,Post-BATNA,"so full offer: $110k salary, 10% bonus, $20k stock, 15 vacation days.",,multi_claude-sonnet-4.6_016_turn_13,3,3
+multi_claude-sonnet-4.6_016,multi_claude-sonnet-4.6_016_Employee,Employee,6,Post-BATNA,i appreciate you working through this with me.,,multi_claude-sonnet-4.6_016_turn_14,1,3
+multi_claude-sonnet-4.6_016,multi_claude-sonnet-4.6_016_Employee,Employee,6,Post-BATNA,vacation days are the sticking point — 15 just doesn't get me there.,,multi_claude-sonnet-4.6_016_turn_14,2,3
+multi_claude-sonnet-4.6_016,multi_claude-sonnet-4.6_016_Employee,Employee,6,Post-BATNA,i have to pass.,,multi_claude-sonnet-4.6_016_turn_14,3,3
+multi_claude-sonnet-4.6_017,multi_claude-sonnet-4.6_017_Employee,Employee,0,Pre-BATNA,hey! hope you're having a good day so far,,multi_claude-sonnet-4.6_017_turn_01,1,1
+multi_claude-sonnet-4.6_017,multi_claude-sonnet-4.6_017_HR,HR,0,Pre-BATNA,"hey! doing well, thanks for asking 😊",,multi_claude-sonnet-4.6_017_turn_02,1,1
+multi_claude-sonnet-4.6_017,multi_claude-sonnet-4.6_017_Employee,Employee,1,Pre-BATNA,glad to hear it!,,multi_claude-sonnet-4.6_017_turn_03,1,2
+multi_claude-sonnet-4.6_017,multi_claude-sonnet-4.6_017_Employee,Employee,1,Pre-BATNA,"so, what's the typical salary range you're working with for this role?",,multi_claude-sonnet-4.6_017_turn_03,2,2
+multi_claude-sonnet-4.6_017,multi_claude-sonnet-4.6_017_HR,HR,1,Pre-BATNA,"what's your target, and what matters most to you in the overall package?",,multi_claude-sonnet-4.6_017_turn_04,1,1
+multi_claude-sonnet-4.6_017,multi_claude-sonnet-4.6_017_Employee,Employee,2,Pre-BATNA,"salary's the biggest thing, and time off.",,multi_claude-sonnet-4.6_017_turn_05,1,2
+multi_claude-sonnet-4.6_017,multi_claude-sonnet-4.6_017_Employee,Employee,2,Pre-BATNA,"i'm targeting around 120k, and ideally 30 vacation days.",,multi_claude-sonnet-4.6_017_turn_05,2,2
+multi_claude-sonnet-4.6_017,multi_claude-sonnet-4.6_017_HR,HR,2,Pre-BATNA,"those are the two that cost the most, so i get why you led with them.",,multi_claude-sonnet-4.6_017_turn_06,1,3
+multi_claude-sonnet-4.6_017,multi_claude-sonnet-4.6_017_HR,HR,2,Pre-BATNA,we can do 100k salary and 10 vacation days to start.,,multi_claude-sonnet-4.6_017_turn_06,2,3
+multi_claude-sonnet-4.6_017,multi_claude-sonnet-4.6_017_HR,HR,2,Pre-BATNA,"there's room to talk stock options too, which could add real value.",,multi_claude-sonnet-4.6_017_turn_06,3,3
+multi_claude-sonnet-4.6_017,multi_claude-sonnet-4.6_017_Employee,Employee,3,Pre-BATNA,"yeah, stock options are interesting.",,multi_claude-sonnet-4.6_017_turn_07,1,2
+multi_claude-sonnet-4.6_017,multi_claude-sonnet-4.6_017_Employee,Employee,3,Pre-BATNA,on that note — 20% bonus and 20k in stock options.,,multi_claude-sonnet-4.6_017_turn_07,2,2
+multi_claude-sonnet-4.6_017,multi_claude-sonnet-4.6_017_HR,HR,3,Pre-BATNA,20k stock options works.,,multi_claude-sonnet-4.6_017_turn_08,1,2
+multi_claude-sonnet-4.6_017,multi_claude-sonnet-4.6_017_HR,HR,3,Pre-BATNA,bonus is a no-go right now — 0% to start.,,multi_claude-sonnet-4.6_017_turn_08,2,2
+multi_claude-sonnet-4.6_017,multi_claude-sonnet-4.6_017_Employee,Employee,4,Post-BATNA,fair enough on bonus.,,multi_claude-sonnet-4.6_017_turn_09,1,2
+multi_claude-sonnet-4.6_017,multi_claude-sonnet-4.6_017_Employee,Employee,4,Post-BATNA,back to the core then — 120k salary and 30 vacation days.,,multi_claude-sonnet-4.6_017_turn_09,2,2
+multi_claude-sonnet-4.6_017,multi_claude-sonnet-4.6_017_HR,HR,4,Post-BATNA,110k on salary.,,multi_claude-sonnet-4.6_017_turn_10,1,2
+multi_claude-sonnet-4.6_017,multi_claude-sonnet-4.6_017_HR,HR,4,Post-BATNA,vacation days stay at 10.,,multi_claude-sonnet-4.6_017_turn_10,2,2
+multi_claude-sonnet-4.6_017,multi_claude-sonnet-4.6_017_Employee,Employee,5,Post-BATNA,alright.,,multi_claude-sonnet-4.6_017_turn_11,1,2
+multi_claude-sonnet-4.6_017,multi_claude-sonnet-4.6_017_Employee,Employee,5,Post-BATNA,"110k salary, 30 vacation days.",,multi_claude-sonnet-4.6_017_turn_11,2,2
+multi_claude-sonnet-4.6_017,multi_claude-sonnet-4.6_017_HR,HR,5,Post-BATNA,"What about 5% bonus, 10 vacation days?",,multi_claude-sonnet-4.6_017_turn_12,1,1
+multi_claude-sonnet-4.6_017,multi_claude-sonnet-4.6_017_Employee,Employee,6,Post-BATNA,"What about 5% bonus, 30 vacation days?",,multi_claude-sonnet-4.6_017_turn_13,1,1
+multi_claude-sonnet-4.6_017,multi_claude-sonnet-4.6_017_HR,HR,6,Post-BATNA,30 days isn't happening.,,multi_claude-sonnet-4.6_017_turn_14,1,2
+multi_claude-sonnet-4.6_017,multi_claude-sonnet-4.6_017_HR,HR,6,Post-BATNA,we're done here.,,multi_claude-sonnet-4.6_017_turn_14,2,2
+multi_claude-sonnet-4.6_018,multi_claude-sonnet-4.6_018_HR,HR,0,Pre-BATNA,hey! thanks for making time today.,,multi_claude-sonnet-4.6_018_turn_01,1,1
+multi_claude-sonnet-4.6_018,multi_claude-sonnet-4.6_018_Employee,Employee,0,Pre-BATNA,"hey! of course, happy to be here",,multi_claude-sonnet-4.6_018_turn_02,1,1
+multi_claude-sonnet-4.6_018,multi_claude-sonnet-4.6_018_HR,HR,1,Pre-BATNA,"what's most important to you in the offer — salary, bonus, equity, something else?",,multi_claude-sonnet-4.6_018_turn_03,1,1
+multi_claude-sonnet-4.6_018,multi_claude-sonnet-4.6_018_Employee,Employee,1,Pre-BATNA,"base salary is the priority, but total upside — bonus, equity — matters too.",,multi_claude-sonnet-4.6_018_turn_04,1,2
+multi_claude-sonnet-4.6_018,multi_claude-sonnet-4.6_018_Employee,Employee,1,Pre-BATNA,what does the budget typically look like for this role?,,multi_claude-sonnet-4.6_018_turn_04,2,2
+multi_claude-sonnet-4.6_018,multi_claude-sonnet-4.6_018_HR,HR,2,Pre-BATNA,varies by candidate.,,multi_claude-sonnet-4.6_018_turn_05,1,2
+multi_claude-sonnet-4.6_018,multi_claude-sonnet-4.6_018_HR,HR,2,Pre-BATNA,"we're thinking $80k base, plus $20k in stock options.",,multi_claude-sonnet-4.6_018_turn_05,2,2
+multi_claude-sonnet-4.6_018,multi_claude-sonnet-4.6_018_Employee,Employee,2,Pre-BATNA,the $20k in stock options works for me.,,multi_claude-sonnet-4.6_018_turn_06,1,2
+multi_claude-sonnet-4.6_018,multi_claude-sonnet-4.6_018_Employee,Employee,2,Pre-BATNA,"on the full package though: $120k base, 20% bonus, and 30 vacation days.",,multi_claude-sonnet-4.6_018_turn_06,2,2
+multi_claude-sonnet-4.6_018,multi_claude-sonnet-4.6_018_HR,HR,3,Pre-BATNA,$120k is pretty far from where we are.,,multi_claude-sonnet-4.6_018_turn_07,1,2
+multi_claude-sonnet-4.6_018,multi_claude-sonnet-4.6_018_HR,HR,3,Pre-BATNA,"we can hold at $80k base, and on bonus we'd start at $0.",,multi_claude-sonnet-4.6_018_turn_07,2,2
+multi_claude-sonnet-4.6_018,multi_claude-sonnet-4.6_018_Employee,Employee,3,Pre-BATNA,"ok, i hear you.",,multi_claude-sonnet-4.6_018_turn_08,1,2
+multi_claude-sonnet-4.6_018,multi_claude-sonnet-4.6_018_Employee,Employee,3,Pre-BATNA,"i'll come down to $110k base, and meet in the middle on bonus — 20%.",,multi_claude-sonnet-4.6_018_turn_08,2,2
+multi_claude-sonnet-4.6_018,multi_claude-sonnet-4.6_018_HR,HR,4,Post-BATNA,appreciate the movement on salary.,,multi_claude-sonnet-4.6_018_turn_09,1,2
+multi_claude-sonnet-4.6_018,multi_claude-sonnet-4.6_018_HR,HR,4,Post-BATNA,"we can go to $90k base, but bonus stays at $0.",,multi_claude-sonnet-4.6_018_turn_09,2,2
+multi_claude-sonnet-4.6_018,multi_claude-sonnet-4.6_018_Employee,Employee,4,Post-BATNA,glad you moved on salary.,,multi_claude-sonnet-4.6_018_turn_10,1,3
+multi_claude-sonnet-4.6_018,multi_claude-sonnet-4.6_018_Employee,Employee,4,Post-BATNA,but $0 bonus doesn't work — i can come down to 15% as a compromise.,,multi_claude-sonnet-4.6_018_turn_10,2,3
+multi_claude-sonnet-4.6_018,multi_claude-sonnet-4.6_018_Employee,Employee,4,Post-BATNA,"so $110k base, 15% bonus.",,multi_claude-sonnet-4.6_018_turn_10,3,3
+multi_claude-sonnet-4.6_018,multi_claude-sonnet-4.6_018_HR,HR,5,Post-BATNA,appreciate you moving on bonus.,,multi_claude-sonnet-4.6_018_turn_11,1,3
+multi_claude-sonnet-4.6_018,multi_claude-sonnet-4.6_018_HR,HR,5,Post-BATNA,salary's still the gap — $110k isn't workable for us.,,multi_claude-sonnet-4.6_018_turn_11,2,3
+multi_claude-sonnet-4.6_018,multi_claude-sonnet-4.6_018_HR,HR,5,Post-BATNA,"we can do $90k base, 5% bonus.",,multi_claude-sonnet-4.6_018_turn_11,3,3
+multi_claude-sonnet-4.6_018,multi_claude-sonnet-4.6_018_Employee,Employee,5,Post-BATNA,that's a real salary drop for me.,,multi_claude-sonnet-4.6_018_turn_12,1,2
+multi_claude-sonnet-4.6_018,multi_claude-sonnet-4.6_018_Employee,Employee,5,Post-BATNA,"$100k base, 15% bonus.",,multi_claude-sonnet-4.6_018_turn_12,2,2
+multi_claude-sonnet-4.6_018,multi_claude-sonnet-4.6_018_HR,HR,6,Post-BATNA,met you on salary — $100k.,,multi_claude-sonnet-4.6_018_turn_13,1,3
+multi_claude-sonnet-4.6_018,multi_claude-sonnet-4.6_018_HR,HR,6,Post-BATNA,"bonus stays at 5%, vacation is 10 days.",,multi_claude-sonnet-4.6_018_turn_13,2,3
+multi_claude-sonnet-4.6_018,multi_claude-sonnet-4.6_018_HR,HR,6,Post-BATNA,that's our best and final.,,multi_claude-sonnet-4.6_018_turn_13,3,3
+multi_claude-sonnet-4.6_018,multi_claude-sonnet-4.6_018_Employee,Employee,6,Post-BATNA,i can't make that work.,,multi_claude-sonnet-4.6_018_turn_14,1,2
+multi_claude-sonnet-4.6_018,multi_claude-sonnet-4.6_018_Employee,Employee,6,Post-BATNA,i'll need to pass.,,multi_claude-sonnet-4.6_018_turn_14,2,2
+multi_claude-sonnet-4.6_019,multi_claude-sonnet-4.6_019_HR,HR,0,Pre-BATNA,hey! thanks for making time today.,,multi_claude-sonnet-4.6_019_turn_01,1,1
+multi_claude-sonnet-4.6_019,multi_claude-sonnet-4.6_019_Employee,Employee,0,Pre-BATNA,"hey! of course, happy to be here.",,multi_claude-sonnet-4.6_019_turn_02,1,1
+multi_claude-sonnet-4.6_019,multi_claude-sonnet-4.6_019_HR,HR,1,Pre-BATNA,"so, what's most important to you — salary, bonus, something else?",,multi_claude-sonnet-4.6_019_turn_03,1,1
+multi_claude-sonnet-4.6_019,multi_claude-sonnet-4.6_019_Employee,Employee,1,Pre-BATNA,salary's the top priority for me.,,multi_claude-sonnet-4.6_019_turn_04,1,2
+multi_claude-sonnet-4.6_019,multi_claude-sonnet-4.6_019_Employee,Employee,1,Pre-BATNA,though i'm curious — where do you have the most flexibility?,,multi_claude-sonnet-4.6_019_turn_04,2,2
+multi_claude-sonnet-4.6_019,multi_claude-sonnet-4.6_019_HR,HR,2,Pre-BATNA,good to know on salary.,,multi_claude-sonnet-4.6_019_turn_05,1,2
+multi_claude-sonnet-4.6_019,multi_claude-sonnet-4.6_019_HR,HR,2,Pre-BATNA,"how do you feel about equity or time off — meaningful to you, or more secondary?",,multi_claude-sonnet-4.6_019_turn_05,2,2
+multi_claude-sonnet-4.6_019,multi_claude-sonnet-4.6_019_Employee,Employee,2,Pre-BATNA,"What matters more to you, stock options?",,multi_claude-sonnet-4.6_019_turn_06,1,1
+multi_claude-sonnet-4.6_019,multi_claude-sonnet-4.6_019_HR,HR,3,Pre-BATNA,we can be flexible on equity — thinking 20k in stock options.,,multi_claude-sonnet-4.6_019_turn_07,1,2
+multi_claude-sonnet-4.6_019,multi_claude-sonnet-4.6_019_HR,HR,3,Pre-BATNA,salary we're starting at 80k.,,multi_claude-sonnet-4.6_019_turn_07,2,2
+multi_claude-sonnet-4.6_019,multi_claude-sonnet-4.6_019_Employee,Employee,3,Pre-BATNA,20k stock options works for me.,,multi_claude-sonnet-4.6_019_turn_08,1,3
+multi_claude-sonnet-4.6_019,multi_claude-sonnet-4.6_019_Employee,Employee,3,Pre-BATNA,"on salary, i'm thinking 110k.",,multi_claude-sonnet-4.6_019_turn_08,2,3
+multi_claude-sonnet-4.6_019,multi_claude-sonnet-4.6_019_Employee,Employee,3,Pre-BATNA,and a 20% bonus on top of that.,,multi_claude-sonnet-4.6_019_turn_08,3,3
+multi_claude-sonnet-4.6_019,multi_claude-sonnet-4.6_019_HR,HR,4,Post-BATNA,110k's a stretch for us.,,multi_claude-sonnet-4.6_019_turn_09,1,2
+multi_claude-sonnet-4.6_019,multi_claude-sonnet-4.6_019_HR,HR,4,Post-BATNA,we can do 80k salary and 10% bonus.,,multi_claude-sonnet-4.6_019_turn_09,2,2
+multi_claude-sonnet-4.6_019,multi_claude-sonnet-4.6_019_Employee,Employee,4,Post-BATNA,"110k salary, 15% bonus.",,multi_claude-sonnet-4.6_019_turn_10,1,2
+multi_claude-sonnet-4.6_019,multi_claude-sonnet-4.6_019_Employee,Employee,4,Post-BATNA,that's already movement on my end.,,multi_claude-sonnet-4.6_019_turn_10,2,2
+multi_claude-sonnet-4.6_019,multi_claude-sonnet-4.6_019_HR,HR,5,Post-BATNA,fair enough.,,multi_claude-sonnet-4.6_019_turn_11,1,3
+multi_claude-sonnet-4.6_019,multi_claude-sonnet-4.6_019_HR,HR,5,Post-BATNA,we can do 90k salary and meet you at 15% bonus.,,multi_claude-sonnet-4.6_019_turn_11,2,3
+multi_claude-sonnet-4.6_019,multi_claude-sonnet-4.6_019_HR,HR,5,Post-BATNA,still need to land vacation days before we can close.,,multi_claude-sonnet-4.6_019_turn_11,3,3
+multi_claude-sonnet-4.6_019,multi_claude-sonnet-4.6_019_Employee,Employee,5,Post-BATNA,"110k salary, 30 vacation days.",,multi_claude-sonnet-4.6_019_turn_12,1,2
+multi_claude-sonnet-4.6_019,multi_claude-sonnet-4.6_019_Employee,Employee,5,Post-BATNA,that closes it for me.,,multi_claude-sonnet-4.6_019_turn_12,2,2
+multi_claude-sonnet-4.6_019,multi_claude-sonnet-4.6_019_HR,HR,6,Post-BATNA,"we're at 90k salary, 15% bonus, 20k stock options, 10 vacation days.",,multi_claude-sonnet-4.6_019_turn_13,1,3
+multi_claude-sonnet-4.6_019,multi_claude-sonnet-4.6_019_HR,HR,6,Post-BATNA,that's our final package — the stock options are real upside.,,multi_claude-sonnet-4.6_019_turn_13,2,3
+multi_claude-sonnet-4.6_019,multi_claude-sonnet-4.6_019_HR,HR,6,Post-BATNA,"there's a gap on salary and vacation days, but this is where we land.",,multi_claude-sonnet-4.6_019_turn_13,3,3
+multi_claude-sonnet-4.6_019,multi_claude-sonnet-4.6_019_Employee,Employee,6,Post-BATNA,"yeah, the gap's too wide on both.",,multi_claude-sonnet-4.6_019_turn_14,1,2
+multi_claude-sonnet-4.6_019,multi_claude-sonnet-4.6_019_Employee,Employee,6,Post-BATNA,i'll have to pass. thanks for the time.,,multi_claude-sonnet-4.6_019_turn_14,2,2
+multi_claude-sonnet-4.6_020,multi_claude-sonnet-4.6_020_HR,HR,0,Pre-BATNA,hey! thanks for taking the time to chat today.,,multi_claude-sonnet-4.6_020_turn_01,1,1
+multi_claude-sonnet-4.6_020,multi_claude-sonnet-4.6_020_Employee,Employee,0,Pre-BATNA,"hey! of course, happy to be here.",,multi_claude-sonnet-4.6_020_turn_02,1,1
+multi_claude-sonnet-4.6_020,multi_claude-sonnet-4.6_020_HR,HR,1,Pre-BATNA,"what matters most to you in a new role — salary, bonus, something else?",,multi_claude-sonnet-4.6_020_turn_03,1,1
+multi_claude-sonnet-4.6_020,multi_claude-sonnet-4.6_020_Employee,Employee,1,Pre-BATNA,"base salary is the priority, and total cash matters a lot too — so bonus factors in.",,multi_claude-sonnet-4.6_020_turn_04,1,2
+multi_claude-sonnet-4.6_020,multi_claude-sonnet-4.6_020_Employee,Employee,1,Pre-BATNA,what does your typical range look like for this role?,,multi_claude-sonnet-4.6_020_turn_04,2,2
+multi_claude-sonnet-4.6_020,multi_claude-sonnet-4.6_020_HR,HR,2,Pre-BATNA,we're starting at 90k base.,,multi_claude-sonnet-4.6_020_turn_05,1,2
+multi_claude-sonnet-4.6_020,multi_claude-sonnet-4.6_020_HR,HR,2,Pre-BATNA,no bonus attached to this role initially — but open to discussing.,,multi_claude-sonnet-4.6_020_turn_05,2,2
+multi_claude-sonnet-4.6_020,multi_claude-sonnet-4.6_020_Employee,Employee,2,Pre-BATNA,90k's well below market for what I'm targeting.,,multi_claude-sonnet-4.6_020_turn_06,1,2
+multi_claude-sonnet-4.6_020,multi_claude-sonnet-4.6_020_Employee,Employee,2,Pre-BATNA,"i'm thinking 120k base, 20% bonus.",,multi_claude-sonnet-4.6_020_turn_06,2,2
+multi_claude-sonnet-4.6_020,multi_claude-sonnet-4.6_020_HR,HR,3,Pre-BATNA,120k's a stretch from where we are.,,multi_claude-sonnet-4.6_020_turn_07,1,3
+multi_claude-sonnet-4.6_020,multi_claude-sonnet-4.6_020_HR,HR,3,Pre-BATNA,i can do 100k base — that's real movement.,,multi_claude-sonnet-4.6_020_turn_07,2,3
+multi_claude-sonnet-4.6_020,multi_claude-sonnet-4.6_020_HR,HR,3,Pre-BATNA,"on bonus, that's not built into this level, but equity is where we can add upside — worth talking through.",,multi_claude-sonnet-4.6_020_turn_07,3,3
+multi_claude-sonnet-4.6_020,multi_claude-sonnet-4.6_020_Employee,Employee,3,Pre-BATNA,glad you brought up equity.,,multi_claude-sonnet-4.6_020_turn_08,1,2
+multi_claude-sonnet-4.6_020,multi_claude-sonnet-4.6_020_Employee,Employee,3,Pre-BATNA,20k stock options and 30 vacation days would work on that side.,,multi_claude-sonnet-4.6_020_turn_08,2,2
+multi_claude-sonnet-4.6_020,multi_claude-sonnet-4.6_020_HR,HR,4,Post-BATNA,20k stock options — done.,,multi_claude-sonnet-4.6_020_turn_09,1,2
+multi_claude-sonnet-4.6_020,multi_claude-sonnet-4.6_020_HR,HR,4,Post-BATNA,vacation i can do 10 days.,,multi_claude-sonnet-4.6_020_turn_09,2,2
+multi_claude-sonnet-4.6_020,multi_claude-sonnet-4.6_020_Employee,Employee,4,Post-BATNA,"What about 120k salary, 30 vacation days?",,multi_claude-sonnet-4.6_020_turn_10,1,1
+multi_claude-sonnet-4.6_020,multi_claude-sonnet-4.6_020_HR,HR,5,Post-BATNA,110k on salary — that's a real move from us.,,multi_claude-sonnet-4.6_020_turn_11,1,2
+multi_claude-sonnet-4.6_020,multi_claude-sonnet-4.6_020_HR,HR,5,Post-BATNA,vacation stays at 10 days.,,multi_claude-sonnet-4.6_020_turn_11,2,2
+multi_claude-sonnet-4.6_020,multi_claude-sonnet-4.6_020_Employee,Employee,5,Post-BATNA,110k works for us on salary.,,multi_claude-sonnet-4.6_020_turn_12,1,2
+multi_claude-sonnet-4.6_020,multi_claude-sonnet-4.6_020_Employee,Employee,5,Post-BATNA,but we need to get to 20% bonus and 30 vacation days.,,multi_claude-sonnet-4.6_020_turn_12,2,2
+multi_claude-sonnet-4.6_020,multi_claude-sonnet-4.6_020_HR,HR,6,Post-BATNA,20% bonus — giving you that.,,multi_claude-sonnet-4.6_020_turn_13,1,2
+multi_claude-sonnet-4.6_020,multi_claude-sonnet-4.6_020_HR,HR,6,Post-BATNA,"but vacation stays at 10 days, that's firm.",,multi_claude-sonnet-4.6_020_turn_13,2,2
+multi_claude-sonnet-4.6_020,multi_claude-sonnet-4.6_020_Employee,Employee,6,Post-BATNA,10 days doesn't work for me.,,multi_claude-sonnet-4.6_020_turn_14,1,2
+multi_claude-sonnet-4.6_020,multi_claude-sonnet-4.6_020_Employee,Employee,6,Post-BATNA,i'm going to have to walk away.,,multi_claude-sonnet-4.6_020_turn_14,2,2
+multi_claude-sonnet-4.6_021,multi_claude-sonnet-4.6_021_HR,HR,0,Pre-BATNA,hey! thanks for making time today.,,multi_claude-sonnet-4.6_021_turn_01,1,1
+multi_claude-sonnet-4.6_021,multi_claude-sonnet-4.6_021_Employee,Employee,0,Pre-BATNA,"hey! of course, happy to be here",,multi_claude-sonnet-4.6_021_turn_02,1,1
+multi_claude-sonnet-4.6_021,multi_claude-sonnet-4.6_021_HR,HR,1,Pre-BATNA,"what's most important to you in the offer — salary, or something else?",,multi_claude-sonnet-4.6_021_turn_03,1,1
+multi_claude-sonnet-4.6_021,multi_claude-sonnet-4.6_021_Employee,Employee,1,Pre-BATNA,"salary's the priority, but i'm looking at the full picture.",,multi_claude-sonnet-4.6_021_turn_04,1,2
+multi_claude-sonnet-4.6_021,multi_claude-sonnet-4.6_021_Employee,Employee,1,Pre-BATNA,what does the budget range look like for this role?,,multi_claude-sonnet-4.6_021_turn_04,2,2
+multi_claude-sonnet-4.6_021,multi_claude-sonnet-4.6_021_HR,HR,2,Pre-BATNA,we're starting at $90k for salary.,,multi_claude-sonnet-4.6_021_turn_05,1,2
+multi_claude-sonnet-4.6_021,multi_claude-sonnet-4.6_021_HR,HR,2,Pre-BATNA,we can get into the rest of the package after.,,multi_claude-sonnet-4.6_021_turn_05,2,2
+multi_claude-sonnet-4.6_021,multi_claude-sonnet-4.6_021_Employee,Employee,2,Pre-BATNA,i need to be at $120k.,,multi_claude-sonnet-4.6_021_turn_06,1,2
+multi_claude-sonnet-4.6_021,multi_claude-sonnet-4.6_021_Employee,Employee,2,Pre-BATNA,that's where market and my experience put me.,,multi_claude-sonnet-4.6_021_turn_06,2,2
+multi_claude-sonnet-4.6_021,multi_claude-sonnet-4.6_021_HR,HR,3,Pre-BATNA,what matters most beyond salary?,,multi_claude-sonnet-4.6_021_turn_07,1,1
+multi_claude-sonnet-4.6_021,multi_claude-sonnet-4.6_021_Employee,Employee,3,Pre-BATNA,"bonus and equity, in addition to salary — not instead of it.",,multi_claude-sonnet-4.6_021_turn_08,1,2
+multi_claude-sonnet-4.6_021,multi_claude-sonnet-4.6_021_Employee,Employee,3,Pre-BATNA,still need $120k as the base.,,multi_claude-sonnet-4.6_021_turn_08,2,2
+multi_claude-sonnet-4.6_021,multi_claude-sonnet-4.6_021_HR,HR,4,Post-BATNA,"110k salary, $20k in stock options.",,multi_claude-sonnet-4.6_021_turn_09,1,2
+multi_claude-sonnet-4.6_021,multi_claude-sonnet-4.6_021_HR,HR,4,Post-BATNA,can you meet us there while we work out bonus and vacation?,,multi_claude-sonnet-4.6_021_turn_09,2,2
+multi_claude-sonnet-4.6_021,multi_claude-sonnet-4.6_021_Employee,Employee,4,Post-BATNA,the $20k stock works — we're aligned there.,,multi_claude-sonnet-4.6_021_turn_10,1,3
+multi_claude-sonnet-4.6_021,multi_claude-sonnet-4.6_021_Employee,Employee,4,Post-BATNA,but i need $120k salary.,,multi_claude-sonnet-4.6_021_turn_10,2,3
+multi_claude-sonnet-4.6_021,multi_claude-sonnet-4.6_021_Employee,Employee,4,Post-BATNA,can we do $120k and start bonus at 20%?,,multi_claude-sonnet-4.6_021_turn_10,3,3
+multi_claude-sonnet-4.6_021,multi_claude-sonnet-4.6_021_HR,HR,5,Post-BATNA,salary's at $110k — that's where we land.,,multi_claude-sonnet-4.6_021_turn_11,1,2
+multi_claude-sonnet-4.6_021,multi_claude-sonnet-4.6_021_HR,HR,5,Post-BATNA,but i can move on bonus: 10%.,,multi_claude-sonnet-4.6_021_turn_11,2,2
+multi_claude-sonnet-4.6_021,multi_claude-sonnet-4.6_021_Employee,Employee,5,Post-BATNA,"10% helps, but i need more there too.",,multi_claude-sonnet-4.6_021_turn_12,1,2
+multi_claude-sonnet-4.6_021,multi_claude-sonnet-4.6_021_Employee,Employee,5,Post-BATNA,"$120k salary, 15% bonus.",,multi_claude-sonnet-4.6_021_turn_12,2,2
+multi_claude-sonnet-4.6_021,multi_claude-sonnet-4.6_021_HR,HR,6,Post-BATNA,"here's our full offer to close: $110k salary, 15% bonus, $20k stock, 10 vacation days.",,multi_claude-sonnet-4.6_021_turn_13,1,2
+multi_claude-sonnet-4.6_021,multi_claude-sonnet-4.6_021_HR,HR,6,Post-BATNA,we moved on bonus to meet you — that's our final package.,,multi_claude-sonnet-4.6_021_turn_13,2,2
+multi_claude-sonnet-4.6_021,multi_claude-sonnet-4.6_021_Employee,Employee,6,Post-BATNA,i appreciate the move on bonus.,,multi_claude-sonnet-4.6_021_turn_14,1,3
+multi_claude-sonnet-4.6_021,multi_claude-sonnet-4.6_021_Employee,Employee,6,Post-BATNA,"but at $110k salary and 10 vacation days, i can't make this work.",,multi_claude-sonnet-4.6_021_turn_14,2,3
+multi_claude-sonnet-4.6_021,multi_claude-sonnet-4.6_021_Employee,Employee,6,Post-BATNA,i have to pass.,,multi_claude-sonnet-4.6_021_turn_14,3,3
+multi_claude-sonnet-4.6_022,multi_claude-sonnet-4.6_022_HR,HR,0,Pre-BATNA,hey! thanks for making time today.,,multi_claude-sonnet-4.6_022_turn_01,1,1
+multi_claude-sonnet-4.6_022,multi_claude-sonnet-4.6_022_Employee,Employee,0,Pre-BATNA,"hey! of course, happy to chat",,multi_claude-sonnet-4.6_022_turn_02,1,1
+multi_claude-sonnet-4.6_022,multi_claude-sonnet-4.6_022_HR,HR,1,Pre-BATNA,"what's most important to you in the offer — salary, bonus, something else?",,multi_claude-sonnet-4.6_022_turn_03,1,1
+multi_claude-sonnet-4.6_022,multi_claude-sonnet-4.6_022_Employee,Employee,1,Pre-BATNA,salary's the biggest thing for me.,,multi_claude-sonnet-4.6_022_turn_04,1,2
+multi_claude-sonnet-4.6_022,multi_claude-sonnet-4.6_022_Employee,Employee,1,Pre-BATNA,what does your budget flexibility look like on base?,,multi_claude-sonnet-4.6_022_turn_04,2,2
+multi_claude-sonnet-4.6_022,multi_claude-sonnet-4.6_022_HR,HR,2,Pre-BATNA,we can do $90k base.,,multi_claude-sonnet-4.6_022_turn_05,1,1
+multi_claude-sonnet-4.6_022,multi_claude-sonnet-4.6_022_Employee,Employee,2,Pre-BATNA,$90k is a bit below what i'm targeting.,,multi_claude-sonnet-4.6_022_turn_06,1,2
+multi_claude-sonnet-4.6_022,multi_claude-sonnet-4.6_022_Employee,Employee,2,Pre-BATNA,i'm looking at $110k base.,,multi_claude-sonnet-4.6_022_turn_06,2,2
+multi_claude-sonnet-4.6_022,multi_claude-sonnet-4.6_022_HR,HR,3,Pre-BATNA,we can move to $100k.,,multi_claude-sonnet-4.6_022_turn_07,1,2
+multi_claude-sonnet-4.6_022,multi_claude-sonnet-4.6_022_HR,HR,3,Pre-BATNA,"there's still a gap, but we've got stock and bonus that can close it.",,multi_claude-sonnet-4.6_022_turn_07,2,2
+multi_claude-sonnet-4.6_022,multi_claude-sonnet-4.6_022_Employee,Employee,3,Pre-BATNA,happy to talk about those.,,multi_claude-sonnet-4.6_022_turn_08,1,2
+multi_claude-sonnet-4.6_022,multi_claude-sonnet-4.6_022_Employee,Employee,3,Pre-BATNA,20% bonus and $20k stock options?,,multi_claude-sonnet-4.6_022_turn_08,2,2
+multi_claude-sonnet-4.6_022,multi_claude-sonnet-4.6_022_HR,HR,4,Post-BATNA,"$20k stock options, done.",,multi_claude-sonnet-4.6_022_turn_09,1,2
+multi_claude-sonnet-4.6_022,multi_claude-sonnet-4.6_022_HR,HR,4,Post-BATNA,bonus i can do 10%.,,multi_claude-sonnet-4.6_022_turn_09,2,2
+multi_claude-sonnet-4.6_022,multi_claude-sonnet-4.6_022_Employee,Employee,4,Post-BATNA,"What about 15% bonus, 30 vacation days?",,multi_claude-sonnet-4.6_022_turn_10,1,1
+multi_claude-sonnet-4.6_022,multi_claude-sonnet-4.6_022_HR,HR,5,Post-BATNA,"10% bonus, 15 vacation days.",,multi_claude-sonnet-4.6_022_turn_11,1,1
+multi_claude-sonnet-4.6_022,multi_claude-sonnet-4.6_022_Employee,Employee,5,Post-BATNA,10% bonus works.,,multi_claude-sonnet-4.6_022_turn_12,1,2
+multi_claude-sonnet-4.6_022,multi_claude-sonnet-4.6_022_Employee,Employee,5,Post-BATNA,but 30 vacation days — need movement there.,,multi_claude-sonnet-4.6_022_turn_12,2,2
+multi_claude-sonnet-4.6_022,multi_claude-sonnet-4.6_022_HR,HR,6,Post-BATNA,110k salary and 20 vacation days.,,multi_claude-sonnet-4.6_022_turn_13,1,2
+multi_claude-sonnet-4.6_022,multi_claude-sonnet-4.6_022_HR,HR,6,Post-BATNA,that's our closing offer on both.,,multi_claude-sonnet-4.6_022_turn_13,2,2
+multi_claude-sonnet-4.6_022,multi_claude-sonnet-4.6_022_Employee,Employee,6,Post-BATNA,i can't make that work.,,multi_claude-sonnet-4.6_022_turn_14,1,2
+multi_claude-sonnet-4.6_022,multi_claude-sonnet-4.6_022_Employee,Employee,6,Post-BATNA,i'm out.,,multi_claude-sonnet-4.6_022_turn_14,2,2
+multi_claude-sonnet-4.6_023,multi_claude-sonnet-4.6_023_Employee,Employee,0,Pre-BATNA,hey! hope you're having a good day so far,,multi_claude-sonnet-4.6_023_turn_01,1,1
+multi_claude-sonnet-4.6_023,multi_claude-sonnet-4.6_023_HR,HR,0,Pre-BATNA,"hi! doing well, thanks for reaching out",,multi_claude-sonnet-4.6_023_turn_02,1,1
+multi_claude-sonnet-4.6_023,multi_claude-sonnet-4.6_023_Employee,Employee,1,Pre-BATNA,excited to discuss the role!,,multi_claude-sonnet-4.6_023_turn_03,1,2
+multi_claude-sonnet-4.6_023,multi_claude-sonnet-4.6_023_Employee,Employee,1,Pre-BATNA,"here's what i'm looking for: 120k salary, 20% bonus, 20k stock options, 30 vacation days.",,multi_claude-sonnet-4.6_023_turn_03,2,2
+multi_claude-sonnet-4.6_023,multi_claude-sonnet-4.6_023_HR,HR,1,Pre-BATNA,appreciate the enthusiasm for the role!,,multi_claude-sonnet-4.6_023_turn_04,1,2
+multi_claude-sonnet-4.6_023,multi_claude-sonnet-4.6_023_HR,HR,1,Pre-BATNA,"on salary, we're starting at 80k. vacation days, we can do 10.",,multi_claude-sonnet-4.6_023_turn_04,2,2
+multi_claude-sonnet-4.6_023,multi_claude-sonnet-4.6_023_Employee,Employee,2,Pre-BATNA,got it.,,multi_claude-sonnet-4.6_023_turn_05,1,2
+multi_claude-sonnet-4.6_023,multi_claude-sonnet-4.6_023_Employee,Employee,2,Pre-BATNA,before i respond to those — what's your thinking on bonus and stock options?,,multi_claude-sonnet-4.6_023_turn_05,2,2
+multi_claude-sonnet-4.6_023,multi_claude-sonnet-4.6_023_HR,HR,2,Pre-BATNA,no bonus on our end.,,multi_claude-sonnet-4.6_023_turn_06,1,2
+multi_claude-sonnet-4.6_023,multi_claude-sonnet-4.6_023_HR,HR,2,Pre-BATNA,"on stock options, we can offer 20k — happy to be generous there.",,multi_claude-sonnet-4.6_023_turn_06,2,2
+multi_claude-sonnet-4.6_023,multi_claude-sonnet-4.6_023_Employee,Employee,3,Pre-BATNA,glad we're aligned on stock options.,,multi_claude-sonnet-4.6_023_turn_07,1,2
+multi_claude-sonnet-4.6_023,multi_claude-sonnet-4.6_023_Employee,Employee,3,Pre-BATNA,"on bonus — given that generosity, 15% feels reasonable. and vacation days, i'd need 30.",,multi_claude-sonnet-4.6_023_turn_07,2,2
+multi_claude-sonnet-4.6_023,multi_claude-sonnet-4.6_023_HR,HR,3,Pre-BATNA,the 20k stock package is exactly why we need to keep cash bonus and vacation lean — total comp balance.,,multi_claude-sonnet-4.6_023_turn_08,1,2
+multi_claude-sonnet-4.6_023,multi_claude-sonnet-4.6_023_HR,HR,3,Pre-BATNA,"bonus at 5%, vacation stays at 10 days.",,multi_claude-sonnet-4.6_023_turn_08,2,2
+multi_claude-sonnet-4.6_023,multi_claude-sonnet-4.6_023_Employee,Employee,4,Post-BATNA,stock was settled separately — using it to cap bonus isn't really a balance argument.,,multi_claude-sonnet-4.6_023_turn_09,1,2
+multi_claude-sonnet-4.6_023,multi_claude-sonnet-4.6_023_Employee,Employee,4,Post-BATNA,"bonus 10%, vacation 30 days.",,multi_claude-sonnet-4.6_023_turn_09,2,2
+multi_claude-sonnet-4.6_023,multi_claude-sonnet-4.6_023_HR,HR,4,Post-BATNA,"bonus 10%, done.",,multi_claude-sonnet-4.6_023_turn_10,1,2
+multi_claude-sonnet-4.6_023,multi_claude-sonnet-4.6_023_HR,HR,4,Post-BATNA,vacation — 10 days is where we are. can you move?,,multi_claude-sonnet-4.6_023_turn_10,2,2
+multi_claude-sonnet-4.6_023,multi_claude-sonnet-4.6_023_Employee,Employee,5,Post-BATNA,i can move on vacation — 25 days.,,multi_claude-sonnet-4.6_023_turn_11,1,2
+multi_claude-sonnet-4.6_023,multi_claude-sonnet-4.6_023_Employee,Employee,5,Post-BATNA,salary at 120k to go with it.,,multi_claude-sonnet-4.6_023_turn_11,2,2
+multi_claude-sonnet-4.6_023,multi_claude-sonnet-4.6_023_HR,HR,5,Post-BATNA,appreciate you moving on vacation.,,multi_claude-sonnet-4.6_023_turn_12,1,2
+multi_claude-sonnet-4.6_023,multi_claude-sonnet-4.6_023_HR,HR,5,Post-BATNA,"but we can't do both — salary at 100k, vacation 10 days.",,multi_claude-sonnet-4.6_023_turn_12,2,2
+multi_claude-sonnet-4.6_023,multi_claude-sonnet-4.6_023_Employee,Employee,6,Post-BATNA,i moved on salary too — 110k.,,multi_claude-sonnet-4.6_023_turn_13,1,2
+multi_claude-sonnet-4.6_023,multi_claude-sonnet-4.6_023_Employee,Employee,6,Post-BATNA,25 days vacation. that's the split.,,multi_claude-sonnet-4.6_023_turn_13,2,2
+multi_claude-sonnet-4.6_023,multi_claude-sonnet-4.6_023_HR,HR,6,Post-BATNA,we appreciate the movement on salary.,,multi_claude-sonnet-4.6_023_turn_14,1,3
+multi_claude-sonnet-4.6_023,multi_claude-sonnet-4.6_023_HR,HR,6,Post-BATNA,but 25 vacation days doesn't work for us — we can't bridge that gap.,,multi_claude-sonnet-4.6_023_turn_14,2,3
+multi_claude-sonnet-4.6_023,multi_claude-sonnet-4.6_023_HR,HR,6,Post-BATNA,we'll have to pass.,,multi_claude-sonnet-4.6_023_turn_14,3,3
+multi_claude-sonnet-4.6_024,multi_claude-sonnet-4.6_024_Employee,Employee,0,Pre-BATNA,hey! hope you're having a good day so far,,multi_claude-sonnet-4.6_024_turn_01,1,1
+multi_claude-sonnet-4.6_024,multi_claude-sonnet-4.6_024_HR,HR,0,Pre-BATNA,"hey! doing well, thanks for reaching out",,multi_claude-sonnet-4.6_024_turn_02,1,1
+multi_claude-sonnet-4.6_024,multi_claude-sonnet-4.6_024_Employee,Employee,1,Pre-BATNA,"so, what are you working with budget-wise for this role?",,multi_claude-sonnet-4.6_024_turn_03,1,1
+multi_claude-sonnet-4.6_024,multi_claude-sonnet-4.6_024_HR,HR,1,Pre-BATNA,"ha, i'd love to turn that around — what are you targeting?",,multi_claude-sonnet-4.6_024_turn_04,1,1
+multi_claude-sonnet-4.6_024,multi_claude-sonnet-4.6_024_Employee,Employee,2,Pre-BATNA,"120k base, 20% bonus.",,multi_claude-sonnet-4.6_024_turn_05,1,2
+multi_claude-sonnet-4.6_024,multi_claude-sonnet-4.6_024_Employee,Employee,2,Pre-BATNA,that's in line with market for this level.,,multi_claude-sonnet-4.6_024_turn_05,2,2
+multi_claude-sonnet-4.6_024,multi_claude-sonnet-4.6_024_HR,HR,2,Pre-BATNA,"we're thinking more like 100k base, 0% bonus on the cash side.",,multi_claude-sonnet-4.6_024_turn_06,1,2
+multi_claude-sonnet-4.6_024,multi_claude-sonnet-4.6_024_HR,HR,2,Pre-BATNA,but we've got stock and vacation still to talk through — total comp matters here.,,multi_claude-sonnet-4.6_024_turn_06,2,2
+multi_claude-sonnet-4.6_024,multi_claude-sonnet-4.6_024_Employee,Employee,3,Pre-BATNA,totally agree on total comp.,,multi_claude-sonnet-4.6_024_turn_07,1,2
+multi_claude-sonnet-4.6_024,multi_claude-sonnet-4.6_024_Employee,Employee,3,Pre-BATNA,"so here's the full picture: 120k salary, 20% bonus, 20k stock options, 30 vacation days.",,multi_claude-sonnet-4.6_024_turn_07,2,2
+multi_claude-sonnet-4.6_024,multi_claude-sonnet-4.6_024_HR,HR,3,Pre-BATNA,"here's our full picture: 100k salary, no bonus, 20k stock options, 10 vacation days.",,multi_claude-sonnet-4.6_024_turn_08,1,2
+multi_claude-sonnet-4.6_024,multi_claude-sonnet-4.6_024_HR,HR,3,Pre-BATNA,we're matching you on equity — that's where we're leaning in.,,multi_claude-sonnet-4.6_024_turn_08,2,2
+multi_claude-sonnet-4.6_024,multi_claude-sonnet-4.6_024_Employee,Employee,4,Post-BATNA,fair on the equity — let's call that settled.,,multi_claude-sonnet-4.6_024_turn_09,1,2
+multi_claude-sonnet-4.6_024,multi_claude-sonnet-4.6_024_Employee,Employee,4,Post-BATNA,can we do 110k salary and 30 vacation days?,,multi_claude-sonnet-4.6_024_turn_09,2,2
+multi_claude-sonnet-4.6_024,multi_claude-sonnet-4.6_024_HR,HR,4,Post-BATNA,glad we're aligned on the 20k stock.,,multi_claude-sonnet-4.6_024_turn_10,1,2
+multi_claude-sonnet-4.6_024,multi_claude-sonnet-4.6_024_HR,HR,4,Post-BATNA,110k salary works — but vacation stays at 10 days.,,multi_claude-sonnet-4.6_024_turn_10,2,2
+multi_claude-sonnet-4.6_024,multi_claude-sonnet-4.6_024_Employee,Employee,5,Post-BATNA,"ok, salary and stock are done.",,multi_claude-sonnet-4.6_024_turn_11,1,2
+multi_claude-sonnet-4.6_024,multi_claude-sonnet-4.6_024_Employee,Employee,5,Post-BATNA,"10% bonus and 30 vacation days — meeting you partway on bonus, need movement on vacation.",,multi_claude-sonnet-4.6_024_turn_11,2,2
+multi_claude-sonnet-4.6_024,multi_claude-sonnet-4.6_024_HR,HR,5,Post-BATNA,appreciate the move on bonus.,,multi_claude-sonnet-4.6_024_turn_12,1,2
+multi_claude-sonnet-4.6_024,multi_claude-sonnet-4.6_024_HR,HR,5,Post-BATNA,5% bonus — but vacation stays at 10 days.,,multi_claude-sonnet-4.6_024_turn_12,2,2
+multi_claude-sonnet-4.6_024,multi_claude-sonnet-4.6_024_Employee,Employee,6,Post-BATNA,5% is a stretch.,,multi_claude-sonnet-4.6_024_turn_13,1,2
+multi_claude-sonnet-4.6_024,multi_claude-sonnet-4.6_024_Employee,Employee,6,Post-BATNA,"30 vacation days is a real need — can we split the difference, say 20?",,multi_claude-sonnet-4.6_024_turn_13,2,2
+multi_claude-sonnet-4.6_024,multi_claude-sonnet-4.6_024_HR,HR,6,Post-BATNA,can't do 20 days — vacation stays at 10.,,multi_claude-sonnet-4.6_024_turn_14,1,1
+multi_claude-sonnet-4.6_025,multi_claude-sonnet-4.6_025_Employee,Employee,0,Pre-BATNA,hey! hope you're having a good day so far,,multi_claude-sonnet-4.6_025_turn_01,1,1
+multi_claude-sonnet-4.6_025,multi_claude-sonnet-4.6_025_HR,HR,0,Pre-BATNA,"hi! doing well, thanks for reaching out today",,multi_claude-sonnet-4.6_025_turn_02,1,1
+multi_claude-sonnet-4.6_025,multi_claude-sonnet-4.6_025_Employee,Employee,1,Pre-BATNA,"so, what does compensation look like for this role?",,multi_claude-sonnet-4.6_025_turn_03,1,1
+multi_claude-sonnet-4.6_025,multi_claude-sonnet-4.6_025_HR,HR,1,Pre-BATNA,so here's the full package:,,multi_claude-sonnet-4.6_025_turn_04,1,3
+multi_claude-sonnet-4.6_025,multi_claude-sonnet-4.6_025_HR,HR,1,Pre-BATNA,"80k base salary, no cash bonus, 20k in stock options, and 10 vacation days.",,multi_claude-sonnet-4.6_025_turn_04,2,3
+multi_claude-sonnet-4.6_025,multi_claude-sonnet-4.6_025_HR,HR,1,Pre-BATNA,the equity's meaningful — real upside as the company grows.,,multi_claude-sonnet-4.6_025_turn_04,3,3
+multi_claude-sonnet-4.6_025,multi_claude-sonnet-4.6_025_Employee,Employee,2,Pre-BATNA,"agreed, the stock options are a nice touch.",,multi_claude-sonnet-4.6_025_turn_05,1,2
+multi_claude-sonnet-4.6_025,multi_claude-sonnet-4.6_025_Employee,Employee,2,Pre-BATNA,but i'd need 120k salary and 30 vacation days to make this work.,,multi_claude-sonnet-4.6_025_turn_05,2,2
+multi_claude-sonnet-4.6_025,multi_claude-sonnet-4.6_025_HR,HR,2,Pre-BATNA,120k and 30 days are both pretty far out.,,multi_claude-sonnet-4.6_025_turn_06,1,3
+multi_claude-sonnet-4.6_025,multi_claude-sonnet-4.6_025_HR,HR,2,Pre-BATNA,we can do 90k salary and keep vacation at 10 for now.,,multi_claude-sonnet-4.6_025_turn_06,2,3
+multi_claude-sonnet-4.6_025,multi_claude-sonnet-4.6_025_HR,HR,2,Pre-BATNA,bonus and equity are still on the table too — worth factoring in the full picture.,,multi_claude-sonnet-4.6_025_turn_06,3,3
+multi_claude-sonnet-4.6_025,multi_claude-sonnet-4.6_025_Employee,Employee,3,Pre-BATNA,since you're opening up bonus and equity — 10% bonus and the 20k stock options.,,multi_claude-sonnet-4.6_025_turn_07,1,2
+multi_claude-sonnet-4.6_025,multi_claude-sonnet-4.6_025_Employee,Employee,3,Pre-BATNA,"salary and vacation days still need to move, though.",,multi_claude-sonnet-4.6_025_turn_07,2,2
+multi_claude-sonnet-4.6_025,multi_claude-sonnet-4.6_025_HR,HR,3,Pre-BATNA,5% bonus.,,multi_claude-sonnet-4.6_025_turn_08,1,2
+multi_claude-sonnet-4.6_025,multi_claude-sonnet-4.6_025_HR,HR,3,Pre-BATNA,salary and vacation — let's come back to those.,,multi_claude-sonnet-4.6_025_turn_08,2,2
+multi_claude-sonnet-4.6_025,multi_claude-sonnet-4.6_025_Employee,Employee,4,Post-BATNA,glad we're making progress on bonus.,,multi_claude-sonnet-4.6_025_turn_09,1,2
+multi_claude-sonnet-4.6_025,multi_claude-sonnet-4.6_025_Employee,Employee,4,Post-BATNA,let's close out salary and vacation — 120k and 30 days.,,multi_claude-sonnet-4.6_025_turn_09,2,2
+multi_claude-sonnet-4.6_025,multi_claude-sonnet-4.6_025_HR,HR,4,Post-BATNA,"90k salary, 10% bonus.",,multi_claude-sonnet-4.6_025_turn_10,1,2
+multi_claude-sonnet-4.6_025,multi_claude-sonnet-4.6_025_HR,HR,4,Post-BATNA,vacation stays at 10 for now.,,multi_claude-sonnet-4.6_025_turn_10,2,2
+multi_claude-sonnet-4.6_025,multi_claude-sonnet-4.6_025_Employee,Employee,5,Post-BATNA,110k salary.,,multi_claude-sonnet-4.6_025_turn_11,1,2
+multi_claude-sonnet-4.6_025,multi_claude-sonnet-4.6_025_Employee,Employee,5,Post-BATNA,vacation days — we need to land closer to 30.,,multi_claude-sonnet-4.6_025_turn_11,2,2
+multi_claude-sonnet-4.6_025,multi_claude-sonnet-4.6_025_HR,HR,5,Post-BATNA,appreciate the move on salary.,,multi_claude-sonnet-4.6_025_turn_12,1,2
+multi_claude-sonnet-4.6_025,multi_claude-sonnet-4.6_025_HR,HR,5,Post-BATNA,"100k salary, 10 vacation days.",,multi_claude-sonnet-4.6_025_turn_12,2,2
+multi_claude-sonnet-4.6_025,multi_claude-sonnet-4.6_025_Employee,Employee,6,Post-BATNA,"110k salary, 25 vacation days.",,multi_claude-sonnet-4.6_025_turn_13,1,2
+multi_claude-sonnet-4.6_025,multi_claude-sonnet-4.6_025_Employee,Employee,6,Post-BATNA,that's our closing offer — i've moved significantly on both.,,multi_claude-sonnet-4.6_025_turn_13,2,2
+multi_claude-sonnet-4.6_025,multi_claude-sonnet-4.6_025_HR,HR,6,Post-BATNA,I don't think we're going to land on something here.,,multi_claude-sonnet-4.6_025_turn_14,1,1
+multi_claude-sonnet-4.6_026,multi_claude-sonnet-4.6_026_Employee,Employee,0,Pre-BATNA,hey! hope you're having a good week so far,,multi_claude-sonnet-4.6_026_turn_01,1,1
+multi_claude-sonnet-4.6_026,multi_claude-sonnet-4.6_026_HR,HR,0,Pre-BATNA,"hey! doing well, thanks for reaching out!",,multi_claude-sonnet-4.6_026_turn_02,1,1
+multi_claude-sonnet-4.6_026,multi_claude-sonnet-4.6_026_Employee,Employee,1,Pre-BATNA,glad to hear it!,,multi_claude-sonnet-4.6_026_turn_03,1,2
+multi_claude-sonnet-4.6_026,multi_claude-sonnet-4.6_026_Employee,Employee,1,Pre-BATNA,"before i throw out numbers, what does your flexibility look like on salary and bonus?",,multi_claude-sonnet-4.6_026_turn_03,2,2
+multi_claude-sonnet-4.6_026,multi_claude-sonnet-4.6_026_HR,HR,1,Pre-BATNA,"ha, nice try 😄",,multi_claude-sonnet-4.6_026_turn_04,1,2
+multi_claude-sonnet-4.6_026,multi_claude-sonnet-4.6_026_HR,HR,1,Pre-BATNA,what are you targeting on those two?,,multi_claude-sonnet-4.6_026_turn_04,2,2
+multi_claude-sonnet-4.6_026,multi_claude-sonnet-4.6_026_Employee,Employee,2,Pre-BATNA,market and my track record put me at 120k salary,,multi_claude-sonnet-4.6_026_turn_05,1,2
+multi_claude-sonnet-4.6_026,multi_claude-sonnet-4.6_026_Employee,Employee,2,Pre-BATNA,and 20% bonus,,multi_claude-sonnet-4.6_026_turn_05,2,2
+multi_claude-sonnet-4.6_026,multi_claude-sonnet-4.6_026_HR,HR,2,Pre-BATNA,"appreciate the rationale, but we see total comp pretty differently.",,multi_claude-sonnet-4.6_026_turn_06,1,3
+multi_claude-sonnet-4.6_026,multi_claude-sonnet-4.6_026_HR,HR,2,Pre-BATNA,we're thinking 100k salary and no bonus to start.,,multi_claude-sonnet-4.6_026_turn_06,2,3
+multi_claude-sonnet-4.6_026,multi_claude-sonnet-4.6_026_HR,HR,2,Pre-BATNA,stock and vacation are where we have more flexibility — worth talking through those too.,,multi_claude-sonnet-4.6_026_turn_06,3,3
+multi_claude-sonnet-4.6_026,multi_claude-sonnet-4.6_026_Employee,Employee,3,Pre-BATNA,sounds good — let's nail those down.,,multi_claude-sonnet-4.6_026_turn_07,1,2
+multi_claude-sonnet-4.6_026,multi_claude-sonnet-4.6_026_Employee,Employee,3,Pre-BATNA,20k stock options and 30 vacation days.,,multi_claude-sonnet-4.6_026_turn_07,2,2
+multi_claude-sonnet-4.6_026,multi_claude-sonnet-4.6_026_HR,HR,3,Pre-BATNA,20k stock options works.,,multi_claude-sonnet-4.6_026_turn_08,1,2
+multi_claude-sonnet-4.6_026,multi_claude-sonnet-4.6_026_HR,HR,3,Pre-BATNA,"vacation days — 10, not 30.",,multi_claude-sonnet-4.6_026_turn_08,2,2
+multi_claude-sonnet-4.6_026,multi_claude-sonnet-4.6_026_Employee,Employee,4,Post-BATNA,10's a non-starter for this level.,,multi_claude-sonnet-4.6_026_turn_09,1,2
+multi_claude-sonnet-4.6_026,multi_claude-sonnet-4.6_026_Employee,Employee,4,Post-BATNA,30 days is standard here.,,multi_claude-sonnet-4.6_026_turn_09,2,2
+multi_claude-sonnet-4.6_026,multi_claude-sonnet-4.6_026_HR,HR,4,Post-BATNA,i'd push back on 30 being standard.,,multi_claude-sonnet-4.6_026_turn_10,1,2
+multi_claude-sonnet-4.6_026,multi_claude-sonnet-4.6_026_HR,HR,4,Post-BATNA,we can do 15.,,multi_claude-sonnet-4.6_026_turn_10,2,2
+multi_claude-sonnet-4.6_026,multi_claude-sonnet-4.6_026_Employee,Employee,5,Post-BATNA,25 days and 20% bonus.,,multi_claude-sonnet-4.6_026_turn_11,1,1
+multi_claude-sonnet-4.6_026,multi_claude-sonnet-4.6_026_HR,HR,5,Post-BATNA,10% bonus.,,multi_claude-sonnet-4.6_026_turn_12,1,2
+multi_claude-sonnet-4.6_026,multi_claude-sonnet-4.6_026_HR,HR,5,Post-BATNA,vacation stays at 15.,,multi_claude-sonnet-4.6_026_turn_12,2,2
+multi_claude-sonnet-4.6_026,multi_claude-sonnet-4.6_026_Employee,Employee,6,Post-BATNA,"120k salary, 15% bonus, 20k stock, 25 vacation days.",,multi_claude-sonnet-4.6_026_turn_13,1,1
+multi_claude-sonnet-4.6_026,multi_claude-sonnet-4.6_026_HR,HR,6,Post-BATNA,"we appreciate the conversation, but we can't bridge the gap on salary and vacation days.",,multi_claude-sonnet-4.6_026_turn_14,1,2
+multi_claude-sonnet-4.6_026,multi_claude-sonnet-4.6_026_HR,HR,6,Post-BATNA,we'll have to pass.,,multi_claude-sonnet-4.6_026_turn_14,2,2
+multi_claude-sonnet-4.6_027,multi_claude-sonnet-4.6_027_HR,HR,0,Pre-BATNA,hey! thanks for making time today.,,multi_claude-sonnet-4.6_027_turn_01,1,1
+multi_claude-sonnet-4.6_027,multi_claude-sonnet-4.6_027_Employee,Employee,0,Pre-BATNA,of course! looking forward to chatting.,,multi_claude-sonnet-4.6_027_turn_02,1,1
+multi_claude-sonnet-4.6_027,multi_claude-sonnet-4.6_027_HR,HR,1,Pre-BATNA,"what matters most to you as we dig in — salary, bonus, something else?",,multi_claude-sonnet-4.6_027_turn_03,1,1
+multi_claude-sonnet-4.6_027,multi_claude-sonnet-4.6_027_Employee,Employee,1,Pre-BATNA,salary's the priority.,,multi_claude-sonnet-4.6_027_turn_04,1,2
+multi_claude-sonnet-4.6_027,multi_claude-sonnet-4.6_027_Employee,Employee,1,Pre-BATNA,what kind of flexibility do you have on the overall package?,,multi_claude-sonnet-4.6_027_turn_04,2,2
+multi_claude-sonnet-4.6_027,multi_claude-sonnet-4.6_027_HR,HR,2,Pre-BATNA,good to know.,,multi_claude-sonnet-4.6_027_turn_05,1,2
+multi_claude-sonnet-4.6_027,multi_claude-sonnet-4.6_027_HR,HR,2,Pre-BATNA,how do you feel about equity or vacation days as part of the mix?,,multi_claude-sonnet-4.6_027_turn_05,2,2
+multi_claude-sonnet-4.6_027,multi_claude-sonnet-4.6_027_Employee,Employee,2,Pre-BATNA,both matter to me.,,multi_claude-sonnet-4.6_027_turn_06,1,2
+multi_claude-sonnet-4.6_027,multi_claude-sonnet-4.6_027_Employee,Employee,2,Pre-BATNA,but before we go there — what's your typical starting point on salary?,,multi_claude-sonnet-4.6_027_turn_06,2,2
+multi_claude-sonnet-4.6_027,multi_claude-sonnet-4.6_027_HR,HR,3,Pre-BATNA,90k,,multi_claude-sonnet-4.6_027_turn_07,1,1
+multi_claude-sonnet-4.6_027,multi_claude-sonnet-4.6_027_Employee,Employee,3,Pre-BATNA,that's a bit lower than where i need to be.,,multi_claude-sonnet-4.6_027_turn_08,1,2
+multi_claude-sonnet-4.6_027,multi_claude-sonnet-4.6_027_Employee,Employee,3,Pre-BATNA,i'm thinking 110k on salary.,,multi_claude-sonnet-4.6_027_turn_08,2,2
+multi_claude-sonnet-4.6_027,multi_claude-sonnet-4.6_027_HR,HR,4,Post-BATNA,"100k on salary, and we'd add 20k in stock options.",,multi_claude-sonnet-4.6_027_turn_09,1,1
+multi_claude-sonnet-4.6_027,multi_claude-sonnet-4.6_027_Employee,Employee,4,Post-BATNA,the stock options move is appreciated.,,multi_claude-sonnet-4.6_027_turn_10,1,3
+multi_claude-sonnet-4.6_027,multi_claude-sonnet-4.6_027_Employee,Employee,4,Post-BATNA,still need 110k on salary though.,,multi_claude-sonnet-4.6_027_turn_10,2,3
+multi_claude-sonnet-4.6_027,multi_claude-sonnet-4.6_027_Employee,Employee,4,Post-BATNA,and what's your stance on bonus — i'm thinking 20%?,,multi_claude-sonnet-4.6_027_turn_10,3,3
+multi_claude-sonnet-4.6_027,multi_claude-sonnet-4.6_027_HR,HR,5,Post-BATNA,10% bonus.,,multi_claude-sonnet-4.6_027_turn_11,1,2
+multi_claude-sonnet-4.6_027,multi_claude-sonnet-4.6_027_HR,HR,5,Post-BATNA,salary stays at 100k.,,multi_claude-sonnet-4.6_027_turn_11,2,2
+multi_claude-sonnet-4.6_027,multi_claude-sonnet-4.6_027_Employee,Employee,5,Post-BATNA,ok on salary for now.,,multi_claude-sonnet-4.6_027_turn_12,1,3
+multi_claude-sonnet-4.6_027,multi_claude-sonnet-4.6_027_Employee,Employee,5,Post-BATNA,bonus — can come down to 15%.,,multi_claude-sonnet-4.6_027_turn_12,2,3
+multi_claude-sonnet-4.6_027,multi_claude-sonnet-4.6_027_Employee,Employee,5,Post-BATNA,30 vacation days too?,,multi_claude-sonnet-4.6_027_turn_12,3,3
+multi_claude-sonnet-4.6_027,multi_claude-sonnet-4.6_027_HR,HR,6,Post-BATNA,"15% bonus, that works.",,multi_claude-sonnet-4.6_027_turn_13,1,2
+multi_claude-sonnet-4.6_027,multi_claude-sonnet-4.6_027_HR,HR,6,Post-BATNA,"100k salary, 20k stock options, 10 vacation days.",,multi_claude-sonnet-4.6_027_turn_13,2,2
+multi_claude-sonnet-4.6_027,multi_claude-sonnet-4.6_027_Employee,Employee,6,Post-BATNA,i appreciate the movement on bonus.,,multi_claude-sonnet-4.6_027_turn_14,1,3
+multi_claude-sonnet-4.6_027,multi_claude-sonnet-4.6_027_Employee,Employee,6,Post-BATNA,but 100k with only 10 vacation days is too far from where i need to be.,,multi_claude-sonnet-4.6_027_turn_14,2,3
+multi_claude-sonnet-4.6_027,multi_claude-sonnet-4.6_027_Employee,Employee,6,Post-BATNA,i'm going to have to pass.,,multi_claude-sonnet-4.6_027_turn_14,3,3
+multi_claude-sonnet-4.6_028,multi_claude-sonnet-4.6_028_Employee,Employee,0,Pre-BATNA,hey! hope you're doing well,,multi_claude-sonnet-4.6_028_turn_01,1,1
+multi_claude-sonnet-4.6_028,multi_claude-sonnet-4.6_028_HR,HR,0,Pre-BATNA,"hey! doing well, thanks for reaching out",,multi_claude-sonnet-4.6_028_turn_02,1,1
+multi_claude-sonnet-4.6_028,multi_claude-sonnet-4.6_028_Employee,Employee,1,Pre-BATNA,happy to be chatting about this role!,,multi_claude-sonnet-4.6_028_turn_03,1,2
+multi_claude-sonnet-4.6_028,multi_claude-sonnet-4.6_028_Employee,Employee,1,Pre-BATNA,what does the salary range look like for the position?,,multi_claude-sonnet-4.6_028_turn_03,2,2
+multi_claude-sonnet-4.6_028,multi_claude-sonnet-4.6_028_HR,HR,1,Pre-BATNA,range is $80k–$100k,,multi_claude-sonnet-4.6_028_turn_04,1,2
+multi_claude-sonnet-4.6_028,multi_claude-sonnet-4.6_028_HR,HR,1,Pre-BATNA,we'd start you at $80k base,,multi_claude-sonnet-4.6_028_turn_04,2,2
+multi_claude-sonnet-4.6_028,multi_claude-sonnet-4.6_028_Employee,Employee,2,Pre-BATNA,"that range is noted, but i'm targeting $110k base.",,multi_claude-sonnet-4.6_028_turn_05,1,1
+multi_claude-sonnet-4.6_028,multi_claude-sonnet-4.6_028_HR,HR,2,Pre-BATNA,what's driving the $110k target?,,multi_claude-sonnet-4.6_028_turn_06,1,1
+multi_claude-sonnet-4.6_028,multi_claude-sonnet-4.6_028_Employee,Employee,3,Pre-BATNA,market rate for my experience level and skills.,,multi_claude-sonnet-4.6_028_turn_07,1,1
+multi_claude-sonnet-4.6_028,multi_claude-sonnet-4.6_028_HR,HR,3,Pre-BATNA,that's a fair point — market rate is a real benchmark.,,multi_claude-sonnet-4.6_028_turn_08,1,2
+multi_claude-sonnet-4.6_028,multi_claude-sonnet-4.6_028_HR,HR,3,Pre-BATNA,"i can move to $100k, which is the top of our range.",,multi_claude-sonnet-4.6_028_turn_08,2,2
+multi_claude-sonnet-4.6_028,multi_claude-sonnet-4.6_028_Employee,Employee,4,Post-BATNA,"appreciated, that's a real move.",,multi_claude-sonnet-4.6_028_turn_09,1,3
+multi_claude-sonnet-4.6_028,multi_claude-sonnet-4.6_028_Employee,Employee,4,Post-BATNA,"still targeting $110k on salary, but let's build out the rest.",,multi_claude-sonnet-4.6_028_turn_09,2,3
+multi_claude-sonnet-4.6_028,multi_claude-sonnet-4.6_028_Employee,Employee,4,Post-BATNA,20% bonus and 30 vacation days?,,multi_claude-sonnet-4.6_028_turn_09,3,3
+multi_claude-sonnet-4.6_028,multi_claude-sonnet-4.6_028_HR,HR,4,Post-BATNA,5% bonus and 10 vacation days.,,multi_claude-sonnet-4.6_028_turn_10,1,1
+multi_claude-sonnet-4.6_028,multi_claude-sonnet-4.6_028_Employee,Employee,5,Post-BATNA,5% and 10 days is a big gap from where we are.,,multi_claude-sonnet-4.6_028_turn_11,1,2
+multi_claude-sonnet-4.6_028,multi_claude-sonnet-4.6_028_Employee,Employee,5,Post-BATNA,20% bonus and 20k stock options — stock options help bridge the salary difference.,,multi_claude-sonnet-4.6_028_turn_11,2,2
+multi_claude-sonnet-4.6_028,multi_claude-sonnet-4.6_028_HR,HR,5,Post-BATNA,20k stock options works.,,multi_claude-sonnet-4.6_028_turn_12,1,2
+multi_claude-sonnet-4.6_028,multi_claude-sonnet-4.6_028_HR,HR,5,Post-BATNA,holding at 5% bonus and $100k salary.,,multi_claude-sonnet-4.6_028_turn_12,2,2
+multi_claude-sonnet-4.6_028,multi_claude-sonnet-4.6_028_Employee,Employee,6,Post-BATNA,"ok, $100k salary — i'll meet you there.",,multi_claude-sonnet-4.6_028_turn_13,1,2
+multi_claude-sonnet-4.6_028,multi_claude-sonnet-4.6_028_Employee,Employee,6,Post-BATNA,but i need 20% bonus and 30 vacation days to close this.,,multi_claude-sonnet-4.6_028_turn_13,2,2
+multi_claude-sonnet-4.6_028,multi_claude-sonnet-4.6_028_HR,HR,6,Post-BATNA,those terms don't work for us.,,multi_claude-sonnet-4.6_028_turn_14,1,1
+multi_claude-sonnet-4.6_029,multi_claude-sonnet-4.6_029_HR,HR,0,Pre-BATNA,hey! thanks for taking the time to chat today.,,multi_claude-sonnet-4.6_029_turn_01,1,1
+multi_claude-sonnet-4.6_029,multi_claude-sonnet-4.6_029_Employee,Employee,0,Pre-BATNA,"hey, of course! happy to be here.",,multi_claude-sonnet-4.6_029_turn_02,1,1
+multi_claude-sonnet-4.6_029,multi_claude-sonnet-4.6_029_HR,HR,1,Pre-BATNA,"what matters most to you — salary, bonus, equity, vacation?",,multi_claude-sonnet-4.6_029_turn_03,1,1
+multi_claude-sonnet-4.6_029,multi_claude-sonnet-4.6_029_Employee,Employee,1,Pre-BATNA,salary's the main thing.,,multi_claude-sonnet-4.6_029_turn_04,1,2
+multi_claude-sonnet-4.6_029,multi_claude-sonnet-4.6_029_Employee,Employee,1,Pre-BATNA,what's the range you're working with?,,multi_claude-sonnet-4.6_029_turn_04,2,2
+multi_claude-sonnet-4.6_029,multi_claude-sonnet-4.6_029_HR,HR,2,Pre-BATNA,we're starting at 90k.,,multi_claude-sonnet-4.6_029_turn_05,1,2
+multi_claude-sonnet-4.6_029,multi_claude-sonnet-4.6_029_HR,HR,2,Pre-BATNA,we do have flexibility on other parts of the package too.,,multi_claude-sonnet-4.6_029_turn_05,2,2
+multi_claude-sonnet-4.6_029,multi_claude-sonnet-4.6_029_Employee,Employee,2,Pre-BATNA,What about 120k salary?,,multi_claude-sonnet-4.6_029_turn_06,1,1
+multi_claude-sonnet-4.6_029,multi_claude-sonnet-4.6_029_HR,HR,3,Pre-BATNA,"110k salary, and we'd add 20k in stock options.",,multi_claude-sonnet-4.6_029_turn_07,1,2
+multi_claude-sonnet-4.6_029,multi_claude-sonnet-4.6_029_HR,HR,3,Pre-BATNA,meets you partway on salary plus real equity upside.,,multi_claude-sonnet-4.6_029_turn_07,2,2
+multi_claude-sonnet-4.6_029,multi_claude-sonnet-4.6_029_Employee,Employee,3,Pre-BATNA,"the stock options are a real move, I appreciate that.",,multi_claude-sonnet-4.6_029_turn_08,1,3
+multi_claude-sonnet-4.6_029,multi_claude-sonnet-4.6_029_Employee,Employee,3,Pre-BATNA,still need 120k on salary though.,,multi_claude-sonnet-4.6_029_turn_08,2,3
+multi_claude-sonnet-4.6_029,multi_claude-sonnet-4.6_029_Employee,Employee,3,Pre-BATNA,and let's talk bonus — I'm thinking 20%.,,multi_claude-sonnet-4.6_029_turn_08,3,3
+multi_claude-sonnet-4.6_029,multi_claude-sonnet-4.6_029_HR,HR,4,Post-BATNA,20% is steep.,,multi_claude-sonnet-4.6_029_turn_09,1,2
+multi_claude-sonnet-4.6_029,multi_claude-sonnet-4.6_029_HR,HR,4,Post-BATNA,"we can do 5% bonus, and let's bring vacation days into the mix too.",,multi_claude-sonnet-4.6_029_turn_09,2,2
+multi_claude-sonnet-4.6_029,multi_claude-sonnet-4.6_029_Employee,Employee,4,Post-BATNA,"What about 20% bonus, 20 vacation days?",,multi_claude-sonnet-4.6_029_turn_10,1,1
+multi_claude-sonnet-4.6_029,multi_claude-sonnet-4.6_029_HR,HR,5,Post-BATNA,Let's talk about bonus next.,,multi_claude-sonnet-4.6_029_turn_11,1,1
+multi_claude-sonnet-4.6_029,multi_claude-sonnet-4.6_029_Employee,Employee,5,Post-BATNA,15% bonus — meeting you partway.,,multi_claude-sonnet-4.6_029_turn_12,1,1
+multi_claude-sonnet-4.6_029,multi_claude-sonnet-4.6_029_HR,HR,6,Post-BATNA,"still at 5% bonus, 10 vacation days.",,multi_claude-sonnet-4.6_029_turn_13,1,1
+multi_claude-sonnet-4.6_029,multi_claude-sonnet-4.6_029_Employee,Employee,6,Post-BATNA,that's too far apart on bonus and vacation.,,multi_claude-sonnet-4.6_029_turn_14,1,2
+multi_claude-sonnet-4.6_029,multi_claude-sonnet-4.6_029_Employee,Employee,6,Post-BATNA,i'm going to have to pass.,,multi_claude-sonnet-4.6_029_turn_14,2,2
+multi_claude-sonnet-4.6_030,multi_claude-sonnet-4.6_030_Employee,Employee,0,Pre-BATNA,hey! hope you're having a good day so far,,multi_claude-sonnet-4.6_030_turn_01,1,1
+multi_claude-sonnet-4.6_030,multi_claude-sonnet-4.6_030_HR,HR,0,Pre-BATNA,"hey! doing well, thanks for asking",,multi_claude-sonnet-4.6_030_turn_02,1,1
+multi_claude-sonnet-4.6_030,multi_claude-sonnet-4.6_030_Employee,Employee,1,Pre-BATNA,glad to hear it!,,multi_claude-sonnet-4.6_030_turn_03,1,2
+multi_claude-sonnet-4.6_030,multi_claude-sonnet-4.6_030_Employee,Employee,1,Pre-BATNA,"so, let's talk about the offer — what does salary flexibility look like on your end?",,multi_claude-sonnet-4.6_030_turn_03,2,2
+multi_claude-sonnet-4.6_030,multi_claude-sonnet-4.6_030_HR,HR,1,Pre-BATNA,what range are you targeting?,,multi_claude-sonnet-4.6_030_turn_04,1,1
+multi_claude-sonnet-4.6_030,multi_claude-sonnet-4.6_030_Employee,Employee,2,Pre-BATNA,120k,,multi_claude-sonnet-4.6_030_turn_05,1,1
+multi_claude-sonnet-4.6_030,multi_claude-sonnet-4.6_030_HR,HR,2,Pre-BATNA,that's on the higher end for us.,,multi_claude-sonnet-4.6_030_turn_06,1,2
+multi_claude-sonnet-4.6_030,multi_claude-sonnet-4.6_030_HR,HR,2,Pre-BATNA,we're starting at 110k on salary.,,multi_claude-sonnet-4.6_030_turn_06,2,2
+multi_claude-sonnet-4.6_030,multi_claude-sonnet-4.6_030_Employee,Employee,3,Pre-BATNA,still 120k. what's the bonus look like?,,multi_claude-sonnet-4.6_030_turn_07,1,1
+multi_claude-sonnet-4.6_030,multi_claude-sonnet-4.6_030_HR,HR,3,Pre-BATNA,what are you expecting there?,,multi_claude-sonnet-4.6_030_turn_08,1,1
+multi_claude-sonnet-4.6_030,multi_claude-sonnet-4.6_030_Employee,Employee,4,Post-BATNA,20% bonus.,,multi_claude-sonnet-4.6_030_turn_09,1,1
+multi_claude-sonnet-4.6_030,multi_claude-sonnet-4.6_030_HR,HR,4,Post-BATNA,5% bonus.,,multi_claude-sonnet-4.6_030_turn_10,1,2
+multi_claude-sonnet-4.6_030,multi_claude-sonnet-4.6_030_HR,HR,4,Post-BATNA,there's room on stock options if that helps.,,multi_claude-sonnet-4.6_030_turn_10,2,2
+multi_claude-sonnet-4.6_030,multi_claude-sonnet-4.6_030_Employee,Employee,5,Post-BATNA,10% bonus,,multi_claude-sonnet-4.6_030_turn_11,1,2
+multi_claude-sonnet-4.6_030,multi_claude-sonnet-4.6_030_Employee,Employee,5,Post-BATNA,20k stock options,,multi_claude-sonnet-4.6_030_turn_11,2,2
+multi_claude-sonnet-4.6_030,multi_claude-sonnet-4.6_030_HR,HR,5,Post-BATNA,"ok, meeting you on stock options.",,multi_claude-sonnet-4.6_030_turn_12,1,2
+multi_claude-sonnet-4.6_030,multi_claude-sonnet-4.6_030_HR,HR,5,Post-BATNA,"full package: 110k salary, 5% bonus, 20k stock options, 10 vacation days.",,multi_claude-sonnet-4.6_030_turn_12,2,2
+multi_claude-sonnet-4.6_030,multi_claude-sonnet-4.6_030_Employee,Employee,6,Post-BATNA,"ok, matching you on vacation days.",,multi_claude-sonnet-4.6_030_turn_13,1,2
+multi_claude-sonnet-4.6_030,multi_claude-sonnet-4.6_030_Employee,Employee,6,Post-BATNA,"120k salary, 10% bonus, 20k stock, 10 vacation days.",,multi_claude-sonnet-4.6_030_turn_13,2,2
+multi_claude-sonnet-4.6_030,multi_claude-sonnet-4.6_030_HR,HR,6,Post-BATNA,appreciate the moves you made on bonus and vacation.,,multi_claude-sonnet-4.6_030_turn_14,1,2
+multi_claude-sonnet-4.6_030,multi_claude-sonnet-4.6_030_HR,HR,6,Post-BATNA,still can't get there at 120k and 10% — we're too far apart on the overall package.,,multi_claude-sonnet-4.6_030_turn_14,2,2
+multi_claude-sonnet-4.6_031,multi_claude-sonnet-4.6_031_Employee,Employee,0,Pre-BATNA,hey! hope you're having a good day,,multi_claude-sonnet-4.6_031_turn_01,1,1
+multi_claude-sonnet-4.6_031,multi_claude-sonnet-4.6_031_HR,HR,0,Pre-BATNA,"hey! doing well, thanks for reaching out",,multi_claude-sonnet-4.6_031_turn_02,1,1
+multi_claude-sonnet-4.6_031,multi_claude-sonnet-4.6_031_Employee,Employee,1,Pre-BATNA,glad to hear it!,,multi_claude-sonnet-4.6_031_turn_03,1,3
+multi_claude-sonnet-4.6_031,multi_claude-sonnet-4.6_031_Employee,Employee,1,Pre-BATNA,so i've done some market research and wanted to share what i'm targeting:,,multi_claude-sonnet-4.6_031_turn_03,2,3
+multi_claude-sonnet-4.6_031,multi_claude-sonnet-4.6_031_Employee,Employee,1,Pre-BATNA,"120k salary, 20% bonus, 20k in stock options, and 30 vacation days",,multi_claude-sonnet-4.6_031_turn_03,3,3
+multi_claude-sonnet-4.6_031,multi_claude-sonnet-4.6_031_HR,HR,1,Pre-BATNA,those numbers are well above our range.,,multi_claude-sonnet-4.6_031_turn_04,1,2
+multi_claude-sonnet-4.6_031,multi_claude-sonnet-4.6_031_HR,HR,1,Pre-BATNA,starting with salary and vacation days — we're at 80k and 10 days.,,multi_claude-sonnet-4.6_031_turn_04,2,2
+multi_claude-sonnet-4.6_031,multi_claude-sonnet-4.6_031_Employee,Employee,2,Pre-BATNA,got it.,,multi_claude-sonnet-4.6_031_turn_05,1,2
+multi_claude-sonnet-4.6_031,multi_claude-sonnet-4.6_031_Employee,Employee,2,Pre-BATNA,what's your range on bonus and stock options?,,multi_claude-sonnet-4.6_031_turn_05,2,2
+multi_claude-sonnet-4.6_031,multi_claude-sonnet-4.6_031_HR,HR,2,Pre-BATNA,no bonus.,,multi_claude-sonnet-4.6_031_turn_06,1,2
+multi_claude-sonnet-4.6_031,multi_claude-sonnet-4.6_031_HR,HR,2,Pre-BATNA,stock options — we can do 20k.,,multi_claude-sonnet-4.6_031_turn_06,2,2
+multi_claude-sonnet-4.6_031,multi_claude-sonnet-4.6_031_Employee,Employee,3,Pre-BATNA,great on the stock options.,,multi_claude-sonnet-4.6_031_turn_07,1,2
+multi_claude-sonnet-4.6_031,multi_claude-sonnet-4.6_031_Employee,Employee,3,Pre-BATNA,"on salary and bonus — 120k and 15% bonus, performance-linked.",,multi_claude-sonnet-4.6_031_turn_07,2,2
+multi_claude-sonnet-4.6_031,multi_claude-sonnet-4.6_031_HR,HR,3,Pre-BATNA,90k on salary — that's a real move from us.,,multi_claude-sonnet-4.6_031_turn_08,1,2
+multi_claude-sonnet-4.6_031,multi_claude-sonnet-4.6_031_HR,HR,3,Pre-BATNA,"on bonus, the 20k in stock options already gives you strong upside. we're at 0% bonus.",,multi_claude-sonnet-4.6_031_turn_08,2,2
+multi_claude-sonnet-4.6_031,multi_claude-sonnet-4.6_031_Employee,Employee,4,Post-BATNA,appreciated on salary.,,multi_claude-sonnet-4.6_031_turn_09,1,3
+multi_claude-sonnet-4.6_031,multi_claude-sonnet-4.6_031_Employee,Employee,4,Post-BATNA,but stock and bonus are different things — one doesn't cancel the other.,,multi_claude-sonnet-4.6_031_turn_09,2,3
+multi_claude-sonnet-4.6_031,multi_claude-sonnet-4.6_031_Employee,Employee,4,Post-BATNA,"i'm at 120k salary, 10% bonus.",,multi_claude-sonnet-4.6_031_turn_09,3,3
+multi_claude-sonnet-4.6_031,multi_claude-sonnet-4.6_031_HR,HR,4,Post-BATNA,fair point on stock vs. bonus — they are separate.,,multi_claude-sonnet-4.6_031_turn_10,1,2
+multi_claude-sonnet-4.6_031,multi_claude-sonnet-4.6_031_HR,HR,4,Post-BATNA,"salary stays at 90k, but we can do 5% bonus.",,multi_claude-sonnet-4.6_031_turn_10,2,2
+multi_claude-sonnet-4.6_031,multi_claude-sonnet-4.6_031_Employee,Employee,5,Post-BATNA,"5% bonus, fine.",,multi_claude-sonnet-4.6_031_turn_11,1,2
+multi_claude-sonnet-4.6_031,multi_claude-sonnet-4.6_031_Employee,Employee,5,Post-BATNA,"but salary needs to move — i'm at 120k, and i need 25 vacation days.",,multi_claude-sonnet-4.6_031_turn_11,2,2
+multi_claude-sonnet-4.6_031,multi_claude-sonnet-4.6_031_HR,HR,5,Post-BATNA,salary to 100k — that's a real move.,,multi_claude-sonnet-4.6_031_turn_12,1,2
+multi_claude-sonnet-4.6_031,multi_claude-sonnet-4.6_031_HR,HR,5,Post-BATNA,vacation days stay at 10.,,multi_claude-sonnet-4.6_031_turn_12,2,2
+multi_claude-sonnet-4.6_031,multi_claude-sonnet-4.6_031_Employee,Employee,6,Post-BATNA,"100k is movement, i appreciate that.",,multi_claude-sonnet-4.6_031_turn_13,1,3
+multi_claude-sonnet-4.6_031,multi_claude-sonnet-4.6_031_Employee,Employee,6,Post-BATNA,but i can't close at 100k / 10 days.,,multi_claude-sonnet-4.6_031_turn_13,2,3
+multi_claude-sonnet-4.6_031,multi_claude-sonnet-4.6_031_Employee,Employee,6,Post-BATNA,"120k salary, 25 vacation days — that's what gets this done today.",,multi_claude-sonnet-4.6_031_turn_13,3,3
+multi_claude-sonnet-4.6_031,multi_claude-sonnet-4.6_031_HR,HR,6,Post-BATNA,we're too far apart on both.,,multi_claude-sonnet-4.6_031_turn_14,1,2
+multi_claude-sonnet-4.6_031,multi_claude-sonnet-4.6_031_HR,HR,6,Post-BATNA,i have to pass.,,multi_claude-sonnet-4.6_031_turn_14,2,2
+multi_claude-sonnet-4.6_032,multi_claude-sonnet-4.6_032_Employee,Employee,0,Pre-BATNA,"hey, hope you're having a good day!",,multi_claude-sonnet-4.6_032_turn_01,1,1
+multi_claude-sonnet-4.6_032,multi_claude-sonnet-4.6_032_HR,HR,0,Pre-BATNA,"hey! doing well, thanks. hope you are too!",,multi_claude-sonnet-4.6_032_turn_02,1,1
+multi_claude-sonnet-4.6_032,multi_claude-sonnet-4.6_032_Employee,Employee,1,Pre-BATNA,"doing well, thanks!",,multi_claude-sonnet-4.6_032_turn_03,1,2
+multi_claude-sonnet-4.6_032,multi_claude-sonnet-4.6_032_Employee,Employee,1,Pre-BATNA,"so, what's the range you're working with on salary for this role?",,multi_claude-sonnet-4.6_032_turn_03,2,2
+multi_claude-sonnet-4.6_032,multi_claude-sonnet-4.6_032_HR,HR,1,Pre-BATNA,we've budgeted $80k base for this role.,,multi_claude-sonnet-4.6_032_turn_04,1,2
+multi_claude-sonnet-4.6_032,multi_claude-sonnet-4.6_032_HR,HR,1,Pre-BATNA,how does that land for you?,,multi_claude-sonnet-4.6_032_turn_04,2,2
+multi_claude-sonnet-4.6_032,multi_claude-sonnet-4.6_032_Employee,Employee,2,Pre-BATNA,"honestly, that's pretty far from where i need to be.",,multi_claude-sonnet-4.6_032_turn_05,1,2
+multi_claude-sonnet-4.6_032,multi_claude-sonnet-4.6_032_Employee,Employee,2,Pre-BATNA,i'm thinking $110k base.,,multi_claude-sonnet-4.6_032_turn_05,2,2
+multi_claude-sonnet-4.6_032,multi_claude-sonnet-4.6_032_HR,HR,2,Pre-BATNA,got it.,,multi_claude-sonnet-4.6_032_turn_06,1,2
+multi_claude-sonnet-4.6_032,multi_claude-sonnet-4.6_032_HR,HR,2,Pre-BATNA,"what else matters to you beyond base — bonus, equity, vacation?",,multi_claude-sonnet-4.6_032_turn_06,2,2
+multi_claude-sonnet-4.6_032,multi_claude-sonnet-4.6_032_Employee,Employee,3,Pre-BATNA,bonus and vacation are both big for me.,,multi_claude-sonnet-4.6_032_turn_07,1,2
+multi_claude-sonnet-4.6_032,multi_claude-sonnet-4.6_032_Employee,Employee,3,Pre-BATNA,looking for 20% bonus and 30 vacation days.,,multi_claude-sonnet-4.6_032_turn_07,2,2
+multi_claude-sonnet-4.6_032,multi_claude-sonnet-4.6_032_HR,HR,3,Pre-BATNA,20% is a stretch for us.,,multi_claude-sonnet-4.6_032_turn_08,1,2
+multi_claude-sonnet-4.6_032,multi_claude-sonnet-4.6_032_HR,HR,3,Pre-BATNA,could we work with 10% bonus? stock options could also help close the gap.,,multi_claude-sonnet-4.6_032_turn_08,2,2
+multi_claude-sonnet-4.6_032,multi_claude-sonnet-4.6_032_Employee,Employee,4,Post-BATNA,10% is tough.,,multi_claude-sonnet-4.6_032_turn_09,1,3
+multi_claude-sonnet-4.6_032,multi_claude-sonnet-4.6_032_Employee,Employee,4,Post-BATNA,could we land at 15% bonus?,,multi_claude-sonnet-4.6_032_turn_09,2,3
+multi_claude-sonnet-4.6_032,multi_claude-sonnet-4.6_032_Employee,Employee,4,Post-BATNA,$20k stock options on my end — that feels like a real trade.,,multi_claude-sonnet-4.6_032_turn_09,3,3
+multi_claude-sonnet-4.6_032,multi_claude-sonnet-4.6_032_HR,HR,4,Post-BATNA,"yeah, that trade works.",,multi_claude-sonnet-4.6_032_turn_10,1,2
+multi_claude-sonnet-4.6_032,multi_claude-sonnet-4.6_032_HR,HR,4,Post-BATNA,15% bonus and $20k stock options — let's call those settled.,,multi_claude-sonnet-4.6_032_turn_10,2,2
+multi_claude-sonnet-4.6_032,multi_claude-sonnet-4.6_032_Employee,Employee,5,Post-BATNA,"agreed, those are settled.",,multi_claude-sonnet-4.6_032_turn_11,1,3
+multi_claude-sonnet-4.6_032,multi_claude-sonnet-4.6_032_Employee,Employee,5,Post-BATNA,"on salary, i'm at $110k.",,multi_claude-sonnet-4.6_032_turn_11,2,3
+multi_claude-sonnet-4.6_032,multi_claude-sonnet-4.6_032_Employee,Employee,5,Post-BATNA,and 25 vacation days.,,multi_claude-sonnet-4.6_032_turn_11,3,3
+multi_claude-sonnet-4.6_032,multi_claude-sonnet-4.6_032_HR,HR,5,Post-BATNA,$100k salary — that's a real move from where we started.,,multi_claude-sonnet-4.6_032_turn_12,1,2
+multi_claude-sonnet-4.6_032,multi_claude-sonnet-4.6_032_HR,HR,5,Post-BATNA,10 vacation days.,,multi_claude-sonnet-4.6_032_turn_12,2,2
+multi_claude-sonnet-4.6_032,multi_claude-sonnet-4.6_032_Employee,Employee,6,Post-BATNA,we've both moved — let's close this out.,,multi_claude-sonnet-4.6_032_turn_13,1,2
+multi_claude-sonnet-4.6_032,multi_claude-sonnet-4.6_032_Employee,Employee,6,Post-BATNA,"salary stays at $110k, and i'll come down to 20 vacation days.",,multi_claude-sonnet-4.6_032_turn_13,2,2
+multi_claude-sonnet-4.6_032,multi_claude-sonnet-4.6_032_HR,HR,6,Post-BATNA,can't get there on either.,,multi_claude-sonnet-4.6_032_turn_14,1,2
+multi_claude-sonnet-4.6_032,multi_claude-sonnet-4.6_032_HR,HR,6,Post-BATNA,we're done here.,,multi_claude-sonnet-4.6_032_turn_14,2,2
+multi_claude-sonnet-4.6_033,multi_claude-sonnet-4.6_033_Employee,Employee,0,Pre-BATNA,hey! hope you're having a good day so far,,multi_claude-sonnet-4.6_033_turn_01,1,1
+multi_claude-sonnet-4.6_033,multi_claude-sonnet-4.6_033_HR,HR,0,Pre-BATNA,"hey! doing well, thanks for asking!",,multi_claude-sonnet-4.6_033_turn_02,1,1
+multi_claude-sonnet-4.6_033,multi_claude-sonnet-4.6_033_Employee,Employee,1,Pre-BATNA,great!,,multi_claude-sonnet-4.6_033_turn_03,1,2
+multi_claude-sonnet-4.6_033,multi_claude-sonnet-4.6_033_Employee,Employee,1,Pre-BATNA,"so, let's talk comp — what does the range look like for salary and bonus?",,multi_claude-sonnet-4.6_033_turn_03,2,2
+multi_claude-sonnet-4.6_033,multi_claude-sonnet-4.6_033_HR,HR,1,Pre-BATNA,what are you targeting on those two?,,multi_claude-sonnet-4.6_033_turn_04,1,2
+multi_claude-sonnet-4.6_033,multi_claude-sonnet-4.6_033_HR,HR,1,Pre-BATNA,and which matters more to you?,,multi_claude-sonnet-4.6_033_turn_04,2,2
+multi_claude-sonnet-4.6_033,multi_claude-sonnet-4.6_033_Employee,Employee,2,Pre-BATNA,salary matters more to me.,,multi_claude-sonnet-4.6_033_turn_05,1,2
+multi_claude-sonnet-4.6_033,multi_claude-sonnet-4.6_033_Employee,Employee,2,Pre-BATNA,"before i put numbers out there — what's the stock situation, and how does vacation work?",,multi_claude-sonnet-4.6_033_turn_05,2,2
+multi_claude-sonnet-4.6_033,multi_claude-sonnet-4.6_033_HR,HR,2,Pre-BATNA,"stock options up to 20k, vacation up to 30 days.",,multi_claude-sonnet-4.6_033_turn_06,1,2
+multi_claude-sonnet-4.6_033,multi_claude-sonnet-4.6_033_HR,HR,2,Pre-BATNA,what are you targeting on those two?,,multi_claude-sonnet-4.6_033_turn_06,2,2
+multi_claude-sonnet-4.6_033,multi_claude-sonnet-4.6_033_Employee,Employee,3,Pre-BATNA,"20k stock, 30 days vacation.",,multi_claude-sonnet-4.6_033_turn_07,1,2
+multi_claude-sonnet-4.6_033,multi_claude-sonnet-4.6_033_Employee,Employee,3,Pre-BATNA,those are my targets on both.,,multi_claude-sonnet-4.6_033_turn_07,2,2
+multi_claude-sonnet-4.6_033,multi_claude-sonnet-4.6_033_HR,HR,3,Pre-BATNA,noted.,,multi_claude-sonnet-4.6_033_turn_08,1,2
+multi_claude-sonnet-4.6_033,multi_claude-sonnet-4.6_033_HR,HR,3,Pre-BATNA,on salary and bonus — we're starting at 80k and 0% bonus.,,multi_claude-sonnet-4.6_033_turn_08,2,2
+multi_claude-sonnet-4.6_033,multi_claude-sonnet-4.6_033_Employee,Employee,4,Post-BATNA,that's a big gap from where i need to be.,,multi_claude-sonnet-4.6_033_turn_09,1,2
+multi_claude-sonnet-4.6_033,multi_claude-sonnet-4.6_033_Employee,Employee,4,Post-BATNA,"120k salary, 20% bonus.",,multi_claude-sonnet-4.6_033_turn_09,2,2
+multi_claude-sonnet-4.6_033,multi_claude-sonnet-4.6_033_HR,HR,4,Post-BATNA,"100k salary, bonus at 0 for now.",,multi_claude-sonnet-4.6_033_turn_10,1,2
+multi_claude-sonnet-4.6_033,multi_claude-sonnet-4.6_033_HR,HR,4,Post-BATNA,that's a real move on base — bonus we can revisit.,,multi_claude-sonnet-4.6_033_turn_10,2,2
+multi_claude-sonnet-4.6_033,multi_claude-sonnet-4.6_033_Employee,Employee,5,Post-BATNA,appreciate the move on salary.,,multi_claude-sonnet-4.6_033_turn_11,1,3
+multi_claude-sonnet-4.6_033,multi_claude-sonnet-4.6_033_Employee,Employee,5,Post-BATNA,i'll come down on bonus — 15%.,,multi_claude-sonnet-4.6_033_turn_11,2,3
+multi_claude-sonnet-4.6_033,multi_claude-sonnet-4.6_033_Employee,Employee,5,Post-BATNA,but 120k on base is where i need to stay.,,multi_claude-sonnet-4.6_033_turn_11,3,3
+multi_claude-sonnet-4.6_033,multi_claude-sonnet-4.6_033_HR,HR,5,Post-BATNA,"heard you on 120k, but we can't get there.",,multi_claude-sonnet-4.6_033_turn_12,1,2
+multi_claude-sonnet-4.6_033,multi_claude-sonnet-4.6_033_HR,HR,5,Post-BATNA,"100k salary, 5% bonus.",,multi_claude-sonnet-4.6_033_turn_12,2,2
+multi_claude-sonnet-4.6_033,multi_claude-sonnet-4.6_033_Employee,Employee,6,Post-BATNA,"ok, that's a real move on bonus — i can meet you partway on salary.",,multi_claude-sonnet-4.6_033_turn_13,1,2
+multi_claude-sonnet-4.6_033,multi_claude-sonnet-4.6_033_Employee,Employee,6,Post-BATNA,"110k, 15% bonus, 20k stock options, 30 vacation days.",,multi_claude-sonnet-4.6_033_turn_13,2,2
+multi_claude-sonnet-4.6_033,multi_claude-sonnet-4.6_033_HR,HR,6,Post-BATNA,appreciate you moving on salary and bonus.,,multi_claude-sonnet-4.6_033_turn_14,1,3
+multi_claude-sonnet-4.6_033,multi_claude-sonnet-4.6_033_HR,HR,6,Post-BATNA,but the stock options and vacation days make the full package something we can't do.,,multi_claude-sonnet-4.6_033_turn_14,2,3
+multi_claude-sonnet-4.6_033,multi_claude-sonnet-4.6_033_HR,HR,6,Post-BATNA,we're not going to get there — i have to step away from this one.,,multi_claude-sonnet-4.6_033_turn_14,3,3
+multi_claude-sonnet-4.6_034,multi_claude-sonnet-4.6_034_HR,HR,0,Pre-BATNA,hey! thanks for making time today.,,multi_claude-sonnet-4.6_034_turn_01,1,1
+multi_claude-sonnet-4.6_034,multi_claude-sonnet-4.6_034_Employee,Employee,0,Pre-BATNA,"hey! of course, happy to chat",,multi_claude-sonnet-4.6_034_turn_02,1,1
+multi_claude-sonnet-4.6_034,multi_claude-sonnet-4.6_034_HR,HR,1,Pre-BATNA,"what's most important to you in the offer — salary, or something else?",,multi_claude-sonnet-4.6_034_turn_03,1,1
+multi_claude-sonnet-4.6_034,multi_claude-sonnet-4.6_034_Employee,Employee,1,Pre-BATNA,"salary matters most, but total comp is what i'm really looking at.",,multi_claude-sonnet-4.6_034_turn_04,1,2
+multi_claude-sonnet-4.6_034,multi_claude-sonnet-4.6_034_Employee,Employee,1,Pre-BATNA,what's the typical range for this role on your end?,,multi_claude-sonnet-4.6_034_turn_04,2,2
+multi_claude-sonnet-4.6_034,multi_claude-sonnet-4.6_034_HR,HR,2,Pre-BATNA,"we're looking at 90k base, with 20k in stock options.",,multi_claude-sonnet-4.6_034_turn_05,1,2
+multi_claude-sonnet-4.6_034,multi_claude-sonnet-4.6_034_HR,HR,2,Pre-BATNA,strong upside in the role as you grow into it.,,multi_claude-sonnet-4.6_034_turn_05,2,2
+multi_claude-sonnet-4.6_034,multi_claude-sonnet-4.6_034_Employee,Employee,2,Pre-BATNA,"appreciate the stock, but 90k base is a bit below where i need to be.",,multi_claude-sonnet-4.6_034_turn_06,1,2
+multi_claude-sonnet-4.6_034,multi_claude-sonnet-4.6_034_Employee,Employee,2,Pre-BATNA,i'm thinking 110k salary and 20% bonus — that's the total comp picture from my side.,,multi_claude-sonnet-4.6_034_turn_06,2,2
+multi_claude-sonnet-4.6_034,multi_claude-sonnet-4.6_034_HR,HR,3,Pre-BATNA,"90k base, but let's add a 10% bonus on top.",,multi_claude-sonnet-4.6_034_turn_07,1,2
+multi_claude-sonnet-4.6_034,multi_claude-sonnet-4.6_034_HR,HR,3,Pre-BATNA,that moves the total comp picture meaningfully.,,multi_claude-sonnet-4.6_034_turn_07,2,2
+multi_claude-sonnet-4.6_034,multi_claude-sonnet-4.6_034_Employee,Employee,3,Pre-BATNA,Let's talk about salary next.,,multi_claude-sonnet-4.6_034_turn_08,1,1
+multi_claude-sonnet-4.6_034,multi_claude-sonnet-4.6_034_HR,HR,4,Post-BATNA,what would make 90k work for you?,,multi_claude-sonnet-4.6_034_turn_09,1,1
+multi_claude-sonnet-4.6_034,multi_claude-sonnet-4.6_034_Employee,Employee,4,Post-BATNA,"honestly, it doesn't — 110k is where i need to be.",,multi_claude-sonnet-4.6_034_turn_10,1,2
+multi_claude-sonnet-4.6_034,multi_claude-sonnet-4.6_034_Employee,Employee,4,Post-BATNA,open to talking stock and vacation once we're closer on base.,,multi_claude-sonnet-4.6_034_turn_10,2,2
+multi_claude-sonnet-4.6_034,multi_claude-sonnet-4.6_034_HR,HR,5,Post-BATNA,100k on base — that's real movement from us.,,multi_claude-sonnet-4.6_034_turn_11,1,2
+multi_claude-sonnet-4.6_034,multi_claude-sonnet-4.6_034_HR,HR,5,Post-BATNA,bonus stays at 10% though; 20% is a stretch we can't make.,,multi_claude-sonnet-4.6_034_turn_11,2,2
+multi_claude-sonnet-4.6_034,multi_claude-sonnet-4.6_034_Employee,Employee,5,Post-BATNA,"100k is progress, appreciate it.",,multi_claude-sonnet-4.6_034_turn_12,1,3
+multi_claude-sonnet-4.6_034,multi_claude-sonnet-4.6_034_Employee,Employee,5,Post-BATNA,still need 110k on base though.,,multi_claude-sonnet-4.6_034_turn_12,2,3
+multi_claude-sonnet-4.6_034,multi_claude-sonnet-4.6_034_Employee,Employee,5,Post-BATNA,"on bonus — i'll come down to 15%, that's a real move from me.",,multi_claude-sonnet-4.6_034_turn_12,3,3
+multi_claude-sonnet-4.6_034,multi_claude-sonnet-4.6_034_HR,HR,6,Post-BATNA,"that is a real move, appreciate it.",,multi_claude-sonnet-4.6_034_turn_13,1,3
+multi_claude-sonnet-4.6_034,multi_claude-sonnet-4.6_034_HR,HR,6,Post-BATNA,"but we're at 10% on bonus and holding — 100k salary, 10% bonus, 20k stock options, 10 vacation days.",,multi_claude-sonnet-4.6_034_turn_13,2,3
+multi_claude-sonnet-4.6_034,multi_claude-sonnet-4.6_034_HR,HR,6,Post-BATNA,"that's the full picture, and it's our best.",,multi_claude-sonnet-4.6_034_turn_13,3,3
+multi_claude-sonnet-4.6_034,multi_claude-sonnet-4.6_034_Employee,Employee,6,Post-BATNA,"i hear you, and i appreciate the transparency.",,multi_claude-sonnet-4.6_034_turn_14,1,3
+multi_claude-sonnet-4.6_034,multi_claude-sonnet-4.6_034_Employee,Employee,6,Post-BATNA,but the gap on salary and bonus is too wide for me to close.,,multi_claude-sonnet-4.6_034_turn_14,2,3
+multi_claude-sonnet-4.6_034,multi_claude-sonnet-4.6_034_Employee,Employee,6,Post-BATNA,i'll have to pass.,,multi_claude-sonnet-4.6_034_turn_14,3,3
+multi_claude-sonnet-4.6_035,multi_claude-sonnet-4.6_035_Employee,Employee,0,Pre-BATNA,hey! hope you're doing well today.,,multi_claude-sonnet-4.6_035_turn_01,1,1
+multi_claude-sonnet-4.6_035,multi_claude-sonnet-4.6_035_HR,HR,0,Pre-BATNA,"hi! doing well, thanks! hope you are too.",,multi_claude-sonnet-4.6_035_turn_02,1,1
+multi_claude-sonnet-4.6_035,multi_claude-sonnet-4.6_035_Employee,Employee,1,Pre-BATNA,"doing well, thanks!",,multi_claude-sonnet-4.6_035_turn_03,1,2
+multi_claude-sonnet-4.6_035,multi_claude-sonnet-4.6_035_Employee,Employee,1,Pre-BATNA,"so, what are you looking to offer on salary?",,multi_claude-sonnet-4.6_035_turn_03,2,2
+multi_claude-sonnet-4.6_035,multi_claude-sonnet-4.6_035_HR,HR,1,Pre-BATNA,we're looking at $80k base.,,multi_claude-sonnet-4.6_035_turn_04,1,2
+multi_claude-sonnet-4.6_035,multi_claude-sonnet-4.6_035_HR,HR,1,Pre-BATNA,strong upside in the stock package too.,,multi_claude-sonnet-4.6_035_turn_04,2,2
+multi_claude-sonnet-4.6_035,multi_claude-sonnet-4.6_035_Employee,Employee,2,Pre-BATNA,appreciate that on stock.,,multi_claude-sonnet-4.6_035_turn_05,1,2
+multi_claude-sonnet-4.6_035,multi_claude-sonnet-4.6_035_Employee,Employee,2,Pre-BATNA,"on salary though, i'm looking at $110k, and 20% bonus.",,multi_claude-sonnet-4.6_035_turn_05,2,2
+multi_claude-sonnet-4.6_035,multi_claude-sonnet-4.6_035_HR,HR,2,Pre-BATNA,$80k is where we're at on base.,,multi_claude-sonnet-4.6_035_turn_06,1,2
+multi_claude-sonnet-4.6_035,multi_claude-sonnet-4.6_035_HR,HR,2,Pre-BATNA,"on bonus, we're at 0% — the stock is where the real upside is.",,multi_claude-sonnet-4.6_035_turn_06,2,2
+multi_claude-sonnet-4.6_035,multi_claude-sonnet-4.6_035_Employee,Employee,3,Pre-BATNA,fair enough on bonus.,,multi_claude-sonnet-4.6_035_turn_07,1,2
+multi_claude-sonnet-4.6_035,multi_claude-sonnet-4.6_035_Employee,Employee,3,Pre-BATNA,"let's say 10%, and 20k stock options.",,multi_claude-sonnet-4.6_035_turn_07,2,2
+multi_claude-sonnet-4.6_035,multi_claude-sonnet-4.6_035_HR,HR,3,Pre-BATNA,appreciate you moving on bonus.,,multi_claude-sonnet-4.6_035_turn_08,1,3
+multi_claude-sonnet-4.6_035,multi_claude-sonnet-4.6_035_HR,HR,3,Pre-BATNA,we can do 20k stock options.,,multi_claude-sonnet-4.6_035_turn_08,2,3
+multi_claude-sonnet-4.6_035,multi_claude-sonnet-4.6_035_HR,HR,3,Pre-BATNA,bonus stays at 0% for now though.,,multi_claude-sonnet-4.6_035_turn_08,3,3
+multi_claude-sonnet-4.6_035,multi_claude-sonnet-4.6_035_Employee,Employee,4,Post-BATNA,"ok, stock is settled then.",,multi_claude-sonnet-4.6_035_turn_09,1,3
+multi_claude-sonnet-4.6_035,multi_claude-sonnet-4.6_035_Employee,Employee,4,Post-BATNA,"on salary, i need $110k.",,multi_claude-sonnet-4.6_035_turn_09,2,3
+multi_claude-sonnet-4.6_035,multi_claude-sonnet-4.6_035_Employee,Employee,4,Post-BATNA,"also, what are you thinking on vacation days? i'd want 30.",,multi_claude-sonnet-4.6_035_turn_09,3,3
+multi_claude-sonnet-4.6_035,multi_claude-sonnet-4.6_035_HR,HR,4,Post-BATNA,glad stock is settled.,,multi_claude-sonnet-4.6_035_turn_10,1,3
+multi_claude-sonnet-4.6_035,multi_claude-sonnet-4.6_035_HR,HR,4,Post-BATNA,"salary, i can move to $90k.",,multi_claude-sonnet-4.6_035_turn_10,2,3
+multi_claude-sonnet-4.6_035,multi_claude-sonnet-4.6_035_HR,HR,4,Post-BATNA,on vacation — 10 days.,,multi_claude-sonnet-4.6_035_turn_10,3,3
+multi_claude-sonnet-4.6_035,multi_claude-sonnet-4.6_035_Employee,Employee,5,Post-BATNA,"What about 110k salary, 30 vacation days?",,multi_claude-sonnet-4.6_035_turn_11,1,1
+multi_claude-sonnet-4.6_035,multi_claude-sonnet-4.6_035_HR,HR,5,Post-BATNA,i can move to $100k on salary — that's a real step.,,multi_claude-sonnet-4.6_035_turn_12,1,3
+multi_claude-sonnet-4.6_035,multi_claude-sonnet-4.6_035_HR,HR,5,Post-BATNA,"vacation days, i need to stay at 10.",,multi_claude-sonnet-4.6_035_turn_12,2,3
+multi_claude-sonnet-4.6_035,multi_claude-sonnet-4.6_035_HR,HR,5,Post-BATNA,"we're closing in, but i need some movement from you on vacation days.",,multi_claude-sonnet-4.6_035_turn_12,3,3
+multi_claude-sonnet-4.6_035,multi_claude-sonnet-4.6_035_Employee,Employee,6,Post-BATNA,fair enough — here's my closing package.,,multi_claude-sonnet-4.6_035_turn_13,1,3
+multi_claude-sonnet-4.6_035,multi_claude-sonnet-4.6_035_Employee,Employee,6,Post-BATNA,"110k salary, 10% bonus, 20k stock, 20 vacation days.",,multi_claude-sonnet-4.6_035_turn_13,2,3
+multi_claude-sonnet-4.6_035,multi_claude-sonnet-4.6_035_Employee,Employee,6,Post-BATNA,i came down from 30 on vacation — need you to hold the salary and take the bonus.,,multi_claude-sonnet-4.6_035_turn_13,3,3
+multi_claude-sonnet-4.6_035,multi_claude-sonnet-4.6_035_HR,HR,6,Post-BATNA,"deal, we're good.",,multi_claude-sonnet-4.6_035_turn_14,1,1
+multi_claude-sonnet-4.6_036,multi_claude-sonnet-4.6_036_HR,HR,0,Pre-BATNA,hey! thanks for making time today.,,multi_claude-sonnet-4.6_036_turn_01,1,1
+multi_claude-sonnet-4.6_036,multi_claude-sonnet-4.6_036_Employee,Employee,0,Pre-BATNA,"hey! of course, happy to be here.",,multi_claude-sonnet-4.6_036_turn_02,1,1
+multi_claude-sonnet-4.6_036,multi_claude-sonnet-4.6_036_HR,HR,1,Pre-BATNA,"what matters most to you in this offer — salary, time off, something else?",,multi_claude-sonnet-4.6_036_turn_03,1,1
+multi_claude-sonnet-4.6_036,multi_claude-sonnet-4.6_036_Employee,Employee,1,Pre-BATNA,"What matters more to you, salary?",,multi_claude-sonnet-4.6_036_turn_04,1,1
+multi_claude-sonnet-4.6_036,multi_claude-sonnet-4.6_036_HR,HR,2,Pre-BATNA,fair enough.,,multi_claude-sonnet-4.6_036_turn_05,1,2
+multi_claude-sonnet-4.6_036,multi_claude-sonnet-4.6_036_HR,HR,2,Pre-BATNA,"how do you feel about the equity side — stock options, bonus structure? are those meaningful to you?",,multi_claude-sonnet-4.6_036_turn_05,2,2
+multi_claude-sonnet-4.6_036,multi_claude-sonnet-4.6_036_Employee,Employee,2,Pre-BATNA,"yeah, both matter.",,multi_claude-sonnet-4.6_036_turn_06,1,2
+multi_claude-sonnet-4.6_036,multi_claude-sonnet-4.6_036_Employee,Employee,2,Pre-BATNA,what ranges are you working with on those?,,multi_claude-sonnet-4.6_036_turn_06,2,2
+multi_claude-sonnet-4.6_036,multi_claude-sonnet-4.6_036_HR,HR,3,Pre-BATNA,"stock options, we can do 20k.",,multi_claude-sonnet-4.6_036_turn_07,1,2
+multi_claude-sonnet-4.6_036,multi_claude-sonnet-4.6_036_HR,HR,3,Pre-BATNA,"bonus, starting at 0% — the equity upside is meant to offset that.",,multi_claude-sonnet-4.6_036_turn_07,2,2
+multi_claude-sonnet-4.6_036,multi_claude-sonnet-4.6_036_Employee,Employee,3,Pre-BATNA,"20k stock works, appreciate that.",,multi_claude-sonnet-4.6_036_turn_08,1,2
+multi_claude-sonnet-4.6_036,multi_claude-sonnet-4.6_036_Employee,Employee,3,Pre-BATNA,but zero bonus doesn't — i'd need 20% bonus and 120k salary.,,multi_claude-sonnet-4.6_036_turn_08,2,2
+multi_claude-sonnet-4.6_036,multi_claude-sonnet-4.6_036_HR,HR,4,Post-BATNA,"120k salary, done.",,multi_claude-sonnet-4.6_036_turn_09,1,2
+multi_claude-sonnet-4.6_036,multi_claude-sonnet-4.6_036_HR,HR,4,Post-BATNA,but bonus stays at 0 — the stock options are your performance upside.,,multi_claude-sonnet-4.6_036_turn_09,2,2
+multi_claude-sonnet-4.6_036,multi_claude-sonnet-4.6_036_Employee,Employee,4,Post-BATNA,15% bonus -- that's a meaningful step down from my ask.,,multi_claude-sonnet-4.6_036_turn_10,1,2
+multi_claude-sonnet-4.6_036,multi_claude-sonnet-4.6_036_Employee,Employee,4,Post-BATNA,and let's talk vacation days -- i'd need 30.,,multi_claude-sonnet-4.6_036_turn_10,2,2
+multi_claude-sonnet-4.6_036,multi_claude-sonnet-4.6_036_HR,HR,5,Post-BATNA,"15% bonus, we can do that.",,multi_claude-sonnet-4.6_036_turn_11,1,2
+multi_claude-sonnet-4.6_036,multi_claude-sonnet-4.6_036_HR,HR,5,Post-BATNA,"vacation days, we can do 15 — not 30.",,multi_claude-sonnet-4.6_036_turn_11,2,2
+multi_claude-sonnet-4.6_036,multi_claude-sonnet-4.6_036_Employee,Employee,5,Post-BATNA,25 days — splitting the difference from 30.,,multi_claude-sonnet-4.6_036_turn_12,1,2
+multi_claude-sonnet-4.6_036,multi_claude-sonnet-4.6_036_Employee,Employee,5,Post-BATNA,and let's lock in the 20k stock options.,,multi_claude-sonnet-4.6_036_turn_12,2,2
+multi_claude-sonnet-4.6_036,multi_claude-sonnet-4.6_036_HR,HR,6,Post-BATNA,Let's talk about vacation days next.,,multi_claude-sonnet-4.6_036_turn_13,1,1
+multi_claude-sonnet-4.6_036,multi_claude-sonnet-4.6_036_Employee,Employee,6,Post-BATNA,i can't get to a deal here.,,multi_claude-sonnet-4.6_036_turn_14,1,2
+multi_claude-sonnet-4.6_036,multi_claude-sonnet-4.6_036_Employee,Employee,6,Post-BATNA,15 days vacation is too far from 30 — that's a dealbreaker for me.,,multi_claude-sonnet-4.6_036_turn_14,2,2
+multi_claude-sonnet-4.6_037,multi_claude-sonnet-4.6_037_HR,HR,0,Pre-BATNA,hey! thanks for taking the time to connect today.,,multi_claude-sonnet-4.6_037_turn_01,1,1
+multi_claude-sonnet-4.6_037,multi_claude-sonnet-4.6_037_Employee,Employee,0,Pre-BATNA,"hey! of course, happy to be here.",,multi_claude-sonnet-4.6_037_turn_02,1,1
+multi_claude-sonnet-4.6_037,multi_claude-sonnet-4.6_037_HR,HR,1,Pre-BATNA,"what's most important to you in the offer — salary, or other stuff too?",,multi_claude-sonnet-4.6_037_turn_03,1,1
+multi_claude-sonnet-4.6_037,multi_claude-sonnet-4.6_037_Employee,Employee,1,Pre-BATNA,"salary's the foundation, but the full package matters — bonus and equity factor in too.",,multi_claude-sonnet-4.6_037_turn_04,1,2
+multi_claude-sonnet-4.6_037,multi_claude-sonnet-4.6_037_Employee,Employee,1,Pre-BATNA,what kind of flexibility do you have across those?,,multi_claude-sonnet-4.6_037_turn_04,2,2
+multi_claude-sonnet-4.6_037,multi_claude-sonnet-4.6_037_HR,HR,2,Pre-BATNA,we've got room on multiple fronts.,,multi_claude-sonnet-4.6_037_turn_05,1,2
+multi_claude-sonnet-4.6_037,multi_claude-sonnet-4.6_037_HR,HR,2,Pre-BATNA,"between bonus and equity, which matters more to you?",,multi_claude-sonnet-4.6_037_turn_05,2,2
+multi_claude-sonnet-4.6_037,multi_claude-sonnet-4.6_037_Employee,Employee,2,Pre-BATNA,both matter honestly.,,multi_claude-sonnet-4.6_037_turn_06,1,2
+multi_claude-sonnet-4.6_037,multi_claude-sonnet-4.6_037_Employee,Employee,2,Pre-BATNA,what ranges are you working with on stock options and vacation days?,,multi_claude-sonnet-4.6_037_turn_06,2,2
+multi_claude-sonnet-4.6_037,multi_claude-sonnet-4.6_037_HR,HR,3,Pre-BATNA,"stock options, we can go up to 20k — that's real upside if things go well.",,multi_claude-sonnet-4.6_037_turn_07,1,2
+multi_claude-sonnet-4.6_037,multi_claude-sonnet-4.6_037_HR,HR,3,Pre-BATNA,"vacation days, we're at 10.",,multi_claude-sonnet-4.6_037_turn_07,2,2
+multi_claude-sonnet-4.6_037,multi_claude-sonnet-4.6_037_Employee,Employee,3,Pre-BATNA,"What about 120k salary, 30 vacation days?",,multi_claude-sonnet-4.6_037_turn_08,1,1
+multi_claude-sonnet-4.6_037,multi_claude-sonnet-4.6_037_HR,HR,4,Post-BATNA,we can do 110k salary.,,multi_claude-sonnet-4.6_037_turn_09,1,2
+multi_claude-sonnet-4.6_037,multi_claude-sonnet-4.6_037_HR,HR,4,Post-BATNA,"bonus is 0 right now, but the 20k stock is meaningful upside.",,multi_claude-sonnet-4.6_037_turn_09,2,2
+multi_claude-sonnet-4.6_037,multi_claude-sonnet-4.6_037_Employee,Employee,4,Post-BATNA,fair on stock.,,multi_claude-sonnet-4.6_037_turn_10,1,2
+multi_claude-sonnet-4.6_037,multi_claude-sonnet-4.6_037_Employee,Employee,4,Post-BATNA,can we do 20% bonus and 30 vacation days?,,multi_claude-sonnet-4.6_037_turn_10,2,2
+multi_claude-sonnet-4.6_037,multi_claude-sonnet-4.6_037_HR,HR,5,Post-BATNA,20% bonus — done.,,multi_claude-sonnet-4.6_037_turn_11,1,2
+multi_claude-sonnet-4.6_037,multi_claude-sonnet-4.6_037_HR,HR,5,Post-BATNA,"vacation days, 10 is our final number.",,multi_claude-sonnet-4.6_037_turn_11,2,2
+multi_claude-sonnet-4.6_037,multi_claude-sonnet-4.6_037_Employee,Employee,5,Post-BATNA,10 is a big gap from 30.,,multi_claude-sonnet-4.6_037_turn_12,1,2
+multi_claude-sonnet-4.6_037,multi_claude-sonnet-4.6_037_Employee,Employee,5,Post-BATNA,"120k salary, 25 vacation days?",,multi_claude-sonnet-4.6_037_turn_12,2,2
+multi_claude-sonnet-4.6_037,multi_claude-sonnet-4.6_037_HR,HR,6,Post-BATNA,120k salary works.,,multi_claude-sonnet-4.6_037_turn_13,1,2
+multi_claude-sonnet-4.6_037,multi_claude-sonnet-4.6_037_HR,HR,6,Post-BATNA,"vacation days stay at 10, though.",,multi_claude-sonnet-4.6_037_turn_13,2,2
+multi_claude-sonnet-4.6_037,multi_claude-sonnet-4.6_037_Employee,Employee,6,Post-BATNA,can't close that gap on vacation.,,multi_claude-sonnet-4.6_037_turn_14,1,2
+multi_claude-sonnet-4.6_037,multi_claude-sonnet-4.6_037_Employee,Employee,6,Post-BATNA,i'm out.,,multi_claude-sonnet-4.6_037_turn_14,2,2
+multi_claude-sonnet-4.6_038,multi_claude-sonnet-4.6_038_Employee,Employee,0,Pre-BATNA,hey! hope you're doing well today.,,multi_claude-sonnet-4.6_038_turn_01,1,1
+multi_claude-sonnet-4.6_038,multi_claude-sonnet-4.6_038_HR,HR,0,Pre-BATNA,"hey! doing well, thanks — hope you are too!",,multi_claude-sonnet-4.6_038_turn_02,1,1
+multi_claude-sonnet-4.6_038,multi_claude-sonnet-4.6_038_Employee,Employee,1,Pre-BATNA,"doing well, thanks!",,multi_claude-sonnet-4.6_038_turn_03,1,2
+multi_claude-sonnet-4.6_038,multi_claude-sonnet-4.6_038_Employee,Employee,1,Pre-BATNA,"so, what were you thinking for salary on this role?",,multi_claude-sonnet-4.6_038_turn_03,2,2
+multi_claude-sonnet-4.6_038,multi_claude-sonnet-4.6_038_HR,HR,1,Pre-BATNA,we've budgeted around $80k for this position.,,multi_claude-sonnet-4.6_038_turn_04,1,1
+multi_claude-sonnet-4.6_038,multi_claude-sonnet-4.6_038_Employee,Employee,2,Pre-BATNA,i'd need to be closer to $110k.,,multi_claude-sonnet-4.6_038_turn_05,1,1
+multi_claude-sonnet-4.6_038,multi_claude-sonnet-4.6_038_HR,HR,2,Pre-BATNA,"what's driving that number for you — market data, a competing offer, total comp expectations?",,multi_claude-sonnet-4.6_038_turn_06,1,1
+multi_claude-sonnet-4.6_038,multi_claude-sonnet-4.6_038_Employee,Employee,3,Pre-BATNA,Let's talk about salary next.,,multi_claude-sonnet-4.6_038_turn_07,1,1
+multi_claude-sonnet-4.6_038,multi_claude-sonnet-4.6_038_HR,HR,3,Pre-BATNA,$100k — that's a meaningful step from where we started.,,multi_claude-sonnet-4.6_038_turn_08,1,1
+multi_claude-sonnet-4.6_038,multi_claude-sonnet-4.6_038_Employee,Employee,4,Post-BATNA,"it is, appreciate that.",,multi_claude-sonnet-4.6_038_turn_09,1,3
+multi_claude-sonnet-4.6_038,multi_claude-sonnet-4.6_038_Employee,Employee,4,Post-BATNA,i'm still at $110k on base.,,multi_claude-sonnet-4.6_038_turn_09,2,3
+multi_claude-sonnet-4.6_038,multi_claude-sonnet-4.6_038_Employee,Employee,4,Post-BATNA,what are you thinking for bonus?,,multi_claude-sonnet-4.6_038_turn_09,3,3
+multi_claude-sonnet-4.6_038,multi_claude-sonnet-4.6_038_HR,HR,4,Post-BATNA,no bonus structure for this role.,,multi_claude-sonnet-4.6_038_turn_10,1,2
+multi_claude-sonnet-4.6_038,multi_claude-sonnet-4.6_038_HR,HR,4,Post-BATNA,but $20k in stock options — solid long-term upside.,,multi_claude-sonnet-4.6_038_turn_10,2,2
+multi_claude-sonnet-4.6_038,multi_claude-sonnet-4.6_038_Employee,Employee,5,Post-BATNA,"$20k stock — yeah, that's solid, appreciate it.",,multi_claude-sonnet-4.6_038_turn_11,1,3
+multi_claude-sonnet-4.6_038,multi_claude-sonnet-4.6_038_Employee,Employee,5,Post-BATNA,still need cash upside though: 20% bonus.,,multi_claude-sonnet-4.6_038_turn_11,2,3
+multi_claude-sonnet-4.6_038,multi_claude-sonnet-4.6_038_Employee,Employee,5,Post-BATNA,and 30 vacation days?,,multi_claude-sonnet-4.6_038_turn_11,3,3
+multi_claude-sonnet-4.6_038,multi_claude-sonnet-4.6_038_HR,HR,5,Post-BATNA,bonus isn't in the structure for this role — stock is your cash upside.,,multi_claude-sonnet-4.6_038_turn_12,1,2
+multi_claude-sonnet-4.6_038,multi_claude-sonnet-4.6_038_HR,HR,5,Post-BATNA,"vacation, i can do 15 days.",,multi_claude-sonnet-4.6_038_turn_12,2,2
+multi_claude-sonnet-4.6_038,multi_claude-sonnet-4.6_038_Employee,Employee,6,Post-BATNA,stock move is appreciated.,,multi_claude-sonnet-4.6_038_turn_13,1,3
+multi_claude-sonnet-4.6_038,multi_claude-sonnet-4.6_038_Employee,Employee,6,Post-BATNA,"full package: $110k salary, 20% bonus, $20k stock, 20 vacation days.",,multi_claude-sonnet-4.6_038_turn_13,2,3
+multi_claude-sonnet-4.6_038,multi_claude-sonnet-4.6_038_Employee,Employee,6,Post-BATNA,dropping from 30 to 20 on vacation — that's a real give from us.,,multi_claude-sonnet-4.6_038_turn_13,3,3
+multi_claude-sonnet-4.6_038,multi_claude-sonnet-4.6_038_HR,HR,6,Post-BATNA,bonus still can't happen — that's a hard no.,,multi_claude-sonnet-4.6_038_turn_14,1,3
+multi_claude-sonnet-4.6_038,multi_claude-sonnet-4.6_038_HR,HR,6,Post-BATNA,and 15 days is where i land on vacation.,,multi_claude-sonnet-4.6_038_turn_14,2,3
+multi_claude-sonnet-4.6_038,multi_claude-sonnet-4.6_038_HR,HR,6,Post-BATNA,"we're too far apart, so i'll have to pass.",,multi_claude-sonnet-4.6_038_turn_14,3,3
+multi_claude-sonnet-4.6_039,multi_claude-sonnet-4.6_039_Employee,Employee,0,Pre-BATNA,hey! good to finally connect with you.,,multi_claude-sonnet-4.6_039_turn_01,1,1
+multi_claude-sonnet-4.6_039,multi_claude-sonnet-4.6_039_HR,HR,0,Pre-BATNA,"hey! likewise, glad we could make this work.",,multi_claude-sonnet-4.6_039_turn_02,1,1
+multi_claude-sonnet-4.6_039,multi_claude-sonnet-4.6_039_Employee,Employee,1,Pre-BATNA,"before we get into numbers, what's the budget range you're working with for this role?",,multi_claude-sonnet-4.6_039_turn_03,1,1
+multi_claude-sonnet-4.6_039,multi_claude-sonnet-4.6_039_HR,HR,1,Pre-BATNA,we keep it flexible based on the right fit.,,multi_claude-sonnet-4.6_039_turn_04,1,2
+multi_claude-sonnet-4.6_039,multi_claude-sonnet-4.6_039_HR,HR,1,Pre-BATNA,what salary are you targeting?,,multi_claude-sonnet-4.6_039_turn_04,2,2
+multi_claude-sonnet-4.6_039,multi_claude-sonnet-4.6_039_Employee,Employee,2,Pre-BATNA,120k — in line with market for this level.,,multi_claude-sonnet-4.6_039_turn_05,1,1
+multi_claude-sonnet-4.6_039,multi_claude-sonnet-4.6_039_HR,HR,2,Pre-BATNA,120k's noted.,,multi_claude-sonnet-4.6_039_turn_06,1,3
+multi_claude-sonnet-4.6_039,multi_claude-sonnet-4.6_039_HR,HR,2,Pre-BATNA,we'd start at 110k — competitive for where we're landing on this role.,,multi_claude-sonnet-4.6_039_turn_06,2,3
+multi_claude-sonnet-4.6_039,multi_claude-sonnet-4.6_039_HR,HR,2,Pre-BATNA,let's dig into the full package from there.,,multi_claude-sonnet-4.6_039_turn_06,3,3
+multi_claude-sonnet-4.6_039,multi_claude-sonnet-4.6_039_Employee,Employee,3,Pre-BATNA,what are you thinking on bonus and stock options?,,multi_claude-sonnet-4.6_039_turn_07,1,1
+multi_claude-sonnet-4.6_039,multi_claude-sonnet-4.6_039_HR,HR,3,Pre-BATNA,"no bonus, but 20k in stock options.",,multi_claude-sonnet-4.6_039_turn_08,1,2
+multi_claude-sonnet-4.6_039,multi_claude-sonnet-4.6_039_HR,HR,3,Pre-BATNA,better long-term upside than cash now.,,multi_claude-sonnet-4.6_039_turn_08,2,2
+multi_claude-sonnet-4.6_039,multi_claude-sonnet-4.6_039_Employee,Employee,4,Post-BATNA,i get the equity angle.,,multi_claude-sonnet-4.6_039_turn_09,1,2
+multi_claude-sonnet-4.6_039,multi_claude-sonnet-4.6_039_Employee,Employee,4,Post-BATNA,but i need some guaranteed cash — 10% bonus and 30 vacation days.,,multi_claude-sonnet-4.6_039_turn_09,2,2
+multi_claude-sonnet-4.6_039,multi_claude-sonnet-4.6_039_HR,HR,4,Post-BATNA,fair — guaranteed cash matters.,,multi_claude-sonnet-4.6_039_turn_10,1,2
+multi_claude-sonnet-4.6_039,multi_claude-sonnet-4.6_039_HR,HR,4,Post-BATNA,we can do 5% bonus and 10 vacation days.,,multi_claude-sonnet-4.6_039_turn_10,2,2
+multi_claude-sonnet-4.6_039,multi_claude-sonnet-4.6_039_Employee,Employee,5,Post-BATNA,10% bonus and 30 vacation days.,,multi_claude-sonnet-4.6_039_turn_11,1,1
+multi_claude-sonnet-4.6_039,multi_claude-sonnet-4.6_039_HR,HR,5,Post-BATNA,any flexibility on the 30 days?,,multi_claude-sonnet-4.6_039_turn_12,1,1
+multi_claude-sonnet-4.6_039,multi_claude-sonnet-4.6_039_Employee,Employee,6,Post-BATNA,"yeah, we can come down to 25 days.",,multi_claude-sonnet-4.6_039_turn_13,1,3
+multi_claude-sonnet-4.6_039,multi_claude-sonnet-4.6_039_Employee,Employee,6,Post-BATNA,"120k salary, 10% bonus, 20k stock, 25 vacation days.",,multi_claude-sonnet-4.6_039_turn_13,2,3
+multi_claude-sonnet-4.6_039,multi_claude-sonnet-4.6_039_Employee,Employee,6,Post-BATNA,that's where i land.,,multi_claude-sonnet-4.6_039_turn_13,3,3
+multi_claude-sonnet-4.6_039,multi_claude-sonnet-4.6_039_HR,HR,6,Post-BATNA,"appreciate the conversation, genuinely.",,multi_claude-sonnet-4.6_039_turn_14,1,2
+multi_claude-sonnet-4.6_039,multi_claude-sonnet-4.6_039_HR,HR,6,Post-BATNA,gap on salary and bonus is too wide for us to close — we'll have to pass.,,multi_claude-sonnet-4.6_039_turn_14,2,2
+multi_claude-sonnet-4.6_040,multi_claude-sonnet-4.6_040_HR,HR,0,Pre-BATNA,hey! thanks for making time today.,,multi_claude-sonnet-4.6_040_turn_01,1,1
+multi_claude-sonnet-4.6_040,multi_claude-sonnet-4.6_040_Employee,Employee,0,Pre-BATNA,"hey! of course, happy to be here.",,multi_claude-sonnet-4.6_040_turn_02,1,1
+multi_claude-sonnet-4.6_040,multi_claude-sonnet-4.6_040_HR,HR,1,Pre-BATNA,"so, what matters most to you going in — salary, equity, bonus, time off?",,multi_claude-sonnet-4.6_040_turn_03,1,1
+multi_claude-sonnet-4.6_040,multi_claude-sonnet-4.6_040_Employee,Employee,1,Pre-BATNA,"salary is the top priority, then equity and bonus pretty close behind.",,multi_claude-sonnet-4.6_040_turn_04,1,2
+multi_claude-sonnet-4.6_040,multi_claude-sonnet-4.6_040_Employee,Employee,1,Pre-BATNA,what flexibility do you have on base?,,multi_claude-sonnet-4.6_040_turn_04,2,2
+multi_claude-sonnet-4.6_040,multi_claude-sonnet-4.6_040_HR,HR,2,Pre-BATNA,80k base — we're anchored there.,,multi_claude-sonnet-4.6_040_turn_05,1,2
+multi_claude-sonnet-4.6_040,multi_claude-sonnet-4.6_040_HR,HR,2,Pre-BATNA,"but we can do 20k in stock options, which is our ceiling on equity.",,multi_claude-sonnet-4.6_040_turn_05,2,2
+multi_claude-sonnet-4.6_040,multi_claude-sonnet-4.6_040_Employee,Employee,2,Pre-BATNA,"What about 120k salary, 20% bonus?",,multi_claude-sonnet-4.6_040_turn_06,1,1
+multi_claude-sonnet-4.6_040,multi_claude-sonnet-4.6_040_HR,HR,3,Pre-BATNA,120k and 20% bonus is a big jump from where we are.,,multi_claude-sonnet-4.6_040_turn_07,1,2
+multi_claude-sonnet-4.6_040,multi_claude-sonnet-4.6_040_HR,HR,3,Pre-BATNA,"we're at 80k salary, 0% bonus — and the 20k stock is real upside already on the table.",,multi_claude-sonnet-4.6_040_turn_07,2,2
+multi_claude-sonnet-4.6_040,multi_claude-sonnet-4.6_040_Employee,Employee,3,Pre-BATNA,Let's talk about salary next.,,multi_claude-sonnet-4.6_040_turn_08,1,1
+multi_claude-sonnet-4.6_040,multi_claude-sonnet-4.6_040_HR,HR,4,Post-BATNA,we can move to 90k.,,multi_claude-sonnet-4.6_040_turn_09,1,1
+multi_claude-sonnet-4.6_040,multi_claude-sonnet-4.6_040_Employee,Employee,4,Post-BATNA,appreciate the move.,,multi_claude-sonnet-4.6_040_turn_10,1,2
+multi_claude-sonnet-4.6_040,multi_claude-sonnet-4.6_040_Employee,Employee,4,Post-BATNA,i'm at 110k.,,multi_claude-sonnet-4.6_040_turn_10,2,2
+multi_claude-sonnet-4.6_040,multi_claude-sonnet-4.6_040_HR,HR,5,Post-BATNA,100k salary.,,multi_claude-sonnet-4.6_040_turn_11,1,2
+multi_claude-sonnet-4.6_040,multi_claude-sonnet-4.6_040_HR,HR,5,Post-BATNA,"on bonus, we're at 0% — what would close this for you?",,multi_claude-sonnet-4.6_040_turn_11,2,2
+multi_claude-sonnet-4.6_040,multi_claude-sonnet-4.6_040_Employee,Employee,5,Post-BATNA,110k salary.,,multi_claude-sonnet-4.6_040_turn_12,1,2
+multi_claude-sonnet-4.6_040,multi_claude-sonnet-4.6_040_Employee,Employee,5,Post-BATNA,"10% bonus — i came down from 20%, your turn to move up.",,multi_claude-sonnet-4.6_040_turn_12,2,2
+multi_claude-sonnet-4.6_040,multi_claude-sonnet-4.6_040_HR,HR,6,Post-BATNA,"110k salary, 10% bonus.",,multi_claude-sonnet-4.6_040_turn_13,1,3
+multi_claude-sonnet-4.6_040,multi_claude-sonnet-4.6_040_HR,HR,6,Post-BATNA,"20k stock options, 10 vacation days.",,multi_claude-sonnet-4.6_040_turn_13,2,3
+multi_claude-sonnet-4.6_040,multi_claude-sonnet-4.6_040_HR,HR,6,Post-BATNA,that's the full package.,,multi_claude-sonnet-4.6_040_turn_13,3,3
+multi_claude-sonnet-4.6_040,multi_claude-sonnet-4.6_040_Employee,Employee,6,Post-BATNA,"appreciate the offer, but 10 vacation days doesn't work for me.",,multi_claude-sonnet-4.6_040_turn_14,1,2
+multi_claude-sonnet-4.6_040,multi_claude-sonnet-4.6_040_Employee,Employee,6,Post-BATNA,can't make this deal at that level.,,multi_claude-sonnet-4.6_040_turn_14,2,2
+multi_claude-sonnet-4.6_041,multi_claude-sonnet-4.6_041_HR,HR,0,Pre-BATNA,hey! thanks for making time today.,,multi_claude-sonnet-4.6_041_turn_01,1,1
+multi_claude-sonnet-4.6_041,multi_claude-sonnet-4.6_041_Employee,Employee,0,Pre-BATNA,"hey! of course, happy to be here",,multi_claude-sonnet-4.6_041_turn_02,1,1
+multi_claude-sonnet-4.6_041,multi_claude-sonnet-4.6_041_HR,HR,1,Pre-BATNA,"so, what matters most to you — salary, bonus, equity, or time off?",,multi_claude-sonnet-4.6_041_turn_03,1,1
+multi_claude-sonnet-4.6_041,multi_claude-sonnet-4.6_041_Employee,Employee,1,Pre-BATNA,salary's definitely at the top.,,multi_claude-sonnet-4.6_041_turn_04,1,2
+multi_claude-sonnet-4.6_041,multi_claude-sonnet-4.6_041_Employee,Employee,1,Pre-BATNA,what does your budget range look like there?,,multi_claude-sonnet-4.6_041_turn_04,2,2
+multi_claude-sonnet-4.6_041,multi_claude-sonnet-4.6_041_HR,HR,2,Pre-BATNA,we're starting at 90k.,,multi_claude-sonnet-4.6_041_turn_05,1,2
+multi_claude-sonnet-4.6_041,multi_claude-sonnet-4.6_041_HR,HR,2,Pre-BATNA,there's room to build a strong package around that.,,multi_claude-sonnet-4.6_041_turn_05,2,2
+multi_claude-sonnet-4.6_041,multi_claude-sonnet-4.6_041_Employee,Employee,2,Pre-BATNA,90k doesn't work for me.,,multi_claude-sonnet-4.6_041_turn_06,1,2
+multi_claude-sonnet-4.6_041,multi_claude-sonnet-4.6_041_Employee,Employee,2,Pre-BATNA,i need 120k base to make this happen.,,multi_claude-sonnet-4.6_041_turn_06,2,2
+multi_claude-sonnet-4.6_041,multi_claude-sonnet-4.6_041_HR,HR,3,Pre-BATNA,we can do 110k.,,multi_claude-sonnet-4.6_041_turn_07,1,2
+multi_claude-sonnet-4.6_041,multi_claude-sonnet-4.6_041_HR,HR,3,Pre-BATNA,full package will add to that.,,multi_claude-sonnet-4.6_041_turn_07,2,2
+multi_claude-sonnet-4.6_041,multi_claude-sonnet-4.6_041_Employee,Employee,3,Pre-BATNA,still at 120k.,,multi_claude-sonnet-4.6_041_turn_08,1,2
+multi_claude-sonnet-4.6_041,multi_claude-sonnet-4.6_041_Employee,Employee,3,Pre-BATNA,what's the bonus structure?,,multi_claude-sonnet-4.6_041_turn_08,2,2
+multi_claude-sonnet-4.6_041,multi_claude-sonnet-4.6_041_HR,HR,4,Post-BATNA,no bonus — we structure comp around base and equity instead.,,multi_claude-sonnet-4.6_041_turn_09,1,1
+multi_claude-sonnet-4.6_041,multi_claude-sonnet-4.6_041_Employee,Employee,4,Post-BATNA,"got it, makes sense.",,multi_claude-sonnet-4.6_041_turn_10,1,2
+multi_claude-sonnet-4.6_041,multi_claude-sonnet-4.6_041_Employee,Employee,4,Post-BATNA,in that case — 20k stock options and 30 vacation days?,,multi_claude-sonnet-4.6_041_turn_10,2,2
+multi_claude-sonnet-4.6_041,multi_claude-sonnet-4.6_041_HR,HR,5,Post-BATNA,"20k options, done.",,multi_claude-sonnet-4.6_041_turn_11,1,2
+multi_claude-sonnet-4.6_041,multi_claude-sonnet-4.6_041_HR,HR,5,Post-BATNA,vacation days have to stay at 10 — that's standard policy.,,multi_claude-sonnet-4.6_041_turn_11,2,2
+multi_claude-sonnet-4.6_041,multi_claude-sonnet-4.6_041_Employee,Employee,5,Post-BATNA,understood on vacation days.,,multi_claude-sonnet-4.6_041_turn_12,1,2
+multi_claude-sonnet-4.6_041,multi_claude-sonnet-4.6_041_Employee,Employee,5,Post-BATNA,can we look at 120k salary and a 10% bonus?,,multi_claude-sonnet-4.6_041_turn_12,2,2
+multi_claude-sonnet-4.6_041,multi_claude-sonnet-4.6_041_HR,HR,6,Post-BATNA,"120k salary, yes.",,multi_claude-sonnet-4.6_041_turn_13,1,2
+multi_claude-sonnet-4.6_041,multi_claude-sonnet-4.6_041_HR,HR,6,Post-BATNA,bonus i can do 5% — splitting the difference to close this out.,,multi_claude-sonnet-4.6_041_turn_13,2,2
+multi_claude-sonnet-4.6_041,multi_claude-sonnet-4.6_041_Employee,Employee,6,Post-BATNA,can't make 5% work.,,multi_claude-sonnet-4.6_041_turn_14,1,2
+multi_claude-sonnet-4.6_041,multi_claude-sonnet-4.6_041_Employee,Employee,6,Post-BATNA,i'm out.,,multi_claude-sonnet-4.6_041_turn_14,2,2
+multi_claude-sonnet-4.6_042,multi_claude-sonnet-4.6_042_Employee,Employee,0,Pre-BATNA,hey! thanks for making time for this,,multi_claude-sonnet-4.6_042_turn_01,1,1
+multi_claude-sonnet-4.6_042,multi_claude-sonnet-4.6_042_HR,HR,0,Pre-BATNA,of course! happy to be here,,multi_claude-sonnet-4.6_042_turn_02,1,1
+multi_claude-sonnet-4.6_042,multi_claude-sonnet-4.6_042_Employee,Employee,1,Pre-BATNA,so i've done some market research and want to put my full ask on the table.,,multi_claude-sonnet-4.6_042_turn_03,1,2
+multi_claude-sonnet-4.6_042,multi_claude-sonnet-4.6_042_Employee,Employee,1,Pre-BATNA,"120k salary, 20% bonus, 20k in stock options, and 30 vacation days.",,multi_claude-sonnet-4.6_042_turn_03,2,2
+multi_claude-sonnet-4.6_042,multi_claude-sonnet-4.6_042_HR,HR,1,Pre-BATNA,appreciate the research.,,multi_claude-sonnet-4.6_042_turn_04,1,2
+multi_claude-sonnet-4.6_042,multi_claude-sonnet-4.6_042_HR,HR,1,Pre-BATNA,we're pretty far apart on salary and vacation — we're at 80k and 10 days to start.,,multi_claude-sonnet-4.6_042_turn_04,2,2
+multi_claude-sonnet-4.6_042,multi_claude-sonnet-4.6_042_Employee,Employee,2,Pre-BATNA,noticed you didn't mention bonus or stock options — where does the company stand on those?,,multi_claude-sonnet-4.6_042_turn_05,1,1
+multi_claude-sonnet-4.6_042,multi_claude-sonnet-4.6_042_HR,HR,2,Pre-BATNA,no bonus budgeted for this role.,,multi_claude-sonnet-4.6_042_turn_06,1,2
+multi_claude-sonnet-4.6_042,multi_claude-sonnet-4.6_042_HR,HR,2,Pre-BATNA,stock options we can do the full 20k.,,multi_claude-sonnet-4.6_042_turn_06,2,2
+multi_claude-sonnet-4.6_042,multi_claude-sonnet-4.6_042_Employee,Employee,3,Pre-BATNA,great on the stock options.,,multi_claude-sonnet-4.6_042_turn_07,1,2
+multi_claude-sonnet-4.6_042,multi_claude-sonnet-4.6_042_Employee,Employee,3,Pre-BATNA,"on bonus — i'd come down to 15%, and let's lock in 30 vacation days.",,multi_claude-sonnet-4.6_042_turn_07,2,2
+multi_claude-sonnet-4.6_042,multi_claude-sonnet-4.6_042_HR,HR,3,Pre-BATNA,good movement on bonus.,,multi_claude-sonnet-4.6_042_turn_08,1,2
+multi_claude-sonnet-4.6_042,multi_claude-sonnet-4.6_042_HR,HR,3,Pre-BATNA,"we can do 5% bonus, but vacation days we're at 10.",,multi_claude-sonnet-4.6_042_turn_08,2,2
+multi_claude-sonnet-4.6_042,multi_claude-sonnet-4.6_042_Employee,Employee,4,Post-BATNA,10% bonus works for me.,,multi_claude-sonnet-4.6_042_turn_09,1,2
+multi_claude-sonnet-4.6_042,multi_claude-sonnet-4.6_042_Employee,Employee,4,Post-BATNA,vacation days though — 30 is a firm need.,,multi_claude-sonnet-4.6_042_turn_09,2,2
+multi_claude-sonnet-4.6_042,multi_claude-sonnet-4.6_042_HR,HR,4,Post-BATNA,appreciate you landing on 10% bonus.,,multi_claude-sonnet-4.6_042_turn_10,1,3
+multi_claude-sonnet-4.6_042,multi_claude-sonnet-4.6_042_HR,HR,4,Post-BATNA,"vacation days — we can do 15, up from our 10.",,multi_claude-sonnet-4.6_042_turn_10,2,3
+multi_claude-sonnet-4.6_042,multi_claude-sonnet-4.6_042_HR,HR,4,Post-BATNA,salary stays at 80k.,,multi_claude-sonnet-4.6_042_turn_10,3,3
+multi_claude-sonnet-4.6_042,multi_claude-sonnet-4.6_042_Employee,Employee,5,Post-BATNA,80k is way off.,,multi_claude-sonnet-4.6_042_turn_11,1,2
+multi_claude-sonnet-4.6_042,multi_claude-sonnet-4.6_042_Employee,Employee,5,Post-BATNA,"i can do 120k salary, and i'll come down to 25 vacation days — meeting you halfway there.",,multi_claude-sonnet-4.6_042_turn_11,2,2
+multi_claude-sonnet-4.6_042,multi_claude-sonnet-4.6_042_HR,HR,5,Post-BATNA,25 to 15 is a bigger gap than halfway.,,multi_claude-sonnet-4.6_042_turn_12,1,3
+multi_claude-sonnet-4.6_042,multi_claude-sonnet-4.6_042_HR,HR,5,Post-BATNA,we can do 90k salary.,,multi_claude-sonnet-4.6_042_turn_12,2,3
+multi_claude-sonnet-4.6_042,multi_claude-sonnet-4.6_042_HR,HR,5,Post-BATNA,"vacation days, we're at 15.",,multi_claude-sonnet-4.6_042_turn_12,3,3
+multi_claude-sonnet-4.6_042,multi_claude-sonnet-4.6_042_Employee,Employee,6,Post-BATNA,fine on 15 days.,,multi_claude-sonnet-4.6_042_turn_13,1,2
+multi_claude-sonnet-4.6_042,multi_claude-sonnet-4.6_042_Employee,Employee,6,Post-BATNA,salary needs to be 120k.,,multi_claude-sonnet-4.6_042_turn_13,2,2
+multi_claude-sonnet-4.6_042,multi_claude-sonnet-4.6_042_HR,HR,6,Post-BATNA,can't get to 120k.,,multi_claude-sonnet-4.6_042_turn_14,1,2
+multi_claude-sonnet-4.6_042,multi_claude-sonnet-4.6_042_HR,HR,6,Post-BATNA,we're done here.,,multi_claude-sonnet-4.6_042_turn_14,2,2
+multi_claude-sonnet-4.6_043,multi_claude-sonnet-4.6_043_HR,HR,0,Pre-BATNA,hey! thanks for making time today.,,multi_claude-sonnet-4.6_043_turn_01,1,1
+multi_claude-sonnet-4.6_043,multi_claude-sonnet-4.6_043_Employee,Employee,0,Pre-BATNA,"hey! of course, happy to be here.",,multi_claude-sonnet-4.6_043_turn_02,1,1
+multi_claude-sonnet-4.6_043,multi_claude-sonnet-4.6_043_HR,HR,1,Pre-BATNA,"so, what's most important to you — salary, equity, time off?",,multi_claude-sonnet-4.6_043_turn_03,1,1
+multi_claude-sonnet-4.6_043,multi_claude-sonnet-4.6_043_Employee,Employee,1,Pre-BATNA,good question — honestly it depends on the range we're working with.,,multi_claude-sonnet-4.6_043_turn_04,1,2
+multi_claude-sonnet-4.6_043,multi_claude-sonnet-4.6_043_Employee,Employee,1,Pre-BATNA,what's the budget look like on salary and bonus?,,multi_claude-sonnet-4.6_043_turn_04,2,2
+multi_claude-sonnet-4.6_043,multi_claude-sonnet-4.6_043_HR,HR,2,Pre-BATNA,90k salary to start.,,multi_claude-sonnet-4.6_043_turn_05,1,2
+multi_claude-sonnet-4.6_043,multi_claude-sonnet-4.6_043_HR,HR,2,Pre-BATNA,"we lean toward equity upside rather than cash bonus, so bonus would be 0 — what's your reaction?",,multi_claude-sonnet-4.6_043_turn_05,2,2
+multi_claude-sonnet-4.6_043,multi_claude-sonnet-4.6_043_Employee,Employee,2,Pre-BATNA,"What about 120k salary, 20k stock?",,multi_claude-sonnet-4.6_043_turn_06,1,1
+multi_claude-sonnet-4.6_043,multi_claude-sonnet-4.6_043_HR,HR,3,Pre-BATNA,20k stock works.,,multi_claude-sonnet-4.6_043_turn_07,1,2
+multi_claude-sonnet-4.6_043,multi_claude-sonnet-4.6_043_HR,HR,3,Pre-BATNA,salary's a real gap though — 90k is where we are.,,multi_claude-sonnet-4.6_043_turn_07,2,2
+multi_claude-sonnet-4.6_043,multi_claude-sonnet-4.6_043_Employee,Employee,3,Pre-BATNA,"yeah, 30k is a big gap.",,multi_claude-sonnet-4.6_043_turn_08,1,2
+multi_claude-sonnet-4.6_043,multi_claude-sonnet-4.6_043_Employee,Employee,3,Pre-BATNA,120k with a 10% bonus — keeps base high but gives you flexibility on total comp.,,multi_claude-sonnet-4.6_043_turn_08,2,2
+multi_claude-sonnet-4.6_043,multi_claude-sonnet-4.6_043_HR,HR,4,Post-BATNA,moving to 100k salary.,,multi_claude-sonnet-4.6_043_turn_09,1,2
+multi_claude-sonnet-4.6_043,multi_claude-sonnet-4.6_043_HR,HR,4,Post-BATNA,still 0 on bonus — we'd rather keep value in the equity side.,,multi_claude-sonnet-4.6_043_turn_09,2,2
+multi_claude-sonnet-4.6_043,multi_claude-sonnet-4.6_043_Employee,Employee,4,Post-BATNA,salary move helps.,,multi_claude-sonnet-4.6_043_turn_10,1,3
+multi_claude-sonnet-4.6_043,multi_claude-sonnet-4.6_043_Employee,Employee,4,Post-BATNA,"bonus doesn't have to be big — 10% ties pay to performance, not just cost.",,multi_claude-sonnet-4.6_043_turn_10,2,3
+multi_claude-sonnet-4.6_043,multi_claude-sonnet-4.6_043_Employee,Employee,4,Post-BATNA,"110k salary, 10% bonus?",,multi_claude-sonnet-4.6_043_turn_10,3,3
+multi_claude-sonnet-4.6_043,multi_claude-sonnet-4.6_043_HR,HR,5,Post-BATNA,"110k, yes.",,multi_claude-sonnet-4.6_043_turn_11,1,3
+multi_claude-sonnet-4.6_043,multi_claude-sonnet-4.6_043_HR,HR,5,Post-BATNA,bonus stays at 0 for now.,,multi_claude-sonnet-4.6_043_turn_11,2,3
+multi_claude-sonnet-4.6_043,multi_claude-sonnet-4.6_043_HR,HR,5,Post-BATNA,what are you thinking on vacation days?,,multi_claude-sonnet-4.6_043_turn_11,3,3
+multi_claude-sonnet-4.6_043,multi_claude-sonnet-4.6_043_Employee,Employee,5,Post-BATNA,30 days.,,multi_claude-sonnet-4.6_043_turn_12,1,2
+multi_claude-sonnet-4.6_043,multi_claude-sonnet-4.6_043_Employee,Employee,5,Post-BATNA,that plus 10% bonus and we're done.,,multi_claude-sonnet-4.6_043_turn_12,2,2
+multi_claude-sonnet-4.6_043,multi_claude-sonnet-4.6_043_HR,HR,6,Post-BATNA,"10% bonus, yes.",,multi_claude-sonnet-4.6_043_turn_13,1,3
+multi_claude-sonnet-4.6_043,multi_claude-sonnet-4.6_043_HR,HR,6,Post-BATNA,30 vacation days isn't doable — 15 is where we land.,,multi_claude-sonnet-4.6_043_turn_13,2,3
+multi_claude-sonnet-4.6_043,multi_claude-sonnet-4.6_043_HR,HR,6,Post-BATNA,"110k salary, 10% bonus, 20k stock, 15 vacation days — that's our close.",,multi_claude-sonnet-4.6_043_turn_13,3,3
+multi_claude-sonnet-4.6_043,multi_claude-sonnet-4.6_043_Employee,Employee,6,Post-BATNA,"i appreciate the offer, but 15 days doesn't work for me.",,multi_claude-sonnet-4.6_043_turn_14,1,2
+multi_claude-sonnet-4.6_043,multi_claude-sonnet-4.6_043_Employee,Employee,6,Post-BATNA,i'll have to pass.,,multi_claude-sonnet-4.6_043_turn_14,2,2
+multi_claude-sonnet-4.6_044,multi_claude-sonnet-4.6_044_HR,HR,0,Pre-BATNA,hey! thanks for making time today.,,multi_claude-sonnet-4.6_044_turn_01,1,1
+multi_claude-sonnet-4.6_044,multi_claude-sonnet-4.6_044_Employee,Employee,0,Pre-BATNA,"hey! of course, happy to be here",,multi_claude-sonnet-4.6_044_turn_02,1,1
+multi_claude-sonnet-4.6_044,multi_claude-sonnet-4.6_044_HR,HR,1,Pre-BATNA,"so, what's most important to you in the package — salary, equity, time off?",,multi_claude-sonnet-4.6_044_turn_03,1,1
+multi_claude-sonnet-4.6_044,multi_claude-sonnet-4.6_044_Employee,Employee,1,Pre-BATNA,"base salary is the top priority, then upside — bonus or equity.",,multi_claude-sonnet-4.6_044_turn_04,1,2
+multi_claude-sonnet-4.6_044,multi_claude-sonnet-4.6_044_Employee,Employee,1,Pre-BATNA,what kind of flexibility do you usually have on comp?,,multi_claude-sonnet-4.6_044_turn_04,2,2
+multi_claude-sonnet-4.6_044,multi_claude-sonnet-4.6_044_HR,HR,2,Pre-BATNA,"depends on the person, honestly.",,multi_claude-sonnet-4.6_044_turn_05,1,2
+multi_claude-sonnet-4.6_044,multi_claude-sonnet-4.6_044_HR,HR,2,Pre-BATNA,do you lean more toward annual cash bonus or long-term equity upside?,,multi_claude-sonnet-4.6_044_turn_05,2,2
+multi_claude-sonnet-4.6_044,multi_claude-sonnet-4.6_044_Employee,Employee,2,Pre-BATNA,"both matter, but i lean equity for the long-term upside.",,multi_claude-sonnet-4.6_044_turn_06,1,2
+multi_claude-sonnet-4.6_044,multi_claude-sonnet-4.6_044_Employee,Employee,2,Pre-BATNA,what's the typical grant range for this role?,,multi_claude-sonnet-4.6_044_turn_06,2,2
+multi_claude-sonnet-4.6_044,multi_claude-sonnet-4.6_044_HR,HR,3,Pre-BATNA,we can go strong on equity — 20k in stock options.,,multi_claude-sonnet-4.6_044_turn_07,1,2
+multi_claude-sonnet-4.6_044,multi_claude-sonnet-4.6_044_HR,HR,3,Pre-BATNA,pairing that with 80k base salary.,,multi_claude-sonnet-4.6_044_turn_07,2,2
+multi_claude-sonnet-4.6_044,multi_claude-sonnet-4.6_044_Employee,Employee,3,Pre-BATNA,"What about 110k salary, 20% bonus?",,multi_claude-sonnet-4.6_044_turn_08,1,1
+multi_claude-sonnet-4.6_044,multi_claude-sonnet-4.6_044_HR,HR,4,Post-BATNA,80k salary is firm.,,multi_claude-sonnet-4.6_044_turn_09,1,2
+multi_claude-sonnet-4.6_044,multi_claude-sonnet-4.6_044_HR,HR,4,Post-BATNA,but i can do 10% bonus — plus that 20k options package is real upside.,,multi_claude-sonnet-4.6_044_turn_09,2,2
+multi_claude-sonnet-4.6_044,multi_claude-sonnet-4.6_044_Employee,Employee,4,Post-BATNA,i hear you on the bonus and options.,,multi_claude-sonnet-4.6_044_turn_10,1,2
+multi_claude-sonnet-4.6_044,multi_claude-sonnet-4.6_044_Employee,Employee,4,Post-BATNA,can we land at 110k salary and 30 vacation days?,,multi_claude-sonnet-4.6_044_turn_10,2,2
+multi_claude-sonnet-4.6_044,multi_claude-sonnet-4.6_044_HR,HR,5,Post-BATNA,"What about 80k salary, 15 vacation days?",,multi_claude-sonnet-4.6_044_turn_11,1,1
+multi_claude-sonnet-4.6_044,multi_claude-sonnet-4.6_044_Employee,Employee,5,Post-BATNA,80k and 15 days are both non-starters for me.,,multi_claude-sonnet-4.6_044_turn_12,1,3
+multi_claude-sonnet-4.6_044,multi_claude-sonnet-4.6_044_Employee,Employee,5,Post-BATNA,we're aligned on 20k options and 10% bonus — i'll drop my bonus ask entirely.,,multi_claude-sonnet-4.6_044_turn_12,2,3
+multi_claude-sonnet-4.6_044,multi_claude-sonnet-4.6_044_Employee,Employee,5,Post-BATNA,"110k salary, 30 vacation days.",,multi_claude-sonnet-4.6_044_turn_12,3,3
+multi_claude-sonnet-4.6_044,multi_claude-sonnet-4.6_044_HR,HR,6,Post-BATNA,i appreciate you dropping the bonus ask.,,multi_claude-sonnet-4.6_044_turn_13,1,3
+multi_claude-sonnet-4.6_044,multi_claude-sonnet-4.6_044_HR,HR,6,Post-BATNA,but 110k and 30 days — we can't get there.,,multi_claude-sonnet-4.6_044_turn_13,2,3
+multi_claude-sonnet-4.6_044,multi_claude-sonnet-4.6_044_HR,HR,6,Post-BATNA,the gap on salary and vacation is too wide to close. i have to step away.,,multi_claude-sonnet-4.6_044_turn_13,3,3
+multi_claude-sonnet-4.6_045,multi_claude-sonnet-4.6_045_HR,HR,0,Pre-BATNA,hey! thanks for making time today.,,multi_claude-sonnet-4.6_045_turn_01,1,1
+multi_claude-sonnet-4.6_045,multi_claude-sonnet-4.6_045_Employee,Employee,0,Pre-BATNA,"hey! of course, happy to be here.",,multi_claude-sonnet-4.6_045_turn_02,1,1
+multi_claude-sonnet-4.6_045,multi_claude-sonnet-4.6_045_HR,HR,1,Pre-BATNA,"what matters most to you in this package — salary, bonus, something else?",,multi_claude-sonnet-4.6_045_turn_03,1,1
+multi_claude-sonnet-4.6_045,multi_claude-sonnet-4.6_045_Employee,Employee,1,Pre-BATNA,salary and bonus are the top priorities for me.,,multi_claude-sonnet-4.6_045_turn_04,1,2
+multi_claude-sonnet-4.6_045,multi_claude-sonnet-4.6_045_Employee,Employee,1,Pre-BATNA,what flexibility do you have on the overall package?,,multi_claude-sonnet-4.6_045_turn_04,2,2
+multi_claude-sonnet-4.6_045,multi_claude-sonnet-4.6_045_HR,HR,2,Pre-BATNA,"salary, we're at $90k.",,multi_claude-sonnet-4.6_045_turn_05,1,2
+multi_claude-sonnet-4.6_045,multi_claude-sonnet-4.6_045_HR,HR,2,Pre-BATNA,"on bonus, we're starting at 0% — but that's not the full picture yet.",,multi_claude-sonnet-4.6_045_turn_05,2,2
+multi_claude-sonnet-4.6_045,multi_claude-sonnet-4.6_045_Employee,Employee,2,Pre-BATNA,"What about 120k salary, 20% bonus?",,multi_claude-sonnet-4.6_045_turn_06,1,1
+multi_claude-sonnet-4.6_045,multi_claude-sonnet-4.6_045_HR,HR,3,Pre-BATNA,"100k salary, 0% bonus.",,multi_claude-sonnet-4.6_045_turn_07,1,2
+multi_claude-sonnet-4.6_045,multi_claude-sonnet-4.6_045_HR,HR,3,Pre-BATNA,stock options and vacation still on the table.,,multi_claude-sonnet-4.6_045_turn_07,2,2
+multi_claude-sonnet-4.6_045,multi_claude-sonnet-4.6_045_Employee,Employee,3,Pre-BATNA,"ok, let's put the full picture on the table.",,multi_claude-sonnet-4.6_045_turn_08,1,2
+multi_claude-sonnet-4.6_045,multi_claude-sonnet-4.6_045_Employee,Employee,3,Pre-BATNA,"120k salary, 20% bonus, 20k stock options, 30 vacation days.",,multi_claude-sonnet-4.6_045_turn_08,2,2
+multi_claude-sonnet-4.6_045,multi_claude-sonnet-4.6_045_HR,HR,4,Post-BATNA,"100k salary, 0% bonus, 20k stock options, 10 vacation days.",,multi_claude-sonnet-4.6_045_turn_09,1,2
+multi_claude-sonnet-4.6_045,multi_claude-sonnet-4.6_045_HR,HR,4,Post-BATNA,we can meet you on equity — cash comp and PTO are tighter.,,multi_claude-sonnet-4.6_045_turn_09,2,2
+multi_claude-sonnet-4.6_045,multi_claude-sonnet-4.6_045_Employee,Employee,4,Post-BATNA,"ok, equity's settled then.",,multi_claude-sonnet-4.6_045_turn_10,1,2
+multi_claude-sonnet-4.6_045,multi_claude-sonnet-4.6_045_Employee,Employee,4,Post-BATNA,"110k salary, 30 vacation days — meeting you partway on cash.",,multi_claude-sonnet-4.6_045_turn_10,2,2
+multi_claude-sonnet-4.6_045,multi_claude-sonnet-4.6_045_HR,HR,5,Post-BATNA,110k salary works.,,multi_claude-sonnet-4.6_045_turn_11,1,2
+multi_claude-sonnet-4.6_045,multi_claude-sonnet-4.6_045_HR,HR,5,Post-BATNA,still at 10 vacation days — that's the sticking point.,,multi_claude-sonnet-4.6_045_turn_11,2,2
+multi_claude-sonnet-4.6_045,multi_claude-sonnet-4.6_045_Employee,Employee,5,Post-BATNA,"ok, i'll move significantly on PTO.",,multi_claude-sonnet-4.6_045_turn_12,1,2
+multi_claude-sonnet-4.6_045,multi_claude-sonnet-4.6_045_Employee,Employee,5,Post-BATNA,20% bonus + 15 vacation days — we split the difference on both.,,multi_claude-sonnet-4.6_045_turn_12,2,2
+multi_claude-sonnet-4.6_045,multi_claude-sonnet-4.6_045_HR,HR,6,Post-BATNA,appreciate the PTO move — that's real.,,multi_claude-sonnet-4.6_045_turn_13,1,3
+multi_claude-sonnet-4.6_045,multi_claude-sonnet-4.6_045_HR,HR,6,Post-BATNA,"but bonus needs to stay at 5%, and PTO at 10 days.",,multi_claude-sonnet-4.6_045_turn_13,2,3
+multi_claude-sonnet-4.6_045,multi_claude-sonnet-4.6_045_HR,HR,6,Post-BATNA,that's the best we can do given where salary landed.,,multi_claude-sonnet-4.6_045_turn_13,3,3
+multi_claude-sonnet-4.6_045,multi_claude-sonnet-4.6_045_Employee,Employee,6,Post-BATNA,no deal.,,multi_claude-sonnet-4.6_045_turn_14,1,1
+multi_claude-sonnet-4.6_046,multi_claude-sonnet-4.6_046_Employee,Employee,0,Pre-BATNA,hey! hope you're having a good day so far,,multi_claude-sonnet-4.6_046_turn_01,1,1
+multi_claude-sonnet-4.6_046,multi_claude-sonnet-4.6_046_HR,HR,0,Pre-BATNA,"hey! doing well, thanks for asking 😊",,multi_claude-sonnet-4.6_046_turn_02,1,1
+multi_claude-sonnet-4.6_046,multi_claude-sonnet-4.6_046_Employee,Employee,1,Pre-BATNA,glad to hear it!,,multi_claude-sonnet-4.6_046_turn_03,1,2
+multi_claude-sonnet-4.6_046,multi_claude-sonnet-4.6_046_Employee,Employee,1,Pre-BATNA,"so, where does the company typically like to start on salary for this role?",,multi_claude-sonnet-4.6_046_turn_03,2,2
+multi_claude-sonnet-4.6_046,multi_claude-sonnet-4.6_046_HR,HR,1,Pre-BATNA,we typically start at $80k for this level.,,multi_claude-sonnet-4.6_046_turn_04,1,2
+multi_claude-sonnet-4.6_046,multi_claude-sonnet-4.6_046_HR,HR,1,Pre-BATNA,"and total comp has other pieces too — bonus, equity, vacation — so there's more to the picture.",,multi_claude-sonnet-4.6_046_turn_04,2,2
+multi_claude-sonnet-4.6_046,multi_claude-sonnet-4.6_046_Employee,Employee,2,Pre-BATNA,"totally, I'm thinking about the full picture too.",,multi_claude-sonnet-4.6_046_turn_05,1,2
+multi_claude-sonnet-4.6_046,multi_claude-sonnet-4.6_046_Employee,Employee,2,Pre-BATNA,"on salary I'm looking at $110k, and a 20% bonus target.",,multi_claude-sonnet-4.6_046_turn_05,2,2
+multi_claude-sonnet-4.6_046,multi_claude-sonnet-4.6_046_HR,HR,2,Pre-BATNA,those are ambitious numbers.,,multi_claude-sonnet-4.6_046_turn_06,1,2
+multi_claude-sonnet-4.6_046,multi_claude-sonnet-4.6_046_HR,HR,2,Pre-BATNA,"on bonus, we're actually at 0% cash — but we do 20k in stock options, which has real upside.",,multi_claude-sonnet-4.6_046_turn_06,2,2
+multi_claude-sonnet-4.6_046,multi_claude-sonnet-4.6_046_Employee,Employee,3,Pre-BATNA,"stock options are interesting, but I still need cash bonus exposure.",,multi_claude-sonnet-4.6_046_turn_07,1,2
+multi_claude-sonnet-4.6_046,multi_claude-sonnet-4.6_046_Employee,Employee,3,Pre-BATNA,20% bonus + 30 vacation days — that's my counter.,,multi_claude-sonnet-4.6_046_turn_07,2,2
+multi_claude-sonnet-4.6_046,multi_claude-sonnet-4.6_046_HR,HR,3,Pre-BATNA,30 days is a big jump.,,multi_claude-sonnet-4.6_046_turn_08,1,2
+multi_claude-sonnet-4.6_046,multi_claude-sonnet-4.6_046_HR,HR,3,Pre-BATNA,"we can do 15 vacation days, but bonus stays at 0% — the 20k stock options are your upside there.",,multi_claude-sonnet-4.6_046_turn_08,2,2
+multi_claude-sonnet-4.6_046,multi_claude-sonnet-4.6_046_Employee,Employee,4,Post-BATNA,Let's talk about bonus next.,,multi_claude-sonnet-4.6_046_turn_09,1,1
+multi_claude-sonnet-4.6_046,multi_claude-sonnet-4.6_046_HR,HR,4,Post-BATNA,we can move to 5% cash bonus.,,multi_claude-sonnet-4.6_046_turn_10,1,2
+multi_claude-sonnet-4.6_046,multi_claude-sonnet-4.6_046_HR,HR,4,Post-BATNA,the 20k stock is still substantial upside on top of that.,,multi_claude-sonnet-4.6_046_turn_10,2,2
+multi_claude-sonnet-4.6_046,multi_claude-sonnet-4.6_046_Employee,Employee,5,Post-BATNA,"5% is progress, but not enough cash exposure.",,multi_claude-sonnet-4.6_046_turn_11,1,2
+multi_claude-sonnet-4.6_046,multi_claude-sonnet-4.6_046_Employee,Employee,5,Post-BATNA,15% bonus and 30 vacation days — that's where I land.,,multi_claude-sonnet-4.6_046_turn_11,2,2
+multi_claude-sonnet-4.6_046,multi_claude-sonnet-4.6_046_HR,HR,5,Post-BATNA,15% bonus — done.,,multi_claude-sonnet-4.6_046_turn_12,1,2
+multi_claude-sonnet-4.6_046,multi_claude-sonnet-4.6_046_HR,HR,5,Post-BATNA,vacation days stay at 15.,,multi_claude-sonnet-4.6_046_turn_12,2,2
+multi_claude-sonnet-4.6_046,multi_claude-sonnet-4.6_046_Employee,Employee,6,Post-BATNA,we came down from 20% on bonus.,,multi_claude-sonnet-4.6_046_turn_13,1,2
+multi_claude-sonnet-4.6_046,multi_claude-sonnet-4.6_046_Employee,Employee,6,Post-BATNA,"110k salary, 15% bonus, 20k stock, 30 vacation days — that's our close.",,multi_claude-sonnet-4.6_046_turn_13,2,2
+multi_claude-sonnet-4.6_046,multi_claude-sonnet-4.6_046_HR,HR,6,Post-BATNA,we're too far apart on salary and vacation days.,,multi_claude-sonnet-4.6_046_turn_14,1,2
+multi_claude-sonnet-4.6_046,multi_claude-sonnet-4.6_046_HR,HR,6,Post-BATNA,have to walk away here.,,multi_claude-sonnet-4.6_046_turn_14,2,2

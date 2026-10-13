@@ -1,0 +1,1392 @@
+GameId,ProlificId,Role,Round,Phase,Text,Behavior,strategic_turn_id,message_index,burst_size
+multi_000,multi_000_HR,HR,0,Pre-BATNA,hi there! thanks for taking the time to chat.,,multi_000_turn_01,1,1
+multi_000,multi_000_Employee,Employee,0,Pre-BATNA,"hey, happy to connect!",,multi_000_turn_02,1,1
+multi_000,multi_000_HR,HR,1,Pre-BATNA,hey!,,multi_000_turn_03,1,3
+multi_000,multi_000_HR,HR,1,Pre-BATNA,"to start, i'm at $80k salary, no bonus, 20k stock options, and 10 vacation days.",,multi_000_turn_03,2,3
+multi_000,multi_000_HR,HR,1,Pre-BATNA,let me know what you'd want to adjust most.,,multi_000_turn_03,3,3
+multi_000,multi_000_Employee,Employee,1,Pre-BATNA,thanks.,,multi_000_turn_04,1,4
+multi_000,multi_000_Employee,Employee,1,Pre-BATNA,"i'd want to adjust salary, bonus, and vacation most.",,multi_000_turn_04,2,4
+multi_000,multi_000_Employee,Employee,1,Pre-BATNA,"my opening package is $120k salary, 15% bonus, 20k stock options, and 25 vacation days.",,multi_000_turn_04,3,4
+multi_000,multi_000_Employee,Employee,1,Pre-BATNA,happy to discuss tradeoffs.,,multi_000_turn_04,4,4
+multi_000,multi_000_HR,HR,2,Pre-BATNA,got it.,,multi_000_turn_05,1,3
+multi_000,multi_000_HR,HR,2,Pre-BATNA,"since stock is aligned, which matters more to you: cash comp or vacation days?",,multi_000_turn_05,2,3
+multi_000,multi_000_HR,HR,2,Pre-BATNA,"and within cash comp, is salary or bonus the bigger priority?",,multi_000_turn_05,3,3
+multi_000,multi_000_Employee,Employee,2,Pre-BATNA,cash comp matters more overall.,,multi_000_turn_06,1,3
+multi_000,multi_000_Employee,Employee,2,Pre-BATNA,"within that, salary is the main priority.",,multi_000_turn_06,2,3
+multi_000,multi_000_Employee,Employee,2,Pre-BATNA,"where do you have the most flexibility: salary, bonus, or vacation days?",,multi_000_turn_06,3,3
+multi_000,multi_000_HR,HR,3,Pre-BATNA,salary has the most flexibility for us.,,multi_000_turn_07,1,2
+multi_000,multi_000_HR,HR,3,Pre-BATNA,we can move salary to $90k.,,multi_000_turn_07,2,2
+multi_000,multi_000_Employee,Employee,3,Pre-BATNA,helpful to know salary has the most flexibility.,,multi_000_turn_08,1,3
+multi_000,multi_000_Employee,Employee,3,Pre-BATNA,i'd need $110k salary.,,multi_000_turn_08,2,3
+multi_000,multi_000_Employee,Employee,3,Pre-BATNA,we can discuss bonus or vacation next.,,multi_000_turn_08,3,3
+multi_000,multi_000_HR,HR,4,Post-BATNA,we can do $100k salary and a 5% bonus.,,multi_000_turn_09,1,1
+multi_000,multi_000_Employee,Employee,4,Post-BATNA,that's movement.,,multi_000_turn_10,1,3
+multi_000,multi_000_Employee,Employee,4,Post-BATNA,i'd need $110k salary and a 10% bonus.,,multi_000_turn_10,2,3
+multi_000,multi_000_Employee,Employee,4,Post-BATNA,we can finalize vacation next.,,multi_000_turn_10,3,3
+multi_000,multi_000_HR,HR,5,Post-BATNA,15 vacation days.,,multi_000_turn_11,1,2
+multi_000,multi_000_HR,HR,5,Post-BATNA,"if that works, we can treat the package as balanced there.",,multi_000_turn_11,2,2
+multi_000,multi_000_Employee,Employee,5,Post-BATNA,15 days is low for me.,,multi_000_turn_12,1,2
+multi_000,multi_000_Employee,Employee,5,Post-BATNA,I'd need 20 vacation days to balance the package.,,multi_000_turn_12,2,2
+multi_000,multi_000_HR,HR,6,Post-BATNA,20 vacation days works.,,multi_000_turn_13,1,3
+multi_000,multi_000_HR,HR,6,Post-BATNA,"Final package: $100k salary, 10% bonus, and 20k stock options.",,multi_000_turn_13,2,3
+multi_000,multi_000_HR,HR,6,Post-BATNA,"if that closes it, we're done.",,multi_000_turn_13,3,3
+multi_000,multi_000_Employee,Employee,6,Post-BATNA,"bonus, equity, and vacation are aligned.",,multi_000_turn_14,1,3
+multi_000,multi_000_Employee,Employee,6,Post-BATNA,"but at $100k salary, I can't do the deal.",,multi_000_turn_14,2,3
+multi_000,multi_000_Employee,Employee,6,Post-BATNA,i have to step back.,,multi_000_turn_14,3,3
+multi_001,multi_001_Employee,Employee,0,Pre-BATNA,hi there! great to connect.,,multi_001_turn_01,1,1
+multi_001,multi_001_HR,HR,0,Pre-BATNA,hi! nice to connect with you.,,multi_001_turn_02,1,1
+multi_001,multi_001_Employee,Employee,1,Pre-BATNA,"i'm targeting $120k salary, a 20% bonus, $20k in stock options, and 30 vacation days.",,multi_001_turn_03,1,2
+multi_001,multi_001_Employee,Employee,1,Pre-BATNA,how does that line up with your range?,,multi_001_turn_03,2,2
+multi_001,multi_001_HR,HR,1,Pre-BATNA,"hi — our opening package is $80k salary, no bonus, $20k in stock options, and 10 vacation days.",,multi_001_turn_04,1,2
+multi_001,multi_001_HR,HR,1,Pre-BATNA,"if you want, we can talk through tradeoffs from there.",,multi_001_turn_04,2,2
+multi_001,multi_001_Employee,Employee,2,Pre-BATNA,ok.,,multi_001_turn_05,1,2
+multi_001,multi_001_Employee,Employee,2,Pre-BATNA,"since stock is settled at $20k, where do you have more flexibility: bonus or vacation days?",,multi_001_turn_05,2,2
+multi_001,multi_001_HR,HR,2,Pre-BATNA,"bonus, more than vacation.",,multi_001_turn_06,1,2
+multi_001,multi_001_HR,HR,2,Pre-BATNA,i can move the bonus to 5%.,,multi_001_turn_06,2,2
+multi_001,multi_001_Employee,Employee,3,Pre-BATNA,ok.,,multi_001_turn_07,1,2
+multi_001,multi_001_Employee,Employee,3,Pre-BATNA,"if bonus can move, i'd be at 15% bonus and 20 vacation days.",,multi_001_turn_07,2,2
+multi_001,multi_001_HR,HR,3,Pre-BATNA,15% bonus works.,,multi_001_turn_08,1,3
+multi_001,multi_001_HR,HR,3,Pre-BATNA,10 vacation days.,,multi_001_turn_08,2,3
+multi_001,multi_001_HR,HR,3,Pre-BATNA,"if needed, salary can be the next topic.",,multi_001_turn_08,3,3
+multi_001,multi_001_Employee,Employee,4,Post-BATNA,ok.,,multi_001_turn_09,1,2
+multi_001,multi_001_Employee,Employee,4,Post-BATNA,i can do $110k salary if vacation stays at 20 days.,,multi_001_turn_09,2,2
+multi_001,multi_001_HR,HR,4,Post-BATNA,$90k salary and 10 vacation days.,,multi_001_turn_10,1,1
+multi_001,multi_001_Employee,Employee,5,Post-BATNA,bonus and stock are already aligned.,,multi_001_turn_11,1,2
+multi_001,multi_001_Employee,Employee,5,Post-BATNA,i can do $100k salary and 15 vacation days.,,multi_001_turn_11,2,2
+multi_001,multi_001_HR,HR,5,Post-BATNA,$90k salary and 10 vacation days.,,multi_001_turn_12,1,1
+multi_001,multi_001_Employee,Employee,6,Post-BATNA,bonus and stock are settled.,,multi_001_turn_13,1,2
+multi_001,multi_001_Employee,Employee,6,Post-BATNA,"can you do either $100k salary with 10 vacation days, or $90k salary with 15 vacation days?",,multi_001_turn_13,2,2
+multi_001,multi_001_HR,HR,6,Post-BATNA,bonus and stock are aligned.,,multi_001_turn_14,1,3
+multi_001,multi_001_HR,HR,6,Post-BATNA,we can't bridge salary or vacation from our side.,,multi_001_turn_14,2,3
+multi_001,multi_001_HR,HR,6,Post-BATNA,we'll have to leave it there.,,multi_001_turn_14,3,3
+multi_002,multi_002_Employee,Employee,0,Pre-BATNA,hi there! thanks for taking the time to chat.,,multi_002_turn_01,1,1
+multi_002,multi_002_HR,HR,0,Pre-BATNA,hi! thanks for making time to connect.,,multi_002_turn_02,1,1
+multi_002,multi_002_Employee,Employee,1,Pre-BATNA,hi!,,multi_002_turn_03,1,3
+multi_002,multi_002_Employee,Employee,1,Pre-BATNA,"I'd be looking for $120k salary, 20% bonus, 20k stock options, and 30 vacation days.",,multi_002_turn_03,2,3
+multi_002,multi_002_Employee,Employee,1,Pre-BATNA,where do you have flexibility?,,multi_002_turn_03,3,3
+multi_002,multi_002_HR,HR,1,Pre-BATNA,"we can do $100k salary, 0% bonus, 20k stock options, and 10 vacation days.",,multi_002_turn_04,1,3
+multi_002,multi_002_HR,HR,1,Pre-BATNA,there may be some flexibility across components.,,multi_002_turn_04,2,3
+multi_002,multi_002_HR,HR,1,Pre-BATNA,which terms matter most to you?,,multi_002_turn_04,3,3
+multi_002,multi_002_Employee,Employee,2,Pre-BATNA,salary and vacation days are the biggest priorities for me.,,multi_002_turn_05,1,2
+multi_002,multi_002_Employee,Employee,2,Pre-BATNA,is there more room on base salary or vacation than on bonus?,,multi_002_turn_05,2,2
+multi_002,multi_002_HR,HR,2,Pre-BATNA,more room on salary and vacation than on bonus.,,multi_002_turn_06,1,4
+multi_002,multi_002_HR,HR,2,Pre-BATNA,i can move base salary to $110k.,,multi_002_turn_06,2,4
+multi_002,multi_002_HR,HR,2,Pre-BATNA,vacation stays at 10 days for now.,,multi_002_turn_06,3,4
+multi_002,multi_002_HR,HR,2,Pre-BATNA,"if vacation is the main gap, tell me what you'd need there.",,multi_002_turn_06,4,4
+multi_002,multi_002_Employee,Employee,3,Pre-BATNA,appreciate the move to $110k.,,multi_002_turn_07,1,3
+multi_002,multi_002_Employee,Employee,3,Pre-BATNA,i'd need 30 vacation days.,,multi_002_turn_07,2,3
+multi_002,multi_002_Employee,Employee,3,Pre-BATNA,i can pair that with a 20% bonus.,,multi_002_turn_07,3,3
+multi_002,multi_002_HR,HR,3,Pre-BATNA,30 days and 20% bonus are both pretty far from our structure.,,multi_002_turn_08,1,2
+multi_002,multi_002_HR,HR,3,Pre-BATNA,"between vacation days and bonus, which matters more to you?",,multi_002_turn_08,2,2
+multi_002,multi_002_Employee,Employee,4,Post-BATNA,vacation matters more to me.,,multi_002_turn_09,1,2
+multi_002,multi_002_Employee,Employee,4,Post-BATNA,"if bonus stays closer to your structure, what range could you do on vacation days?",,multi_002_turn_09,2,2
+multi_002,multi_002_HR,HR,4,Post-BATNA,"vacation's the priority, understood.",,multi_002_turn_10,1,2
+multi_002,multi_002_HR,HR,4,Post-BATNA,we could do 15 days with a 5% bonus.,,multi_002_turn_10,2,2
+multi_002,multi_002_Employee,Employee,5,Post-BATNA,30 days is the priority for me.,,multi_002_turn_11,1,2
+multi_002,multi_002_Employee,Employee,5,Post-BATNA,i can move on bonus to 10%.,,multi_002_turn_11,2,2
+multi_002,multi_002_HR,HR,5,Post-BATNA,ok.,,multi_002_turn_12,1,2
+multi_002,multi_002_HR,HR,5,Post-BATNA,we can do 20 vacation days and a 10% bonus.,,multi_002_turn_12,2,2
+multi_002,multi_002_Employee,Employee,6,Post-BATNA,bonus at 10% and stock at 20k work for me.,,multi_002_turn_13,1,2
+multi_002,multi_002_Employee,Employee,6,Post-BATNA,"to wrap this up, i'd do $110k salary and 25 vacation days.",,multi_002_turn_13,2,2
+multi_002,multi_002_HR,HR,6,Post-BATNA,"we're aligned on the $110k salary, 10% bonus, and $20k stock.",,multi_002_turn_14,1,2
+multi_002,multi_002_HR,HR,6,Post-BATNA,"we can't get to 25 vacation days, so we can't finalize on those terms.",,multi_002_turn_14,2,2
+multi_003,multi_003_HR,HR,0,Pre-BATNA,"hi there, thanks for making the time today.",,multi_003_turn_01,1,1
+multi_003,multi_003_Employee,Employee,0,Pre-BATNA,"hi, thanks for meeting with me.",,multi_003_turn_02,1,1
+multi_003,multi_003_HR,HR,1,Pre-BATNA,thanks for coming in.,,multi_003_turn_03,1,3
+multi_003,multi_003_HR,HR,1,Pre-BATNA,"we're at $80k salary, no bonus, 20k stock options, and 10 vacation days.",,multi_003_turn_03,2,3
+multi_003,multi_003_HR,HR,1,Pre-BATNA,what are your priorities?,,multi_003_turn_03,3,3
+multi_003,multi_003_Employee,Employee,1,Pre-BATNA,"salary, bonus, and vacation are the main priorities for me.",,multi_003_turn_04,1,2
+multi_003,multi_003_Employee,Employee,1,Pre-BATNA,"i'd be looking for $110k salary, a 20% bonus, 20k stock options, and 30 vacation days.",,multi_003_turn_04,2,2
+multi_003,multi_003_HR,HR,2,Pre-BATNA,got it.,,multi_003_turn_05,1,4
+multi_003,multi_003_HR,HR,2,Pre-BATNA,20k stock is aligned.,,multi_003_turn_05,2,4
+multi_003,multi_003_HR,HR,2,Pre-BATNA,"how flexible are you across salary, bonus, and vacation days?",,multi_003_turn_05,3,4
+multi_003,multi_003_HR,HR,2,Pre-BATNA,"for example, if one moves less, can the others do more?",,multi_003_turn_05,4,4
+multi_003,multi_003_Employee,Employee,2,Pre-BATNA,20k stock works.,,multi_003_turn_06,1,3
+multi_003,multi_003_Employee,Employee,2,Pre-BATNA,i can move on bonus to 15%.,,multi_003_turn_06,2,3
+multi_003,multi_003_Employee,Employee,2,Pre-BATNA,i'd want to keep salary and vacation closer to my ask if bonus comes down.,,multi_003_turn_06,3,3
+multi_003,multi_003_HR,HR,3,Pre-BATNA,15% bonus works.,,multi_003_turn_07,1,2
+multi_003,multi_003_HR,HR,3,Pre-BATNA,then salary and vacation are the remaining gaps.,,multi_003_turn_07,2,2
+multi_003,multi_003_Employee,Employee,3,Pre-BATNA,salary at 110k and 25 vacation days.,,multi_003_turn_08,1,2
+multi_003,multi_003_Employee,Employee,3,Pre-BATNA,"since bonus is at 15%, i'd like to keep salary close to my ask.",,multi_003_turn_08,2,2
+multi_003,multi_003_HR,HR,4,Post-BATNA,bonus and stock are aligned.,,multi_003_turn_09,1,3
+multi_003,multi_003_HR,HR,4,Post-BATNA,i can do 90k salary.,,multi_003_turn_09,2,3
+multi_003,multi_003_HR,HR,4,Post-BATNA,vacation stays at 10 days for now.,,multi_003_turn_09,3,3
+multi_003,multi_003_Employee,Employee,4,Post-BATNA,110k salary and 20 vacation days.,,multi_003_turn_10,1,1
+multi_003,multi_003_HR,HR,5,Post-BATNA,Let's talk about salary next.,,multi_003_turn_11,1,1
+multi_003,multi_003_Employee,Employee,5,Post-BATNA,what flexibility do you have on salary?,,multi_003_turn_12,1,2
+multi_003,multi_003_Employee,Employee,5,Post-BATNA,"if salary moves up, can vacation move up too?",,multi_003_turn_12,2,2
+multi_003,multi_003_HR,HR,6,Post-BATNA,90k salary and 10 vacation days.,,multi_003_turn_13,1,1
+multi_003,multi_003_Employee,Employee,6,Post-BATNA,understood.,,multi_003_turn_14,1,4
+multi_003,multi_003_Employee,Employee,6,Post-BATNA,i appreciate the discussion.,,multi_003_turn_14,2,4
+multi_003,multi_003_Employee,Employee,6,Post-BATNA,the gap on salary and vacation is still too large for me to close today.,,multi_003_turn_14,3,4
+multi_003,multi_003_Employee,Employee,6,Post-BATNA,i'm going to pass.,,multi_003_turn_14,4,4
+multi_004,multi_004_HR,HR,0,Pre-BATNA,hi there! thanks for taking the time to chat.,,multi_004_turn_01,1,1
+multi_004,multi_004_Employee,Employee,0,Pre-BATNA,"hi, thanks for meeting with me today!",,multi_004_turn_02,1,1
+multi_004,multi_004_HR,HR,1,Pre-BATNA,thanks for meeting today.,,multi_004_turn_03,1,3
+multi_004,multi_004_HR,HR,1,Pre-BATNA,"to get started: $80k salary, no bonus, $20k in stock options, and 10 vacation days.",,multi_004_turn_03,2,3
+multi_004,multi_004_HR,HR,1,Pre-BATNA,what are your priorities?,,multi_004_turn_03,3,3
+multi_004,multi_004_Employee,Employee,1,Pre-BATNA,cash comp is my main priority.,,multi_004_turn_04,1,3
+multi_004,multi_004_Employee,Employee,1,Pre-BATNA,i do value the stock piece too.,,multi_004_turn_04,2,3
+multi_004,multi_004_Employee,Employee,1,Pre-BATNA,how much flexibility do you have on salary and bonus?,,multi_004_turn_04,3,3
+multi_004,multi_004_HR,HR,2,Pre-BATNA,i can move to a 5% bonus.,,multi_004_turn_05,1,2
+multi_004,multi_004_HR,HR,2,Pre-BATNA,salary or bonus matters more to you within cash comp?,,multi_004_turn_05,2,2
+multi_004,multi_004_Employee,Employee,2,Pre-BATNA,salary matters more to me.,,multi_004_turn_06,1,3
+multi_004,multi_004_Employee,Employee,2,Pre-BATNA,i appreciate the move to a 5% bonus.,,multi_004_turn_06,2,3
+multi_004,multi_004_Employee,Employee,2,Pre-BATNA,i'd need $120k salary.,,multi_004_turn_06,3,3
+multi_004,multi_004_HR,HR,3,Pre-BATNA,i can move to $110k salary.,,multi_004_turn_07,1,2
+multi_004,multi_004_HR,HR,3,Pre-BATNA,"if salary is the main lever, we can keep talking from there.",,multi_004_turn_07,2,2
+multi_004,multi_004_Employee,Employee,3,Pre-BATNA,salary is still the key issue: $120k.,,multi_004_turn_08,1,1
+multi_004,multi_004_HR,HR,4,Post-BATNA,understood.,,multi_004_turn_09,1,2
+multi_004,multi_004_HR,HR,4,Post-BATNA,"if salary can't move further, is equity or extra vacation more important to you?",,multi_004_turn_09,2,2
+multi_004,multi_004_Employee,Employee,4,Post-BATNA,equity is more important than extra vacation.,,multi_004_turn_10,1,2
+multi_004,multi_004_Employee,Employee,4,Post-BATNA,which do you have more flexibility on: stock options or vacation days?,,multi_004_turn_10,2,2
+multi_004,multi_004_HR,HR,5,Post-BATNA,Let's talk about stock options next.,,multi_004_turn_11,1,1
+multi_004,multi_004_Employee,Employee,5,Post-BATNA,ok,,multi_004_turn_12,1,2
+multi_004,multi_004_Employee,Employee,5,Post-BATNA,20k in stock options.,,multi_004_turn_12,2,2
+multi_004,multi_004_HR,HR,6,Post-BATNA,Let's talk about salary next.,,multi_004_turn_13,1,1
+multi_004,multi_004_Employee,Employee,6,Post-BATNA,ok.,,multi_004_turn_14,1,3
+multi_004,multi_004_Employee,Employee,6,Post-BATNA,we made progress on equity.,,multi_004_turn_14,2,3
+multi_004,multi_004_Employee,Employee,6,Post-BATNA,"but the overall compensation package didn't come together on the remaining terms, so I'll pass.",,multi_004_turn_14,3,3
+multi_005,multi_005_Employee,Employee,0,Pre-BATNA,hi there!,,multi_005_turn_01,1,2
+multi_005,multi_005_Employee,Employee,0,Pre-BATNA,thanks for making the time today.,,multi_005_turn_01,2,2
+multi_005,multi_005_HR,HR,0,Pre-BATNA,hi there!,,multi_005_turn_02,1,2
+multi_005,multi_005_HR,HR,0,Pre-BATNA,glad we could connect today.,,multi_005_turn_02,2,2
+multi_005,multi_005_Employee,Employee,1,Pre-BATNA,likewise.,,multi_005_turn_03,1,3
+multi_005,multi_005_Employee,Employee,1,Pre-BATNA,"i'm looking for $120k salary, a 20% bonus, 20k in stock options, and 30 vacation days.",,multi_005_turn_03,2,3
+multi_005,multi_005_Employee,Employee,1,Pre-BATNA,where do you have flexibility?,,multi_005_turn_03,3,3
+multi_005,multi_005_HR,HR,1,Pre-BATNA,"we can do $80k salary, no bonus, 20k stock options, and 10 vacation days.",,multi_005_turn_04,1,3
+multi_005,multi_005_HR,HR,1,Pre-BATNA,we've got more flexibility on some terms than others.,,multi_005_turn_04,2,3
+multi_005,multi_005_HR,HR,1,Pre-BATNA,which pieces matter most to you?,,multi_005_turn_04,3,3
+multi_005,multi_005_Employee,Employee,2,Pre-BATNA,salary and vacation days are the main ones for me.,,multi_005_turn_05,1,3
+multi_005,multi_005_Employee,Employee,2,Pre-BATNA,stock at 20k is fine.,,multi_005_turn_05,2,3
+multi_005,multi_005_Employee,Employee,2,Pre-BATNA,where can you move most on salary and time off?,,multi_005_turn_05,3,3
+multi_005,multi_005_HR,HR,2,Pre-BATNA,stock at 20k is aligned.,,multi_005_turn_06,1,3
+multi_005,multi_005_HR,HR,2,Pre-BATNA,i can move salary to $90k.,,multi_005_turn_06,2,3
+multi_005,multi_005_HR,HR,2,Pre-BATNA,vacation is the piece we can discuss next.,,multi_005_turn_06,3,3
+multi_005,multi_005_Employee,Employee,3,Pre-BATNA,i can come down to $110k salary.,,multi_005_turn_07,1,2
+multi_005,multi_005_Employee,Employee,3,Pre-BATNA,and 30 vacation days.,,multi_005_turn_07,2,2
+multi_005,multi_005_HR,HR,3,Pre-BATNA,i see the movement on salary.,,multi_005_turn_08,1,2
+multi_005,multi_005_HR,HR,3,Pre-BATNA,i can do 15 vacation days.,,multi_005_turn_08,2,2
+multi_005,multi_005_Employee,Employee,4,Post-BATNA,ok.,,multi_005_turn_09,1,2
+multi_005,multi_005_Employee,Employee,4,Post-BATNA,can we do a 20% bonus?,,multi_005_turn_09,2,2
+multi_005,multi_005_HR,HR,4,Post-BATNA,20% is higher than we can do on bonus.,,multi_005_turn_10,1,2
+multi_005,multi_005_HR,HR,4,Post-BATNA,i can do 5%.,,multi_005_turn_10,2,2
+multi_005,multi_005_Employee,Employee,5,Post-BATNA,15% bonus.,,multi_005_turn_11,1,1
+multi_005,multi_005_HR,HR,5,Post-BATNA,10% bonus.,,multi_005_turn_12,1,3
+multi_005,multi_005_HR,HR,5,Post-BATNA,"stock is settled, and vacation is already aligned on our side.",,multi_005_turn_12,2,3
+multi_005,multi_005_HR,HR,5,Post-BATNA,"if you can close the remaining gap, we should be able to wrap this up next round.",,multi_005_turn_12,3,3
+multi_005,multi_005_Employee,Employee,6,Post-BATNA,"110k salary, 10% bonus, 20k stock, 30 vacation days.",,multi_005_turn_13,1,2
+multi_005,multi_005_Employee,Employee,6,Post-BATNA,that closes the gap.,,multi_005_turn_13,2,2
+multi_005,multi_005_HR,HR,6,Post-BATNA,we're not able to move forward on that package.,,multi_005_turn_14,1,2
+multi_005,multi_005_HR,HR,6,Post-BATNA,we'll have to end it here.,,multi_005_turn_14,2,2
+multi_006,multi_006_Employee,Employee,0,Pre-BATNA,hi there! nice to meet you.,,multi_006_turn_01,1,1
+multi_006,multi_006_HR,HR,0,Pre-BATNA,hi! nice to meet you too.,,multi_006_turn_02,1,1
+multi_006,multi_006_Employee,Employee,1,Pre-BATNA,hi!,,multi_006_turn_03,1,2
+multi_006,multi_006_Employee,Employee,1,Pre-BATNA,"looking for $120k salary, 20% bonus, 20k stock options, and 30 vacation days.",,multi_006_turn_03,2,2
+multi_006,multi_006_HR,HR,1,Pre-BATNA,got it.,,multi_006_turn_04,1,3
+multi_006,multi_006_HR,HR,1,Pre-BATNA,"our starting package is $80k salary, no bonus, 20k stock options, and 10 vacation days.",,multi_006_turn_04,2,3
+multi_006,multi_006_HR,HR,1,Pre-BATNA,"if you want movement, which of those matters most to you?",,multi_006_turn_04,3,3
+multi_006,multi_006_Employee,Employee,2,Pre-BATNA,salary and bonus are the main priorities for me.,,multi_006_turn_05,1,2
+multi_006,multi_006_Employee,Employee,2,Pre-BATNA,is there more flexibility on those two before we get into vacation?,,multi_006_turn_05,2,2
+multi_006,multi_006_HR,HR,2,Pre-BATNA,yes.,,multi_006_turn_06,1,2
+multi_006,multi_006_HR,HR,2,Pre-BATNA,i can move to $90k salary and a 5% bonus.,,multi_006_turn_06,2,2
+multi_006,multi_006_Employee,Employee,3,Pre-BATNA,that's movement.,,multi_006_turn_07,1,2
+multi_006,multi_006_Employee,Employee,3,Pre-BATNA,i'd need $110k salary and a 15% bonus.,,multi_006_turn_07,2,2
+multi_006,multi_006_HR,HR,3,Pre-BATNA,I can move to $100k salary and a 10% bonus.,,multi_006_turn_08,1,2
+multi_006,multi_006_HR,HR,3,Pre-BATNA,We can talk vacation days next.,,multi_006_turn_08,2,2
+multi_006,multi_006_Employee,Employee,4,Post-BATNA,that's movement on salary and bonus.,,multi_006_turn_09,1,3
+multi_006,multi_006_Employee,Employee,4,Post-BATNA,"on vacation, i'd need 20 days.",,multi_006_turn_09,2,3
+multi_006,multi_006_Employee,Employee,4,Post-BATNA,that could help bridge the package.,,multi_006_turn_09,3,3
+multi_006,multi_006_HR,HR,4,Post-BATNA,15 days on vacation.,,multi_006_turn_10,1,2
+multi_006,multi_006_HR,HR,4,Post-BATNA,that’s the bridge I can make there.,,multi_006_turn_10,2,2
+multi_006,multi_006_Employee,Employee,5,Post-BATNA,ok.,,multi_006_turn_11,1,2
+multi_006,multi_006_Employee,Employee,5,Post-BATNA,"if vacation stays at 15 days, i'd need the 15% bonus.",,multi_006_turn_11,2,2
+multi_006,multi_006_HR,HR,5,Post-BATNA,15% bonus works.,,multi_006_turn_12,1,2
+multi_006,multi_006_HR,HR,5,Post-BATNA,salary stays where it is.,,multi_006_turn_12,2,2
+multi_006,multi_006_Employee,Employee,6,Post-BATNA,then salary is the only gap: 110k?,,multi_006_turn_13,1,1
+multi_006,multi_006_HR,HR,6,Post-BATNA,can't do 110k.,,multi_006_turn_14,1,1
+multi_007,multi_007_HR,HR,0,Pre-BATNA,hi there! thanks for making time today.,,multi_007_turn_01,1,1
+multi_007,multi_007_Employee,Employee,0,Pre-BATNA,hi! thanks for meeting with me today.,,multi_007_turn_02,1,1
+multi_007,multi_007_HR,HR,1,Pre-BATNA,likewise.,,multi_007_turn_03,1,3
+multi_007,multi_007_HR,HR,1,Pre-BATNA,what are your priorities on compensation?,,multi_007_turn_03,2,3
+multi_007,multi_007_HR,HR,1,Pre-BATNA,"salary vs bonus, what mix are you looking for?",,multi_007_turn_03,3,3
+multi_007,multi_007_Employee,Employee,1,Pre-BATNA,base salary is the top priority for me.,,multi_007_turn_04,1,2
+multi_007,multi_007_Employee,Employee,1,Pre-BATNA,"i'm looking for $120k salary, 20% bonus, 20k stock options, and 30 vacation days.",,multi_007_turn_04,2,2
+multi_007,multi_007_HR,HR,2,Pre-BATNA,"salary is the main lever, got it.",,multi_007_turn_05,1,4
+multi_007,multi_007_HR,HR,2,Pre-BATNA,"we can do $100k salary, 20k stock options, and 10 vacation days.",,multi_007_turn_05,2,4
+multi_007,multi_007_HR,HR,2,Pre-BATNA,no bonus in this package.,,multi_007_turn_05,3,4
+multi_007,multi_007_HR,HR,2,Pre-BATNA,where do you have the most flexibility beyond base pay?,,multi_007_turn_05,4,4
+multi_007,multi_007_Employee,Employee,2,Pre-BATNA,bonus is where i have the most flexibility.,,multi_007_turn_06,1,2
+multi_007,multi_007_Employee,Employee,2,Pre-BATNA,i could do $110k salary with a 20% bonus.,,multi_007_turn_06,2,2
+multi_007,multi_007_HR,HR,3,Pre-BATNA,$110k salary works.,,multi_007_turn_07,1,3
+multi_007,multi_007_HR,HR,3,Pre-BATNA,bonus at 5%.,,multi_007_turn_07,2,3
+multi_007,multi_007_HR,HR,3,Pre-BATNA,what can you do on vacation days?,,multi_007_turn_07,3,3
+multi_007,multi_007_Employee,Employee,3,Pre-BATNA,i can come down to 25 vacation days.,,multi_007_turn_08,1,2
+multi_007,multi_007_Employee,Employee,3,Pre-BATNA,"if we do that, i'd need the bonus at 15%.",,multi_007_turn_08,2,2
+multi_007,multi_007_HR,HR,4,Post-BATNA,i hear you on the trade.,,multi_007_turn_09,1,2
+multi_007,multi_007_HR,HR,4,Post-BATNA,i can do a 10% bonus and 15 vacation days.,,multi_007_turn_09,2,2
+multi_007,multi_007_Employee,Employee,4,Post-BATNA,base and equity are already aligned.,,multi_007_turn_10,1,2
+multi_007,multi_007_Employee,Employee,4,Post-BATNA,"if we can make it 10% bonus and 20 vacation days, that should close the gap.",,multi_007_turn_10,2,2
+multi_007,multi_007_HR,HR,5,Post-BATNA,20 vacation days works.,,multi_007_turn_11,1,2
+multi_007,multi_007_HR,HR,5,Post-BATNA,that should close it.,,multi_007_turn_11,2,2
+multi_007,multi_007_Employee,Employee,5,Post-BATNA,"yes, 20 vacation days works.",,multi_007_turn_12,1,2
+multi_007,multi_007_Employee,Employee,5,Post-BATNA,that closes it.,,multi_007_turn_12,2,2
+multi_007,multi_007_HR,HR,6,Post-BATNA,aligned.,,multi_007_turn_13,1,2
+multi_007,multi_007_HR,HR,6,Post-BATNA,we're wrapped pending formalization.,,multi_007_turn_13,2,2
+multi_007,multi_007_Employee,Employee,6,Post-BATNA,i'm going to step back here.,,multi_007_turn_14,1,2
+multi_007,multi_007_Employee,Employee,6,Post-BATNA,no viable deal on the table.,,multi_007_turn_14,2,2
+multi_008,multi_008_Employee,Employee,0,Pre-BATNA,hi there!,,multi_008_turn_01,1,2
+multi_008,multi_008_Employee,Employee,0,Pre-BATNA,great to connect with you.,,multi_008_turn_01,2,2
+multi_008,multi_008_HR,HR,0,Pre-BATNA,hi!,,multi_008_turn_02,1,2
+multi_008,multi_008_HR,HR,0,Pre-BATNA,great to meet you.,,multi_008_turn_02,2,2
+multi_008,multi_008_Employee,Employee,1,Pre-BATNA,great to meet you too.,,multi_008_turn_03,1,3
+multi_008,multi_008_Employee,Employee,1,Pre-BATNA,"i’m looking for $120k salary, a 20% bonus, 20k in stock options, and 30 vacation days.",,multi_008_turn_03,2,3
+multi_008,multi_008_Employee,Employee,1,Pre-BATNA,where do you have flexibility?,,multi_008_turn_03,3,3
+multi_008,multi_008_HR,HR,1,Pre-BATNA,most flexibility is on stock options.,,multi_008_turn_04,1,2
+multi_008,multi_008_HR,HR,1,Pre-BATNA,"we can do $100k salary, 0% bonus, 20k stock options, and 10 vacation days.",,multi_008_turn_04,2,2
+multi_008,multi_008_Employee,Employee,2,Pre-BATNA,20k stock works.,,multi_008_turn_05,1,2
+multi_008,multi_008_Employee,Employee,2,Pre-BATNA,"between salary and bonus, which has more room?",,multi_008_turn_05,2,2
+multi_008,multi_008_HR,HR,2,Pre-BATNA,slightly more room on bonus than salary.,,multi_008_turn_06,1,2
+multi_008,multi_008_HR,HR,2,Pre-BATNA,we can move the bonus to 5%.,,multi_008_turn_06,2,2
+multi_008,multi_008_Employee,Employee,3,Pre-BATNA,ok.,,multi_008_turn_07,1,2
+multi_008,multi_008_Employee,Employee,3,Pre-BATNA,could you do a 15% bonus and 30 vacation days?,,multi_008_turn_07,2,2
+multi_008,multi_008_HR,HR,3,Pre-BATNA,15% bonus works.,,multi_008_turn_08,1,3
+multi_008,multi_008_HR,HR,3,Pre-BATNA,Vacation stays at 10 days.,,multi_008_turn_08,2,3
+multi_008,multi_008_HR,HR,3,Pre-BATNA,salary is still open.,,multi_008_turn_08,3,3
+multi_008,multi_008_Employee,Employee,4,Post-BATNA,15% bonus works.,,multi_008_turn_09,1,2
+multi_008,multi_008_Employee,Employee,4,Post-BATNA,I can do $110k salary and 30 vacation days.,,multi_008_turn_09,2,2
+multi_008,multi_008_HR,HR,4,Post-BATNA,$110k salary works.,,multi_008_turn_10,1,2
+multi_008,multi_008_HR,HR,4,Post-BATNA,I can do 15 vacation days.,,multi_008_turn_10,2,2
+multi_008,multi_008_Employee,Employee,5,Post-BATNA,25 vacation days.,,multi_008_turn_11,1,2
+multi_008,multi_008_Employee,Employee,5,Post-BATNA,that's a reasonable middle ground.,,multi_008_turn_11,2,2
+multi_008,multi_008_HR,HR,5,Post-BATNA,15 days is where we stand.,,multi_008_turn_12,1,1
+multi_008,multi_008_Employee,Employee,6,Post-BATNA,then 20 vacation days.,,multi_008_turn_13,1,2
+multi_008,multi_008_Employee,Employee,6,Post-BATNA,that closes the last open issue.,,multi_008_turn_13,2,2
+multi_008,multi_008_HR,HR,6,Post-BATNA,can't do 20 vacation days.,,multi_008_turn_14,1,2
+multi_008,multi_008_HR,HR,6,Post-BATNA,we couldn't bridge the gap on vacation.,,multi_008_turn_14,2,2
+multi_009,multi_009_Employee,Employee,0,Pre-BATNA,"hi there, thanks for taking the time to chat.",,multi_009_turn_01,1,1
+multi_009,multi_009_HR,HR,0,Pre-BATNA,"hi, thanks for making time to chat today.",,multi_009_turn_02,1,1
+multi_009,multi_009_Employee,Employee,1,Pre-BATNA,hi,,multi_009_turn_03,1,3
+multi_009,multi_009_Employee,Employee,1,Pre-BATNA,"I'm looking for $120k salary, a 20% bonus, 20k in stock options, and 30 vacation days.",,multi_009_turn_03,2,3
+multi_009,multi_009_Employee,Employee,1,Pre-BATNA,how does that land with you?,,multi_009_turn_03,3,3
+multi_009,multi_009_HR,HR,1,Pre-BATNA,that's higher than we can do to start.,,multi_009_turn_04,1,3
+multi_009,multi_009_HR,HR,1,Pre-BATNA,"our starting package is $100k salary, no bonus, 20k stock options, and 10 vacation days.",,multi_009_turn_04,2,3
+multi_009,multi_009_HR,HR,1,Pre-BATNA,which of those matters most to you?,,multi_009_turn_04,3,3
+multi_009,multi_009_Employee,Employee,2,Pre-BATNA,salary and bonus are the priorities for me.,,multi_009_turn_05,1,3
+multi_009,multi_009_Employee,Employee,2,Pre-BATNA,"stock at 20k seems aligned, so we can leave that aside.",,multi_009_turn_05,2,3
+multi_009,multi_009_Employee,Employee,2,Pre-BATNA,where do you have more room: base salary or bonus?,,multi_009_turn_05,3,3
+multi_009,multi_009_HR,HR,2,Pre-BATNA,more room on bonus.,,multi_009_turn_06,1,3
+multi_009,multi_009_HR,HR,2,Pre-BATNA,i can do a 5% bonus.,,multi_009_turn_06,2,3
+multi_009,multi_009_HR,HR,2,Pre-BATNA,"if bonus comes up, we can keep salary closer to the current base.",,multi_009_turn_06,3,3
+multi_009,multi_009_Employee,Employee,3,Pre-BATNA,i hear you on the tradeoff.,,multi_009_turn_07,1,2
+multi_009,multi_009_Employee,Employee,3,Pre-BATNA,i'd be at $120k salary and a 15% bonus.,,multi_009_turn_07,2,2
+multi_009,multi_009_HR,HR,3,Pre-BATNA,i can move to $110k salary and a 10% bonus.,,multi_009_turn_08,1,2
+multi_009,multi_009_HR,HR,3,Pre-BATNA,"if we're close there, we should talk vacation next.",,multi_009_turn_08,2,2
+multi_009,multi_009_Employee,Employee,4,Post-BATNA,ok.,,multi_009_turn_09,1,2
+multi_009,multi_009_Employee,Employee,4,Post-BATNA,"for vacation, i'd need 25 days.",,multi_009_turn_09,2,2
+multi_009,multi_009_HR,HR,4,Post-BATNA,15 days vacation.,,multi_009_turn_10,1,1
+multi_009,multi_009_Employee,Employee,5,Post-BATNA,what if we split the difference at 20 days?,,multi_009_turn_11,1,2
+multi_009,multi_009_Employee,Employee,5,Post-BATNA,and keep the bonus at 10%.,,multi_009_turn_11,2,2
+multi_009,multi_009_HR,HR,5,Post-BATNA,20 days works at $110k salary.,,multi_009_turn_12,1,1
+multi_009,multi_009_Employee,Employee,6,Post-BATNA,$110k salary.,,multi_009_turn_13,1,1
+multi_009,multi_009_HR,HR,6,Post-BATNA,that doesn't work for me.,,multi_009_turn_14,1,1
+multi_010,multi_010_HR,HR,0,Pre-BATNA,hi there! thanks for taking the time to chat.,,multi_010_turn_01,1,1
+multi_010,multi_010_Employee,Employee,0,Pre-BATNA,hi! thanks for meeting with me.,,multi_010_turn_02,1,1
+multi_010,multi_010_HR,HR,1,Pre-BATNA,"thanks for meeting. here's the package: $80k salary, 0% bonus, 20k stock options, and 10 vacation days.",,multi_010_turn_03,1,2
+multi_010,multi_010_HR,HR,1,Pre-BATNA,which of those matters most to you?,,multi_010_turn_03,2,2
+multi_010,multi_010_Employee,Employee,1,Pre-BATNA,salary matters most for me.,,multi_010_turn_04,1,3
+multi_010,multi_010_Employee,Employee,1,Pre-BATNA,vacation days are next.,,multi_010_turn_04,2,3
+multi_010,multi_010_Employee,Employee,1,Pre-BATNA,where do you have the most room so we can trade efficiently?,,multi_010_turn_04,3,3
+multi_010,multi_010_HR,HR,2,Pre-BATNA,most room is on salary.,,multi_010_turn_05,1,3
+multi_010,multi_010_HR,HR,2,Pre-BATNA,i can move salary to $90k.,,multi_010_turn_05,2,3
+multi_010,multi_010_HR,HR,2,Pre-BATNA,"vacation is tighter, but we can look at that next.",,multi_010_turn_05,3,3
+multi_010,multi_010_Employee,Employee,2,Pre-BATNA,"on salary, i'd be looking for $110k.",,multi_010_turn_06,1,2
+multi_010,multi_010_Employee,Employee,2,Pre-BATNA,we can talk vacation after that.,,multi_010_turn_06,2,2
+multi_010,multi_010_HR,HR,3,Pre-BATNA,i can move salary to $100k.,,multi_010_turn_07,1,2
+multi_010,multi_010_HR,HR,3,Pre-BATNA,"once we're closer on salary, we can look at vacation next.",,multi_010_turn_07,2,2
+multi_010,multi_010_Employee,Employee,3,Pre-BATNA,$110k on salary.,,multi_010_turn_08,1,2
+multi_010,multi_010_Employee,Employee,3,Pre-BATNA,we can discuss vacation next.,,multi_010_turn_08,2,2
+multi_010,multi_010_HR,HR,4,Post-BATNA,$110k salary.,,multi_010_turn_09,1,2
+multi_010,multi_010_HR,HR,4,Post-BATNA,let's discuss vacation next.,,multi_010_turn_09,2,2
+multi_010,multi_010_Employee,Employee,4,Post-BATNA,ok on salary.,,multi_010_turn_10,1,2
+multi_010,multi_010_Employee,Employee,4,Post-BATNA,"for the remaining pieces, i'm looking for a 10% bonus and 25 vacation days.",,multi_010_turn_10,2,2
+multi_010,multi_010_HR,HR,5,Post-BATNA,salary is settled.,,multi_010_turn_11,1,2
+multi_010,multi_010_HR,HR,5,Post-BATNA,i can do a 5% bonus and 10 vacation days.,,multi_010_turn_11,2,2
+multi_010,multi_010_Employee,Employee,5,Post-BATNA,5% and 10 days is too low.,,multi_010_turn_12,1,2
+multi_010,multi_010_Employee,Employee,5,Post-BATNA,i can do a 10% bonus and 20 vacation days.,,multi_010_turn_12,2,2
+multi_010,multi_010_HR,HR,6,Post-BATNA,salary's settled. need flexibility on bonus and days.,,multi_010_turn_13,1,1
+multi_010,multi_010_Employee,Employee,6,Post-BATNA,understood.,,multi_010_turn_14,1,2
+multi_010,multi_010_Employee,Employee,6,Post-BATNA,"with bonus and vacation still below acceptable final terms, i'll pass.",,multi_010_turn_14,2,2
+multi_011,multi_011_HR,HR,0,Pre-BATNA,hi there! thanks for taking the time to chat today.,,multi_011_turn_01,1,1
+multi_011,multi_011_Employee,Employee,0,Pre-BATNA,hi there! thanks for meeting with me today.,,multi_011_turn_02,1,1
+multi_011,multi_011_HR,HR,1,Pre-BATNA,hi!,,multi_011_turn_03,1,3
+multi_011,multi_011_HR,HR,1,Pre-BATNA,good to meet you.,,multi_011_turn_03,2,3
+multi_011,multi_011_HR,HR,1,Pre-BATNA,what are your priorities on salary and bonus?,,multi_011_turn_03,3,3
+multi_011,multi_011_Employee,Employee,1,Pre-BATNA,"salary is the priority for me, with bonus second.",,multi_011_turn_04,1,2
+multi_011,multi_011_Employee,Employee,1,Pre-BATNA,what flexibility do you have on those two?,,multi_011_turn_04,2,2
+multi_011,multi_011_HR,HR,2,Pre-BATNA,i can do $90k salary and no bonus to start.,,multi_011_turn_05,1,1
+multi_011,multi_011_Employee,Employee,2,Pre-BATNA,that's too low for me.,,multi_011_turn_06,1,2
+multi_011,multi_011_Employee,Employee,2,Pre-BATNA,"i'm looking for $110k salary, 20% bonus, 20k stock options, and 30 vacation days.",,multi_011_turn_06,2,2
+multi_011,multi_011_HR,HR,3,Pre-BATNA,"i can do $90k salary, 5% bonus, 20k stock options, and 10 vacation days.",,multi_011_turn_07,1,1
+multi_011,multi_011_Employee,Employee,3,Pre-BATNA,20k stock works.,,multi_011_turn_08,1,2
+multi_011,multi_011_Employee,Employee,3,Pre-BATNA,"i'm at $110k salary, 15% bonus, and 30 vacation days.",,multi_011_turn_08,2,2
+multi_011,multi_011_HR,HR,4,Post-BATNA,20k stock is settled.,,multi_011_turn_09,1,3
+multi_011,multi_011_HR,HR,4,Post-BATNA,i can move salary to $100k.,,multi_011_turn_09,2,3
+multi_011,multi_011_HR,HR,4,Post-BATNA,we can trade on bonus and vacation next.,,multi_011_turn_09,3,3
+multi_011,multi_011_Employee,Employee,4,Post-BATNA,"ok — with salary at $100k and stock settled, I can do 15% bonus.",,multi_011_turn_10,1,2
+multi_011,multi_011_Employee,Employee,4,Post-BATNA,I’d want 25 vacation days there.,,multi_011_turn_10,2,2
+multi_011,multi_011_HR,HR,5,Post-BATNA,10% bonus and 10 vacation days.,,multi_011_turn_11,1,3
+multi_011,multi_011_HR,HR,5,Post-BATNA,"with the $100k salary and 20k stock, that's the package that works from our side.",,multi_011_turn_11,2,3
+multi_011,multi_011_HR,HR,5,Post-BATNA,near-final.,,multi_011_turn_11,3,3
+multi_011,multi_011_Employee,Employee,5,Post-BATNA,15% bonus and 25 vacation days.,,multi_011_turn_12,1,2
+multi_011,multi_011_Employee,Employee,5,Post-BATNA,that's my best path to close.,,multi_011_turn_12,2,2
+multi_011,multi_011_HR,HR,6,Post-BATNA,10% bonus and 10 vacation days.,,multi_011_turn_13,1,1
+multi_011,multi_011_Employee,Employee,6,Post-BATNA,understood.,,multi_011_turn_14,1,3
+multi_011,multi_011_Employee,Employee,6,Post-BATNA,"with bonus at 10% and vacation at 10 days, I can't make this work.",,multi_011_turn_14,2,3
+multi_011,multi_011_Employee,Employee,6,Post-BATNA,no agreement this round.,,multi_011_turn_14,3,3
+multi_012,multi_012_HR,HR,0,Pre-BATNA,hi there! thanks for making time to chat.,,multi_012_turn_01,1,1
+multi_012,multi_012_Employee,Employee,0,Pre-BATNA,hi! thanks for reaching out. nice to chat with you.,,multi_012_turn_02,1,1
+multi_012,multi_012_HR,HR,1,Pre-BATNA,nice to chat with you too.,,multi_012_turn_03,1,3
+multi_012,multi_012_HR,HR,1,Pre-BATNA,what matters most to you on comp — base salary or bonus?,,multi_012_turn_03,2,3
+multi_012,multi_012_HR,HR,1,Pre-BATNA,and how flexible are you on that mix?,,multi_012_turn_03,3,3
+multi_012,multi_012_Employee,Employee,1,Pre-BATNA,"base salary is the priority for me, but total comp matters.",,multi_012_turn_04,1,4
+multi_012,multi_012_Employee,Employee,1,Pre-BATNA,i've got some flexibility on the mix if the overall package is competitive.,,multi_012_turn_04,2,4
+multi_012,multi_012_Employee,Employee,1,Pre-BATNA,what range or flexibility do you have on base vs bonus?,,multi_012_turn_04,3,4
+multi_012,multi_012_Employee,Employee,1,Pre-BATNA,and can equity or extra vacation help bridge any gap?,,multi_012_turn_04,4,4
+multi_012,multi_012_HR,HR,2,Pre-BATNA,hi!,,multi_012_turn_05,1,3
+multi_012,multi_012_HR,HR,2,Pre-BATNA,"I can start with $90k salary, no bonus, 20k in stock options, and 10 vacation days.",,multi_012_turn_05,2,3
+multi_012,multi_012_HR,HR,2,Pre-BATNA,"if there's a gap, would you rather adjust bonus or equity from here?",,multi_012_turn_05,3,3
+multi_012,multi_012_Employee,Employee,2,Pre-BATNA,salary and bonus first for me.,,multi_012_turn_06,1,3
+multi_012,multi_012_Employee,Employee,2,Pre-BATNA,i'd be at $110k salary and a 20% bonus.,,multi_012_turn_06,2,3
+multi_012,multi_012_Employee,Employee,2,Pre-BATNA,we can talk vacation next.,,multi_012_turn_06,3,3
+multi_012,multi_012_HR,HR,3,Pre-BATNA,I can move to $100k salary and a 5% bonus.,,multi_012_turn_07,1,2
+multi_012,multi_012_HR,HR,3,Pre-BATNA,we can talk vacation or equity next.,,multi_012_turn_07,2,2
+multi_012,multi_012_Employee,Employee,3,Pre-BATNA,understood. let's talk equity next.,,multi_012_turn_08,1,1
+multi_012,multi_012_HR,HR,4,Post-BATNA,Let's talk about stock options next.,,multi_012_turn_09,1,1
+multi_012,multi_012_Employee,Employee,4,Post-BATNA,20k stock options.,,multi_012_turn_10,1,2
+multi_012,multi_012_Employee,Employee,4,Post-BATNA,what about vacation days?,,multi_012_turn_10,2,2
+multi_012,multi_012_HR,HR,5,Post-BATNA,20k stock is aligned.,,multi_012_turn_11,1,2
+multi_012,multi_012_HR,HR,5,Post-BATNA,I can do 15 vacation days.,,multi_012_turn_11,2,2
+multi_012,multi_012_Employee,Employee,5,Post-BATNA,20 vacation days.,,multi_012_turn_12,1,2
+multi_012,multi_012_Employee,Employee,5,Post-BATNA,salary and bonus still need closing.,,multi_012_turn_12,2,2
+multi_012,multi_012_HR,HR,6,Post-BATNA,"100k salary, 10% bonus, and 20 vacation days.",,multi_012_turn_13,1,2
+multi_012,multi_012_HR,HR,6,Post-BATNA,that's my best complete package.,,multi_012_turn_13,2,2
+multi_012,multi_012_Employee,Employee,6,Post-BATNA,understood.,,multi_012_turn_14,1,3
+multi_012,multi_012_Employee,Employee,6,Post-BATNA,I appreciate the offer.,,multi_012_turn_14,2,3
+multi_012,multi_012_Employee,Employee,6,Post-BATNA,"we couldn't bridge salary and bonus, so I'll pass.",,multi_012_turn_14,3,3
+multi_013,multi_013_Employee,Employee,0,Pre-BATNA,"hi there, thanks for making time today.",,multi_013_turn_01,1,1
+multi_013,multi_013_HR,HR,0,Pre-BATNA,"hi, thanks for joining today!",,multi_013_turn_02,1,1
+multi_013,multi_013_Employee,Employee,1,Pre-BATNA,hi!,,multi_013_turn_03,1,3
+multi_013,multi_013_Employee,Employee,1,Pre-BATNA,"i’m targeting $120k salary, 20% bonus, 20k in stock options, and 30 vacation days.",,multi_013_turn_03,2,3
+multi_013,multi_013_Employee,Employee,1,Pre-BATNA,where do you have flexibility?,,multi_013_turn_03,3,3
+multi_013,multi_013_HR,HR,1,Pre-BATNA,"we can do $80k salary, no bonus, 20k stock options, and 10 vacation days.",,multi_013_turn_04,1,2
+multi_013,multi_013_HR,HR,1,Pre-BATNA,where matters most to you?,,multi_013_turn_04,2,2
+multi_013,multi_013_Employee,Employee,2,Pre-BATNA,salary and vacation days matter most for me.,,multi_013_turn_05,1,2
+multi_013,multi_013_Employee,Employee,2,Pre-BATNA,do you have more room on either of those before we get into bonus?,,multi_013_turn_05,2,2
+multi_013,multi_013_HR,HR,2,Pre-BATNA,there's some room on salary.,,multi_013_turn_06,1,3
+multi_013,multi_013_HR,HR,2,Pre-BATNA,i can move to $90k salary.,,multi_013_turn_06,2,3
+multi_013,multi_013_HR,HR,2,Pre-BATNA,we can talk vacation next.,,multi_013_turn_06,3,3
+multi_013,multi_013_Employee,Employee,3,Pre-BATNA,got it.,,multi_013_turn_07,1,3
+multi_013,multi_013_Employee,Employee,3,Pre-BATNA,how much flexibility do you have on vacation days?,,multi_013_turn_07,2,3
+multi_013,multi_013_Employee,Employee,3,Pre-BATNA,"and if salary is pretty capped at $90k, is there room on bonus instead?",,multi_013_turn_07,3,3
+multi_013,multi_013_HR,HR,3,Pre-BATNA,yes — i can move the bonus to 5%.,,multi_013_turn_08,1,2
+multi_013,multi_013_HR,HR,3,Pre-BATNA,vacation is tighter.,,multi_013_turn_08,2,2
+multi_013,multi_013_Employee,Employee,4,Post-BATNA,ok.,,multi_013_turn_09,1,3
+multi_013,multi_013_Employee,Employee,4,Post-BATNA,"for salary and vacation, i’d be at $120k and 20 days.",,multi_013_turn_09,2,3
+multi_013,multi_013_Employee,Employee,4,Post-BATNA,can you do anything closer on those two?,,multi_013_turn_09,3,3
+multi_013,multi_013_HR,HR,4,Post-BATNA,i can move vacation to 15 days.,,multi_013_turn_10,1,3
+multi_013,multi_013_HR,HR,4,Post-BATNA,salary stays at $90k for now.,,multi_013_turn_10,2,3
+multi_013,multi_013_HR,HR,4,Post-BATNA,"if you want to close the gap, bonus is the main lever.",,multi_013_turn_10,3,3
+multi_013,multi_013_Employee,Employee,5,Post-BATNA,ok — let's keep vacation at 15 days.,,multi_013_turn_11,1,2
+multi_013,multi_013_Employee,Employee,5,Post-BATNA,"for salary and bonus, could you do $120k salary and a 15% bonus?",,multi_013_turn_11,2,2
+multi_013,multi_013_HR,HR,5,Post-BATNA,15 days is aligned.,,multi_013_turn_12,1,2
+multi_013,multi_013_HR,HR,5,Post-BATNA,"between salary and bonus, which matters more if we're trying to close next round?",,multi_013_turn_12,2,2
+multi_013,multi_013_Employee,Employee,6,Post-BATNA,salary matters more.,,multi_013_turn_13,1,3
+multi_013,multi_013_Employee,Employee,6,Post-BATNA,"i'd close at $120k salary, 15% bonus, and 15 vacation days.",,multi_013_turn_13,2,3
+multi_013,multi_013_Employee,Employee,6,Post-BATNA,that's my best package.,,multi_013_turn_13,3,3
+multi_013,multi_013_HR,HR,6,Post-BATNA,understood.,,multi_013_turn_14,1,3
+multi_013,multi_013_HR,HR,6,Post-BATNA,we're aligned on the 15 vacation days.,,multi_013_turn_14,2,3
+multi_013,multi_013_HR,HR,6,Post-BATNA,"but we can't reach agreement on salary and bonus, so we'll stop here.",,multi_013_turn_14,3,3
+multi_014,multi_014_Employee,Employee,0,Pre-BATNA,hi there! thanks for taking the time to chat.,,multi_014_turn_01,1,1
+multi_014,multi_014_HR,HR,0,Pre-BATNA,hi! great to connect with you.,,multi_014_turn_02,1,1
+multi_014,multi_014_Employee,Employee,1,Pre-BATNA,hi!,,multi_014_turn_03,1,3
+multi_014,multi_014_Employee,Employee,1,Pre-BATNA,"i'm targeting $120k salary, 20% bonus, 20k in stock options, and 30 vacation days.",,multi_014_turn_03,2,3
+multi_014,multi_014_Employee,Employee,1,Pre-BATNA,where do you have flexibility?,,multi_014_turn_03,3,3
+multi_014,multi_014_HR,HR,1,Pre-BATNA,"we can do $100k salary, no bonus, 20k stock options, and 10 vacation days.",,multi_014_turn_04,1,3
+multi_014,multi_014_HR,HR,1,Pre-BATNA,our strongest flexibility is more likely on equity than cash or time off.,,multi_014_turn_04,2,3
+multi_014,multi_014_HR,HR,1,Pre-BATNA,which matters most to you?,,multi_014_turn_04,3,3
+multi_014,multi_014_Employee,Employee,2,Pre-BATNA,salary and vacation days matter most to me.,,multi_014_turn_05,1,3
+multi_014,multi_014_Employee,Employee,2,Pre-BATNA,i’m fine leaving the 20k stock as is.,,multi_014_turn_05,2,3
+multi_014,multi_014_Employee,Employee,2,Pre-BATNA,"if bonus stays light, is there any room on salary or vacation?",,multi_014_turn_05,3,3
+multi_014,multi_014_HR,HR,2,Pre-BATNA,there's some room on salary.,,multi_014_turn_06,1,3
+multi_014,multi_014_HR,HR,2,Pre-BATNA,i can move salary to $110k.,,multi_014_turn_06,2,3
+multi_014,multi_014_HR,HR,2,Pre-BATNA,"if bonus stays light, would more salary or more vacation help most?",,multi_014_turn_06,3,3
+multi_014,multi_014_Employee,Employee,3,Pre-BATNA,$110k salary works for now.,,multi_014_turn_07,1,2
+multi_014,multi_014_Employee,Employee,3,Pre-BATNA,I'd want 20% bonus and 30 vacation days.,,multi_014_turn_07,2,2
+multi_014,multi_014_HR,HR,3,Pre-BATNA,$110k salary seems aligned.,,multi_014_turn_08,1,2
+multi_014,multi_014_HR,HR,3,Pre-BATNA,I can do a 5% bonus and 15 vacation days.,,multi_014_turn_08,2,2
+multi_014,multi_014_Employee,Employee,4,Post-BATNA,"$110k salary works, and I'm aligned on stock.",,multi_014_turn_09,1,2
+multi_014,multi_014_Employee,Employee,4,Post-BATNA,"for the remaining pieces, I can do a 15% bonus and 30 vacation days.",,multi_014_turn_09,2,2
+multi_014,multi_014_HR,HR,4,Post-BATNA,$110k salary and stock are aligned.,,multi_014_turn_10,1,3
+multi_014,multi_014_HR,HR,4,Post-BATNA,I can do a 10% bonus and 15 vacation days.,,multi_014_turn_10,2,3
+multi_014,multi_014_HR,HR,4,Post-BATNA,balanced step to close.,,multi_014_turn_10,3,3
+multi_014,multi_014_Employee,Employee,5,Post-BATNA,salary and stock are aligned.,,multi_014_turn_11,1,3
+multi_014,multi_014_Employee,Employee,5,Post-BATNA,i can come down to 25 vacation days if we keep the bonus at 15%.,,multi_014_turn_11,2,3
+multi_014,multi_014_Employee,Employee,5,Post-BATNA,that should bridge the last gap.,,multi_014_turn_11,3,3
+multi_014,multi_014_HR,HR,5,Post-BATNA,salary and stock are aligned.,,multi_014_turn_12,1,3
+multi_014,multi_014_HR,HR,5,Post-BATNA,i can do 15% bonus and 15 vacation days.,,multi_014_turn_12,2,3
+multi_014,multi_014_HR,HR,5,Post-BATNA,cleanest way to finish.,,multi_014_turn_12,3,3
+multi_014,multi_014_Employee,Employee,6,Post-BATNA,"salary, bonus, and stock are aligned.",,multi_014_turn_13,1,2
+multi_014,multi_014_Employee,Employee,6,Post-BATNA,i can do 20 vacation days as the last bridge point.,,multi_014_turn_13,2,2
+multi_014,multi_014_HR,HR,6,Post-BATNA,can't do 20 vacation days.,,multi_014_turn_14,1,2
+multi_014,multi_014_HR,HR,6,Post-BATNA,no deal.,,multi_014_turn_14,2,2
+multi_015,multi_015_HR,HR,0,Pre-BATNA,"hi there, thanks for making the time today.",,multi_015_turn_01,1,1
+multi_015,multi_015_Employee,Employee,0,Pre-BATNA,"hi, thanks for meeting with me.",,multi_015_turn_02,1,1
+multi_015,multi_015_HR,HR,1,Pre-BATNA,hi,,multi_015_turn_03,1,3
+multi_015,multi_015_HR,HR,1,Pre-BATNA,what matters most to you on compensation?,,multi_015_turn_03,2,3
+multi_015,multi_015_HR,HR,1,Pre-BATNA,especially salary vs. bonus.,,multi_015_turn_03,3,3
+multi_015,multi_015_Employee,Employee,1,Pre-BATNA,"salary first, bonus second.",,multi_015_turn_04,1,2
+multi_015,multi_015_Employee,Employee,1,Pre-BATNA,"i’m looking for $120k salary, 20% bonus, 20k stock options, and 30 vacation days.",,multi_015_turn_04,2,2
+multi_015,multi_015_HR,HR,2,Pre-BATNA,"given salary is your top priority, i can do $100k salary, no bonus, 20k stock options, and 10 vacation days.",,multi_015_turn_05,1,3
+multi_015,multi_015_HR,HR,2,Pre-BATNA,there may be more room on stock than on bonus or vacation.,,multi_015_turn_05,2,3
+multi_015,multi_015_HR,HR,2,Pre-BATNA,can you move on bonus and vacation?,,multi_015_turn_05,3,3
+multi_015,multi_015_Employee,Employee,2,Pre-BATNA,stock at 20k works.,,multi_015_turn_06,1,4
+multi_015,multi_015_Employee,Employee,2,Pre-BATNA,salary is still the priority for me.,,multi_015_turn_06,2,4
+multi_015,multi_015_Employee,Employee,2,Pre-BATNA,"i can move bonus to 15%, but i’d keep vacation at 30 days.",,multi_015_turn_06,3,4
+multi_015,multi_015_Employee,Employee,2,Pre-BATNA,"if you need more movement there, can you come up on salary?",,multi_015_turn_06,4,4
+multi_015,multi_015_HR,HR,3,Pre-BATNA,i can come up on salary to $110k.,,multi_015_turn_07,1,2
+multi_015,multi_015_HR,HR,3,Pre-BATNA,and i can do 15 vacation days.,,multi_015_turn_07,2,2
+multi_015,multi_015_Employee,Employee,3,Pre-BATNA,$110k salary works.,,multi_015_turn_08,1,2
+multi_015,multi_015_Employee,Employee,3,Pre-BATNA,i can do a 15% bonus and 20 vacation days.,,multi_015_turn_08,2,2
+multi_015,multi_015_HR,HR,4,Post-BATNA,ok on salary.,,multi_015_turn_09,1,3
+multi_015,multi_015_HR,HR,4,Post-BATNA,"between the 15% bonus and 20 vacation days, which matters more to you?",,multi_015_turn_09,2,3
+multi_015,multi_015_HR,HR,4,Post-BATNA,"if we can only stretch on one of those, where would you want it?",,multi_015_turn_09,3,3
+multi_015,multi_015_Employee,Employee,4,Post-BATNA,vacation days matter more to me.,,multi_015_turn_10,1,2
+multi_015,multi_015_Employee,Employee,4,Post-BATNA,"if i prioritize 20 vacation days, what can you do on the bonus?",,multi_015_turn_10,2,2
+multi_015,multi_015_HR,HR,5,Post-BATNA,we've got more room on vacation than bonus.,,multi_015_turn_11,1,1
+multi_015,multi_015_Employee,Employee,5,Post-BATNA,then let's do 15% bonus and 20 vacation days.,,multi_015_turn_12,1,2
+multi_015,multi_015_Employee,Employee,5,Post-BATNA,salary is already agreed.,,multi_015_turn_12,2,2
+multi_015,multi_015_HR,HR,6,Post-BATNA,Let's talk about bonus next.,,multi_015_turn_13,1,1
+multi_015,multi_015_Employee,Employee,6,Post-BATNA,salary and stock were aligned.,,multi_015_turn_14,1,3
+multi_015,multi_015_Employee,Employee,6,Post-BATNA,but we never reached a final package on bonus and vacation.,,multi_015_turn_14,2,3
+multi_015,multi_015_Employee,Employee,6,Post-BATNA,so i’m going to step back from this one.,,multi_015_turn_14,3,3
+multi_016,multi_016_HR,HR,0,Pre-BATNA,hi there! thanks for making time today.,,multi_016_turn_01,1,1
+multi_016,multi_016_Employee,Employee,0,Pre-BATNA,"hey, thanks for meeting with me today.",,multi_016_turn_02,1,1
+multi_016,multi_016_HR,HR,1,Pre-BATNA,good to meet.,,multi_016_turn_03,1,3
+multi_016,multi_016_HR,HR,1,Pre-BATNA,what are your priorities on compensation?,,multi_016_turn_03,2,3
+multi_016,multi_016_HR,HR,1,Pre-BATNA,especially on salary and bonus.,,multi_016_turn_03,3,3
+multi_016,multi_016_Employee,Employee,1,Pre-BATNA,i'm targeting $120k salary and a 20% bonus.,,multi_016_turn_04,1,2
+multi_016,multi_016_Employee,Employee,1,Pre-BATNA,we can talk through the other pieces after that.,,multi_016_turn_04,2,2
+multi_016,multi_016_HR,HR,2,Pre-BATNA,"i can do $110k salary, no bonus, and $20k in stock options.",,multi_016_turn_05,1,3
+multi_016,multi_016_HR,HR,2,Pre-BATNA,10 vacation days.,,multi_016_turn_05,2,3
+multi_016,multi_016_HR,HR,2,Pre-BATNA,"stock is where we have the most room, if that's a priority.",,multi_016_turn_05,3,3
+multi_016,multi_016_Employee,Employee,2,Pre-BATNA,"if stock is already near your high end, is there any room on salary or bonus?",,multi_016_turn_06,1,2
+multi_016,multi_016_Employee,Employee,2,Pre-BATNA,cash is the bigger priority for me.,,multi_016_turn_06,2,2
+multi_016,multi_016_HR,HR,3,Pre-BATNA,i hear you.,,multi_016_turn_07,1,3
+multi_016,multi_016_HR,HR,3,Pre-BATNA,i can add a 5% bonus.,,multi_016_turn_07,2,3
+multi_016,multi_016_HR,HR,3,Pre-BATNA,stock is already strong here. does that narrow the gap?,,multi_016_turn_07,3,3
+multi_016,multi_016_Employee,Employee,3,Pre-BATNA,"a bit, but cash still needs to move more.",,multi_016_turn_08,1,2
+multi_016,multi_016_Employee,Employee,3,Pre-BATNA,"i'd do $120k salary, 15% bonus, $20k stock, and 25 vacation days.",,multi_016_turn_08,2,2
+multi_016,multi_016_HR,HR,4,Post-BATNA,i can do $120k salary and a 10% bonus.,,multi_016_turn_09,1,3
+multi_016,multi_016_HR,HR,4,Post-BATNA,that’s a meaningful move on cash.,,multi_016_turn_09,2,3
+multi_016,multi_016_HR,HR,4,Post-BATNA,can you narrow the gap on vacation days?,,multi_016_turn_09,3,3
+multi_016,multi_016_Employee,Employee,4,Post-BATNA,salary and stock are aligned.,,multi_016_turn_10,1,3
+multi_016,multi_016_Employee,Employee,4,Post-BATNA,i can come down to 20 vacation days.,,multi_016_turn_10,2,3
+multi_016,multi_016_Employee,Employee,4,Post-BATNA,i'd hold at a 15% bonus.,,multi_016_turn_10,3,3
+multi_016,multi_016_HR,HR,5,Post-BATNA,salary and stock are aligned.,,multi_016_turn_11,1,3
+multi_016,multi_016_HR,HR,5,Post-BATNA,i can do a 15% bonus with 15 vacation days.,,multi_016_turn_11,2,3
+multi_016,multi_016_HR,HR,5,Post-BATNA,that feels like a fair middle ground to close this out.,,multi_016_turn_11,3,3
+multi_016,multi_016_Employee,Employee,5,Post-BATNA,Let's talk about vacation days next.,,multi_016_turn_12,1,1
+multi_016,multi_016_HR,HR,6,Post-BATNA,15 vacation days.,,multi_016_turn_13,1,2
+multi_016,multi_016_HR,HR,6,Post-BATNA,can you close there?,,multi_016_turn_13,2,2
+multi_016,multi_016_Employee,Employee,6,Post-BATNA,can't close at 15 vacation days.,,multi_016_turn_14,1,2
+multi_016,multi_016_Employee,Employee,6,Post-BATNA,i'm out.,,multi_016_turn_14,2,2
+multi_017,multi_017_Employee,Employee,0,Pre-BATNA,"hi there, thanks for making time today.",,multi_017_turn_01,1,1
+multi_017,multi_017_HR,HR,0,Pre-BATNA,"hi, thanks for joining today.",,multi_017_turn_02,1,1
+multi_017,multi_017_Employee,Employee,1,Pre-BATNA,hi!,,multi_017_turn_03,1,3
+multi_017,multi_017_Employee,Employee,1,Pre-BATNA,"i'm looking for 120k salary, 20% bonus, 20k in stock options, and 30 vacation days.",,multi_017_turn_03,2,3
+multi_017,multi_017_Employee,Employee,1,Pre-BATNA,how does that line up on your side?,,multi_017_turn_03,3,3
+multi_017,multi_017_HR,HR,1,Pre-BATNA,"on our side, we're at $80k salary, 0% bonus, 20k stock options, and 10 vacation days.",,multi_017_turn_04,1,3
+multi_017,multi_017_HR,HR,1,Pre-BATNA,that's our starting point.,,multi_017_turn_04,2,3
+multi_017,multi_017_HR,HR,1,Pre-BATNA,"if there's movement, which pieces matter most to you?",,multi_017_turn_04,3,3
+multi_017,multi_017_Employee,Employee,2,Pre-BATNA,salary and vacation days are the biggest levers for me.,,multi_017_turn_05,1,2
+multi_017,multi_017_Employee,Employee,2,Pre-BATNA,where do you have the most flexibility on those?,,multi_017_turn_05,2,2
+multi_017,multi_017_HR,HR,2,Pre-BATNA,salary and vacation are the main areas we can discuss.,,multi_017_turn_06,1,4
+multi_017,multi_017_HR,HR,2,Pre-BATNA,the 20k in stock is already aligned.,,multi_017_turn_06,2,4
+multi_017,multi_017_HR,HR,2,Pre-BATNA,i can move salary to $90k.,,multi_017_turn_06,3,4
+multi_017,multi_017_HR,HR,2,Pre-BATNA,we can talk vacation next.,,multi_017_turn_06,4,4
+multi_017,multi_017_Employee,Employee,3,Pre-BATNA,got it.,,multi_017_turn_07,1,2
+multi_017,multi_017_Employee,Employee,3,Pre-BATNA,"with stock settled, i'd be at $110k salary and 30 vacation days.",,multi_017_turn_07,2,2
+multi_017,multi_017_HR,HR,3,Pre-BATNA,30 days is too far from where we can get.,,multi_017_turn_08,1,2
+multi_017,multi_017_HR,HR,3,Pre-BATNA,i can do 15 vacation days.,,multi_017_turn_08,2,2
+multi_017,multi_017_Employee,Employee,4,Post-BATNA,ok.,,multi_017_turn_09,1,3
+multi_017,multi_017_Employee,Employee,4,Post-BATNA,i can come down to 25 vacation days.,,multi_017_turn_09,2,3
+multi_017,multi_017_Employee,Employee,4,Post-BATNA,and i'd need a 20% bonus to balance that.,,multi_017_turn_09,3,3
+multi_017,multi_017_HR,HR,4,Post-BATNA,i see the movement on vacation.,,multi_017_turn_10,1,4
+multi_017,multi_017_HR,HR,4,Post-BATNA,25 days and 20% bonus is still too rich.,,multi_017_turn_10,2,4
+multi_017,multi_017_HR,HR,4,Post-BATNA,i can do a 10% bonus and hold vacation at 15 days.,,multi_017_turn_10,3,4
+multi_017,multi_017_HR,HR,4,Post-BATNA,"if we're closer there, we can talk salary next.",,multi_017_turn_10,4,4
+multi_017,multi_017_Employee,Employee,5,Post-BATNA,ok.,,multi_017_turn_11,1,3
+multi_017,multi_017_Employee,Employee,5,Post-BATNA,"on salary, i can do $110k with a 15% bonus.",,multi_017_turn_11,2,3
+multi_017,multi_017_Employee,Employee,5,Post-BATNA,stock is settled; trying to narrow the gap.,,multi_017_turn_11,3,3
+multi_017,multi_017_HR,HR,5,Post-BATNA,$100k salary and 15% bonus.,,multi_017_turn_12,1,2
+multi_017,multi_017_HR,HR,5,Post-BATNA,vacation stays at 15 days.,,multi_017_turn_12,2,2
+multi_017,multi_017_Employee,Employee,6,Post-BATNA,"$110k salary, 15% bonus, $20k stock, 20 vacation days.",,multi_017_turn_13,1,2
+multi_017,multi_017_Employee,Employee,6,Post-BATNA,that's my close.,,multi_017_turn_13,2,2
+multi_017,multi_017_HR,HR,6,Post-BATNA,understood.,,multi_017_turn_14,1,4
+multi_017,multi_017_HR,HR,6,Post-BATNA,we made progress on bonus and stock.,,multi_017_turn_14,2,4
+multi_017,multi_017_HR,HR,6,Post-BATNA,but we can't get to $110k salary and 20 vacation days.,,multi_017_turn_14,3,4
+multi_017,multi_017_HR,HR,6,Post-BATNA,i don't want to force a deal outside our limits.,,multi_017_turn_14,4,4
+multi_018,multi_018_HR,HR,0,Pre-BATNA,hi there! thanks for taking the time to chat today.,,multi_018_turn_01,1,1
+multi_018,multi_018_Employee,Employee,0,Pre-BATNA,"hi! thanks for reaching out, good to meet you.",,multi_018_turn_02,1,1
+multi_018,multi_018_HR,HR,1,Pre-BATNA,hi!,,multi_018_turn_03,1,4
+multi_018,multi_018_HR,HR,1,Pre-BATNA,good to meet you too.,,multi_018_turn_03,2,4
+multi_018,multi_018_HR,HR,1,Pre-BATNA,what matters most in the package for you?,,multi_018_turn_03,3,4
+multi_018,multi_018_HR,HR,1,Pre-BATNA,any targets in mind for salary or bonus?,,multi_018_turn_03,4,4
+multi_018,multi_018_Employee,Employee,1,Pre-BATNA,salary and bonus are the main priorities for me.,,multi_018_turn_04,1,3
+multi_018,multi_018_Employee,Employee,1,Pre-BATNA,"i'm targeting $120k salary, a 20% bonus, 20k in stock options, and 30 vacation days.",,multi_018_turn_04,2,3
+multi_018,multi_018_Employee,Employee,1,Pre-BATNA,happy to discuss tradeoffs across the package.,,multi_018_turn_04,3,3
+multi_018,multi_018_HR,HR,2,Pre-BATNA,got it.,,multi_018_turn_05,1,3
+multi_018,multi_018_HR,HR,2,Pre-BATNA,"i can do $100k salary, 0% bonus, 20k stock options, and 10 vacation days.",,multi_018_turn_05,2,3
+multi_018,multi_018_HR,HR,2,Pre-BATNA,"if salary and bonus are the priorities, what tradeoff do you want to make?",,multi_018_turn_05,3,3
+multi_018,multi_018_Employee,Employee,2,Pre-BATNA,"on those two, i'd move to $110k salary and a 20% bonus.",,multi_018_turn_06,1,2
+multi_018,multi_018_Employee,Employee,2,Pre-BATNA,we can leave stock as is and talk vacation after that.,,multi_018_turn_06,2,2
+multi_018,multi_018_HR,HR,3,Pre-BATNA,ok.,,multi_018_turn_07,1,3
+multi_018,multi_018_HR,HR,3,Pre-BATNA,i can do $110k salary and a 5% bonus.,,multi_018_turn_07,2,3
+multi_018,multi_018_HR,HR,3,Pre-BATNA,we can come back to vacation once salary and bonus are closer.,,multi_018_turn_07,3,3
+multi_018,multi_018_Employee,Employee,3,Pre-BATNA,salary and stock are aligned.,,multi_018_turn_08,1,2
+multi_018,multi_018_Employee,Employee,3,Pre-BATNA,"on the remaining pieces, 15% bonus and 30 vacation days.",,multi_018_turn_08,2,2
+multi_018,multi_018_HR,HR,4,Post-BATNA,ok — salary and stock are settled.,,multi_018_turn_09,1,3
+multi_018,multi_018_HR,HR,4,Post-BATNA,"between bonus and vacation, which matters more?",,multi_018_turn_09,2,3
+multi_018,multi_018_HR,HR,4,Post-BATNA,"if we move one up, would you trade the other down?",,multi_018_turn_09,3,3
+multi_018,multi_018_Employee,Employee,4,Post-BATNA,vacation matters more.,,multi_018_turn_10,1,2
+multi_018,multi_018_Employee,Employee,4,Post-BATNA,i can do a 15% bonus if we make it 25 vacation days.,,multi_018_turn_10,2,2
+multi_018,multi_018_HR,HR,5,Post-BATNA,Let's talk about bonus next.,,multi_018_turn_11,1,1
+multi_018,multi_018_Employee,Employee,5,Post-BATNA,ok.,,multi_018_turn_12,1,3
+multi_018,multi_018_Employee,Employee,5,Post-BATNA,i can do a 10% bonus.,,multi_018_turn_12,2,3
+multi_018,multi_018_Employee,Employee,5,Post-BATNA,vacation would stay at 25 days.,,multi_018_turn_12,3,3
+multi_018,multi_018_HR,HR,6,Post-BATNA,10% bonus noted.,,multi_018_turn_13,1,2
+multi_018,multi_018_HR,HR,6,Post-BATNA,vacation is the remaining gap.,,multi_018_turn_13,2,2
+multi_018,multi_018_Employee,Employee,6,Post-BATNA,then we don't have a deal.,,multi_018_turn_14,1,1
+multi_019,multi_019_HR,HR,0,Pre-BATNA,"hi there, thanks for taking the time to chat.",,multi_019_turn_01,1,1
+multi_019,multi_019_Employee,Employee,0,Pre-BATNA,"hi, thanks for meeting with me.",,multi_019_turn_02,1,1
+multi_019,multi_019_HR,HR,1,Pre-BATNA,hi!,,multi_019_turn_03,1,3
+multi_019,multi_019_HR,HR,1,Pre-BATNA,"80k salary, 0% bonus, 20k stock options, 10 vacation days.",,multi_019_turn_03,2,3
+multi_019,multi_019_HR,HR,1,Pre-BATNA,what's your reaction?,,multi_019_turn_03,3,3
+multi_019,multi_019_Employee,Employee,1,Pre-BATNA,thanks. i appreciate the 20k stock options.,,multi_019_turn_04,1,2
+multi_019,multi_019_Employee,Employee,1,Pre-BATNA,"i'd be looking for 120k salary, a 20% bonus, 20k in stock options, and 30 vacation days.",,multi_019_turn_04,2,2
+multi_019,multi_019_HR,HR,2,Pre-BATNA,20k stock is aligned.,,multi_019_turn_05,1,3
+multi_019,multi_019_HR,HR,2,Pre-BATNA,"between salary, bonus, and vacation, which matters most to you?",,multi_019_turn_05,2,3
+multi_019,multi_019_HR,HR,2,Pre-BATNA,"if one moved less, where would you want the most flexibility?",,multi_019_turn_05,3,3
+multi_019,multi_019_Employee,Employee,2,Pre-BATNA,salary matters most for me.,,multi_019_turn_06,1,3
+multi_019,multi_019_Employee,Employee,2,Pre-BATNA,i've got more flexibility on bonus and vacation than on base pay.,,multi_019_turn_06,2,3
+multi_019,multi_019_Employee,Employee,2,Pre-BATNA,what room do you have on salary versus bonus?,,multi_019_turn_06,3,3
+multi_019,multi_019_HR,HR,3,Pre-BATNA,salary is the main place we can move.,,multi_019_turn_07,1,4
+multi_019,multi_019_HR,HR,3,Pre-BATNA,i can do 90k base.,,multi_019_turn_07,2,4
+multi_019,multi_019_HR,HR,3,Pre-BATNA,stock stays at 20k.,,multi_019_turn_07,3,4
+multi_019,multi_019_HR,HR,3,Pre-BATNA,we can talk bonus and vacation next.,,multi_019_turn_07,4,4
+multi_019,multi_019_Employee,Employee,3,Pre-BATNA,90k on base is too low for me.,,multi_019_turn_08,1,4
+multi_019,multi_019_Employee,Employee,3,Pre-BATNA,I'd need 110k salary.,,multi_019_turn_08,2,4
+multi_019,multi_019_Employee,Employee,3,Pre-BATNA,stock at 20k is fine.,,multi_019_turn_08,3,4
+multi_019,multi_019_Employee,Employee,3,Pre-BATNA,we can do bonus and vacation next.,,multi_019_turn_08,4,4
+multi_019,multi_019_HR,HR,4,Post-BATNA,110k base is above our current salary range.,,multi_019_turn_09,1,2
+multi_019,multi_019_HR,HR,4,Post-BATNA,"if base stays closer to our side, what would you need on bonus and vacation?",,multi_019_turn_09,2,2
+multi_019,multi_019_Employee,Employee,4,Post-BATNA,"if base stays closer to your side, I'd need a 15% bonus and 30 vacation days.",,multi_019_turn_10,1,2
+multi_019,multi_019_Employee,Employee,4,Post-BATNA,110k on salary is still my position.,,multi_019_turn_10,2,2
+multi_019,multi_019_HR,HR,5,Post-BATNA,i can move to 100k salary and a 10% bonus.,,multi_019_turn_11,1,2
+multi_019,multi_019_HR,HR,5,Post-BATNA,"if salary is the sticking point, vacation can be the next item.",,multi_019_turn_11,2,2
+multi_019,multi_019_Employee,Employee,5,Post-BATNA,100k salary could work with a 15% bonus and 30 vacation days.,,multi_019_turn_12,1,1
+multi_019,multi_019_HR,HR,6,Post-BATNA,Let's talk about bonus next.,,multi_019_turn_13,1,1
+multi_019,multi_019_Employee,Employee,6,Post-BATNA,there isn't a complete acceptable offer on the table.,,multi_019_turn_14,1,2
+multi_019,multi_019_Employee,Employee,6,Post-BATNA,i'm going to step back here.,,multi_019_turn_14,2,2
+multi_020,multi_020_HR,HR,0,Pre-BATNA,hi there! nice to meet you,,multi_020_turn_01,1,1
+multi_020,multi_020_Employee,Employee,0,Pre-BATNA,"hi, nice to meet you too!",,multi_020_turn_02,1,1
+multi_020,multi_020_HR,HR,1,Pre-BATNA,hi!,,multi_020_turn_03,1,3
+multi_020,multi_020_HR,HR,1,Pre-BATNA,"80k salary, no bonus, 20k in stock options, and 10 vacation days.",,multi_020_turn_03,2,3
+multi_020,multi_020_HR,HR,1,Pre-BATNA,which parts matter most to you?,,multi_020_turn_03,3,3
+multi_020,multi_020_Employee,Employee,1,Pre-BATNA,salary and vacation matter most to me.,,multi_020_turn_04,1,3
+multi_020,multi_020_Employee,Employee,1,Pre-BATNA,stock already looks solid at 20k.,,multi_020_turn_04,2,3
+multi_020,multi_020_Employee,Employee,1,Pre-BATNA,"i'd be looking for 120k salary, 20% bonus, 20k stock, and 30 vacation days.",,multi_020_turn_04,3,3
+multi_020,multi_020_HR,HR,2,Pre-BATNA,got it — sounds like we're aligned on the 20k stock.,,multi_020_turn_05,1,2
+multi_020,multi_020_HR,HR,2,Pre-BATNA,"between salary and vacation, would you trade some vacation days for higher salary, or some salary for more time off?",,multi_020_turn_05,2,2
+multi_020,multi_020_Employee,Employee,2,Pre-BATNA,"both matter, so it depends where you have more flexibility.",,multi_020_turn_06,1,2
+multi_020,multi_020_Employee,Employee,2,Pre-BATNA,"if salary can move more, i'd lean that way; if vacation can move more, i'm open there.",,multi_020_turn_06,2,2
+multi_020,multi_020_HR,HR,3,Pre-BATNA,we can move a bit on salary.,,multi_020_turn_07,1,3
+multi_020,multi_020_HR,HR,3,Pre-BATNA,$90k base.,,multi_020_turn_07,2,3
+multi_020,multi_020_HR,HR,3,Pre-BATNA,"on the remaining tradeoff, would you rather talk bonus or vacation next?",,multi_020_turn_07,3,3
+multi_020,multi_020_Employee,Employee,3,Pre-BATNA,bonus and vacation.,,multi_020_turn_08,1,2
+multi_020,multi_020_Employee,Employee,3,Pre-BATNA,i'd do 20% bonus and 25 vacation days.,,multi_020_turn_08,2,2
+multi_020,multi_020_HR,HR,4,Post-BATNA,10% bonus.,,multi_020_turn_09,1,2
+multi_020,multi_020_HR,HR,4,Post-BATNA,vacation next.,,multi_020_turn_09,2,2
+multi_020,multi_020_Employee,Employee,4,Post-BATNA,got it.,,multi_020_turn_10,1,2
+multi_020,multi_020_Employee,Employee,4,Post-BATNA,25 vacation days.,,multi_020_turn_10,2,2
+multi_020,multi_020_HR,HR,5,Post-BATNA,i can move vacation to 15 days if we bring salary to $100k.,,multi_020_turn_11,1,3
+multi_020,multi_020_HR,HR,5,Post-BATNA,"if vacation stays higher than that, i'd need movement elsewhere.",,multi_020_turn_11,2,3
+multi_020,multi_020_HR,HR,5,Post-BATNA,what do you want to do on bonus?,,multi_020_turn_11,3,3
+multi_020,multi_020_Employee,Employee,5,Post-BATNA,15% bonus.,,multi_020_turn_12,1,2
+multi_020,multi_020_Employee,Employee,5,Post-BATNA,and 15 vacation days.,,multi_020_turn_12,2,2
+multi_020,multi_020_HR,HR,6,Post-BATNA,100k salary and 15% bonus.,,multi_020_turn_13,1,3
+multi_020,multi_020_HR,HR,6,Post-BATNA,20k stock and 15 vacation days.,,multi_020_turn_13,2,3
+multi_020,multi_020_HR,HR,6,Post-BATNA,that's the full package.,,multi_020_turn_13,3,3
+multi_020,multi_020_Employee,Employee,6,Post-BATNA,"bonus, stock, and vacation work.",,multi_020_turn_14,1,2
+multi_020,multi_020_Employee,Employee,6,Post-BATNA,"salary is still too far apart, so i can't finalize on these terms.",,multi_020_turn_14,2,2
+multi_021,multi_021_HR,HR,0,Pre-BATNA,hi there! thanks for making time today.,,multi_021_turn_01,1,1
+multi_021,multi_021_Employee,Employee,0,Pre-BATNA,hi! thanks for meeting with me today.,,multi_021_turn_02,1,1
+multi_021,multi_021_HR,HR,1,Pre-BATNA,happy to connect.,,multi_021_turn_03,1,3
+multi_021,multi_021_HR,HR,1,Pre-BATNA,"to get us started: $80k salary, no bonus, $20k in stock options, and 10 vacation days.",,multi_021_turn_03,2,3
+multi_021,multi_021_HR,HR,1,Pre-BATNA,what are your priorities?,,multi_021_turn_03,3,3
+multi_021,multi_021_Employee,Employee,1,Pre-BATNA,salary and vacation days are the main priorities for me.,,multi_021_turn_04,1,3
+multi_021,multi_021_Employee,Employee,1,Pre-BATNA,the stock piece matters less.,,multi_021_turn_04,2,3
+multi_021,multi_021_Employee,Employee,1,Pre-BATNA,is there room to move on salary or pto?,,multi_021_turn_04,3,3
+multi_021,multi_021_HR,HR,2,Pre-BATNA,there may be some flexibility there.,,multi_021_turn_05,1,2
+multi_021,multi_021_HR,HR,2,Pre-BATNA,"if we can improve one more than the other, is salary or pto the bigger priority for you?",,multi_021_turn_05,2,2
+multi_021,multi_021_Employee,Employee,2,Pre-BATNA,salary is the bigger priority for me.,,multi_021_turn_06,1,3
+multi_021,multi_021_Employee,Employee,2,Pre-BATNA,pto also matters.,,multi_021_turn_06,2,3
+multi_021,multi_021_Employee,Employee,2,Pre-BATNA,i'd be looking for $110k salary and 30 vacation days.,,multi_021_turn_06,3,3
+multi_021,multi_021_HR,HR,3,Pre-BATNA,"salary's the bigger lever, so i can move to $100k.",,multi_021_turn_07,1,3
+multi_021,multi_021_HR,HR,3,Pre-BATNA,for now i'm holding on pto.,,multi_021_turn_07,2,3
+multi_021,multi_021_HR,HR,3,Pre-BATNA,"if stock or bonus can do more work for you, we can talk there.",,multi_021_turn_07,3,3
+multi_021,multi_021_Employee,Employee,3,Pre-BATNA,i appreciate the move on salary.,,multi_021_turn_08,1,3
+multi_021,multi_021_Employee,Employee,3,Pre-BATNA,"if pto can stay at 30 days, i can be flexible on bonus.",,multi_021_turn_08,2,3
+multi_021,multi_021_Employee,Employee,3,Pre-BATNA,would 10% bonus and 30 vacation days work?,,multi_021_turn_08,3,3
+multi_021,multi_021_HR,HR,4,Post-BATNA,i can do a 10% bonus.,,multi_021_turn_09,1,2
+multi_021,multi_021_HR,HR,4,Post-BATNA,vacation would stay at 10 days.,,multi_021_turn_09,2,2
+multi_021,multi_021_Employee,Employee,4,Post-BATNA,got it.,,multi_021_turn_10,1,2
+multi_021,multi_021_Employee,Employee,4,Post-BATNA,$110k salary and 25 vacation days?,,multi_021_turn_10,2,2
+multi_021,multi_021_HR,HR,5,Post-BATNA,$110k salary and 15 vacation days.,,multi_021_turn_11,1,3
+multi_021,multi_021_HR,HR,5,Post-BATNA,10% bonus is already set.,,multi_021_turn_11,2,3
+multi_021,multi_021_HR,HR,5,Post-BATNA,"if you want to close the remaining gap, we can talk stock.",,multi_021_turn_11,3,3
+multi_021,multi_021_Employee,Employee,5,Post-BATNA,ok on salary and bonus.,,multi_021_turn_12,1,2
+multi_021,multi_021_Employee,Employee,5,Post-BATNA,then 20k stock options and 25 vacation days?,,multi_021_turn_12,2,2
+multi_021,multi_021_HR,HR,6,Post-BATNA,20 vacation days.,,multi_021_turn_13,1,2
+multi_021,multi_021_HR,HR,6,Post-BATNA,that's the best remaining package.,,multi_021_turn_13,2,2
+multi_021,multi_021_Employee,Employee,6,Post-BATNA,i can't do 20 vacation days.,,multi_021_turn_14,1,2
+multi_021,multi_021_Employee,Employee,6,Post-BATNA,i'm going to pass.,,multi_021_turn_14,2,2
+multi_022,multi_022_HR,HR,0,Pre-BATNA,hi there! great to connect.,,multi_022_turn_01,1,1
+multi_022,multi_022_Employee,Employee,0,Pre-BATNA,hi! great to connect too.,,multi_022_turn_02,1,1
+multi_022,multi_022_HR,HR,1,Pre-BATNA,what are you targeting on salary and bonus?,,multi_022_turn_03,1,2
+multi_022,multi_022_HR,HR,1,Pre-BATNA,any flexibility there?,,multi_022_turn_03,2,2
+multi_022,multi_022_Employee,Employee,1,Pre-BATNA,i'm targeting $120k salary and a 20% bonus.,,multi_022_turn_04,1,3
+multi_022,multi_022_Employee,Employee,1,Pre-BATNA,there's some flexibility in the overall package.,,multi_022_turn_04,2,3
+multi_022,multi_022_Employee,Employee,1,Pre-BATNA,we can talk through equity or vacation next.,,multi_022_turn_04,3,3
+multi_022,multi_022_HR,HR,2,Pre-BATNA,your cash targets are above where we can go.,,multi_022_turn_05,1,2
+multi_022,multi_022_HR,HR,2,Pre-BATNA,"i can do $90k salary, 15% bonus, 20k stock options, and 10 vacation days.",,multi_022_turn_05,2,2
+multi_022,multi_022_Employee,Employee,2,Pre-BATNA,understood on the cash constraints.,,multi_022_turn_06,1,3
+multi_022,multi_022_Employee,Employee,2,Pre-BATNA,20k stock options works.,,multi_022_turn_06,2,3
+multi_022,multi_022_Employee,Employee,2,Pre-BATNA,can we make it 15 vacation days?,,multi_022_turn_06,3,3
+multi_022,multi_022_HR,HR,3,Pre-BATNA,20k stock is settled.,,multi_022_turn_07,1,2
+multi_022,multi_022_HR,HR,3,Pre-BATNA,"if we go to 15 vacation days, would you move on salary or bonus?",,multi_022_turn_07,2,2
+multi_022,multi_022_Employee,Employee,3,Pre-BATNA,"yes — if you can do 15 vacation days, i'd move on salary.",,multi_022_turn_08,1,2
+multi_022,multi_022_Employee,Employee,3,Pre-BATNA,i can come to $110k salary with a 20% bonus.,,multi_022_turn_08,2,2
+multi_022,multi_022_HR,HR,4,Post-BATNA,$100k salary and 15% bonus.,,multi_022_turn_09,1,2
+multi_022,multi_022_HR,HR,4,Post-BATNA,stock is already settled.,,multi_022_turn_09,2,2
+multi_022,multi_022_Employee,Employee,4,Post-BATNA,"if salary and bonus stay at $100k and 15%, i need 15 vacation days.",,multi_022_turn_10,1,1
+multi_022,multi_022_HR,HR,5,Post-BATNA,15 vacation days.,,multi_022_turn_11,1,2
+multi_022,multi_022_HR,HR,5,Post-BATNA,with $100k salary and 15% bonus.,,multi_022_turn_11,2,2
+multi_022,multi_022_Employee,Employee,5,Post-BATNA,ok on vacation and stock.,,multi_022_turn_12,1,3
+multi_022,multi_022_Employee,Employee,5,Post-BATNA,i can do 15% bonus.,,multi_022_turn_12,2,3
+multi_022,multi_022_Employee,Employee,5,Post-BATNA,salary at $110k?,,multi_022_turn_12,3,3
+multi_022,multi_022_HR,HR,6,Post-BATNA,"$110k salary, 15% bonus, $20k stock, 15 vacation days.",,multi_022_turn_13,1,2
+multi_022,multi_022_HR,HR,6,Post-BATNA,deal.,,multi_022_turn_13,2,2
+multi_022,multi_022_Employee,Employee,6,Post-BATNA,deal,,multi_022_turn_14,1,1
+multi_023,multi_023_Employee,Employee,0,Pre-BATNA,hi there! thanks for making time to chat.,,multi_023_turn_01,1,1
+multi_023,multi_023_HR,HR,0,Pre-BATNA,"hi! great to connect, thanks for reaching out.",,multi_023_turn_02,1,1
+multi_023,multi_023_Employee,Employee,1,Pre-BATNA,"120k salary, 20% bonus, 20k in stock options, and 30 vacation days.",,multi_023_turn_03,1,2
+multi_023,multi_023_Employee,Employee,1,Pre-BATNA,how does that look on your side?,,multi_023_turn_03,2,2
+multi_023,multi_023_HR,HR,1,Pre-BATNA,"here’s our starting package: $80k salary, no bonus, 20k stock options, and 10 vacation days.",,multi_023_turn_04,1,2
+multi_023,multi_023_HR,HR,1,Pre-BATNA,how does that sound?,,multi_023_turn_04,2,2
+multi_023,multi_023_Employee,Employee,2,Pre-BATNA,stock at 20k works for me.,,multi_023_turn_05,1,2
+multi_023,multi_023_Employee,Employee,2,Pre-BATNA,"is there more room on salary, vacation days, or both?",,multi_023_turn_05,2,2
+multi_023,multi_023_HR,HR,2,Pre-BATNA,stock at 20k is agreed.,,multi_023_turn_06,1,3
+multi_023,multi_023_HR,HR,2,Pre-BATNA,i can move salary to $90k.,,multi_023_turn_06,2,3
+multi_023,multi_023_HR,HR,2,Pre-BATNA,we can talk vacation next.,,multi_023_turn_06,3,3
+multi_023,multi_023_Employee,Employee,3,Pre-BATNA,ok.,,multi_023_turn_07,1,3
+multi_023,multi_023_Employee,Employee,3,Pre-BATNA,"for vacation, i'd need 25 days.",,multi_023_turn_07,2,3
+multi_023,multi_023_Employee,Employee,3,Pre-BATNA,and 20% bonus.,,multi_023_turn_07,3,3
+multi_023,multi_023_HR,HR,3,Pre-BATNA,20% bonus and 25 days are higher than we can do.,,multi_023_turn_08,1,2
+multi_023,multi_023_HR,HR,3,Pre-BATNA,i can offer a 5% bonus and 15 vacation days.,,multi_023_turn_08,2,2
+multi_023,multi_023_Employee,Employee,4,Post-BATNA,15% bonus and 20 vacation days.,,multi_023_turn_09,1,3
+multi_023,multi_023_Employee,Employee,4,Post-BATNA,that’s a reasonable middle step.,,multi_023_turn_09,2,3
+multi_023,multi_023_Employee,Employee,4,Post-BATNA,can you move on salary from $90k?,,multi_023_turn_09,3,3
+multi_023,multi_023_HR,HR,4,Post-BATNA,i can do $100k salary.,,multi_023_turn_10,1,2
+multi_023,multi_023_HR,HR,4,Post-BATNA,"if salary moves up, bonus and vacation stay at 5% and 15 days for now.",,multi_023_turn_10,2,2
+multi_023,multi_023_Employee,Employee,5,Post-BATNA,$110k salary.,,multi_023_turn_11,1,3
+multi_023,multi_023_Employee,Employee,5,Post-BATNA,i'd still want 15% bonus and 20 days vacation.,,multi_023_turn_11,2,3
+multi_023,multi_023_Employee,Employee,5,Post-BATNA,that feels like a practical middle ground.,,multi_023_turn_11,3,3
+multi_023,multi_023_HR,HR,5,Post-BATNA,i can meet you at $110k salary.,,multi_023_turn_12,1,2
+multi_023,multi_023_HR,HR,5,Post-BATNA,with a 10% bonus.,,multi_023_turn_12,2,2
+multi_023,multi_023_Employee,Employee,6,Post-BATNA,10% bonus works if you can do 20 vacation days.,,multi_023_turn_13,1,2
+multi_023,multi_023_Employee,Employee,6,Post-BATNA,"salary and stock are already aligned, and that wraps it.",,multi_023_turn_13,2,2
+multi_023,multi_023_HR,HR,6,Post-BATNA,"can't do 20 vacation days, so no deal.",,multi_023_turn_14,1,1
+multi_024,multi_024_Employee,Employee,0,Pre-BATNA,hi there! thanks for making time to chat.,,multi_024_turn_01,1,1
+multi_024,multi_024_HR,HR,0,Pre-BATNA,hi! happy to chat today.,,multi_024_turn_02,1,1
+multi_024,multi_024_Employee,Employee,1,Pre-BATNA,hi!,,multi_024_turn_03,1,3
+multi_024,multi_024_Employee,Employee,1,Pre-BATNA,"i’m targeting $120k salary, 20% bonus, 20k stock options, and 30 vacation days.",,multi_024_turn_03,2,3
+multi_024,multi_024_Employee,Employee,1,Pre-BATNA,what’s your reaction to that package?,,multi_024_turn_03,3,3
+multi_024,multi_024_HR,HR,1,Pre-BATNA,"$100k salary, 0% bonus, 20k stock options, and 10 vacation days.",,multi_024_turn_04,1,2
+multi_024,multi_024_HR,HR,1,Pre-BATNA,where do you have the most flexibility?,,multi_024_turn_04,2,2
+multi_024,multi_024_Employee,Employee,2,Pre-BATNA,stock looks aligned at 20k.,,multi_024_turn_05,1,4
+multi_024,multi_024_Employee,Employee,2,Pre-BATNA,i have a bit more flexibility on bonus than salary or vacation.,,multi_024_turn_05,2,4
+multi_024,multi_024_Employee,Employee,2,Pre-BATNA,i can come down to a 15% bonus for now.,,multi_024_turn_05,3,4
+multi_024,multi_024_Employee,Employee,2,Pre-BATNA,can you move on salary and vacation?,,multi_024_turn_05,4,4
+multi_024,multi_024_HR,HR,2,Pre-BATNA,bonus move noted.,,multi_024_turn_06,1,2
+multi_024,multi_024_HR,HR,2,Pre-BATNA,I can do $110k salary.,,multi_024_turn_06,2,2
+multi_024,multi_024_Employee,Employee,3,Pre-BATNA,got it.,,multi_024_turn_07,1,2
+multi_024,multi_024_Employee,Employee,3,Pre-BATNA,any room on bonus or vacation days?,,multi_024_turn_07,2,2
+multi_024,multi_024_HR,HR,3,Pre-BATNA,a bit on bonus.,,multi_024_turn_08,1,3
+multi_024,multi_024_HR,HR,3,Pre-BATNA,i can do 5%.,,multi_024_turn_08,2,3
+multi_024,multi_024_HR,HR,3,Pre-BATNA,what are you looking for on vacation days?,,multi_024_turn_08,3,3
+multi_024,multi_024_Employee,Employee,4,Post-BATNA,25 days.,,multi_024_turn_09,1,2
+multi_024,multi_024_Employee,Employee,4,Post-BATNA,that would work on my end.,,multi_024_turn_09,2,2
+multi_024,multi_024_HR,HR,4,Post-BATNA,25 days noted.,,multi_024_turn_10,1,2
+multi_024,multi_024_HR,HR,4,Post-BATNA,do you have any flexibility on salary or bonus?,,multi_024_turn_10,2,2
+multi_024,multi_024_Employee,Employee,5,Post-BATNA,i can hold salary at $120k and move bonus to 10%.,,multi_024_turn_11,1,1
+multi_024,multi_024_HR,HR,5,Post-BATNA,"if we keep $120k salary and 10% bonus, would you trade on vacation days?",,multi_024_turn_12,1,2
+multi_024,multi_024_HR,HR,5,Post-BATNA,would 20 days work?,,multi_024_turn_12,2,2
+multi_024,multi_024_Employee,Employee,6,Post-BATNA,20 days works.,,multi_024_turn_13,1,2
+multi_024,multi_024_Employee,Employee,6,Post-BATNA,that closes it for me.,,multi_024_turn_13,2,2
+multi_024,multi_024_HR,HR,6,Post-BATNA,then we're not aligned.,,multi_024_turn_14,1,1
+multi_025,multi_025_Employee,Employee,0,Pre-BATNA,hi there! thanks for making time to chat.,,multi_025_turn_01,1,1
+multi_025,multi_025_HR,HR,0,Pre-BATNA,hi! thanks for taking the time to meet today.,,multi_025_turn_02,1,1
+multi_025,multi_025_Employee,Employee,1,Pre-BATNA,hi!,,multi_025_turn_03,1,4
+multi_025,multi_025_Employee,Employee,1,Pre-BATNA,happy to chat.,,multi_025_turn_03,2,4
+multi_025,multi_025_Employee,Employee,1,Pre-BATNA,"as a starting point, I'm looking for $120k salary, a 20% bonus, 20k in stock options, and 30 vacation days.",,multi_025_turn_03,3,4
+multi_025,multi_025_Employee,Employee,1,Pre-BATNA,where do you have flexibility?,,multi_025_turn_03,4,4
+multi_025,multi_025_HR,HR,1,Pre-BATNA,cash and vacation are tighter.,,multi_025_turn_04,1,3
+multi_025,multi_025_HR,HR,1,Pre-BATNA,"we can do $80k salary, no bonus, 20k stock options, and 10 vacation days.",,multi_025_turn_04,2,3
+multi_025,multi_025_HR,HR,1,Pre-BATNA,equity is the piece with more room.,,multi_025_turn_04,3,3
+multi_025,multi_025_Employee,Employee,2,Pre-BATNA,got it — equity sounds aligned.,,multi_025_turn_05,1,2
+multi_025,multi_025_Employee,Employee,2,Pre-BATNA,"between salary and bonus, which has more room?",,multi_025_turn_05,2,2
+multi_025,multi_025_HR,HR,2,Pre-BATNA,bonus has a bit more room.,,multi_025_turn_06,1,2
+multi_025,multi_025_HR,HR,2,Pre-BATNA,we can do a 5% bonus.,,multi_025_turn_06,2,2
+multi_025,multi_025_Employee,Employee,3,Pre-BATNA,5% is a move.,,multi_025_turn_07,1,2
+multi_025,multi_025_Employee,Employee,3,Pre-BATNA,could you do a 10% bonus and 25 vacation days?,,multi_025_turn_07,2,2
+multi_025,multi_025_HR,HR,3,Pre-BATNA,10% bonus works.,,multi_025_turn_08,1,3
+multi_025,multi_025_HR,HR,3,Pre-BATNA,25 vacation days doesn't.,,multi_025_turn_08,2,3
+multi_025,multi_025_HR,HR,3,Pre-BATNA,"if vacation is the priority, we can talk salary or days.",,multi_025_turn_08,3,3
+multi_025,multi_025_Employee,Employee,4,Post-BATNA,10% bonus works.,,multi_025_turn_09,1,2
+multi_025,multi_025_Employee,Employee,4,Post-BATNA,"which path has more room right now: higher salary with fewer days, or more days with lower salary?",,multi_025_turn_09,2,2
+multi_025,multi_025_HR,HR,4,Post-BATNA,10% bonus is settled.,,multi_025_turn_10,1,3
+multi_025,multi_025_HR,HR,4,Post-BATNA,there's more room on salary than on extra days.,,multi_025_turn_10,2,3
+multi_025,multi_025_HR,HR,4,Post-BATNA,which matters more to you: salary or vacation days?,,multi_025_turn_10,3,3
+multi_025,multi_025_Employee,Employee,5,Post-BATNA,salary matters more.,,multi_025_turn_11,1,2
+multi_025,multi_025_Employee,Employee,5,Post-BATNA,i’d be at $120k salary with 20 vacation days.,,multi_025_turn_11,2,2
+multi_025,multi_025_HR,HR,5,Post-BATNA,"given that salary matters more, i can do $110k salary and 10 vacation days.",,multi_025_turn_12,1,2
+multi_025,multi_025_HR,HR,5,Post-BATNA,what's your final reaction to that?,,multi_025_turn_12,2,2
+multi_025,multi_025_Employee,Employee,6,Post-BATNA,$120k salary and 15 vacation days.,,multi_025_turn_13,1,2
+multi_025,multi_025_Employee,Employee,6,Post-BATNA,that's my final bridge.,,multi_025_turn_13,2,2
+multi_025,multi_025_HR,HR,6,Post-BATNA,can't do that.,,multi_025_turn_14,1,1
+multi_026,multi_026_Employee,Employee,0,Pre-BATNA,hi there! nice to meet you.,,multi_026_turn_01,1,1
+multi_026,multi_026_HR,HR,0,Pre-BATNA,hi! nice to meet you too.,,multi_026_turn_02,1,1
+multi_026,multi_026_Employee,Employee,1,Pre-BATNA,hi!,,multi_026_turn_03,1,3
+multi_026,multi_026_Employee,Employee,1,Pre-BATNA,"I’m looking for 120k salary, 20% bonus, 20k in stock options, and 30 vacation days.",,multi_026_turn_03,2,3
+multi_026,multi_026_Employee,Employee,1,Pre-BATNA,what can you do on that package?,,multi_026_turn_03,3,3
+multi_026,multi_026_HR,HR,1,Pre-BATNA,"we can do 80k salary, no bonus, 20k in stock options, and 10 vacation days.",,multi_026_turn_04,1,2
+multi_026,multi_026_HR,HR,1,Pre-BATNA,"if you want movement, which items matter most?",,multi_026_turn_04,2,2
+multi_026,multi_026_Employee,Employee,2,Pre-BATNA,salary and bonus are the top priorities for me.,,multi_026_turn_05,1,2
+multi_026,multi_026_Employee,Employee,2,Pre-BATNA,where do you have the most room between those two?,,multi_026_turn_05,2,2
+multi_026,multi_026_HR,HR,2,Pre-BATNA,more room on bonus.,,multi_026_turn_06,1,2
+multi_026,multi_026_HR,HR,2,Pre-BATNA,we can do a 5% bonus.,,multi_026_turn_06,2,2
+multi_026,multi_026_Employee,Employee,3,Pre-BATNA,5% is a start.,,multi_026_turn_07,1,3
+multi_026,multi_026_Employee,Employee,3,Pre-BATNA,I'd need 10% bonus.,,multi_026_turn_07,2,3
+multi_026,multi_026_Employee,Employee,3,Pre-BATNA,salary still matters too.,,multi_026_turn_07,3,3
+multi_026,multi_026_HR,HR,3,Pre-BATNA,we can do the 10% bonus.,,multi_026_turn_08,1,2
+multi_026,multi_026_HR,HR,3,Pre-BATNA,where would you need salary to land?,,multi_026_turn_08,2,2
+multi_026,multi_026_Employee,Employee,4,Post-BATNA,$110k salary.,,multi_026_turn_09,1,2
+multi_026,multi_026_Employee,Employee,4,Post-BATNA,bonus is aligned.,,multi_026_turn_09,2,2
+multi_026,multi_026_HR,HR,4,Post-BATNA,$90k salary.,,multi_026_turn_10,1,2
+multi_026,multi_026_HR,HR,4,Post-BATNA,what would you need on vacation?,,multi_026_turn_10,2,2
+multi_026,multi_026_Employee,Employee,5,Post-BATNA,25 vacation days.,,multi_026_turn_11,1,2
+multi_026,multi_026_Employee,Employee,5,Post-BATNA,"if salary stays at $90k, that gets the package close.",,multi_026_turn_11,2,2
+multi_026,multi_026_HR,HR,5,Post-BATNA,i can move to 15 vacation days.,,multi_026_turn_12,1,3
+multi_026,multi_026_HR,HR,5,Post-BATNA,that gets us pretty close while keeping the rest aligned.,,multi_026_turn_12,2,3
+multi_026,multi_026_HR,HR,5,Post-BATNA,that's a near-final compromise from my side.,,multi_026_turn_12,3,3
+multi_026,multi_026_Employee,Employee,6,Post-BATNA,"i can close at $110k salary, 10% bonus, $20k stock, and 20 vacation days.",,multi_026_turn_13,1,2
+multi_026,multi_026_Employee,Employee,6,Post-BATNA,that’s my best balanced package.,,multi_026_turn_13,2,2
+multi_026,multi_026_HR,HR,6,Post-BATNA,deal,,multi_026_turn_14,1,1
+multi_027,multi_027_HR,HR,0,Pre-BATNA,hi there! thanks for taking the time to chat.,,multi_027_turn_01,1,1
+multi_027,multi_027_Employee,Employee,0,Pre-BATNA,hi there! thanks for making time to connect.,,multi_027_turn_02,1,1
+multi_027,multi_027_HR,HR,1,Pre-BATNA,"happy to. I'm opening at $80k salary, no bonus, 20k stock options, and 10 vacation days.",,multi_027_turn_03,1,2
+multi_027,multi_027_HR,HR,1,Pre-BATNA,which of those matters most to you?,,multi_027_turn_03,2,2
+multi_027,multi_027_Employee,Employee,1,Pre-BATNA,salary and vacation matter most to me.,,multi_027_turn_04,1,2
+multi_027,multi_027_Employee,Employee,1,Pre-BATNA,"i'd be looking for $110k salary, 20% bonus, 20k stock options, and 30 vacation days.",,multi_027_turn_04,2,2
+multi_027,multi_027_HR,HR,2,Pre-BATNA,got it.,,multi_027_turn_05,1,2
+multi_027,multi_027_HR,HR,2,Pre-BATNA,"since stock is already aligned, where do you have more flexibility between salary and vacation days?",,multi_027_turn_05,2,2
+multi_027,multi_027_Employee,Employee,2,Pre-BATNA,vacation has a bit more flexibility than salary.,,multi_027_turn_06,1,3
+multi_027,multi_027_Employee,Employee,2,Pre-BATNA,but only if you can move meaningfully on salary.,,multi_027_turn_06,2,3
+multi_027,multi_027_Employee,Employee,2,Pre-BATNA,what range can you do on salary versus vacation days?,,multi_027_turn_06,3,3
+multi_027,multi_027_HR,HR,3,Pre-BATNA,i can do $90k on salary.,,multi_027_turn_07,1,2
+multi_027,multi_027_HR,HR,3,Pre-BATNA,"if you want, we can talk bonus or vacation next.",,multi_027_turn_07,2,2
+multi_027,multi_027_Employee,Employee,3,Pre-BATNA,$100k salary and 20% bonus.,,multi_027_turn_08,1,2
+multi_027,multi_027_Employee,Employee,3,Pre-BATNA,we can come back to vacation next.,,multi_027_turn_08,2,2
+multi_027,multi_027_HR,HR,4,Post-BATNA,i can do $100k salary.,,multi_027_turn_09,1,3
+multi_027,multi_027_HR,HR,4,Post-BATNA,bonus would be 5%.,,multi_027_turn_09,2,3
+multi_027,multi_027_HR,HR,4,Post-BATNA,we can come back to vacation after that.,,multi_027_turn_09,3,3
+multi_027,multi_027_Employee,Employee,4,Post-BATNA,$100k salary works.,,multi_027_turn_10,1,2
+multi_027,multi_027_Employee,Employee,4,Post-BATNA,"If bonus is 15%, I can do 25 vacation days.",,multi_027_turn_10,2,2
+multi_027,multi_027_HR,HR,5,Post-BATNA,salary is settled.,,multi_027_turn_11,1,3
+multi_027,multi_027_HR,HR,5,Post-BATNA,"on the open pieces, i can do 10% bonus and 15 vacation days.",,multi_027_turn_11,2,3
+multi_027,multi_027_HR,HR,5,Post-BATNA,that feels like a balanced middle move. can you close the gap from there?,,multi_027_turn_11,3,3
+multi_027,multi_027_Employee,Employee,5,Post-BATNA,which one has more room: bonus or vacation days?,,multi_027_turn_12,1,2
+multi_027,multi_027_Employee,Employee,5,Post-BATNA,"if i move closer on one, can you flex the other?",,multi_027_turn_12,2,2
+multi_027,multi_027_HR,HR,6,Post-BATNA,more room on bonus than vacation.,,multi_027_turn_13,1,3
+multi_027,multi_027_HR,HR,6,Post-BATNA,i can do 15% bonus and 15 vacation days.,,multi_027_turn_13,2,3
+multi_027,multi_027_HR,HR,6,Post-BATNA,that's the balanced close.,,multi_027_turn_13,3,3
+multi_027,multi_027_Employee,Employee,6,Post-BATNA,understood.,,multi_027_turn_14,1,2
+multi_027,multi_027_Employee,Employee,6,Post-BATNA,i'm going to pass at that package.,,multi_027_turn_14,2,2
+multi_028,multi_028_Employee,Employee,0,Pre-BATNA,hi there! nice to meet you.,,multi_028_turn_01,1,1
+multi_028,multi_028_HR,HR,0,Pre-BATNA,"hi! nice to meet you, too.",,multi_028_turn_02,1,1
+multi_028,multi_028_Employee,Employee,1,Pre-BATNA,hi!,,multi_028_turn_03,1,2
+multi_028,multi_028_Employee,Employee,1,Pre-BATNA,"120k salary, 20% bonus, 20k in stock options, and 30 vacation days.",,multi_028_turn_03,2,2
+multi_028,multi_028_HR,HR,1,Pre-BATNA,"80k salary, no bonus, 20k in stock options, and 10 vacation days.",,multi_028_turn_04,1,2
+multi_028,multi_028_HR,HR,1,Pre-BATNA,"if you want movement, which of those matters most?",,multi_028_turn_04,2,2
+multi_028,multi_028_Employee,Employee,2,Pre-BATNA,salary and vacation days are the main priorities.,,multi_028_turn_05,1,2
+multi_028,multi_028_Employee,Employee,2,Pre-BATNA,where do you have the most flexibility on the remaining open issues?,,multi_028_turn_05,2,2
+multi_028,multi_028_HR,HR,2,Pre-BATNA,most of our room is on salary.,,multi_028_turn_06,1,4
+multi_028,multi_028_HR,HR,2,Pre-BATNA,stock is already aligned.,,multi_028_turn_06,2,4
+multi_028,multi_028_HR,HR,2,Pre-BATNA,vacation is tighter for now.,,multi_028_turn_06,3,4
+multi_028,multi_028_HR,HR,2,Pre-BATNA,i can move salary to 90k.,,multi_028_turn_06,4,4
+multi_028,multi_028_Employee,Employee,3,Pre-BATNA,appreciate the movement on salary.,,multi_028_turn_07,1,2
+multi_028,multi_028_Employee,Employee,3,Pre-BATNA,i'd be at 110k salary.,,multi_028_turn_07,2,2
+multi_028,multi_028_HR,HR,3,Pre-BATNA,i can do 100k salary.,,multi_028_turn_08,1,3
+multi_028,multi_028_HR,HR,3,Pre-BATNA,stock is already aligned.,,multi_028_turn_08,2,3
+multi_028,multi_028_HR,HR,3,Pre-BATNA,"if salary is the sticking point, we can talk bonus or vacation next.",,multi_028_turn_08,3,3
+multi_028,multi_028_Employee,Employee,4,Post-BATNA,100k on salary is movement.,,multi_028_turn_09,1,2
+multi_028,multi_028_Employee,Employee,4,Post-BATNA,"to make that work, I'd need 15% bonus and 25 vacation days.",,multi_028_turn_09,2,2
+multi_028,multi_028_HR,HR,4,Post-BATNA,i can do a 10% bonus.,,multi_028_turn_10,1,3
+multi_028,multi_028_HR,HR,4,Post-BATNA,vacation would stay at 10 days for now.,,multi_028_turn_10,2,3
+multi_028,multi_028_HR,HR,4,Post-BATNA,which matters more to you: bonus or vacation?,,multi_028_turn_10,3,3
+multi_028,multi_028_Employee,Employee,5,Post-BATNA,bonus matters more.,,multi_028_turn_11,1,2
+multi_028,multi_028_Employee,Employee,5,Post-BATNA,"if we can do a 15% bonus, i can come down to 20 vacation days.",,multi_028_turn_11,2,2
+multi_028,multi_028_HR,HR,5,Post-BATNA,i can do the 15% bonus.,,multi_028_turn_12,1,2
+multi_028,multi_028_HR,HR,5,Post-BATNA,vacation would stay at 10 days.,,multi_028_turn_12,2,2
+multi_028,multi_028_Employee,Employee,6,Post-BATNA,bonus is aligned.,,multi_028_turn_13,1,2
+multi_028,multi_028_Employee,Employee,6,Post-BATNA,"if we can close at $110k salary and 15 vacation days, i'm good to finalize.",,multi_028_turn_13,2,2
+multi_028,multi_028_HR,HR,6,Post-BATNA,can't do that. no viable deal on the table.,,multi_028_turn_14,1,1
+multi_029,multi_029_HR,HR,0,Pre-BATNA,hi there! thanks for making time to chat.,,multi_029_turn_01,1,1
+multi_029,multi_029_Employee,Employee,0,Pre-BATNA,"hey, thanks for setting this up!",,multi_029_turn_02,1,2
+multi_029,multi_029_Employee,Employee,0,Pre-BATNA,nice to meet you.,,multi_029_turn_02,2,2
+multi_029,multi_029_HR,HR,1,Pre-BATNA,nice to meet you too.,,multi_029_turn_03,1,3
+multi_029,multi_029_HR,HR,1,Pre-BATNA,"we can start at $80k salary, $20k in stock options, and 10 vacation days.",,multi_029_turn_03,2,3
+multi_029,multi_029_HR,HR,1,Pre-BATNA,"what matters most to you: salary, stock, or time off?",,multi_029_turn_03,3,3
+multi_029,multi_029_Employee,Employee,1,Pre-BATNA,salary and time off are the big ones for me.,,multi_029_turn_04,1,2
+multi_029,multi_029_Employee,Employee,1,Pre-BATNA,where do you have the most flexibility?,,multi_029_turn_04,2,2
+multi_029,multi_029_HR,HR,2,Pre-BATNA,most room is on salary.,,multi_029_turn_05,1,4
+multi_029,multi_029_HR,HR,2,Pre-BATNA,i can move the base to $90k.,,multi_029_turn_05,2,4
+multi_029,multi_029_HR,HR,2,Pre-BATNA,stock is already strong at $20k.,,multi_029_turn_05,3,4
+multi_029,multi_029_HR,HR,2,Pre-BATNA,"if time off is the other priority, let's talk vacation next.",,multi_029_turn_05,4,4
+multi_029,multi_029_Employee,Employee,2,Pre-BATNA,understood.,,multi_029_turn_06,1,3
+multi_029,multi_029_Employee,Employee,2,Pre-BATNA,"on salary, i'm looking for $110k.",,multi_029_turn_06,2,3
+multi_029,multi_029_Employee,Employee,2,Pre-BATNA,and 30 vacation days.,,multi_029_turn_06,3,3
+multi_029,multi_029_HR,HR,3,Pre-BATNA,i can do $100k salary.,,multi_029_turn_07,1,2
+multi_029,multi_029_HR,HR,3,Pre-BATNA,vacation next?,,multi_029_turn_07,2,2
+multi_029,multi_029_Employee,Employee,3,Pre-BATNA,$100k is movement.,,multi_029_turn_08,1,3
+multi_029,multi_029_Employee,Employee,3,Pre-BATNA,i'd need 30 vacation days.,,multi_029_turn_08,2,3
+multi_029,multi_029_Employee,Employee,3,Pre-BATNA,and a 5% bonus helps close the gap.,,multi_029_turn_08,3,3
+multi_029,multi_029_HR,HR,4,Post-BATNA,i can do a 5% bonus.,,multi_029_turn_09,1,2
+multi_029,multi_029_HR,HR,4,Post-BATNA,vacation stays at 10 days.,,multi_029_turn_09,2,2
+multi_029,multi_029_Employee,Employee,4,Post-BATNA,the 5% bonus works.,,multi_029_turn_10,1,3
+multi_029,multi_029_Employee,Employee,4,Post-BATNA,10 vacation days is too low for me.,,multi_029_turn_10,2,3
+multi_029,multi_029_Employee,Employee,4,Post-BATNA,i can do $110k salary and 15 vacation days.,,multi_029_turn_10,3,3
+multi_029,multi_029_HR,HR,5,Post-BATNA,$110k and 15 days together is tough.,,multi_029_turn_11,1,2
+multi_029,multi_029_HR,HR,5,Post-BATNA,"if we strengthened the stock options, would that help on the vacation days?",,multi_029_turn_11,2,2
+multi_029,multi_029_Employee,Employee,5,Post-BATNA,"possibly. if salary stays at $110k, what stock-options level would you pair with better vacation?",,multi_029_turn_12,1,2
+multi_029,multi_029_Employee,Employee,5,Post-BATNA,and how many vacation days are you thinking?,,multi_029_turn_12,2,2
+multi_029,multi_029_HR,HR,6,Post-BATNA,10 days.,,multi_029_turn_13,1,3
+multi_029,multi_029_HR,HR,6,Post-BATNA,"I can do $110k salary, 5% bonus, and 20k in stock options.",,multi_029_turn_13,2,3
+multi_029,multi_029_HR,HR,6,Post-BATNA,that's the best final package.,,multi_029_turn_13,3,3
+multi_029,multi_029_Employee,Employee,6,Post-BATNA,ok,,multi_029_turn_14,1,2
+multi_029,multi_029_Employee,Employee,6,Post-BATNA,deal,,multi_029_turn_14,2,2
+multi_030,multi_030_Employee,Employee,0,Pre-BATNA,hi there! thanks for taking the time to chat.,,multi_030_turn_01,1,1
+multi_030,multi_030_HR,HR,0,Pre-BATNA,hi! thanks for making time today.,,multi_030_turn_02,1,1
+multi_030,multi_030_Employee,Employee,1,Pre-BATNA,hi!,,multi_030_turn_03,1,3
+multi_030,multi_030_Employee,Employee,1,Pre-BATNA,"i'm targeting $120k salary, 20% bonus, 20k stock options, and 30 vacation days.",,multi_030_turn_03,2,3
+multi_030,multi_030_Employee,Employee,1,Pre-BATNA,how does that look on your end?,,multi_030_turn_03,3,3
+multi_030,multi_030_HR,HR,1,Pre-BATNA,"we're at $80k salary, no bonus, 20k stock options, and 10 vacation days.",,multi_030_turn_04,1,3
+multi_030,multi_030_HR,HR,1,Pre-BATNA,that's our starting point.,,multi_030_turn_04,2,3
+multi_030,multi_030_HR,HR,1,Pre-BATNA,"if you want movement, which levers matter most to you?",,multi_030_turn_04,3,3
+multi_030,multi_030_Employee,Employee,2,Pre-BATNA,salary and vacation days are the biggest ones for me.,,multi_030_turn_05,1,2
+multi_030,multi_030_Employee,Employee,2,Pre-BATNA,do you have more flexibility there than on bonus?,,multi_030_turn_05,2,2
+multi_030,multi_030_HR,HR,2,Pre-BATNA,"more on salary than on bonus, yes.",,multi_030_turn_06,1,3
+multi_030,multi_030_HR,HR,2,Pre-BATNA,i can move salary to $90k.,,multi_030_turn_06,2,3
+multi_030,multi_030_HR,HR,2,Pre-BATNA,vacation is tighter.,,multi_030_turn_06,3,3
+multi_030,multi_030_Employee,Employee,3,Pre-BATNA,"given that, I'd come down to $110k salary.",,multi_030_turn_07,1,2
+multi_030,multi_030_Employee,Employee,3,Pre-BATNA,and 30 vacation days.,,multi_030_turn_07,2,2
+multi_030,multi_030_HR,HR,3,Pre-BATNA,would you trade down on vacation days for more bonus?,,multi_030_turn_08,1,2
+multi_030,multi_030_HR,HR,3,Pre-BATNA,or is salary the priority if vacation stays tighter?,,multi_030_turn_08,2,2
+multi_030,multi_030_Employee,Employee,4,Post-BATNA,salary at $110k and 30 vacation days.,,multi_030_turn_09,1,2
+multi_030,multi_030_Employee,Employee,4,Post-BATNA,"if those stay put, i'd do a 15% bonus.",,multi_030_turn_09,2,2
+multi_030,multi_030_HR,HR,4,Post-BATNA,i can do a 5% bonus and 15 vacation days.,,multi_030_turn_10,1,2
+multi_030,multi_030_HR,HR,4,Post-BATNA,that's the movement I have there.,,multi_030_turn_10,2,2
+multi_030,multi_030_Employee,Employee,5,Post-BATNA,ok.,,multi_030_turn_11,1,2
+multi_030,multi_030_Employee,Employee,5,Post-BATNA,i'd meet you at a 10% bonus and 20 vacation days.,,multi_030_turn_11,2,2
+multi_030,multi_030_HR,HR,5,Post-BATNA,ok.,,multi_030_turn_12,1,3
+multi_030,multi_030_HR,HR,5,Post-BATNA,"on bonus and vacation, we're closer.",,multi_030_turn_12,2,3
+multi_030,multi_030_HR,HR,5,Post-BATNA,"can you come down from $110k if we get a bit closer elsewhere, or is $110k firm?",,multi_030_turn_12,3,3
+multi_030,multi_030_Employee,Employee,6,Post-BATNA,i can come down to $100k salary if the 10% bonus and 20 vacation days stay in place.,,multi_030_turn_13,1,3
+multi_030,multi_030_Employee,Employee,6,Post-BATNA,20k in stock options too.,,multi_030_turn_13,2,3
+multi_030,multi_030_Employee,Employee,6,Post-BATNA,"if you can do that, we can wrap it up.",,multi_030_turn_13,3,3
+multi_030,multi_030_HR,HR,6,Post-BATNA,we can't do that package.,,multi_030_turn_14,1,2
+multi_030,multi_030_HR,HR,6,Post-BATNA,we'll have to pass.,,multi_030_turn_14,2,2
+multi_031,multi_031_Employee,Employee,0,Pre-BATNA,"hi there, thanks for making time today.",,multi_031_turn_01,1,1
+multi_031,multi_031_HR,HR,0,Pre-BATNA,"hi, thanks for meeting with me today.",,multi_031_turn_02,1,1
+multi_031,multi_031_Employee,Employee,1,Pre-BATNA,hi!,,multi_031_turn_03,1,3
+multi_031,multi_031_Employee,Employee,1,Pre-BATNA,"i'm targeting $120k salary, 20% bonus, 20k in stock options, and 30 vacation days.",,multi_031_turn_03,2,3
+multi_031,multi_031_Employee,Employee,1,Pre-BATNA,how does that look on your side?,,multi_031_turn_03,3,3
+multi_031,multi_031_HR,HR,1,Pre-BATNA,that's higher than we can do as a starting point.,,multi_031_turn_04,1,3
+multi_031,multi_031_HR,HR,1,Pre-BATNA,"we'd be at $80k salary, no bonus, 20k stock options, and 10 vacation days.",,multi_031_turn_04,2,3
+multi_031,multi_031_HR,HR,1,Pre-BATNA,"if there's movement, which piece matters most to you?",,multi_031_turn_04,3,3
+multi_031,multi_031_Employee,Employee,2,Pre-BATNA,salary matters most for me.,,multi_031_turn_05,1,3
+multi_031,multi_031_Employee,Employee,2,Pre-BATNA,bonus next.,,multi_031_turn_05,2,3
+multi_031,multi_031_Employee,Employee,2,Pre-BATNA,"if there's movement, i'd focus there first.",,multi_031_turn_05,3,3
+multi_031,multi_031_HR,HR,2,Pre-BATNA,understood.,,multi_031_turn_06,1,2
+multi_031,multi_031_HR,HR,2,Pre-BATNA,we can move salary to $90k.,,multi_031_turn_06,2,2
+multi_031,multi_031_Employee,Employee,3,Pre-BATNA,i appreciate the movement on salary.,,multi_031_turn_07,1,2
+multi_031,multi_031_Employee,Employee,3,Pre-BATNA,i'd need $110k salary to make this work.,,multi_031_turn_07,2,2
+multi_031,multi_031_HR,HR,3,Pre-BATNA,we can move salary to $100k.,,multi_031_turn_08,1,3
+multi_031,multi_031_HR,HR,3,Pre-BATNA,that's meaningful movement from our side.,,multi_031_turn_08,2,3
+multi_031,multi_031_HR,HR,3,Pre-BATNA,"with salary at $100k, are bonus or vacation the next gaps?",,multi_031_turn_08,3,3
+multi_031,multi_031_Employee,Employee,4,Post-BATNA,yes.,,multi_031_turn_09,1,2
+multi_031,multi_031_Employee,Employee,4,Post-BATNA,"if salary stays at $100k, I'd need a 15% bonus and 30 vacation days.",,multi_031_turn_09,2,2
+multi_031,multi_031_HR,HR,4,Post-BATNA,"if salary stays at $100k, we can do a 10% bonus.",,multi_031_turn_10,1,2
+multi_031,multi_031_HR,HR,4,Post-BATNA,what about the vacation days?,,multi_031_turn_10,2,2
+multi_031,multi_031_Employee,Employee,5,Post-BATNA,"if bonus stays at 10%, i'd need 30 vacation days to close.",,multi_031_turn_11,1,1
+multi_031,multi_031_HR,HR,5,Post-BATNA,would you consider fewer than 30 vacation days?,,multi_031_turn_12,1,2
+multi_031,multi_031_HR,HR,5,Post-BATNA,"if so, what number gets this wrapped up?",,multi_031_turn_12,2,2
+multi_031,multi_031_Employee,Employee,6,Post-BATNA,30 vacation days closes it.,,multi_031_turn_13,1,1
+multi_031,multi_031_HR,HR,6,Post-BATNA,understood.,,multi_031_turn_14,1,3
+multi_031,multi_031_HR,HR,6,Post-BATNA,we can't get to 30 vacation days while keeping the rest of the package as is.,,multi_031_turn_14,2,3
+multi_031,multi_031_HR,HR,6,Post-BATNA,so i don't think we can bridge the gap here.,,multi_031_turn_14,3,3
+multi_032,multi_032_Employee,Employee,0,Pre-BATNA,hi there! thanks for making time to chat.,,multi_032_turn_01,1,1
+multi_032,multi_032_HR,HR,0,Pre-BATNA,hi! thanks for connecting today.,,multi_032_turn_02,1,1
+multi_032,multi_032_Employee,Employee,1,Pre-BATNA,hi!,,multi_032_turn_03,1,3
+multi_032,multi_032_Employee,Employee,1,Pre-BATNA,"for the package, I'm targeting $120k salary, 20% bonus, 20k in stock options, and 30 vacation days.",,multi_032_turn_03,2,3
+multi_032,multi_032_Employee,Employee,1,Pre-BATNA,your thoughts?,,multi_032_turn_03,3,3
+multi_032,multi_032_HR,HR,1,Pre-BATNA,that's higher than we can do.,,multi_032_turn_04,1,3
+multi_032,multi_032_HR,HR,1,Pre-BATNA,"our opening package is $80k salary, no bonus, 20k stock options, and 10 vacation days.",,multi_032_turn_04,2,3
+multi_032,multi_032_HR,HR,1,Pre-BATNA,"if you want, we can talk through tradeoffs across those pieces.",,multi_032_turn_04,3,3
+multi_032,multi_032_Employee,Employee,2,Pre-BATNA,ok — sounds like stock is aligned at 20k.,,multi_032_turn_05,1,2
+multi_032,multi_032_Employee,Employee,2,Pre-BATNA,where do you have more flexibility: salary or bonus?,,multi_032_turn_05,2,2
+multi_032,multi_032_HR,HR,2,Pre-BATNA,more room on bonus than salary.,,multi_032_turn_06,1,2
+multi_032,multi_032_HR,HR,2,Pre-BATNA,i can do a 5% bonus.,,multi_032_turn_06,2,2
+multi_032,multi_032_Employee,Employee,3,Pre-BATNA,10% bonus and 30 vacation days.,,multi_032_turn_07,1,1
+multi_032,multi_032_HR,HR,3,Pre-BATNA,10% bonus works.,,multi_032_turn_08,1,3
+multi_032,multi_032_HR,HR,3,Pre-BATNA,vacation stays at 10 days.,,multi_032_turn_08,2,3
+multi_032,multi_032_HR,HR,3,Pre-BATNA,"if you want more overall value, we should talk salary.",,multi_032_turn_08,3,3
+multi_032,multi_032_Employee,Employee,4,Post-BATNA,ok — 10% bonus and 20k stock are aligned.,,multi_032_turn_09,1,2
+multi_032,multi_032_Employee,Employee,4,Post-BATNA,then let's move on salary: 110k.,,multi_032_turn_09,2,2
+multi_032,multi_032_HR,HR,4,Post-BATNA,90k on salary.,,multi_032_turn_10,1,2
+multi_032,multi_032_HR,HR,4,Post-BATNA,"if we can narrow salary, we can address vacation next.",,multi_032_turn_10,2,2
+multi_032,multi_032_Employee,Employee,5,Post-BATNA,"if vacation can move up, do you have room above 90k?",,multi_032_turn_11,1,2
+multi_032,multi_032_Employee,Employee,5,Post-BATNA,what salary/vacation package would you consider?,,multi_032_turn_11,2,2
+multi_032,multi_032_HR,HR,5,Post-BATNA,$100k salary and 15 vacation days.,,multi_032_turn_12,1,2
+multi_032,multi_032_HR,HR,5,Post-BATNA,does that get us close?,,multi_032_turn_12,2,2
+multi_032,multi_032_Employee,Employee,6,Post-BATNA,closer.,,multi_032_turn_13,1,2
+multi_032,multi_032_Employee,Employee,6,Post-BATNA,"if we can do $110k salary and 25 vacation days, we're there.",,multi_032_turn_13,2,2
+multi_032,multi_032_HR,HR,6,Post-BATNA,we can't do $110k salary and 25 vacation days.,,multi_032_turn_14,1,2
+multi_032,multi_032_HR,HR,6,Post-BATNA,we're going to step back here.,,multi_032_turn_14,2,2
+multi_033,multi_033_Employee,Employee,0,Pre-BATNA,"hi, thanks for making time today.",,multi_033_turn_01,1,1
+multi_033,multi_033_HR,HR,0,Pre-BATNA,"hi, thanks for joining today.",,multi_033_turn_02,1,1
+multi_033,multi_033_Employee,Employee,1,Pre-BATNA,hi,,multi_033_turn_03,1,3
+multi_033,multi_033_Employee,Employee,1,Pre-BATNA,"120k salary, 20% bonus, 20k in stock options, and 30 vacation days.",,multi_033_turn_03,2,3
+multi_033,multi_033_Employee,Employee,1,Pre-BATNA,how does that land for you?,,multi_033_turn_03,3,3
+multi_033,multi_033_HR,HR,1,Pre-BATNA,that's higher than we can do.,,multi_033_turn_04,1,2
+multi_033,multi_033_HR,HR,1,Pre-BATNA,"80k salary, no bonus, 20k in stock options, and 10 vacation days.",,multi_033_turn_04,2,2
+multi_033,multi_033_Employee,Employee,2,Pre-BATNA,ok — 20k stock works.,,multi_033_turn_05,1,2
+multi_033,multi_033_Employee,Employee,2,Pre-BATNA,do you have more room on salary or bonus?,,multi_033_turn_05,2,2
+multi_033,multi_033_HR,HR,2,Pre-BATNA,stock is settled at 20k.,,multi_033_turn_06,1,3
+multi_033,multi_033_HR,HR,2,Pre-BATNA,i can move salary to 90k.,,multi_033_turn_06,2,3
+multi_033,multi_033_HR,HR,2,Pre-BATNA,"from here, does bonus or vacation matter more?",,multi_033_turn_06,3,3
+multi_033,multi_033_Employee,Employee,3,Pre-BATNA,both matter.,,multi_033_turn_07,1,2
+multi_033,multi_033_Employee,Employee,3,Pre-BATNA,where do you have more flexibility: bonus or vacation days?,,multi_033_turn_07,2,2
+multi_033,multi_033_HR,HR,3,Pre-BATNA,more flexibility on bonus.,,multi_033_turn_08,1,2
+multi_033,multi_033_HR,HR,3,Pre-BATNA,i can do a 5% bonus.,,multi_033_turn_08,2,2
+multi_033,multi_033_Employee,Employee,4,Post-BATNA,bonus matters more here.,,multi_033_turn_09,1,2
+multi_033,multi_033_Employee,Employee,4,Post-BATNA,could you do 15% bonus and 20 vacation days?,,multi_033_turn_09,2,2
+multi_033,multi_033_HR,HR,4,Post-BATNA,i can do a 15% bonus.,,multi_033_turn_10,1,3
+multi_033,multi_033_HR,HR,4,Post-BATNA,vacation is tighter for me.,,multi_033_turn_10,2,3
+multi_033,multi_033_HR,HR,4,Post-BATNA,how do you want to handle the remaining open issues?,,multi_033_turn_10,3,3
+multi_033,multi_033_Employee,Employee,5,Post-BATNA,let's narrow it to salary and vacation.,,multi_033_turn_11,1,2
+multi_033,multi_033_Employee,Employee,5,Post-BATNA,i can do $110k salary with 20 vacation days.,,multi_033_turn_11,2,2
+multi_033,multi_033_HR,HR,5,Post-BATNA,bonus and stock look aligned.,,multi_033_turn_12,1,3
+multi_033,multi_033_HR,HR,5,Post-BATNA,i can do $100k salary and 15 vacation days.,,multi_033_turn_12,2,3
+multi_033,multi_033_HR,HR,5,Post-BATNA,"vacation is still pretty constrained, so this feels like the balanced middle ground to close the gap.",,multi_033_turn_12,3,3
+multi_033,multi_033_Employee,Employee,6,Post-BATNA,$110k salary and 15 vacation days.,,multi_033_turn_13,1,2
+multi_033,multi_033_Employee,Employee,6,Post-BATNA,that wraps it up for me.,,multi_033_turn_13,2,2
+multi_033,multi_033_HR,HR,6,Post-BATNA,understood.,,multi_033_turn_14,1,2
+multi_033,multi_033_HR,HR,6,Post-BATNA,i'm going to pass.,,multi_033_turn_14,2,2
+multi_034,multi_034_HR,HR,0,Pre-BATNA,"hi there, thanks for taking the time to chat today.",,multi_034_turn_01,1,1
+multi_034,multi_034_Employee,Employee,0,Pre-BATNA,"hi, thanks for having me. nice to meet you.",,multi_034_turn_02,1,1
+multi_034,multi_034_HR,HR,1,Pre-BATNA,nice to meet you.,,multi_034_turn_03,1,3
+multi_034,multi_034_HR,HR,1,Pre-BATNA,"we can start at $80k salary, no bonus, 20k stock options, and 10 vacation days.",,multi_034_turn_03,2,3
+multi_034,multi_034_HR,HR,1,Pre-BATNA,which parts matter most to you?,,multi_034_turn_03,3,3
+multi_034,multi_034_Employee,Employee,1,Pre-BATNA,compensation and time off matter most to me.,,multi_034_turn_04,1,2
+multi_034,multi_034_Employee,Employee,1,Pre-BATNA,"i'd be looking for $120k salary, a 20% bonus, 20k stock options, and 30 vacation days.",,multi_034_turn_04,2,2
+multi_034,multi_034_HR,HR,2,Pre-BATNA,we're aligned on the 20k stock options.,,multi_034_turn_05,1,2
+multi_034,multi_034_HR,HR,2,Pre-BATNA,i can move to $90k salary and a 5% bonus.,,multi_034_turn_05,2,2
+multi_034,multi_034_Employee,Employee,2,Pre-BATNA,20k stock works.,,multi_034_turn_06,1,3
+multi_034,multi_034_Employee,Employee,2,Pre-BATNA,$110k salary and a 20% bonus.,,multi_034_turn_06,2,3
+multi_034,multi_034_Employee,Employee,2,Pre-BATNA,we can talk vacation next.,,multi_034_turn_06,3,3
+multi_034,multi_034_HR,HR,3,Pre-BATNA,"right, stock is settled.",,multi_034_turn_07,1,3
+multi_034,multi_034_HR,HR,3,Pre-BATNA,"for vacation, i can do 15 days.",,multi_034_turn_07,2,3
+multi_034,multi_034_HR,HR,3,Pre-BATNA,salary and bonus are still apart.,,multi_034_turn_07,3,3
+multi_034,multi_034_Employee,Employee,3,Pre-BATNA,right.,,multi_034_turn_08,1,2
+multi_034,multi_034_Employee,Employee,3,Pre-BATNA,i can do a 15% bonus if vacation is 25 days.,,multi_034_turn_08,2,2
+multi_034,multi_034_HR,HR,4,Post-BATNA,got it — 15% bonus if vacation moves to 25 days.,,multi_034_turn_09,1,2
+multi_034,multi_034_HR,HR,4,Post-BATNA,"is vacation the main lever for you here, or is there salary flexibility if vacation improves?",,multi_034_turn_09,2,2
+multi_034,multi_034_Employee,Employee,4,Post-BATNA,"vacation is the bigger lever for me, but i have some salary flexibility if it improves.",,multi_034_turn_10,1,2
+multi_034,multi_034_Employee,Employee,4,Post-BATNA,what salary could you support with 25 days?,,multi_034_turn_10,2,2
+multi_034,multi_034_HR,HR,5,Post-BATNA,25 days is tough. salary with less vacation?,,multi_034_turn_11,1,1
+multi_034,multi_034_Employee,Employee,5,Post-BATNA,i can move salary to 100k if vacation is 25 days.,,multi_034_turn_12,1,2
+multi_034,multi_034_Employee,Employee,5,Post-BATNA,that feels like a practical path to close.,,multi_034_turn_12,2,2
+multi_034,multi_034_HR,HR,6,Post-BATNA,Let's talk about salary next.,,multi_034_turn_13,1,1
+multi_034,multi_034_Employee,Employee,6,Post-BATNA,i don't think we're going to get alignment on the remaining open terms.,,multi_034_turn_14,1,2
+multi_034,multi_034_Employee,Employee,6,Post-BATNA,i'm going to step back from the process here.,,multi_034_turn_14,2,2
+multi_035,multi_035_Employee,Employee,0,Pre-BATNA,hi there! thanks for taking the time to chat.,,multi_035_turn_01,1,1
+multi_035,multi_035_HR,HR,0,Pre-BATNA,hi! thanks for meeting with me today.,,multi_035_turn_02,1,1
+multi_035,multi_035_Employee,Employee,1,Pre-BATNA,"i’m looking for $120k salary, 20% bonus, 20k stock options, and 30 vacation days.",,multi_035_turn_03,1,2
+multi_035,multi_035_Employee,Employee,1,Pre-BATNA,what’s your reaction?,,multi_035_turn_03,2,2
+multi_035,multi_035_HR,HR,1,Pre-BATNA,"$80k salary, no bonus, 20k stock options, and 10 vacation days.",,multi_035_turn_04,1,2
+multi_035,multi_035_HR,HR,1,Pre-BATNA,"if there's room to move, which pieces matter most to you?",,multi_035_turn_04,2,2
+multi_035,multi_035_Employee,Employee,2,Pre-BATNA,salary and vacation days are the biggest ones for me.,,multi_035_turn_05,1,3
+multi_035,multi_035_Employee,Employee,2,Pre-BATNA,stock is already in line.,,multi_035_turn_05,2,3
+multi_035,multi_035_Employee,Employee,2,Pre-BATNA,"where do you have flexibility on salary, bonus, and vacation?",,multi_035_turn_05,3,3
+multi_035,multi_035_HR,HR,2,Pre-BATNA,stock is aligned.,,multi_035_turn_06,1,3
+multi_035,multi_035_HR,HR,2,Pre-BATNA,i can move salary to $90k for now.,,multi_035_turn_06,2,3
+multi_035,multi_035_HR,HR,2,Pre-BATNA,we can talk vacation next.,,multi_035_turn_06,3,3
+multi_035,multi_035_Employee,Employee,3,Pre-BATNA,ok.,,multi_035_turn_07,1,3
+multi_035,multi_035_Employee,Employee,3,Pre-BATNA,"on salary, i'd need $110k.",,multi_035_turn_07,2,3
+multi_035,multi_035_Employee,Employee,3,Pre-BATNA,we can do vacation next.,,multi_035_turn_07,3,3
+multi_035,multi_035_HR,HR,3,Pre-BATNA,i can move salary to $100k.,,multi_035_turn_08,1,2
+multi_035,multi_035_HR,HR,3,Pre-BATNA,we can do vacation next.,,multi_035_turn_08,2,2
+multi_035,multi_035_Employee,Employee,4,Post-BATNA,ok.,,multi_035_turn_09,1,3
+multi_035,multi_035_Employee,Employee,4,Post-BATNA,"for bonus, i'd need 15%.",,multi_035_turn_09,2,3
+multi_035,multi_035_Employee,Employee,4,Post-BATNA,and 30 vacation days.,,multi_035_turn_09,3,3
+multi_035,multi_035_HR,HR,4,Post-BATNA,i can do a 5% bonus.,,multi_035_turn_10,1,4
+multi_035,multi_035_HR,HR,4,Post-BATNA,10 vacation days.,,multi_035_turn_10,2,4
+multi_035,multi_035_HR,HR,4,Post-BATNA,salary is at $100k.,,multi_035_turn_10,3,4
+multi_035,multi_035_HR,HR,4,Post-BATNA,which matters more to you: bonus or time off?,,multi_035_turn_10,4,4
+multi_035,multi_035_Employee,Employee,5,Post-BATNA,bonus matters more.,,multi_035_turn_11,1,2
+multi_035,multi_035_Employee,Employee,5,Post-BATNA,i can come down to 20 vacation days if the bonus is 15%.,,multi_035_turn_11,2,2
+multi_035,multi_035_HR,HR,5,Post-BATNA,i can do a 15% bonus.,,multi_035_turn_12,1,2
+multi_035,multi_035_HR,HR,5,Post-BATNA,vacation would stay at 10 days.,,multi_035_turn_12,2,2
+multi_035,multi_035_Employee,Employee,6,Post-BATNA,"then my closeable package is $110k salary, 15% bonus, $20k stock, and 15 vacation days.",,multi_035_turn_13,1,2
+multi_035,multi_035_Employee,Employee,6,Post-BATNA,that's my compromise on time off.,,multi_035_turn_13,2,2
+multi_035,multi_035_HR,HR,6,Post-BATNA,deal,,multi_035_turn_14,1,1
+multi_036,multi_036_HR,HR,0,Pre-BATNA,hi there! thanks for making time today.,,multi_036_turn_01,1,1
+multi_036,multi_036_Employee,Employee,0,Pre-BATNA,hi! thanks for meeting with me today.,,multi_036_turn_02,1,1
+multi_036,multi_036_HR,HR,1,Pre-BATNA,thanks for coming in.,,multi_036_turn_03,1,3
+multi_036,multi_036_HR,HR,1,Pre-BATNA,"to start, we're at $80k salary, no bonus, 20k stock options, and 10 vacation days.",,multi_036_turn_03,2,3
+multi_036,multi_036_HR,HR,1,Pre-BATNA,what are your priorities?,,multi_036_turn_03,3,3
+multi_036,multi_036_Employee,Employee,1,Pre-BATNA,salary and bonus are my main priorities.,,multi_036_turn_04,1,2
+multi_036,multi_036_Employee,Employee,1,Pre-BATNA,where do you have the most flexibility there?,,multi_036_turn_04,2,2
+multi_036,multi_036_HR,HR,2,Pre-BATNA,bonus is the easier place for us to move first.,,multi_036_turn_05,1,3
+multi_036,multi_036_HR,HR,2,Pre-BATNA,we can do a 5% bonus.,,multi_036_turn_05,2,3
+multi_036,multi_036_HR,HR,2,Pre-BATNA,is bonus or base more important to you within cash comp?,,multi_036_turn_05,3,3
+multi_036,multi_036_Employee,Employee,2,Pre-BATNA,base matters more to me within cash comp.,,multi_036_turn_06,1,2
+multi_036,multi_036_Employee,Employee,2,Pre-BATNA,i'm targeting $120k salary and a 15% bonus.,,multi_036_turn_06,2,2
+multi_036,multi_036_HR,HR,3,Pre-BATNA,base matters more for you — understood.,,multi_036_turn_07,1,2
+multi_036,multi_036_HR,HR,3,Pre-BATNA,we can move salary to $90k for now.,,multi_036_turn_07,2,2
+multi_036,multi_036_Employee,Employee,3,Pre-BATNA,$120k salary and 15% bonus.,,multi_036_turn_08,1,2
+multi_036,multi_036_Employee,Employee,3,Pre-BATNA,20k stock options and 20 vacation days.,,multi_036_turn_08,2,2
+multi_036,multi_036_HR,HR,4,Post-BATNA,20k stock is aligned.,,multi_036_turn_09,1,3
+multi_036,multi_036_HR,HR,4,Post-BATNA,we can move base to $100k.,,multi_036_turn_09,2,3
+multi_036,multi_036_HR,HR,4,Post-BATNA,"between bonus and vacation, which matters more from here?",,multi_036_turn_09,3,3
+multi_036,multi_036_Employee,Employee,4,Post-BATNA,vacation matters more from here.,,multi_036_turn_10,1,2
+multi_036,multi_036_Employee,Employee,4,Post-BATNA,"20 days vacation, and i can come down to a 10% bonus.",,multi_036_turn_10,2,2
+multi_036,multi_036_HR,HR,5,Post-BATNA,got it.,,multi_036_turn_11,1,2
+multi_036,multi_036_HR,HR,5,Post-BATNA,we can do a 10% bonus and 15 vacation days.,,multi_036_turn_11,2,2
+multi_036,multi_036_Employee,Employee,5,Post-BATNA,bonus is aligned at 10%.,,multi_036_turn_12,1,2
+multi_036,multi_036_Employee,Employee,5,Post-BATNA,"on the last two, i can do $110k salary with 20 vacation days.",,multi_036_turn_12,2,2
+multi_036,multi_036_HR,HR,6,Post-BATNA,we can do $110k salary and 15 vacation days.,,multi_036_turn_13,1,2
+multi_036,multi_036_HR,HR,6,Post-BATNA,that's the package.,,multi_036_turn_13,2,2
+multi_036,multi_036_Employee,Employee,6,Post-BATNA,understood.,,multi_036_turn_14,1,3
+multi_036,multi_036_Employee,Employee,6,Post-BATNA,the settled terms are aligned.,,multi_036_turn_14,2,3
+multi_036,multi_036_Employee,Employee,6,Post-BATNA,i'm going to pass — 15 vacation days doesn't work for me.,,multi_036_turn_14,3,3
+multi_037,multi_037_HR,HR,0,Pre-BATNA,hi there! thanks for taking the time to chat.,,multi_037_turn_01,1,1
+multi_037,multi_037_Employee,Employee,0,Pre-BATNA,hi! thanks for meeting with me.,,multi_037_turn_02,1,1
+multi_037,multi_037_HR,HR,1,Pre-BATNA,hi!,,multi_037_turn_03,1,3
+multi_037,multi_037_HR,HR,1,Pre-BATNA,happy to.,,multi_037_turn_03,2,3
+multi_037,multi_037_HR,HR,1,Pre-BATNA,what matters most to you on compensation — base salary or bonus?,,multi_037_turn_03,3,3
+multi_037,multi_037_Employee,Employee,1,Pre-BATNA,base salary is the bigger priority for me.,,multi_037_turn_04,1,3
+multi_037,multi_037_Employee,Employee,1,Pre-BATNA,bonus can be part of the mix.,,multi_037_turn_04,2,3
+multi_037,multi_037_Employee,Employee,1,Pre-BATNA,what flexibility do you have on base versus variable comp?,,multi_037_turn_04,3,3
+multi_037,multi_037_HR,HR,2,Pre-BATNA,we can do $90k base with no bonus.,,multi_037_turn_05,1,1
+multi_037,multi_037_Employee,Employee,2,Pre-BATNA,"$110k salary, 20% bonus, 20k stock options, and 30 vacation days.",,multi_037_turn_06,1,2
+multi_037,multi_037_Employee,Employee,2,Pre-BATNA,that’s the package I’d need.,,multi_037_turn_06,2,2
+multi_037,multi_037_HR,HR,3,Pre-BATNA,"we can do $100k salary, $20k stock options, and 10 vacation days.",,multi_037_turn_07,1,2
+multi_037,multi_037_HR,HR,3,Pre-BATNA,no bonus.,,multi_037_turn_07,2,2
+multi_037,multi_037_Employee,Employee,3,Pre-BATNA,"ok, $100k salary and $20k stock works.",,multi_037_turn_08,1,2
+multi_037,multi_037_Employee,Employee,3,Pre-BATNA,"if you can do a 15% bonus and 30 vacation days, we can land this.",,multi_037_turn_08,2,2
+multi_037,multi_037_HR,HR,4,Post-BATNA,ok on salary and stock.,,multi_037_turn_09,1,3
+multi_037,multi_037_HR,HR,4,Post-BATNA,i can do a 5% bonus.,,multi_037_turn_09,2,3
+multi_037,multi_037_HR,HR,4,Post-BATNA,vacation stays at 10 days for now.,,multi_037_turn_09,3,3
+multi_037,multi_037_Employee,Employee,4,Post-BATNA,ok on salary and stock.,,multi_037_turn_10,1,2
+multi_037,multi_037_Employee,Employee,4,Post-BATNA,i can come down to a 10% bonus and 20 vacation days.,,multi_037_turn_10,2,2
+multi_037,multi_037_HR,HR,5,Post-BATNA,i can do 10% bonus.,,multi_037_turn_11,1,2
+multi_037,multi_037_HR,HR,5,Post-BATNA,vacation stays at 10 days for now.,,multi_037_turn_11,2,2
+multi_037,multi_037_Employee,Employee,5,Post-BATNA,bonus works.,,multi_037_turn_12,1,2
+multi_037,multi_037_Employee,Employee,5,Post-BATNA,can you move on vacation days?,,multi_037_turn_12,2,2
+multi_037,multi_037_HR,HR,6,Post-BATNA,15 vacation days.,,multi_037_turn_13,1,2
+multi_037,multi_037_HR,HR,6,Post-BATNA,that's the best final package.,,multi_037_turn_13,2,2
+multi_037,multi_037_Employee,Employee,6,Post-BATNA,understood.,,multi_037_turn_14,1,3
+multi_037,multi_037_Employee,Employee,6,Post-BATNA,i appreciate the movement on vacation.,,multi_037_turn_14,2,3
+multi_037,multi_037_Employee,Employee,6,Post-BATNA,i'm going to pass.,,multi_037_turn_14,3,3
+multi_038,multi_038_Employee,Employee,0,Pre-BATNA,"hi there, thanks for making time today.",,multi_038_turn_01,1,1
+multi_038,multi_038_HR,HR,0,Pre-BATNA,"hi, thanks for joining today.",,multi_038_turn_02,1,1
+multi_038,multi_038_Employee,Employee,1,Pre-BATNA,hi,,multi_038_turn_03,1,2
+multi_038,multi_038_Employee,Employee,1,Pre-BATNA,"i'm looking for $120k salary, 20% bonus, 20k stock, and 30 vacation days.",,multi_038_turn_03,2,2
+multi_038,multi_038_HR,HR,1,Pre-BATNA,got it.,,multi_038_turn_04,1,2
+multi_038,multi_038_HR,HR,1,Pre-BATNA,"our starting package is $80k salary, no bonus, 20k stock options, and 10 vacation days.",,multi_038_turn_04,2,2
+multi_038,multi_038_Employee,Employee,2,Pre-BATNA,$110k salary.,,multi_038_turn_05,1,2
+multi_038,multi_038_Employee,Employee,2,Pre-BATNA,we can talk through the other pieces next.,,multi_038_turn_05,2,2
+multi_038,multi_038_HR,HR,2,Pre-BATNA,i can move to $90k salary.,,multi_038_turn_06,1,2
+multi_038,multi_038_HR,HR,2,Pre-BATNA,we can talk through bonus and vacation next.,,multi_038_turn_06,2,2
+multi_038,multi_038_Employee,Employee,3,Pre-BATNA,ok.,,multi_038_turn_07,1,3
+multi_038,multi_038_Employee,Employee,3,Pre-BATNA,i'm still at $110k salary.,,multi_038_turn_07,2,3
+multi_038,multi_038_Employee,Employee,3,Pre-BATNA,do you have more room on bonus or vacation days?,,multi_038_turn_07,3,3
+multi_038,multi_038_HR,HR,3,Pre-BATNA,i can do a 5% bonus.,,multi_038_turn_08,1,2
+multi_038,multi_038_HR,HR,3,Pre-BATNA,"if vacation days are the next lever, we can discuss that.",,multi_038_turn_08,2,2
+multi_038,multi_038_Employee,Employee,4,Post-BATNA,i'm still at $110k salary.,,multi_038_turn_09,1,2
+multi_038,multi_038_Employee,Employee,4,Post-BATNA,"on vacation, 30 days.",,multi_038_turn_09,2,2
+multi_038,multi_038_HR,HR,4,Post-BATNA,30 days is clear.,,multi_038_turn_10,1,3
+multi_038,multi_038_HR,HR,4,Post-BATNA,which matters more to you here: bonus or vacation days?,,multi_038_turn_10,2,3
+multi_038,multi_038_HR,HR,4,Post-BATNA,"if you can flex on one, that may help us bridge salary.",,multi_038_turn_10,3,3
+multi_038,multi_038_Employee,Employee,5,Post-BATNA,i can flex on those.,,multi_038_turn_11,1,2
+multi_038,multi_038_Employee,Employee,5,Post-BATNA,"15% bonus and 25 vacation days, with salary at $110k.",,multi_038_turn_11,2,2
+multi_038,multi_038_HR,HR,5,Post-BATNA,i can do $110k salary and a 5% bonus.,,multi_038_turn_12,1,2
+multi_038,multi_038_HR,HR,5,Post-BATNA,what can you do on vacation days?,,multi_038_turn_12,2,2
+multi_038,multi_038_Employee,Employee,6,Post-BATNA,"25 vacation days, with the 5% bonus.",,multi_038_turn_13,1,2
+multi_038,multi_038_Employee,Employee,6,Post-BATNA,that's my final compromise on the open points.,,multi_038_turn_13,2,2
+multi_038,multi_038_HR,HR,6,Post-BATNA,we won't be able to make that work.,,multi_038_turn_14,1,2
+multi_038,multi_038_HR,HR,6,Post-BATNA,we'll end it here.,,multi_038_turn_14,2,2
+multi_039,multi_039_Employee,Employee,0,Pre-BATNA,"hi there, thanks for taking the time to chat.",,multi_039_turn_01,1,1
+multi_039,multi_039_HR,HR,0,Pre-BATNA,"hi, thanks for making time today.",,multi_039_turn_02,1,1
+multi_039,multi_039_Employee,Employee,1,Pre-BATNA,hi!,,multi_039_turn_03,1,2
+multi_039,multi_039_Employee,Employee,1,Pre-BATNA,"i'm looking for $120k salary, a 20% bonus, 20k in stock options, and 30 vacation days.",,multi_039_turn_03,2,2
+multi_039,multi_039_HR,HR,1,Pre-BATNA,that's higher than we can do.,,multi_039_turn_04,1,2
+multi_039,multi_039_HR,HR,1,Pre-BATNA,"we can offer $80k salary, no bonus, 20k stock options, and 10 vacation days.",,multi_039_turn_04,2,2
+multi_039,multi_039_Employee,Employee,2,Pre-BATNA,20k stock works.,,multi_039_turn_05,1,2
+multi_039,multi_039_Employee,Employee,2,Pre-BATNA,where do you have more flexibility on cash comp: salary or bonus?,,multi_039_turn_05,2,2
+multi_039,multi_039_HR,HR,2,Pre-BATNA,bonus is the more flexible piece.,,multi_039_turn_06,1,2
+multi_039,multi_039_HR,HR,2,Pre-BATNA,we can do a 5% bonus.,,multi_039_turn_06,2,2
+multi_039,multi_039_Employee,Employee,3,Pre-BATNA,ok — then let's move on bonus and vacation.,,multi_039_turn_07,1,2
+multi_039,multi_039_Employee,Employee,3,Pre-BATNA,15% bonus and 30 vacation days.,,multi_039_turn_07,2,2
+multi_039,multi_039_HR,HR,3,Pre-BATNA,we can do 15% bonus.,,multi_039_turn_08,1,3
+multi_039,multi_039_HR,HR,3,Pre-BATNA,vacation stays at 10 days.,,multi_039_turn_08,2,3
+multi_039,multi_039_HR,HR,3,Pre-BATNA,"if that doesn't work, we can talk salary next.",,multi_039_turn_08,3,3
+multi_039,multi_039_Employee,Employee,4,Post-BATNA,15% bonus works.,,multi_039_turn_09,1,3
+multi_039,multi_039_Employee,Employee,4,Post-BATNA,let's talk salary.,,multi_039_turn_09,2,3
+multi_039,multi_039_Employee,Employee,4,Post-BATNA,could you do $110k salary?,,multi_039_turn_09,3,3
+multi_039,multi_039_HR,HR,4,Post-BATNA,best I can do on salary is $90k.,,multi_039_turn_10,1,2
+multi_039,multi_039_HR,HR,4,Post-BATNA,we can talk vacation next if needed.,,multi_039_turn_10,2,2
+multi_039,multi_039_Employee,Employee,5,Post-BATNA,"if you can move salary to $100k, I can do 25 vacation days.",,multi_039_turn_11,1,2
+multi_039,multi_039_Employee,Employee,5,Post-BATNA,practical compromise from my side.,,multi_039_turn_11,2,2
+multi_039,multi_039_HR,HR,5,Post-BATNA,$90k and 10 days. which matters more?,,multi_039_turn_12,1,1
+multi_039,multi_039_Employee,Employee,6,Post-BATNA,salary matters more.,,multi_039_turn_13,1,2
+multi_039,multi_039_Employee,Employee,6,Post-BATNA,i can do $100k salary and 20 vacation days.,,multi_039_turn_13,2,2
+multi_039,multi_039_HR,HR,6,Post-BATNA,that doesn't work for us.,,multi_039_turn_14,1,2
+multi_039,multi_039_HR,HR,6,Post-BATNA,we can't bridge the salary and vacation gap here.,,multi_039_turn_14,2,2
+multi_040,multi_040_HR,HR,0,Pre-BATNA,hi there! thanks for taking the time to chat today.,,multi_040_turn_01,1,1
+multi_040,multi_040_Employee,Employee,0,Pre-BATNA,hi there! thanks for making time to chat today.,,multi_040_turn_02,1,1
+multi_040,multi_040_HR,HR,1,Pre-BATNA,"80k salary, no bonus, 20k in stock options, and 10 vacation days.",,multi_040_turn_03,1,2
+multi_040,multi_040_HR,HR,1,Pre-BATNA,which parts matter most to you?,,multi_040_turn_03,2,2
+multi_040,multi_040_Employee,Employee,1,Pre-BATNA,salary and bonus are the biggest ones for me.,,multi_040_turn_04,1,2
+multi_040,multi_040_Employee,Employee,1,Pre-BATNA,i've got more flexibility on the other pieces.,,multi_040_turn_04,2,2
+multi_040,multi_040_HR,HR,2,Pre-BATNA,got it.,,multi_040_turn_05,1,4
+multi_040,multi_040_HR,HR,2,Pre-BATNA,i can move the bonus to 5%.,,multi_040_turn_05,2,4
+multi_040,multi_040_HR,HR,2,Pre-BATNA,salary stays at 80k for now.,,multi_040_turn_05,3,4
+multi_040,multi_040_HR,HR,2,Pre-BATNA,"if bonus matters more, does that help, or is salary the bigger gap?",,multi_040_turn_05,4,4
+multi_040,multi_040_Employee,Employee,2,Pre-BATNA,the bonus move helps.,,multi_040_turn_06,1,3
+multi_040,multi_040_Employee,Employee,2,Pre-BATNA,salary is still the bigger gap.,,multi_040_turn_06,2,3
+multi_040,multi_040_Employee,Employee,2,Pre-BATNA,i'd need 120k salary and a 10% bonus.,,multi_040_turn_06,3,3
+multi_040,multi_040_HR,HR,3,Pre-BATNA,i can move to 90k salary and a 10% bonus.,,multi_040_turn_07,1,3
+multi_040,multi_040_HR,HR,3,Pre-BATNA,that's meaningful movement on both.,,multi_040_turn_07,2,3
+multi_040,multi_040_HR,HR,3,Pre-BATNA,"if salary is still the gap, we can talk through other components next.",,multi_040_turn_07,3,3
+multi_040,multi_040_Employee,Employee,3,Pre-BATNA,the move on salary and bonus helps.,,multi_040_turn_08,1,3
+multi_040,multi_040_Employee,Employee,3,Pre-BATNA,salary is still short.,,multi_040_turn_08,2,3
+multi_040,multi_040_Employee,Employee,3,Pre-BATNA,could you do 20k in stock options and keep vacation at 10 days?,,multi_040_turn_08,3,3
+multi_040,multi_040_HR,HR,4,Post-BATNA,"yes, 20k in stock and 10 days works.",,multi_040_turn_09,1,3
+multi_040,multi_040_HR,HR,4,Post-BATNA,"on salary, i can move to 100k.",,multi_040_turn_09,2,3
+multi_040,multi_040_HR,HR,4,Post-BATNA,that's a serious step to close the last gap.,,multi_040_turn_09,3,3
+multi_040,multi_040_Employee,Employee,4,Post-BATNA,Let's talk about salary next.,,multi_040_turn_10,1,1
+multi_040,multi_040_HR,HR,5,Post-BATNA,i can do $110k salary.,,multi_040_turn_11,1,2
+multi_040,multi_040_HR,HR,5,Post-BATNA,that's my final move to close this out.,,multi_040_turn_11,2,2
+multi_040,multi_040_Employee,Employee,5,Post-BATNA,Let's talk about salary next.,,multi_040_turn_12,1,1
+multi_040,multi_040_HR,HR,6,Post-BATNA,$120k salary.,,multi_040_turn_13,1,2
+multi_040,multi_040_HR,HR,6,Post-BATNA,that resolves the last open issue.,,multi_040_turn_13,2,2
+multi_040,multi_040_Employee,Employee,6,Post-BATNA,i'm going to pass.,,multi_040_turn_14,1,1
+multi_041,multi_041_HR,HR,0,Pre-BATNA,hi there! thanks for making time today.,,multi_041_turn_01,1,1
+multi_041,multi_041_Employee,Employee,0,Pre-BATNA,hi! thanks for meeting with me today.,,multi_041_turn_02,1,1
+multi_041,multi_041_HR,HR,1,Pre-BATNA,likewise.,,multi_041_turn_03,1,3
+multi_041,multi_041_HR,HR,1,Pre-BATNA,what matters most to you in the package?,,multi_041_turn_03,2,3
+multi_041,multi_041_HR,HR,1,Pre-BATNA,salary and bonus first?,,multi_041_turn_03,3,3
+multi_041,multi_041_Employee,Employee,1,Pre-BATNA,yes,,multi_041_turn_04,1,3
+multi_041,multi_041_Employee,Employee,1,Pre-BATNA,those are the main priorities for me.,,multi_041_turn_04,2,3
+multi_041,multi_041_Employee,Employee,1,Pre-BATNA,what range or flexibility do you have on salary and bonus?,,multi_041_turn_04,3,3
+multi_041,multi_041_HR,HR,2,Pre-BATNA,"for salary, we're at $90k with no bonus to start.",,multi_041_turn_05,1,2
+multi_041,multi_041_HR,HR,2,Pre-BATNA,"if needed, we can talk equity or vacation next.",,multi_041_turn_05,2,2
+multi_041,multi_041_Employee,Employee,2,Pre-BATNA,"110k salary, 20% bonus, 20k stock options, 30 vacation days.",,multi_041_turn_06,1,2
+multi_041,multi_041_Employee,Employee,2,Pre-BATNA,that's the package I'd need.,,multi_041_turn_06,2,2
+multi_041,multi_041_HR,HR,3,Pre-BATNA,i hear you.,,multi_041_turn_07,1,3
+multi_041,multi_041_HR,HR,3,Pre-BATNA,we're holding on salary and bonus for now.,,multi_041_turn_07,2,3
+multi_041,multi_041_HR,HR,3,Pre-BATNA,we can do 20k stock options and 10 vacation days.,,multi_041_turn_07,3,3
+multi_041,multi_041_Employee,Employee,3,Pre-BATNA,20k stock is fine.,,multi_041_turn_08,1,3
+multi_041,multi_041_Employee,Employee,3,Pre-BATNA,how much room is there on vacation days?,,multi_041_turn_08,2,3
+multi_041,multi_041_Employee,Employee,3,Pre-BATNA,"and if vacation moves, could salary or bonus reopen after that?",,multi_041_turn_08,3,3
+multi_041,multi_041_HR,HR,4,Post-BATNA,stock is settled.,,multi_041_turn_09,1,3
+multi_041,multi_041_HR,HR,4,Post-BATNA,we can move vacation to 15 days.,,multi_041_turn_09,2,3
+multi_041,multi_041_HR,HR,4,Post-BATNA,"if that narrows the gap, we can revisit the overall package after that.",,multi_041_turn_09,3,3
+multi_041,multi_041_Employee,Employee,4,Post-BATNA,15 vacation days works.,,multi_041_turn_10,1,3
+multi_041,multi_041_Employee,Employee,4,Post-BATNA,I'd need a 20% bonus.,,multi_041_turn_10,2,3
+multi_041,multi_041_Employee,Employee,4,Post-BATNA,then we can revisit salary.,,multi_041_turn_10,3,3
+multi_041,multi_041_HR,HR,5,Post-BATNA,15 days is settled.,,multi_041_turn_11,1,4
+multi_041,multi_041_HR,HR,5,Post-BATNA,20% bonus is too high.,,multi_041_turn_11,2,4
+multi_041,multi_041_HR,HR,5,Post-BATNA,I can do a 10% bonus.,,multi_041_turn_11,3,4
+multi_041,multi_041_HR,HR,5,Post-BATNA,we can discuss salary alongside that.,,multi_041_turn_11,4,4
+multi_041,multi_041_Employee,Employee,5,Post-BATNA,i can move to a 15% bonus.,,multi_041_turn_12,1,3
+multi_041,multi_041_Employee,Employee,5,Post-BATNA,i'd hold salary at $110k.,,multi_041_turn_12,2,3
+multi_041,multi_041_Employee,Employee,5,Post-BATNA,"if there's room on salary alongside that, we should be close.",,multi_041_turn_12,3,3
+multi_041,multi_041_HR,HR,6,Post-BATNA,there is some room on salary.,,multi_041_turn_13,1,3
+multi_041,multi_041_HR,HR,6,Post-BATNA,i can do $100k salary with a 15% bonus.,,multi_041_turn_13,2,3
+multi_041,multi_041_HR,HR,6,Post-BATNA,that should get us very close.,,multi_041_turn_13,3,3
+multi_041,multi_041_Employee,Employee,6,Post-BATNA,i can't make this work at $100k salary.,,multi_041_turn_14,1,2
+multi_041,multi_041_Employee,Employee,6,Post-BATNA,i'm going to step back here.,,multi_041_turn_14,2,2
+multi_042,multi_042_Employee,Employee,0,Pre-BATNA,"hi there, thanks for taking the time to chat.",,multi_042_turn_01,1,1
+multi_042,multi_042_HR,HR,0,Pre-BATNA,"hi, thanks for meeting with me today.",,multi_042_turn_02,1,1
+multi_042,multi_042_Employee,Employee,1,Pre-BATNA,hi,,multi_042_turn_03,1,3
+multi_042,multi_042_Employee,Employee,1,Pre-BATNA,"I'm targeting $120k salary, a 20% bonus, 20k in stock options, and 30 vacation days.",,multi_042_turn_03,2,3
+multi_042,multi_042_Employee,Employee,1,Pre-BATNA,what flexibility do you have on those?,,multi_042_turn_03,3,3
+multi_042,multi_042_HR,HR,1,Pre-BATNA,"we can start at $80k salary, no bonus, 20k stock options, and 10 vacation days.",,multi_042_turn_04,1,2
+multi_042,multi_042_HR,HR,1,Pre-BATNA,which of those matters most to you?,,multi_042_turn_04,2,2
+multi_042,multi_042_Employee,Employee,2,Pre-BATNA,salary is the biggest one for me.,,multi_042_turn_05,1,3
+multi_042,multi_042_Employee,Employee,2,Pre-BATNA,vacation days would be the next lever.,,multi_042_turn_05,2,3
+multi_042,multi_042_Employee,Employee,2,Pre-BATNA,where do you have the most room between those?,,multi_042_turn_05,3,3
+multi_042,multi_042_HR,HR,2,Pre-BATNA,salary is where we have the most room.,,multi_042_turn_06,1,4
+multi_042,multi_042_HR,HR,2,Pre-BATNA,stock is already aligned at 20k.,,multi_042_turn_06,2,4
+multi_042,multi_042_HR,HR,2,Pre-BATNA,we can move salary to $90k.,,multi_042_turn_06,3,4
+multi_042,multi_042_HR,HR,2,Pre-BATNA,"if needed, we can talk about vacation next.",,multi_042_turn_06,4,4
+multi_042,multi_042_Employee,Employee,3,Pre-BATNA,ok.,,multi_042_turn_07,1,3
+multi_042,multi_042_Employee,Employee,3,Pre-BATNA,"on salary, i'd need $110k.",,multi_042_turn_07,2,3
+multi_042,multi_042_Employee,Employee,3,Pre-BATNA,we can talk vacation after that.,,multi_042_turn_07,3,3
+multi_042,multi_042_HR,HR,3,Pre-BATNA,i can move salary to $100k.,,multi_042_turn_08,1,2
+multi_042,multi_042_HR,HR,3,Pre-BATNA,then we can talk vacation.,,multi_042_turn_08,2,2
+multi_042,multi_042_Employee,Employee,4,Post-BATNA,salary still needs to be higher first.,,multi_042_turn_09,1,1
+multi_042,multi_042_HR,HR,4,Post-BATNA,understood.,,multi_042_turn_10,1,2
+multi_042,multi_042_HR,HR,4,Post-BATNA,would more bonus flexibility help bridge it on comp overall?,,multi_042_turn_10,2,2
+multi_042,multi_042_Employee,Employee,5,Post-BATNA,yes.,,multi_042_turn_11,1,2
+multi_042,multi_042_Employee,Employee,5,Post-BATNA,$110k salary and 10% bonus.,,multi_042_turn_11,2,2
+multi_042,multi_042_HR,HR,5,Post-BATNA,i can do $110k salary and a 5% bonus.,,multi_042_turn_12,1,2
+multi_042,multi_042_HR,HR,5,Post-BATNA,vacation is the main open piece now.,,multi_042_turn_12,2,2
+multi_042,multi_042_Employee,Employee,6,Post-BATNA,ok.,,multi_042_turn_13,1,3
+multi_042,multi_042_Employee,Employee,6,Post-BATNA,30 vacation days would close it for me.,,multi_042_turn_13,2,3
+multi_042,multi_042_Employee,Employee,6,Post-BATNA,not reopening comp.,,multi_042_turn_13,3,3
+multi_042,multi_042_HR,HR,6,Post-BATNA,understood.,,multi_042_turn_14,1,2
+multi_042,multi_042_HR,HR,6,Post-BATNA,"we couldn't bridge bonus and vacation together this round, so we'll stop here.",,multi_042_turn_14,2,2
+multi_043,multi_043_HR,HR,0,Pre-BATNA,hi there! thanks for taking the time to chat.,,multi_043_turn_01,1,1
+multi_043,multi_043_Employee,Employee,0,Pre-BATNA,hi! thanks for meeting with me.,,multi_043_turn_02,1,1
+multi_043,multi_043_HR,HR,1,Pre-BATNA,hi!,,multi_043_turn_03,1,3
+multi_043,multi_043_HR,HR,1,Pre-BATNA,what matters most to you in the package?,,multi_043_turn_03,2,3
+multi_043,multi_043_HR,HR,1,Pre-BATNA,"want to start with salary and bonus, or another component?",,multi_043_turn_03,3,3
+multi_043,multi_043_Employee,Employee,1,Pre-BATNA,compensation is the main priority for me.,,multi_043_turn_04,1,3
+multi_043,multi_043_Employee,Employee,1,Pre-BATNA,I'd like to start with $120k salary and a 20% bonus.,,multi_043_turn_04,2,3
+multi_043,multi_043_Employee,Employee,1,Pre-BATNA,happy to discuss equity and vacation next.,,multi_043_turn_04,3,3
+multi_043,multi_043_HR,HR,2,Pre-BATNA,got it.,,multi_043_turn_05,1,3
+multi_043,multi_043_HR,HR,2,Pre-BATNA,"as a balanced starting package: $90k salary, 15% bonus, 20k stock options, and 10 vacation days.",,multi_043_turn_05,2,3
+multi_043,multi_043_HR,HR,2,Pre-BATNA,which piece do you want to move on first?,,multi_043_turn_05,3,3
+multi_043,multi_043_Employee,Employee,2,Pre-BATNA,salary and bonus first.,,multi_043_turn_06,1,2
+multi_043,multi_043_Employee,Employee,2,Pre-BATNA,i'm at $120k salary and a 20% bonus.,,multi_043_turn_06,2,2
+multi_043,multi_043_HR,HR,3,Pre-BATNA,i can move to $100k salary and a 20% bonus.,,multi_043_turn_07,1,2
+multi_043,multi_043_HR,HR,3,Pre-BATNA,"if that works for you, we can talk equity and vacation next.",,multi_043_turn_07,2,2
+multi_043,multi_043_Employee,Employee,3,Pre-BATNA,20% bonus works.,,multi_043_turn_08,1,3
+multi_043,multi_043_Employee,Employee,3,Pre-BATNA,salary is still apart at $100k.,,multi_043_turn_08,2,3
+multi_043,multi_043_Employee,Employee,3,Pre-BATNA,"if salary is constrained, do you have more room on stock options or vacation days?",,multi_043_turn_08,3,3
+multi_043,multi_043_HR,HR,4,Post-BATNA,i can move salary to $110k.,,multi_043_turn_09,1,2
+multi_043,multi_043_HR,HR,4,Post-BATNA,we can focus on stock options or vacation next.,,multi_043_turn_09,2,2
+multi_043,multi_043_Employee,Employee,4,Post-BATNA,$110k salary works.,,multi_043_turn_10,1,2
+multi_043,multi_043_Employee,Employee,4,Post-BATNA,30 vacation days.,,multi_043_turn_10,2,2
+multi_043,multi_043_HR,HR,5,Post-BATNA,ok on salary and bonus.,,multi_043_turn_11,1,3
+multi_043,multi_043_HR,HR,5,Post-BATNA,for the remaining pieces: 20k stock options and 15 vacation days.,,multi_043_turn_11,2,3
+multi_043,multi_043_HR,HR,5,Post-BATNA,that would wrap it up from our side.,,multi_043_turn_11,3,3
+multi_043,multi_043_Employee,Employee,5,Post-BATNA,"salary, bonus, and the 20k stock options work.",,multi_043_turn_12,1,2
+multi_043,multi_043_Employee,Employee,5,Post-BATNA,can we do 25 vacation days to close this out?,,multi_043_turn_12,2,2
+multi_043,multi_043_HR,HR,6,Post-BATNA,15 vacation days is our final.,,multi_043_turn_13,1,1
+multi_043,multi_043_Employee,Employee,6,Post-BATNA,then I’m going to pass.,,multi_043_turn_14,1,1
+multi_044,multi_044_HR,HR,0,Pre-BATNA,hi there! thanks for taking the time to chat.,,multi_044_turn_01,1,1
+multi_044,multi_044_Employee,Employee,0,Pre-BATNA,hi! thanks for meeting with me today.,,multi_044_turn_02,1,1
+multi_044,multi_044_HR,HR,1,Pre-BATNA,hi!,,multi_044_turn_03,1,2
+multi_044,multi_044_HR,HR,1,Pre-BATNA,what are you targeting for salary and bonus?,,multi_044_turn_03,2,2
+multi_044,multi_044_Employee,Employee,1,Pre-BATNA,$120k salary and a 20% bonus.,,multi_044_turn_04,1,2
+multi_044,multi_044_Employee,Employee,1,Pre-BATNA,happy to talk through equity and vacation next.,,multi_044_turn_04,2,2
+multi_044,multi_044_HR,HR,2,Pre-BATNA,i can do $110k salary and no bonus.,,multi_044_turn_05,1,2
+multi_044,multi_044_HR,HR,2,Pre-BATNA,what are you looking for on stock options and vacation?,,multi_044_turn_05,2,2
+multi_044,multi_044_Employee,Employee,2,Pre-BATNA,20k in stock options and 30 vacation days.,,multi_044_turn_06,1,2
+multi_044,multi_044_Employee,Employee,2,Pre-BATNA,"i'm looking at the full package across salary, bonus, equity, and time off.",,multi_044_turn_06,2,2
+multi_044,multi_044_HR,HR,3,Pre-BATNA,20k stock options works.,,multi_044_turn_07,1,2
+multi_044,multi_044_HR,HR,3,Pre-BATNA,I can do 15 vacation days.,,multi_044_turn_07,2,2
+multi_044,multi_044_Employee,Employee,3,Pre-BATNA,20k stock works.,,multi_044_turn_08,1,3
+multi_044,multi_044_Employee,Employee,3,Pre-BATNA,15 days is too light.,,multi_044_turn_08,2,3
+multi_044,multi_044_Employee,Employee,3,Pre-BATNA,I can do 30 vacation days with a 15% bonus.,,multi_044_turn_08,3,3
+multi_044,multi_044_HR,HR,4,Post-BATNA,"if we improve one but not both, which matters more to you: bonus or vacation days?",,multi_044_turn_09,1,1
+multi_044,multi_044_Employee,Employee,4,Post-BATNA,vacation days matter more.,,multi_044_turn_10,1,2
+multi_044,multi_044_Employee,Employee,4,Post-BATNA,"if you can move meaningfully there, what can you do on days and bonus?",,multi_044_turn_10,2,2
+multi_044,multi_044_HR,HR,5,Post-BATNA,Let's talk about vacation days next.,,multi_044_turn_11,1,1
+multi_044,multi_044_Employee,Employee,5,Post-BATNA,25 vacation days.,,multi_044_turn_12,1,1
+multi_044,multi_044_HR,HR,6,Post-BATNA,Let's talk about vacation days next.,,multi_044_turn_13,1,1
+multi_044,multi_044_Employee,Employee,6,Post-BATNA,"with gaps still open on core terms, i can't finalize today.",,multi_044_turn_14,1,2
+multi_044,multi_044_Employee,Employee,6,Post-BATNA,i'm going to step back from this.,,multi_044_turn_14,2,2
+multi_045,multi_045_HR,HR,0,Pre-BATNA,hi there! thanks for taking the time to chat.,,multi_045_turn_01,1,1
+multi_045,multi_045_Employee,Employee,0,Pre-BATNA,hi there! nice to meet you.,,multi_045_turn_02,1,1
+multi_045,multi_045_HR,HR,1,Pre-BATNA,nice to meet you too.,,multi_045_turn_03,1,3
+multi_045,multi_045_HR,HR,1,Pre-BATNA,"we can start at $80k salary, no bonus, 20k stock options, and 10 vacation days.",,multi_045_turn_03,2,3
+multi_045,multi_045_HR,HR,1,Pre-BATNA,what would you want to adjust most?,,multi_045_turn_03,3,3
+multi_045,multi_045_Employee,Employee,1,Pre-BATNA,"salary, bonus, and vacation are the main ones for me.",,multi_045_turn_04,1,2
+multi_045,multi_045_Employee,Employee,1,Pre-BATNA,"i’d be looking for $110k salary, 20% bonus, 20k stock options, and 30 vacation days.",,multi_045_turn_04,2,2
+multi_045,multi_045_HR,HR,2,Pre-BATNA,i can move to $90k salary and 15 vacation days.,,multi_045_turn_05,1,3
+multi_045,multi_045_HR,HR,2,Pre-BATNA,"on bonus, i'm holding for now.",,multi_045_turn_05,2,3
+multi_045,multi_045_HR,HR,2,Pre-BATNA,"between bonus and time off, which matters more from here?",,multi_045_turn_05,3,3
+multi_045,multi_045_Employee,Employee,2,Pre-BATNA,"both matter, but bonus is a bit more important.",,multi_045_turn_06,1,3
+multi_045,multi_045_Employee,Employee,2,Pre-BATNA,"if vacation stays closer to 15 days, do you have any room on bonus?",,multi_045_turn_06,2,3
+multi_045,multi_045_Employee,Employee,2,Pre-BATNA,"or if bonus is truly fixed, how much more flexibility is there on time off?",,multi_045_turn_06,3,3
+multi_045,multi_045_HR,HR,3,Pre-BATNA,i can move the bonus to 5%.,,multi_045_turn_07,1,2
+multi_045,multi_045_HR,HR,3,Pre-BATNA,"if 15 vacation days stays in place, does that work on your side?",,multi_045_turn_07,2,2
+multi_045,multi_045_Employee,Employee,3,Pre-BATNA,the 5% move helps.,,multi_045_turn_08,1,3
+multi_045,multi_045_Employee,Employee,3,Pre-BATNA,"if vacation stays at 15 days, i'd need a 10% bonus.",,multi_045_turn_08,2,3
+multi_045,multi_045_Employee,Employee,3,Pre-BATNA,or 25 vacation days if bonus can't move further.,,multi_045_turn_08,3,3
+multi_045,multi_045_HR,HR,4,Post-BATNA,"if bonus comes up, would you trade on salary?",,multi_045_turn_09,1,2
+multi_045,multi_045_HR,HR,4,Post-BATNA,what salary would make 10% bonus work for you?,,multi_045_turn_09,2,2
+multi_045,multi_045_Employee,Employee,4,Post-BATNA,100k salary would make 10% bonus work for me.,,multi_045_turn_10,1,1
+multi_045,multi_045_HR,HR,5,Post-BATNA,got it.,,multi_045_turn_11,1,2
+multi_045,multi_045_HR,HR,5,Post-BATNA,how flexible are you on vacation days?,,multi_045_turn_11,2,2
+multi_045,multi_045_Employee,Employee,5,Post-BATNA,i can do 20 vacation days.,,multi_045_turn_12,1,2
+multi_045,multi_045_Employee,Employee,5,Post-BATNA,"with 100k salary and a 10% bonus, that would close it for me.",,multi_045_turn_12,2,2
+multi_045,multi_045_HR,HR,6,Post-BATNA,Let's talk about salary next.,,multi_045_turn_13,1,1
+multi_045,multi_045_Employee,Employee,6,Post-BATNA,"without movement to 100k salary with the 10% bonus, i can't finalize today.",,multi_045_turn_14,1,2
+multi_045,multi_045_Employee,Employee,6,Post-BATNA,i'm going to step back here.,,multi_045_turn_14,2,2
+multi_046,multi_046_Employee,Employee,0,Pre-BATNA,"hi there, thanks for making the time today.",,multi_046_turn_01,1,1
+multi_046,multi_046_HR,HR,0,Pre-BATNA,"hi, thanks for meeting with me today.",,multi_046_turn_02,1,1
+multi_046,multi_046_Employee,Employee,1,Pre-BATNA,hi,,multi_046_turn_03,1,3
+multi_046,multi_046_Employee,Employee,1,Pre-BATNA,"i’m looking for $120k salary, 20% bonus, 20k stock options, and 30 vacation days.",,multi_046_turn_03,2,3
+multi_046,multi_046_Employee,Employee,1,Pre-BATNA,how does that line up on your side?,,multi_046_turn_03,3,3
+multi_046,multi_046_HR,HR,1,Pre-BATNA,that's above our range.,,multi_046_turn_04,1,3
+multi_046,multi_046_HR,HR,1,Pre-BATNA,"we can do $80k salary, 0% bonus, 20k stock options, and 10 vacation days.",,multi_046_turn_04,2,3
+multi_046,multi_046_HR,HR,1,Pre-BATNA,which of those matters most to you?,,multi_046_turn_04,3,3
+multi_046,multi_046_Employee,Employee,2,Pre-BATNA,salary and bonus are the main levers for me.,,multi_046_turn_05,1,3
+multi_046,multi_046_Employee,Employee,2,Pre-BATNA,the 20k stock options are aligned.,,multi_046_turn_05,2,3
+multi_046,multi_046_Employee,Employee,2,Pre-BATNA,do you have more flexibility on salary or bonus?,,multi_046_turn_05,3,3
+multi_046,multi_046_HR,HR,2,Pre-BATNA,"salary and bonus are the main open points, understood.",,multi_046_turn_06,1,3
+multi_046,multi_046_HR,HR,2,Pre-BATNA,20k stock is aligned.,,multi_046_turn_06,2,3
+multi_046,multi_046_HR,HR,2,Pre-BATNA,we can move bonus to 5%.,,multi_046_turn_06,3,3
+multi_046,multi_046_Employee,Employee,3,Pre-BATNA,$120k salary and a 15% bonus.,,multi_046_turn_07,1,2
+multi_046,multi_046_Employee,Employee,3,Pre-BATNA,we can talk vacation next.,,multi_046_turn_07,2,2
+multi_046,multi_046_HR,HR,3,Pre-BATNA,20k stock is aligned.,,multi_046_turn_08,1,3
+multi_046,multi_046_HR,HR,3,Pre-BATNA,I can do $90k salary and a 10% bonus.,,multi_046_turn_08,2,3
+multi_046,multi_046_HR,HR,3,Pre-BATNA,"if that narrows it enough, we can talk vacation next.",,multi_046_turn_08,3,3
+multi_046,multi_046_Employee,Employee,4,Post-BATNA,25 days vacation.,,multi_046_turn_09,1,1
+multi_046,multi_046_HR,HR,4,Post-BATNA,15 days vacation.,,multi_046_turn_10,1,1
+multi_046,multi_046_Employee,Employee,5,Post-BATNA,20 days vacation and a 10% bonus.,,multi_046_turn_11,1,2
+multi_046,multi_046_Employee,Employee,5,Post-BATNA,stock is already aligned.,,multi_046_turn_11,2,2
+multi_046,multi_046_HR,HR,5,Post-BATNA,yes.,,multi_046_turn_12,1,2
+multi_046,multi_046_HR,HR,5,Post-BATNA,$100k salary and 20 vacation days.,,multi_046_turn_12,2,2
+multi_046,multi_046_Employee,Employee,6,Post-BATNA,$110k salary.,,multi_046_turn_13,1,1
+multi_046,multi_046_HR,HR,6,Post-BATNA,can't do $110k.,,multi_046_turn_14,1,1

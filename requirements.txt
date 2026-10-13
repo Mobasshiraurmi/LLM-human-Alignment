@@ -1,0 +1,7 @@
+numpy
+openai>=1.0
+pandas
+anthropic>=1.0
+google-genai>=1.0
+scipy
+scikit-learn
