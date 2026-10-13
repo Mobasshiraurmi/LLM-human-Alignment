@@ -35,7 +35,8 @@ As in strategic_behavior.py, a dyad's behavior distribution is its pooled messag
 (Neutral / Integrative / Distributive) and JSD is scipy.spatial.distance.jensenshannon(p, q) ** 2
 (natural log).
 
-Metrics (the ones in kodis_reports.py's tables):
+Metrics (TABLE1/TABLE2: kodis_reports.py's tables; BEHAVIOR: the combined ΔDG + phase-share
+table of report/alignment_reports.py):
   Table 1  BG-All‡  BG-Pre‡  BG-Post‡   behavior-mix JSD gap, overall / Pre- / Post-BATNA
            PPG‡                         6-D phase profile (pre mix + post mix), L2
            LenG‡                        length [words/msg / 50, msgs/dyad / 12], L2
@@ -256,6 +257,12 @@ TABLE1 = [  # (group, label, kind, key, fn, baseline text)
 TABLE2 = [(f"{pn}-BATNA share", b, "†", f"{key}_{b}", None, f"{b} share")
           for key, pn in [("pre", "Pre"), ("post", "Post")] for b in B]
 
+# The report table (one per comparison): ΔDG + the six phase-share gaps, all dyad-level (†).
+# The distribution-level BG-All/BG-Pre/BG-Post/PPG columns were dropped from the reports
+# (they largely restate the shares; per-dyad spread is covered by gao_style_table.py).
+# TABLE1/TABLE2 and distribution_level() are kept for anyone who still wants them.
+BEHAVIOR = [("", "ΔDG", "†", "dD", None, "ΔDist")] + TABLE2
+
 
 def run_table(spec, human, agents, paired=None):
     """paired: {agent name: True} for replay rows (same GameIds as the human dyads)."""
@@ -448,6 +455,103 @@ def tex_table(spec, res, agents, caption, n_h, order=None, pending=(), base_name
     return "\n".join(lines)
 
 
+def behavior_notes(rows_meta, compared: str) -> str:
+    """Notes paragraph for a behavior table. rows_meta: [(label, design, n_dyads)] of the rows
+    with results; compared: what the rows are ('architecture conditions', 'models', ...)."""
+    designs = {d for _, d, _ in rows_meta}
+    ns = {n for _, _, n in rows_meta}
+    if len(designs) == 1 and len(ns) == 1:
+        basis = f"{ns.pop()} {'replayed' if 'replay' in designs else 'free-run'} negotiation dyads per condition"
+    else:
+        basis = "each condition's dyads (" + "; ".join(f"{lab}: {n} {d}" for lab, d, n in rows_meta) + ")"
+    tests = []
+    if "replay" in designs:
+        tests.append("For replay conditions, significance is assessed using a paired two-sided t-test across "
+                     "matched GameIds.")
+    if "freerun" in designs:
+        tests.append("For free-run conditions (no human counterpart per dyad), significance is assessed using a "
+                     "two-sided Welch t-test against the human dyads.")
+    return (f"<i>Notes.</i> Values are based on {basis}, against the 47 human dyads. Cells report the signed gap "
+            "between the agent and human means, defined as agent mean − human mean. ΔDG denotes the change in "
+            "distributive behavior from the Pre-BATNA to Post-BATNA phase. " + " ".join(tests) +
+            " <sup>*</sup>p &lt; .05, <sup>**</sup>p &lt; .01, <sup>***</sup>p &lt; .001. Bold values indicate the "
+            f"smallest absolute gap among {compared} for the corresponding metric.")
+
+
+def _signed(v: float) -> str:
+    return f"{v:+.3f}".replace("-", "−")
+
+
+def html_behavior_table(res, agents, caption, notes, order=None, pending=(), base_name=None):
+    """The combined table: ΔDG† | Pre-BATNA share† (N, I, D) | Post-BATNA share† (N, I, D);
+    signed gap + stars per cell, bold = smallest |gap| per column, one Human Baseline row."""
+    spec = BEHAVIOR
+    order = list(order or agents)
+    base_name = base_name or next(iter(agents))
+    best = {key: (min(res[(key, a)]["gap"] for a in agents) if agents else None) for _, _, _, key, *_ in spec}
+    head1 = ("<tr class='r0'><th class='rowh'></th><th class='dd'>ΔDG<sup>†</sup></th>"
+             "<th colspan='3' class='grp'>Pre-BATNA share<sup>†</sup></th>"
+             "<th colspan='3' class='grp'>Post-BATNA share<sup>†</sup></th></tr>")
+    head2 = ("<tr class='r2'><th class='rowh'>Agent</th><th></th>"
+             + "".join(f"<th>{b}</th>" for b in B) * 2 + "</tr>")
+    body = ""
+    for name in order:
+        if name in pending:
+            body += (f"<tr class='pending'><td class='rowh'>{html.escape(name)}</td>"
+                     + "".join("<td class='pending'>pending</td>" for _ in spec) + "</tr>")
+            continue
+        cells = ""
+        for _, _, _, key, *_ in spec:
+            r = res[(key, name)]
+            v = _signed(r["signed"])
+            if len(agents) > 1 and best[key] is not None and np.isclose(r["gap"], best[key]):
+                v = f"<b>{v}</b>"
+            wil = f", Wilcoxon p={r['p_wilcoxon']:.2g}" if np.isfinite(r.get("p_wilcoxon", np.nan)) else ""
+            tip = (f"agent {r['between']:.3f} vs human {r['base']:.3f} ({_rel(r)} of baseline); {r['test']} "
+                   f"p={r['p']:.2g}{wil}; n human/agent={r['n'][0]}/{r['n'][1]}")
+            cells += f"<td title='{html.escape(tip, quote=True)}'>{v}<sup>{stars(r['p'])}</sup></td>"
+        body += f"<tr><td class='rowh'>{html.escape(name)}</td>{cells}</tr>"
+    base = "".join(f"<td>{res[(key, base_name)]['base']:.3f}</td>" for _, _, _, key, *_ in spec)
+    body += f"<tr class='hb'><td class='rowh'>Human Baseline</td>{base}</tr>"
+    return (f"<table class='kodis beh'>{head1}{head2}{body}</table>"
+            f"<div class='foot'>{notes}</div>"
+            f"<div class='tcap'>{caption}</div>")                     # ACL: caption below the table
+
+
+def tex_behavior_table(res, agents, caption, notes, order=None, pending=(), base_name=None):
+    spec = BEHAVIOR
+    order = list(order or agents)
+    base_name = base_name or next(iter(agents))
+    best = {key: (min(res[(key, a)]["gap"] for a in agents) if agents else None) for _, _, _, key, *_ in spec}
+    plain = lambda t: (t.replace("<i>", r"\textit{").replace("</i>", "}").replace("<sup>", "$^{")
+                       .replace("</sup>", "}$").replace("&lt;", "<").replace("−", "$-$").replace("ΔDG", r"$\Delta DG$"))
+    import re
+    caption = re.sub(r"^Table \S+:\s*", "", caption)        # LaTeX numbers tables itself
+    lines = [r"\begin{table*}[t]", r"\centering",
+             r"\begin{tabular}{lccccccc}", r"\toprule",
+             r" & $\Delta DG^\dagger$ & \multicolumn{3}{c}{Pre-BATNA share$^\dagger$} & "
+             r"\multicolumn{3}{c}{Post-BATNA share$^\dagger$} \\",
+             r"\cmidrule(lr){3-5} \cmidrule(lr){6-8}",
+             r"Agent & & " + " & ".join(B) + " & " + " & ".join(B) + r" \\", r"\midrule"]
+    for name in order:
+        if name in pending:
+            lines.append(f"{name} & " + " & ".join(["--"] * len(spec)) + r" \\")
+            continue
+        cells = []
+        for _, _, _, key, *_ in spec:
+            r = res[(key, name)]
+            v = f"{r['signed']:+.3f}".replace("-", "$-$")
+            if len(agents) > 1 and np.isclose(r["gap"], best[key]):
+                v = rf"\textbf{{{v}}}"
+            cells.append(v + (rf"$^{{{stars(r['p'])}}}$" if stars(r["p"]) else ""))
+        lines.append(f"{name} & " + " & ".join(cells) + r" \\")
+    lines += [r"\midrule", r"\textbf{Human Baseline} & " + " & ".join(
+        rf"\textbf{{{res[(key, base_name)]['base']:.3f}}}" for _, _, _, key, *_ in spec) + r" \\",
+        r"\bottomrule", r"\end{tabular}", rf"\par\smallskip\parbox{{\linewidth}}{{\footnotesize {plain(notes)}}}",
+        rf"\caption{{{plain(caption)}}}", r"\end{table*}"]                 # ACL: caption below the table
+    return "\n".join(lines)
+
+
 CSS = """
 body { font-family: 'Times New Roman', Times, serif; margin: 32px; color: #0b0b0b; background: #fff; }
 h1 { font-family: -apple-system, BlinkMacSystemFont, sans-serif; font-size: 18px; }
@@ -462,11 +566,19 @@ table.kodis tr.r2 th { border-bottom: 0.8px solid #000; }
 table.kodis tr.base1 td { border-top: 0.8px solid #000; }
 table.kodis tr.base2 td { border-bottom: 1.5px solid #000; }
 .foot { font-size: 13px; max-width: 1100px; line-height: 1.45; }
-.cap { font-size: 17px; margin: 14px 0 34px; max-width: 1100px; text-align: center; }
+/* ACL captions: below the table, 10 pt roman, centred when one line, left-aligned when longer */
+.cap, .tcap { font-family: 'Times New Roman', Times, serif; font-size: 10pt; line-height: 1.35; color: #000;
+  width: fit-content; max-width: 1100px; margin: 10px auto 34px 0; text-align: left; }
 table.kodis .sub { font-size: 11px; color: #52514e; }
 table.kodis tr.pending td { color: #9a988f; font-style: italic; }
 table.kodis .rel { font-size: 11px; color: #52514e; }
 table.kodis .down { color: #b25c00; }
+table.beh { margin-top: 6px; }
+table.beh th.grp { border-bottom: 0.8px solid #000; }
+table.beh tr.r0 th { border-top: 1.5px solid #000; font-weight: 600; }
+table.beh tr.r2 th { border-bottom: 0.8px solid #000; font-weight: 600; }
+table.beh tr.hb td { border-top: 0.8px solid #000; border-bottom: 1.5px solid #000; font-weight: 700; }
+table.beh td sup { font-size: 9px; }
 table.det { border-collapse: collapse; font-family: -apple-system, sans-serif; font-size: 12px; }
 table.det th, table.det td { border: 1px solid #dedcd3; padding: 4px 8px; text-align: right; }
 table.det th { background: #2c3e50; color: #fff; }

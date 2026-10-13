@@ -1,7 +1,7 @@
 """run_pipeline.py — the one entry point to generate every report in this repo.
 
     python3 run_pipeline.py                     # reports only, from the checked-in results.csv
-                                                 # files -- no API key, no cost, seconds to run
+                                                 # files -- no API key, no cost, about a minute
     python3 run_pipeline.py --full              # regenerate every (architecture, model, design)
                                                  # combo from raw transcripts: generate, classify,
                                                  # then report -- needs API keys, this takes hours.
@@ -16,7 +16,11 @@ model-wise, type-wise × {single, multi}, architecture-wise; see that file's doc
 kodis_stats.py for the statistics) plus the 18 secondary per-run HTML reports
 (report_replay.py / report_freerun.py, one per architecture × model × design combination) --
 everything a reviewer needs to see, built entirely from the results.csv files already in
-this repo.
+this repo. It then builds the paper's reports into reports/ (report/alignment_reports.py:
+Kwon-style mean gaps and Gao-style distribution divergence, by model / type /
+architecture, rows from report/results_catalog.json; report/meister_report.py: replay vs
+free run) and their figures as vector PDF + SVG in reports/figures/ (PDF export needs
+Google Chrome; without it only the SVGs are written).
 
 --full instead rebuilds a combo's data from scratch: step5_replay.py/step2_generate.py --run,
 then classify_replay.py/classify_freerun.py (Batch API first, falling back to --sync if the
@@ -92,6 +96,10 @@ def report_step(architecture: str, model: str, design: str, out_dir: str = "data
 def build_reports() -> None:
     print("== kodis-style comparison reports (primary) ==")
     run([sys.executable, "report/kodis_reports.py"])
+    print("\n== paper reports: Kwon (mean gaps) + Gao (distributions) by model / type / architecture ==")
+    run([sys.executable, "report/alignment_reports.py", "build"])
+    print("\n== paper report: replay vs free run (Meister et al. 2025, Eq. 1) ==")
+    run([sys.executable, "report/meister_report.py"])
     print("\n== per-run reports (secondary), 18 combos ==")
     for architecture, model, design in combos():
         report_step(architecture, model, design)

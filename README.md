@@ -26,7 +26,7 @@ python3 run_pipeline.py
 ```
 
 This rebuilds every report from the results already in the repo — no API key, no cost, done in
-under a minute. It produces:
+about a minute. It produces:
 
 - **`report/kodis_report_{models,types_single,types_multi,architectures}.html`** (+ `.tex`) — the
   primary comparison tables: model-wise (GPT-5.4 vs Claude vs Gemini, per architecture),
@@ -36,6 +36,19 @@ under a minute. It produces:
   the KODIS paper's own evaluation procedure (see `kodis_stats.py`'s docstring: the published
   procedure's significance test has a measured 43–50% false-positive rate on this data; the
   permutation-of-dyads test used here brings that to 3.5–6.5%).
+- **`reports/`** — the paper's reports, rebuilt from `report/results_catalog.json` (24 rows: the 18
+  combos plus `single_rag` for the three models):
+  - `kwon_by_{model,type,architecture}.html` (+ `.tex`) — Kwon-style **mean gaps** (agent mean − human
+    mean) in one combined table per comparison: ΔDistributive and the Pre/Post-BATNA
+    Neutral / Integrative / Distributive shares (`report/alignment_reports.py` on `stats/kodis_stats.py`).
+  - `gao_by_{model,type,architecture}.html` (+ `.tex`) — Gao-style **distribution-level** divergence:
+    Jensen–Shannon divergence between the agent's and the humans' distributions of each per-dyad value,
+    dyad-permutation tests (`stats/gao_style_table.py`); the by-architecture page adds the Fig. 4 panels.
+  - `meister_replay_vs_freerun.html` (+ `.tex`) — replay vs free run per architecture × model
+    (Meister et al. 2025, Eq. 1), paired bootstrap CIs, Wilcoxon; forest plot.
+  - `figures/` — every figure as vector PDF + SVG at its printed ACL size (one column 219 pt / two
+    columns 455 pt; `report/paper_figures.py`), with LaTeX `figure` snippets in the `.tex` files.
+    PDF export uses Google Chrome headless; without Chrome only the SVGs are written.
 - **`data/replay/<key>/report.html`** / **`data/freerun/<key>/report.html`** — one secondary, per-run HTML
   report per combo (18 total): a single-row `kodis_stats.py` divergence table (same statistics
   as the 4 comparison reports above, just one architecture at a time) plus the full conversation
@@ -78,6 +91,8 @@ data/
   scores.csv                      per-player BATNA values (who got the outside-option change)
   personality_adjective.json      Big-Five trait -> adjective list, used by personality.py
   replay/<key>/, freerun/<key>/   generated data + results + reports, one dir per combo
+                                  (single_rag*/: results.csv only -- its generation traces hold the
+                                  retrieved human turns, so they are not redistributed)
 
 generation/
   step1_calibration.py    human-only power/calibration check (no API key needed)
@@ -95,9 +110,14 @@ classify/
 stats/
   rag_align.py            shared alignment-metric primitives (behavior mix, phase profile, …)
   kodis_stats.py          the corrected KODIS-style divergence-gap engine (statistics)
+  gao_style_table.py      distribution-level JSD + permutation tests, Gao Fig. 4 panels
   step6_paired.py         replay-only paired analysis (TOST equivalence, Gwet's AC1, …)
 
 report/
+  alignment_reports.py    the paper's Kwon + Gao reports by model / type / architecture (reports/)
+  meister_report.py       replay vs free run, Meister et al. 2025 Eq. 1, forest plot (reports/)
+  paper_figures.py        ACL figure export: printed-size SVG -> vector PDF, captions, LaTeX snippets
+  results_catalog.json    which results.csv is which (architecture, design, model) for the two above
   kodis_reports.py        registry-driven report builder on top of stats/kodis_stats.py
   report_registry.json    the 4 reports' row definitions (which results.csv goes where)
   report_replay.py        per-run HTML report, replay (uses kodis_stats.py for its table)
@@ -106,3 +126,16 @@ report/
 
 All scripts are run from the repo root (`python3 generation/step2_generate.py ...`, etc.) --
 `run_pipeline.py` already does this for you.
+
+## Paper reports: adding or removing a result
+
+`report/results_catalog.json` lists every results file the paper reports use, tagged with its
+architecture, design and model; the reports group it automatically.
+
+```bash
+python3 report/alignment_reports.py list                     # what is registered, and the tables it yields
+python3 report/alignment_reports.py add single-RAG replay gpt-5.4 data/replay/single_rag/results.csv
+python3 report/alignment_reports.py remove single-RAG replay gpt-5.4
+python3 report/alignment_reports.py build                    # Kwon + Gao, all three comparison kinds
+python3 report/meister_report.py                             # replay vs free run
+```

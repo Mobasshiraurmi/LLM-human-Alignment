@@ -1,0 +1,170 @@
+[
+  {
+    "architecture": "single-baseline",
+    "design": "replay",
+    "model": "gpt-5.4",
+    "path": "data/replay/single/results.csv",
+    "note": ""
+  },
+  {
+    "architecture": "single-baseline",
+    "design": "replay",
+    "model": "claude-sonnet-4.6",
+    "path": "data/replay/single_claude-sonnet-4.6/results.csv",
+    "note": ""
+  },
+  {
+    "architecture": "single-baseline",
+    "design": "replay",
+    "model": "gemini-2.5-pro",
+    "path": "data/replay/single_gemini-2.5-pro/results.csv",
+    "note": ""
+  },
+  {
+    "architecture": "single-baseline",
+    "design": "freerun",
+    "model": "gpt-5.4",
+    "path": "data/freerun/single/results.csv",
+    "note": ""
+  },
+  {
+    "architecture": "single-baseline",
+    "design": "freerun",
+    "model": "claude-sonnet-4.6",
+    "path": "data/freerun/single_claude-sonnet-4.6/results.csv",
+    "note": ""
+  },
+  {
+    "architecture": "single-baseline",
+    "design": "freerun",
+    "model": "gemini-2.5-pro",
+    "path": "data/freerun/single_gemini-2.5-pro/results.csv",
+    "note": ""
+  },
+  {
+    "architecture": "single-personality",
+    "design": "replay",
+    "model": "gpt-5.4",
+    "path": "data/replay/single_personality/results.csv",
+    "note": ""
+  },
+  {
+    "architecture": "single-personality",
+    "design": "replay",
+    "model": "claude-sonnet-4.6",
+    "path": "data/replay/single_personality_claude-sonnet-4.6/results.csv",
+    "note": ""
+  },
+  {
+    "architecture": "single-personality",
+    "design": "replay",
+    "model": "gemini-2.5-pro",
+    "path": "data/replay/single_personality_gemini-2.5-pro/results.csv",
+    "note": ""
+  },
+  {
+    "architecture": "single-personality",
+    "design": "freerun",
+    "model": "gpt-5.4",
+    "path": "data/freerun/single_personality/results.csv",
+    "note": ""
+  },
+  {
+    "architecture": "single-personality",
+    "design": "freerun",
+    "model": "claude-sonnet-4.6",
+    "path": "data/freerun/single_personality_claude-sonnet-4.6/results.csv",
+    "note": ""
+  },
+  {
+    "architecture": "single-personality",
+    "design": "freerun",
+    "model": "gemini-2.5-pro",
+    "path": "data/freerun/single_personality_gemini-2.5-pro/results.csv",
+    "note": ""
+  },
+  {
+    "architecture": "single-RAG",
+    "design": "replay",
+    "model": "gpt-5.4",
+    "path": "data/replay/single_rag/results.csv",
+    "note": ""
+  },
+  {
+    "architecture": "single-RAG",
+    "design": "replay",
+    "model": "claude-sonnet-4.6",
+    "path": "data/replay/single_rag_claude-sonnet-4.6/results.csv",
+    "note": ""
+  },
+  {
+    "architecture": "single-RAG",
+    "design": "replay",
+    "model": "gemini-2.5-pro",
+    "path": "data/replay/single_rag_gemini-2.5-pro/results.csv",
+    "note": ""
+  },
+  {
+    "architecture": "single-RAG",
+    "design": "freerun",
+    "model": "gpt-5.4",
+    "path": "data/freerun/single_rag/results.csv",
+    "note": ""
+  },
+  {
+    "architecture": "single-RAG",
+    "design": "freerun",
+    "model": "claude-sonnet-4.6",
+    "path": "data/freerun/single_rag_claude-sonnet-4.6/results.csv",
+    "note": ""
+  },
+  {
+    "architecture": "single-RAG",
+    "design": "freerun",
+    "model": "gemini-2.5-pro",
+    "path": "data/freerun/single_rag_gemini-2.5-pro/results.csv",
+    "note": ""
+  },
+  {
+    "architecture": "two-agent",
+    "design": "replay",
+    "model": "gpt-5.4",
+    "path": "data/replay/multi/results.csv",
+    "note": ""
+  },
+  {
+    "architecture": "two-agent",
+    "design": "replay",
+    "model": "claude-sonnet-4.6",
+    "path": "data/replay/multi_claude-sonnet-4.6/results.csv",
+    "note": ""
+  },
+  {
+    "architecture": "two-agent",
+    "design": "replay",
+    "model": "gemini-2.5-pro",
+    "path": "data/replay/multi_gemini-2.5-pro/results.csv",
+    "note": ""
+  },
+  {
+    "architecture": "two-agent",
+    "design": "freerun",
+    "model": "gpt-5.4",
+    "path": "data/freerun/multi/results.csv",
+    "note": ""
+  },
+  {
+    "architecture": "two-agent",
+    "design": "freerun",
+    "model": "claude-sonnet-4.6",
+    "path": "data/freerun/multi_claude-sonnet-4.6/results.csv",
+    "note": ""
+  },
+  {
+    "architecture": "two-agent",
+    "design": "freerun",
+    "model": "gemini-2.5-pro",
+    "path": "data/freerun/multi_gemini-2.5-pro/results.csv",
+    "note": ""
+  }
+]
