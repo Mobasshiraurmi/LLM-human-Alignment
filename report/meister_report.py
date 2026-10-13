@@ -48,7 +48,7 @@ TESTS. Statistic: Delta = A(free run) - A(replay); > 0 means replay is closer.
     python3 report/meister_report.py --open             # every (architecture, model) with both designs
     python3 report/meister_report.py --B 1000 --check-B 10000
 Reads report/results_catalog.json (alignment_reports.py add/list); writes
-reports/meister_replay_vs_freerun.html and .tex.
+output/meister_replay_vs_freerun.html and .tex.
 """
 from __future__ import annotations
 

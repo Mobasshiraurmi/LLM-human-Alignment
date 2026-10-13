@@ -28,7 +28,7 @@ python3 run_pipeline.py
 This rebuilds every report from the results already in the repo — no API key, no cost, done in
 about a minute. It produces:
 
-- **`reports/`** — the paper's reports, built by `report/alignment_reports.py` and
+- **`output/`** — the paper's reports, built by `report/alignment_reports.py` and
   `report/meister_report.py` from the results listed in `report/results_catalog.json` (24 rows:
   single, single_personality, single_rag and multi × GPT-5.4 / Claude Sonnet 4.6 / Gemini 2.5 Pro ×
   replay / free run):
@@ -105,8 +105,8 @@ stats/
   step6_paired.py         replay-only paired analysis (TOST equivalence, Gwet's AC1, …)
 
 report/
-  alignment_reports.py    the paper's Kwon + Gao reports by model / type / architecture (reports/)
-  meister_report.py       replay vs free run, Meister et al. 2025 Eq. 1, forest plot (reports/)
+  alignment_reports.py    the paper's Kwon + Gao reports by model / type / architecture (output/)
+  meister_report.py       replay vs free run, Meister et al. 2025 Eq. 1, forest plot (output/)
   paper_figures.py        ACL figure export: printed-size SVG -> vector PDF, captions, LaTeX snippets
   results_catalog.json    which results.csv is which (architecture, design, model) for the two above
 ```

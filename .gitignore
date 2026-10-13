@@ -15,7 +15,7 @@ __pycache__/
 
 # cheap, instantly-regenerated build output -- never worth committing, would just drift
 # report/alignment_reports.py + report/meister_report.py output (HTML, .tex, figures/)
-reports/
+output/
 # stats/step6_paired.py
 FINAL_replay.csv
 # generation/step1_calibration.py

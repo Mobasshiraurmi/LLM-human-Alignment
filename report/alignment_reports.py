@@ -28,7 +28,7 @@ CATALOG (report/results_catalog.json)
       design:       replay | freerun
       model:        gpt-5.4 | claude-sonnet-4.6 | gemini-2.5-pro
 
-BUILD  (-> reports/<style>_by_<kind>.html and .tex)
+BUILD  (-> output/<style>_by_<kind>.html and .tex)
     python3 report/alignment_reports.py build                          # both styles, all three kinds
     python3 report/alignment_reports.py build --style gao --by type --open
     python3 report/alignment_reports.py build --style kwon --by architecture
@@ -58,7 +58,7 @@ import llm_backends as lb
 
 CATALOG = os.path.join(HERE, "results_catalog.json")
 HUMAN_CSV = "data/human_data.csv"             # relative to ROOT, as step5_replay.HUMAN_CSV
-OUT_DIR = os.path.join(ROOT, "reports")
+OUT_DIR = os.path.join(ROOT, "output")
 NEEDED = {"GameId", "Sender", "Text", "Phase", "pred_behavior"}
 
 ARCH_ORDER = ["single-baseline", "single-personality", "single-RAG", "two-agent", "debate"]

@@ -10,7 +10,7 @@
     python3 run_pipeline.py --full --smoke --combo single gpt-5.4 freerun    # a handful of dyads, cheap
     python3 run_pipeline.py --full --combo single_rag gpt-5.4 replay         # RAG architecture
 
-Default mode builds the paper's reports into reports/, from the results.csv files listed in
+Default mode builds the paper's reports into output/, from the results.csv files listed in
 report/results_catalog.json (24 rows: single, single_personality, single_rag, multi ×
 GPT-5.4 / Claude Sonnet 4.6 / Gemini 2.5 Pro × replay / free run):
 
@@ -18,7 +18,7 @@ GPT-5.4 / Claude Sonnet 4.6 / Gemini 2.5 Pro × replay / free run):
                                 divergence (gao_by_*), each by model / type / architecture
   report/meister_report.py      replay vs free run (Meister et al. 2025, Eq. 1)
 
-with every figure as vector PDF + SVG in reports/figures/ (PDF export needs Google Chrome;
+with every figure as vector PDF + SVG in output/figures/ (PDF export needs Google Chrome;
 without it only the SVGs are written).
 
 --full instead rebuilds a combo's data from scratch: step5_replay.py/step2_generate.py --run,
